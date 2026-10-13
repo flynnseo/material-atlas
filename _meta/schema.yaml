@@ -1,0 +1,45 @@
+# 카드 타입별 필드 정의. build.py가 이 파일로 검사한다.
+# required: 비어 있으면 빌드 실패 / optional: 있으면 형식만 검사
+# 태그형 필드(tag_fields)는 _meta/vocab.yaml 의 같은 이름 축에 있는 값만 허용(경고)
+
+types:
+  material:
+    folder: materials
+    id_prefix: MTL-
+    required: [id, name_ko, family, confidence, status, updated]
+    optional: [name_en, aliases, subfamily, form, properties, look, processes, uses,
+               finishes, cases, combos, novelty, cost_tier, lead_time, suppliers_kr,
+               hands_on, sources, sample]
+  finish:
+    folder: finishes
+    id_prefix: FIN-
+    required: [id, name_ko, confidence, status, updated]
+    optional: [name_en, aliases, applies_to, look, processes, variant_of, cost_tier,
+               lead_time, suppliers_kr, hands_on, sources, sample]
+  case:
+    folder: cases
+    id_prefix: CASE-
+    required: [id, name_ko, brand, materials, confidence, status, updated]
+    optional: [name_en, aliases, location, year, designer, finishes, uses, look, sources]
+  lab:
+    folder: lab
+    id_prefix: LAB-
+    required: [id, name_ko, date, materials, verdict, updated]
+    optional: [finish, tools, params, result, next, look]
+
+tag_fields:
+  family: family
+  subfamily: subfamily
+  look: look
+  processes: processes
+  uses: uses
+  form: form
+
+# 다른 카드 id를 가리키는 필드 → 링크/백링크로 자동 연결
+link_fields: [finishes, cases, materials, finish, variant_of, combos, applies_to]
+
+enums:
+  confidence: [A, B, C]
+  status: [draft, verified, deep]
+  verdict: [ok, partial, fail]
+  novelty: [standard, emerging]

@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Material Atlas</title>
+<style>
+:root{
+  --bg:#f4f2ee;--panel:#fbfaf7;--ink:#1d1c1a;--mute:#6f6b64;--line:#dcd7cf;--soft:#ebe7e0;
+  --acc:#c2410c;--acc-soft:#fbe6da;--ok:#3f7d4e;--warn:#a16207;--bad:#b42318;
+  --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  --sans:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#151413;--panel:#1d1c1a;--ink:#ece8e1;--mute:#9a958c;--line:#34312d;--soft:#26241f;
+  --acc:#fb923c;--acc-soft:#3a2416;--ok:#7fc591;--warn:#e0b44c;--bad:#f2867a;}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 var(--sans)}
+a{color:var(--acc)}
+header{padding:20px 20px 8px;max-width:1280px;margin:0 auto}
+.brand{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+.brand h1{font:700 15px/1 var(--mono);letter-spacing:.18em;margin:0}
+.brand span{color:var(--mute);font:12px var(--mono)}
+.sbox{position:relative;margin:14px 0 10px}
+#q{width:100%;padding:16px 18px 16px 46px;font:500 19px var(--sans);color:var(--ink);background:var(--panel);
+  border:1.5px solid var(--line);border-radius:12px;outline:none}
+#q:focus{border-color:var(--acc)}
+.sbox svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);color:var(--mute)}
+.kbd{position:absolute;right:14px;top:50%;transform:translateY(-50%);font:12px var(--mono);color:var(--mute);
+  border:1px solid var(--line);border-radius:5px;padding:2px 6px}
+.understood{min-height:22px;font-size:13px;color:var(--mute)}
+.understood b{color:var(--ink);font-weight:600}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:6px}
+.chip{border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;padding:4px 11px;
+  font:13px var(--sans);cursor:pointer}
+.chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .n{color:var(--mute);margin-left:4px;font-size:11px}
+.chip.on .n{color:inherit;opacity:.7}
+main{max-width:1280px;margin:0 auto;padding:6px 20px 40px;display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:20px}
+.col h2{font:600 11px var(--mono);letter-spacing:.14em;color:var(--mute);margin:14px 2px 8px;text-transform:uppercase}
+.list{display:flex;flex-direction:column;gap:6px}
+.item{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:center;padding:10px 12px;border-radius:10px;
+  background:var(--panel);border:1px solid var(--line);cursor:pointer;text-align:left;color:var(--ink);font:inherit;width:100%}
+.item:hover,.item.sel{border-color:var(--acc)}
+.item.sel{box-shadow:inset 3px 0 0 var(--acc)}
+.item .nm{font-weight:600}
+.item .sub{font-size:12px;color:var(--mute);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.why{font:11px var(--mono);color:var(--acc)}
+.bar{width:38px;height:4px;background:var(--soft);border-radius:2px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--acc)}
+.tbadge{font:600 10px var(--mono);letter-spacing:.08em;padding:3px 6px;border-radius:5px;background:var(--soft);color:var(--mute);min-width:34px;text-align:center}
+.t-material{color:#1d4ed8}.t-finish{color:#7c3aed}.t-case{color:#0f766e}.t-lab{color:#b45309}
+@media (prefers-color-scheme:dark){.t-material{color:#93b4ff}.t-finish{color:#c4a5ff}.t-case{color:#5fd4c3}.t-lab{color:#f5b971}}
+.rel .item{background:transparent;border-style:dashed}
+.empty{color:var(--mute);padding:20px 4px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
+.grid .item{grid-template-columns:1fr;align-items:start}
+.detail{position:sticky;top:12px;align-self:start;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px;min-height:320px;max-height:calc(100vh - 24px);overflow:auto}
+.detail h3{font-size:24px;margin:6px 0 0;line-height:1.25}
+.detail .en{color:var(--mute);margin-bottom:10px}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 14px}
+.b{font:600 11px var(--mono);padding:3px 8px;border-radius:6px;border:1px solid var(--line)}
+.b.A{color:var(--ok)}.b.B{color:var(--warn)}.b.C{color:var(--bad)}
+.b.hand{background:var(--acc-soft);color:var(--acc);border-color:transparent}
+.kv{display:grid;grid-template-columns:120px 1fr;gap:4px 12px;font-size:13px;margin:10px 0 16px}
+.kv dt{color:var(--mute)} .kv dd{margin:0}
+.tagrow{display:flex;gap:5px;flex-wrap:wrap}
+.tag{font-size:12px;padding:2px 8px;border-radius:999px;background:var(--soft);border:0;color:var(--ink);cursor:pointer}
+.tag:hover{background:var(--acc-soft);color:var(--acc)}
+.conn{display:grid;gap:12px;margin:16px 0;padding:14px;border-radius:10px;background:var(--soft)}
+.conn h4{margin:0 0 6px;font:600 11px var(--mono);letter-spacing:.12em;color:var(--mute)}
+.lk{display:inline-flex;gap:6px;align-items:center;margin:0 6px 6px 0;padding:4px 10px;border-radius:8px;background:var(--panel);
+  border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:13px}
+.lk:hover{border-color:var(--acc)}
+.body h3,.body h4{font-size:15px;margin:18px 0 6px}
+.body p,.body li{font-size:14px}
+.body .tr{display:flex;gap:10px;font-size:13px;border-bottom:1px solid var(--line);padding:4px 0}
+.body .tr span{flex:1}
+.body code{font:12px var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
+.foot{font:11px var(--mono);color:var(--mute);margin-top:18px;word-break:break-all}
+.back{display:none}
+@media (max-width:860px){
+  main{grid-template-columns:1fr}
+  .detail{position:fixed;inset:0;border-radius:0;max-height:none;z-index:5;display:none}
+  .detail.open{display:block}
+  .back{display:inline-block;margin-bottom:8px}
+  .kbd{display:none}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand"><h1>MATERIAL ATLAS</h1><span id="meta"></span></div>
+  <div class="sbox">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" autocomplete="off" spellcheck="false" placeholder="아무렇게나: 스뎅, 무광 금속, ㅇㄹㅁㄴ, 골드 코팅…">
+    <span class="kbd">/</span>
+  </div>
+  <div class="understood" id="und"></div>
+  <div class="chips" id="types"></div>
+  <div class="chips" id="fams"></div>
+</header>
+<main>
+  <section class="col" id="left"></section>
+  <aside class="detail" id="detail"><div class="empty">왼쪽에서 카드를 고르면 여기 열린다. 태그나 연결 칩을 누르면 바로 따라간다.</div></aside>
+</main>
+<script>/*__SEARCH_JS__*/</script>
+<script>
+(function(){
+'use strict';
+var DATA=/*__DATA__*/null;
+var S=window.AtlasSearch, IDX=S.buildIndex(DATA);
+var TYPES={material:'소재',finish:'마감',case:'사례',lab:'실험'};
+var TB={material:'MTL',finish:'FIN',case:'CASE',lab:'LAB'};
+var state={type:null,fam:null,sel:null,cursor:-1,list:[]};
+var $=function(id){return document.getElementById(id)};
+var q=$('q');
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function label(tag){return IDX.tagLabels[tag]||tag}
+function doc(id){return IDX.byId[id]}
+
+$('meta').textContent=DATA.docs.length+'장 · 빌드 '+DATA.built;
+
+function chipsTypes(){
+  var c={};DATA.docs.forEach(function(d){c[d.type]=(c[d.type]||0)+1});
+  var h='<button class="chip'+(!state.type?' on':'')+'" data-t="">전체<span class="n">'+DATA.docs.length+'</span></button>';
+  Object.keys(TYPES).forEach(function(t){if(c[t])h+='<button class="chip'+(state.type===t?' on':'')+'" data-t="'+t+'">'+TYPES[t]+'<span class="n">'+c[t]+'</span></button>'});
+  $('types').innerHTML=h;
+}
+function chipsFams(){
+  var c={};DATA.docs.forEach(function(d){if(d.family)c[d.family]=(c[d.family]||0)+1});
+  var h='';Object.keys(c).sort().forEach(function(f){h+='<button class="chip'+(state.fam===f?' on':'')+'" data-f="'+f+'">'+esc(label(f))+'<span class="n">'+c[f]+'</span></button>'});
+  $('fams').innerHTML=h;
+}
+$('types').onclick=function(e){var b=e.target.closest('[data-t]');if(!b)return;state.type=b.dataset.t||null;chipsTypes();run()};
+$('fams').onclick=function(e){var b=e.target.closest('[data-f]');if(!b)return;state.fam=state.fam===b.dataset.f?null:b.dataset.f;chipsFams();run()};
+
+function itemHTML(id,score,why,i){
+  var d=doc(id);if(!d)return'';
+  var sub=[d.name_en,(d.aliases||[]).slice(0,3).join(', ')].filter(Boolean).join(' · ');
+  return '<button class="item'+(state.sel===id?' sel':'')+'" data-id="'+id+'" data-i="'+(i==null?'':i)+'">'+
+    '<span class="tbadge t-'+d.type+'">'+TB[d.type]+'</span>'+
+    '<span style="min-width:0"><div class="nm">'+esc(d.name_ko)+'</div><div class="sub">'+esc(sub)+'</div>'+
+    (why?'<div class="why">'+esc(why)+'</div>':'')+'</span>'+
+    (score!=null?'<span class="bar"><i style="width:'+Math.min(100,Math.round(score*100))+'%"></i></span>':'<span></span>')+
+  '</button>';
+}
+
+function famOk(d){return !state.fam||d.family===state.fam||(d.tags||[]).indexOf(state.fam)>=0}
+
+function run(){
+  var text=q.value.trim(), h='', und='';
+  state.list=[];state.cursor=-1;
+  if(!text){
+    var docs=DATA.docs.filter(function(d){return(!state.type||d.type===state.type)&&famOk(d)});
+    h='<h2>전체 '+docs.length+'</h2><div class="grid">';
+    docs.sort(function(a,b){return(a.type+a.family+a.name_ko).localeCompare(b.type+b.family+b.name_ko)}).forEach(function(d){h+=itemHTML(d.id)});
+    h+='</div>';
+  }else{
+    var r=S.search(IDX,text,{types:state.type?[state.type]:null,limit:40});
+    var hits=r.hits.filter(function(x){return famOk(doc(x.id))});
+    var exp=[];r.tokens.forEach(function(t){if(t.exp.length)exp.push('<b>'+esc(t.raw)+'</b> → '+t.exp.slice(0,4).map(function(x){return esc(label(x))+'('+esc(x)+')'}).join(', '))});
+    und=exp.length?'이렇게 알아들었어: '+exp.join(' · '):'';
+    if(hits.length){
+      h+='<h2>찾은 것 '+hits.length+'</h2><div class="list">';
+      hits.forEach(function(x){state.list.push(x.id);h+=itemHTML(x.id,x.score,x.why.join(' · '),state.list.length-1)});
+      h+='</div>';
+    }else{
+      h+='<div class="empty">직접 맞는 카드가 없어.'+(r.suggest?' 혹시 <a href="#'+r.suggest.id+'">'+esc(r.suggest.label)+'</a>?':'')+'</div>';
+    }
+    var rel=r.related.filter(function(x){return famOk(doc(x.id))});
+    if(rel.length){
+      h+='<h2>연결된 자료 '+rel.length+'</h2><div class="list rel">';
+      rel.forEach(function(x){state.list.push(x.id);h+=itemHTML(x.id,x.score,x.via,state.list.length-1)});
+      h+='</div>';
+    }
+  }
+  $('left').innerHTML=h;$('und').innerHTML=und;
+}
+
+function linkChips(ids){return ids.map(function(id){var d=doc(id);if(!d)return'';return '<a class="lk" href="#'+id+'"><span class="tbadge t-'+d.type+'">'+TB[d.type]+'</span>'+esc(d.name_ko)+'</a>'}).join('')}
+
+function show(id){
+  var d=doc(id),el=$('detail');if(!d)return;
+  state.sel=id;
+  document.querySelectorAll('.item').forEach(function(b){b.classList.toggle('sel',b.dataset.id===id)});
+  var kv='';
+  var p=d.props||{};
+  Object.keys(p).forEach(function(k){kv+='<dt>'+esc(k)+'</dt><dd>'+esc(p[k])+'</dd>'});
+  if(d.cost_tier)kv+='<dt>단가 등급</dt><dd>'+'●'.repeat(d.cost_tier)+'○'.repeat(Math.max(0,5-d.cost_tier))+'</dd>';
+  if(d.lead_time)kv+='<dt>리드타임</dt><dd>'+esc(d.lead_time)+'</dd>';
+  if(d.brand)kv+='<dt>브랜드</dt><dd>'+esc(d.brand)+'</dd>';
+  var tags=(d.tags||[]).map(function(t){return '<button class="tag" data-tag="'+esc(label(t))+'">'+esc(label(t))+'</button>'}).join('');
+  var conn='';
+  if(d.links.length)conn+='<div><h4>이 카드가 가리키는 것</h4>'+linkChips(d.links)+'</div>';
+  if(d.backlinks.length)conn+='<div><h4>이 카드를 가리키는 것</h4>'+linkChips(d.backlinks)+'</div>';
+  if(d.related.length)conn+='<div><h4>비슷한 것 (태그 기준)</h4>'+linkChips(d.related)+'</div>';
+  var src=(d.sources||[]).map(function(s){return /^https?:/.test(s)?'<a href="'+esc(s)+'" target="_blank" rel="noopener">'+esc(s)+'</a>':esc(s)}).join('<br>');
+  el.innerHTML='<button class="chip back" id="back">← 목록</button>'+
+    '<span class="tbadge t-'+d.type+'">'+TYPES[d.type]+'</span> <span class="why">'+esc(d.id)+'</span>'+
+    '<h3>'+esc(d.name_ko)+'</h3><div class="en">'+esc(d.name_en)+(d.aliases.length?' · '+esc(d.aliases.join(', ')):'')+'</div>'+
+    '<div class="badges">'+(d.confidence?'<span class="b '+d.confidence+'">신뢰 '+d.confidence+'</span>':'')+(d.status?'<span class="b">'+esc(d.status)+'</span>':'')+
+      (d.hands_on?'<span class="b hand">직접 해봄</span>':'')+(d.sample?'<span class="b">예시카드</span>':'')+'</div>'+
+    (kv?'<dl class="kv">'+kv+'</dl>':'')+
+    (tags?'<div class="tagrow">'+tags+'</div>':'')+
+    (conn?'<div class="conn">'+conn+'</div>':'')+
+    '<div class="body">'+d.html+'</div>'+
+    '<div class="foot">'+(src?'출처<br>'+src+'<br><br>':'')+esc(d.path)+' · '+esc(d.updated)+'</div>';
+  el.classList.add('open');el.scrollTop=0;
+  var bk=$('back');if(bk)bk.onclick=function(){el.classList.remove('open');history.replaceState(null,'',location.pathname+location.search)};
+}
+$('detail').addEventListener('click',function(e){var t=e.target.closest('[data-tag]');if(!t)return;q.value=t.dataset.tag;run();q.focus()});
+$('left').addEventListener('click',function(e){var b=e.target.closest('.item');if(!b)return;location.hash=b.dataset.id});
+window.addEventListener('hashchange',function(){var id=decodeURIComponent(location.hash.slice(1));if(id)show(id)});
+
+var t0;q.addEventListener('input',function(){clearTimeout(t0);t0=setTimeout(run,60)});
+document.addEventListener('keydown',function(e){
+  if(e.key==='/'&&document.activeElement!==q){e.preventDefault();q.focus();q.select();return}
+  if(document.activeElement!==q)return;
+  if(e.key==='ArrowDown'||e.key==='ArrowUp'){
+    if(!state.list.length)return;e.preventDefault();
+    state.cursor=(state.cursor+(e.key==='ArrowDown'?1:-1)+state.list.length)%state.list.length;
+    show(state.list[state.cursor]);
+    var b=document.querySelector('.item[data-i="'+state.cursor+'"]');if(b)b.scrollIntoView({block:'nearest'});
+  }
+  if(e.key==='Enter'&&state.list.length){location.hash=state.list[Math.max(0,state.cursor)]}
+  if(e.key==='Escape'){q.value='';run()}
+});
+
+chipsTypes();chipsFams();run();
+if(location.hash.length>1)show(decodeURIComponent(location.hash.slice(1)));
+})();
+</script>
+</body>
+</html>
