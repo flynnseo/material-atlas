@@ -2,20 +2,30 @@
 id: FIN-ANODIZE
 name_ko: 아노다이징
 name_en: Anodizing
-aliases: [양극산화, 알루마이트, 아노다이즈, 아노다이징 착색, 컬러 아노다이징]
+aliases: [양극산화, 알루마이트, 아노다이즈, 아노다이징 착색, 컬러 아노다이징, anodising, anodize, 아노다이징 처리, 아로다이징, 하드 아노다이징, 경질 아노다이징, MIL-A-8625, MIL-PRF-8625, Type II, Type III, 염색 아노다이징, 블랙 아노다이징]
 applies_to: [aluminium, MTL-AL-6061, titanium]
 look: [matte, metallic]
 processes: []
 cost_tier: 2
-confidence: C
-status: draft
+confidence: B
+status: verified
 hands_on: false
-sources: []
-sample: true
+sources:
+  - https://www.anodizing.org/page/military-spec-anodic-coatings
+  - https://en.wikipedia.org/wiki/Anodizing
 updated: 2026-10-13
 ---
 ## 한 줄 정의
-알루미늄 표면에 산화피막을 키워 내식성과 색을 주는 전기화학 마감.
+알루미늄을 양극으로 전해해 표면에 산화피막을 키우는 전기화학 마감. 도장이 아니라 소재 자체가 피막이 된다 → 내식성·내마모·색.
+
+## 공정
+- 규격: MIL-A-8625 (현 MIL-PRF-8625). Type I 크롬산(약 0.5~18 µm, 염색 어려움) / **Type II 황산(약 1.8~25 µm, 일반·장식, 염색 가능)** / Type III 경질 황산(25 µm 이상, 저온·고전압).
+- Class 1 무염색 / Class 2 염색. 색은 피막의 미세 기공 안에 들어가고 봉공(sealing)으로 가둔다.
+- 피막은 안팎으로 반씩 자람 → 면당 피막 두께의 절반만큼 커짐. 나사·정밀 끼움부는 가공 단계에서 반영. 끓는 물 봉공은 내마모를 약 20% 떨어뜨림.
+
+## 주의점
+- 유기 염료는 내광성이 약함(특히 레드·블루). 무기 방식 블랙·골드가 더 오래감 → 야외 컬러는 업체에 내광성 확인.
+- 색은 합금 조성에 민감 → 한 집기 안에선 같은 합금·같은 로트로. 고실리콘 주물·2000계는 밝은 색이 어려움.
 
 ## 변형
 - 하드 아노다이징, 염색 아노다이징, 부분 마스킹 → 각각 변형 카드로 (`variant_of: FIN-ANODIZE`)

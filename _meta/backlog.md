@@ -10,6 +10,7 @@ Claude Code `/batch <소재군>` 이 위에서부터 가져가서 draft 카드�
 - [ ] 연강(SS400) | metal | 
 - [ ] 코르텐강(내후성강) | metal | 
 - [ ] 타공판 / 익스팬디드 메탈 | metal | 
+- [ ] 크롬 도금 (FIN-CHROME) | finish | CASE-ADER-SEONGSU "chrome"
 
 ## polymer
 - [ ] 폴리카보네이트 | polymer | 
@@ -21,13 +22,16 @@ Claude Code `/batch <소재군>` 이 위에서부터 가져가서 draft 카드�
 - [ ] 트래버틴 | stone | 
 - [ ] 테라조 | stone | 
 - [ ] 마이크로시멘트 | stone | 
+- [ ] 콘크리트 / 노출콘크리트 (MTL-ST-CONCRETE) | stone | CASE-GM-HAUS-DOSAN
 
 ## glass
 - [ ] 저철분 유리 | glass | 
 - [ ] 디크로익 필름/유리 | glass | 
+- [ ] 일반 판유리 (MTL-GL-GLASS) | glass | CASE-ADER-SEONGSU, CASE-GM-HAUS-DOSAN 격자 유리 지붕
 
 ## wood
 - [ ] 자작합판 | wood | 
 - [ ] 코르크 | wood | 
+- [ ] 목재 마루 (MTL-WD-TIMBER) | wood | CASE-GM-HAUS-DOSAN 어두운 목재 바닥
 
 ## (Obsidian 기술소재 위키 이관분 — 여기 붙여넣기)
