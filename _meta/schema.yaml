@@ -9,13 +9,15 @@ types:
     required: [id, name_ko, family, confidence, status, updated]
     optional: [name_en, aliases, subfamily, form, properties, look, processes, uses,
                finishes, cases, combos, novelty, cost_tier, lead_time, suppliers_kr,
-               hands_on, sources, sample]
+               hands_on, sources, sample,
+               maturity, availability_kr, why_space, kinetic_fit, discovered_via]
   finish:
     folder: finishes
     id_prefix: FIN-
     required: [id, name_ko, confidence, status, updated]
     optional: [name_en, aliases, applies_to, look, processes, variant_of, cost_tier,
-               lead_time, suppliers_kr, hands_on, sources, sample]
+               lead_time, suppliers_kr, hands_on, sources, sample,
+               novelty, maturity, availability_kr, why_space, kinetic_fit, discovered_via]
   case:
     folder: cases
     id_prefix: CASE-
@@ -34,6 +36,8 @@ tag_fields:
   processes: processes
   uses: uses
   form: form
+  maturity: maturity
+  availability_kr: availability_kr
 
 # 다른 카드 id를 가리키는 필드 → 링크/백링크로 자동 연결
 link_fields: [finishes, cases, materials, finish, variant_of, combos, applies_to]
@@ -43,3 +47,5 @@ enums:
   status: [draft, verified, deep]
   verdict: [ok, partial, fail]
   novelty: [standard, emerging]
+  maturity: [lab, prototype, commercial, mainstream]          # 상용화 단계
+  availability_kr: [none, import, distributor, local]         # 국내 수급

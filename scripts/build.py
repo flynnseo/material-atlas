@@ -145,7 +145,8 @@ def validate(cards, schema, vocab):
 
 
 def audit(cards):
-    rep = {"C등급(검증 필요)": [], "출처 없음": [], "draft": [], "사례 없음(소재)": [], "hands_on": []}
+    rep = {"C등급(검증 필요)": [], "출처 없음": [], "draft": [], "사례 없음(소재)": [], "hands_on": [],
+           "신소재 레이더 미기입(maturity/availability_kr)": []}
     for c in cards:
         cid = c.get("id")
         if c.get("confidence") == "C":
@@ -158,6 +159,8 @@ def audit(cards):
             rep["사례 없음(소재)"].append(cid)
         if c.get("hands_on"):
             rep["hands_on"].append(cid)
+        if c.get("novelty") == "emerging" and not (c.get("maturity") and c.get("availability_kr")):
+            rep["신소재 레이더 미기입(maturity/availability_kr)"].append(cid)
     return rep
 
 
@@ -208,6 +211,12 @@ def build_index(cards, schema, vocab):
             "status": c.get("status", ""),
             "hands_on": bool(c.get("hands_on")),
             "sample": bool(c.get("sample")),
+            "novelty": c.get("novelty", "") or "",
+            "maturity": c.get("maturity", "") or "",
+            "availability_kr": c.get("availability_kr", "") or "",
+            "why_space": c.get("why_space", "") or "",
+            "kinetic_fit": c.get("kinetic_fit", "") or "",
+            "discovered_via": c.get("discovered_via", "") or "",
             "cost_tier": c.get("cost_tier"),
             "lead_time": c.get("lead_time", ""),
             "props": props if isinstance(props, dict) else {},

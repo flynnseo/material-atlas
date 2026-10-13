@@ -5,7 +5,7 @@
 
 ## 구조
 - `materials/<family>/MTL-*.md` 소재 · `finishes/FIN-*.md` 마감 · `cases/CASE-*.md` 사례 · `lab/LAB-*.md` 직접 실험
-- `materials/_new/` 분류가 애매한 신소재 (`novelty: emerging`)
+- `materials/_new/` 분류가 애매한 신소재 (`novelty: emerging`). 신소재는 `maturity`·`availability_kr`(확인된 것만, 모르면 비움)·`why_space`·`kinetic_fit`·`discovered_via` 를 채운다 → 화면 RADAR 탭
 - `_meta/schema.yaml` 필드 정의 · `_meta/vocab.yaml` 통제 태그+동의어 · `_meta/backlog.md` 조사 대기열 · `_meta/search_tests.json` 검색 회귀 테스트
 - `_templates/` 카드 템플릿 · `scripts/build.py` 검사·빌드 · `scripts/search.js` 검색 엔진 · `scripts/atlas_template.html` 화면
 - `site/` 는 빌드 결과물(커밋 안 함). GitHub Actions가 push마다 빌드해서 Pages로 배포.

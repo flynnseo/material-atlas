@@ -15,6 +15,11 @@ finishes: []           # FIN-* id
 cases: []              # CASE-* id
 combos: []
 novelty: standard      # standard / emerging
+maturity:              # lab / prototype / commercial / mainstream  (확인된 것만)
+availability_kr:       # none / import / distributor / local        (확인된 것만)
+why_space: ""          # 공간·집기·오브제에 왜 흥미로운지 한 줄
+kinetic_fit: ""        # 움직이는 오브제·키네틱에 쓸 만한 점 (없으면 비움)
+discovered_via: ""     # 처음 발견한 출처 URL
 cost_tier:             # 1~5
 lead_time: ""
 suppliers_kr: []

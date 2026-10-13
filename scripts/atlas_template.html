@@ -79,6 +79,18 @@ main{max-width:1280px;margin:0 auto;padding:6px 20px 40px;display:grid;grid-temp
 .body code{font:12px var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
 .foot{font:11px var(--mono);color:var(--mute);margin-top:18px;word-break:break-all}
 .back{display:none}
+.chips .lbl{font:11px var(--mono);color:var(--mute);align-self:center;margin-right:2px}
+.chip.radar{font:600 12px var(--mono);letter-spacing:.12em}
+.radar-wrap{overflow-x:auto}
+.radar-g{display:grid;grid-template-columns:96px repeat(5,minmax(130px,1fr));gap:4px;min-width:720px}
+.radar-g .hd{font:600 11px var(--mono);color:var(--mute);padding:6px 4px;text-align:center}
+.radar-g .rh{font:600 11px var(--mono);color:var(--mute);padding:8px 4px;display:flex;align-items:center}
+.radar-g .cell{background:var(--soft);border-radius:8px;padding:4px;display:flex;flex-direction:column;gap:4px;min-height:54px}
+.radar-g .cell .item{grid-template-columns:1fr;padding:6px 8px;font-size:13px}
+.radar-g .cell .item .sub{display:none}
+.radar-note{font-size:12px;color:var(--mute);margin:6px 2px 10px}
+.why-space{margin:4px 0 12px;padding:10px 12px;border-left:3px solid var(--acc);background:var(--soft);border-radius:0 8px 8px 0;font-size:14px}
+@media (max-width:860px){.radar-g{min-width:640px}}
 @media (max-width:860px){
   main{grid-template-columns:1fr}
   .detail{position:fixed;inset:0;border-radius:0;max-height:none;z-index:5;display:none}
@@ -99,6 +111,7 @@ main{max-width:1280px;margin:0 auto;padding:6px 20px 40px;display:grid;grid-temp
   <div class="understood" id="und"></div>
   <div class="chips" id="types"></div>
   <div class="chips" id="fams"></div>
+  <div class="chips" id="radarf"></div>
 </header>
 <main>
   <section class="col" id="left"></section>
@@ -112,7 +125,10 @@ var DATA=/*__DATA__*/null;
 var S=window.AtlasSearch, IDX=S.buildIndex(DATA);
 var TYPES={material:'소재',finish:'마감',case:'사례',lab:'실험'};
 var TB={material:'MTL',finish:'FIN',case:'CASE',lab:'LAB'};
-var state={type:null,fam:null,sel:null,cursor:-1,list:[]};
+var state={type:null,fam:null,mat:null,avail:null,view:'list',sel:null,cursor:-1,list:[]};
+var MAT=['lab','prototype','commercial','mainstream'],AV=['local','distributor','import','none'];
+var MATL={lab:'연구',prototype:'시제품',commercial:'상용',mainstream:'보편'};
+var AVL={local:'국내생산',distributor:'국내유통',import:'수입',none:'국내없음'};
 var $=function(id){return document.getElementById(id)};
 var q=$('q');
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
@@ -125,14 +141,31 @@ function chipsTypes(){
   var c={};DATA.docs.forEach(function(d){c[d.type]=(c[d.type]||0)+1});
   var h='<button class="chip'+(!state.type?' on':'')+'" data-t="">전체<span class="n">'+DATA.docs.length+'</span></button>';
   Object.keys(TYPES).forEach(function(t){if(c[t])h+='<button class="chip'+(state.type===t?' on':'')+'" data-t="'+t+'">'+TYPES[t]+'<span class="n">'+c[t]+'</span></button>'});
+  var em=DATA.docs.filter(function(d){return d.novelty==='emerging'}).length;
+  h+='<button class="chip radar'+(state.view==='radar'?' on':'')+'" data-v="radar">RADAR<span class="n">'+em+'</span></button>';
   $('types').innerHTML=h;
+}
+function chipsRadar(){
+  var cm={},ca={};DATA.docs.forEach(function(d){if(d.maturity)cm[d.maturity]=(cm[d.maturity]||0)+1;if(d.availability_kr)ca[d.availability_kr]=(ca[d.availability_kr]||0)+1});
+  var h='';
+  if(Object.keys(cm).length){h+='<span class="lbl">단계</span>';MAT.forEach(function(m){if(cm[m])h+='<button class="chip'+(state.mat===m?' on':'')+'" data-m="'+m+'">'+MATL[m]+'<span class="n">'+cm[m]+'</span></button>'})}
+  if(Object.keys(ca).length){h+='<span class="lbl">&nbsp;수급</span>';AV.forEach(function(a){if(ca[a])h+='<button class="chip'+(state.avail===a?' on':'')+'" data-a="'+a+'">'+AVL[a]+'<span class="n">'+ca[a]+'</span></button>'})}
+  $('radarf').innerHTML=h;
 }
 function chipsFams(){
   var c={};DATA.docs.forEach(function(d){if(d.family)c[d.family]=(c[d.family]||0)+1});
   var h='';Object.keys(c).sort().forEach(function(f){h+='<button class="chip'+(state.fam===f?' on':'')+'" data-f="'+f+'">'+esc(label(f))+'<span class="n">'+c[f]+'</span></button>'});
   $('fams').innerHTML=h;
 }
-$('types').onclick=function(e){var b=e.target.closest('[data-t]');if(!b)return;state.type=b.dataset.t||null;chipsTypes();run()};
+$('types').onclick=function(e){
+  var v=e.target.closest('[data-v]');
+  if(v){state.view=state.view==='radar'?'list':'radar';chipsTypes();run();return}
+  var b=e.target.closest('[data-t]');if(!b)return;state.type=b.dataset.t||null;state.view='list';chipsTypes();run()};
+$('radarf').onclick=function(e){
+  var m=e.target.closest('[data-m]'),a=e.target.closest('[data-a]');
+  if(m)state.mat=state.mat===m.dataset.m?null:m.dataset.m;
+  if(a)state.avail=state.avail===a.dataset.a?null:a.dataset.a;
+  if(m||a){chipsRadar();run()}};
 $('fams').onclick=function(e){var b=e.target.closest('[data-f]');if(!b)return;state.fam=state.fam===b.dataset.f?null:b.dataset.f;chipsFams();run()};
 
 function itemHTML(id,score,why,i){
@@ -146,11 +179,34 @@ function itemHTML(id,score,why,i){
   '</button>';
 }
 
-function famOk(d){return !state.fam||d.family===state.fam||(d.tags||[]).indexOf(state.fam)>=0}
+function famOk(d){return (!state.fam||d.family===state.fam||(d.tags||[]).indexOf(state.fam)>=0)&&
+  (!state.mat||d.maturity===state.mat)&&(!state.avail||d.availability_kr===state.avail)}
+function radarHTML(ids){
+  var docs=ids.map(doc).filter(function(d){return d&&d.novelty==='emerging'&&famOk(d)});
+  var cols=MAT.concat(['']),rows=AV.concat(['']);
+  var h='<h2>RADAR · 신소재 '+docs.length+'</h2><div class="radar-note">가로 = 상용화 단계, 세로 = 국내 수급. 확인 안 된 값은 "미상" 줄·칸.</div><div class="radar-wrap"><div class="radar-g"><div></div>';
+  cols.forEach(function(c){h+='<div class="hd">'+(c?MATL[c]:'단계 미상')+'</div>'});
+  rows.forEach(function(r){
+    h+='<div class="rh">'+(r?AVL[r]:'수급 미상')+'</div>';
+    cols.forEach(function(c){
+      h+='<div class="cell">';
+      docs.forEach(function(d){if((d.maturity||'')===c&&(d.availability_kr||'')===r){state.list.push(d.id);h+=itemHTML(d.id,null,'',state.list.length-1)}});
+      h+='</div>';
+    });
+  });
+  return h+'</div></div>';
+}
 
 function run(){
   var text=q.value.trim(), h='', und='';
   state.list=[];state.cursor=-1;
+  if(state.view==='radar'){
+    var ids=text?S.search(IDX,text,{limit:200}).hits.map(function(x){return x.id}):DATA.docs.map(function(d){return d.id});
+    $('left').innerHTML=radarHTML(ids);$('und').innerHTML=text?'RADAR 안에서 "'+esc(text)+'" 검색 중':'';
+    document.querySelector('main').style.gridTemplateColumns=window.innerWidth>860?'minmax(0,7fr) minmax(0,5fr)':'';
+    return;
+  }
+  document.querySelector('main').style.gridTemplateColumns='';
   if(!text){
     var docs=DATA.docs.filter(function(d){return(!state.type||d.type===state.type)&&famOk(d)});
     h='<h2>전체 '+docs.length+'</h2><div class="grid">';
@@ -190,6 +246,10 @@ function show(id){
   if(d.cost_tier)kv+='<dt>단가 등급</dt><dd>'+'●'.repeat(d.cost_tier)+'○'.repeat(Math.max(0,5-d.cost_tier))+'</dd>';
   if(d.lead_time)kv+='<dt>리드타임</dt><dd>'+esc(d.lead_time)+'</dd>';
   if(d.brand)kv+='<dt>브랜드</dt><dd>'+esc(d.brand)+'</dd>';
+  if(d.maturity)kv+='<dt>상용화 단계</dt><dd>'+esc(MATL[d.maturity]||d.maturity)+'</dd>';
+  if(d.availability_kr)kv+='<dt>국내 수급</dt><dd>'+esc(AVL[d.availability_kr]||d.availability_kr)+'</dd>';
+  if(d.kinetic_fit)kv+='<dt>키네틱 적합</dt><dd>'+esc(d.kinetic_fit)+'</dd>';
+  if(d.discovered_via)kv+='<dt>발견</dt><dd><a href="'+esc(d.discovered_via)+'" target="_blank" rel="noopener">'+esc(d.discovered_via.replace(/^https?:\/\//,'').slice(0,48))+'</a></dd>';
   var tags=(d.tags||[]).map(function(t){return '<button class="tag" data-tag="'+esc(label(t))+'">'+esc(label(t))+'</button>'}).join('');
   var conn='';
   if(d.links.length)conn+='<div><h4>이 카드가 가리키는 것</h4>'+linkChips(d.links)+'</div>';
@@ -200,7 +260,8 @@ function show(id){
     '<span class="tbadge t-'+d.type+'">'+TYPES[d.type]+'</span> <span class="why">'+esc(d.id)+'</span>'+
     '<h3>'+esc(d.name_ko)+'</h3><div class="en">'+esc(d.name_en)+(d.aliases.length?' · '+esc(d.aliases.join(', ')):'')+'</div>'+
     '<div class="badges">'+(d.confidence?'<span class="b '+d.confidence+'">신뢰 '+d.confidence+'</span>':'')+(d.status?'<span class="b">'+esc(d.status)+'</span>':'')+
-      (d.hands_on?'<span class="b hand">직접 해봄</span>':'')+(d.sample?'<span class="b">예시카드</span>':'')+'</div>'+
+      (d.hands_on?'<span class="b hand">직접 해봄</span>':'')+(d.sample?'<span class="b">예시카드</span>':'')+(d.novelty==='emerging'?'<span class="b hand">신소재</span>':'')+'</div>'+
+    (d.why_space?'<div class="why-space">'+esc(d.why_space)+'</div>':'')+
     (kv?'<dl class="kv">'+kv+'</dl>':'')+
     (tags?'<div class="tagrow">'+tags+'</div>':'')+
     (conn?'<div class="conn">'+conn+'</div>':'')+
@@ -227,7 +288,7 @@ document.addEventListener('keydown',function(e){
   if(e.key==='Escape'){q.value='';run()}
 });
 
-chipsTypes();chipsFams();run();
+chipsTypes();chipsFams();chipsRadar();run();
 if(location.hash.length>1)show(decodeURIComponent(location.hash.slice(1)));
 })();
 </script>

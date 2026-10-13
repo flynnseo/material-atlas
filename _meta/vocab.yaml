@@ -76,3 +76,16 @@ form:
   profile: [프로파일, 압출재, 앵글, 채널]
   block: [블록, 덩어리, 괴]
   liquid: [액상, 주제, 경화제]
+
+# 신소재 레이더 축 (카드의 maturity / availability_kr 값 = 태그)
+maturity:
+  lab: [연구단계, 연구실, 실험실, 랩, 논문]
+  prototype: [시제품, 프로토타입, 파일럿, 시범]
+  commercial: [상용, 상용화, 판매중, 구매가능]
+  mainstream: [보편, 대중화, 흔한, 일반화]
+
+availability_kr:
+  none: [국내없음, 수급불가, 구하기어려운]
+  import: [수입, 직수입, 해외구매, 해외직구]
+  distributor: [국내대리점, 대리점, 총판, 국내유통]
+  local: [국내생산, 국산, 국내제조, 을지로]

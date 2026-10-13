@@ -7,6 +7,12 @@ applies_to: []         # 소재 id 또는 subfamily 태그
 look: []
 processes: []
 variant_of:            # 변형 마감이면 부모 FIN-* id
+novelty: standard      # standard / emerging
+maturity:
+availability_kr:
+why_space: ""
+kinetic_fit: ""
+discovered_via: ""
 cost_tier:
 lead_time: ""
 suppliers_kr: []
