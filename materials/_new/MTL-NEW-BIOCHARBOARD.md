@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.madeofair.com
-apply_links:
-  - {title: "HexAudi 아우디 딜러십 탄소음성 파사드", url: "https://urbannext.net/the-hexaudi-project/"}
-  - {title: "Audi 딜러십 지속가능 파사드 (LAUFS)", url: "https://laufsed.com/audi-ags-sustainable-concept-dealership-facade/"}
-  - {title: "탄소음성 파사드 패널 (Architect)", url: "https://www.architectmagazine.com/technology/this-week-in-tech-a-carbon-negative-facade-panel-that-absorbs-co2_o"}
 image: "https://laufsed.com/wp-content/uploads/2021/04/audiAG-03.png"
 image_credit: "적용 사례 사진 · laufsed.com (원본 링크)"
 image_source: "https://laufsed.com/audi-ags-sustainable-concept-dealership-facade/"
+apply_links:
+  - {title: "HexAudi 아우디 딜러십 탄소음성 파사드", url: "https://urbannext.net/the-hexaudi-project/", page_title: "The HexAudi Project: Carbon-negative Façade – urbanNext"}
+  - {title: "Audi 딜러십 지속가능 파사드 (LAUFS)", url: "https://laufsed.com/audi-ags-sustainable-concept-dealership-facade/", page_title: "AUDI AG’s Sustainable Concept Dealership Facade - LaufsED LLC", desc: "By replacing a typical aluminium facade system, Made of Air's facade prevents the re-emission of ca. 12t of CO2 from waste biomass and avoids emissions. The building has been awarded Gold Status by the DGNB German Sustai", img: "https://laufsed.com/wp-content/uploads/2021/04/audiAG-03.png"}
+  - {title: "탄소음성 파사드 패널 (Architect)", url: "https://www.architectmagazine.com/technology/this-week-in-tech-a-carbon-negative-facade-panel-that-absorbs-co2_o", page_title: "Attention Required!"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

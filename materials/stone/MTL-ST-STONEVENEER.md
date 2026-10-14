@@ -22,6 +22,9 @@ sources:
 image: "assets/img/MTL-ST-STONEVENEER.jpg"
 image_credit: "Nigel Chadwick · CC BY-SA 2.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Stone_Clad_House_Greater_Manchester.jpg"
+apply_links:
+  - {title: "리얼스톤 레지 패널 스톤 베니어", url: "https://tangotile.com/realstone-ledge-panels-3934.html", page_title: "Home Page", desc: "Tango Tile: Discover premium tiles for every space. Shop beautiful options for kitchens, bathrooms, and more. Elevate your home today!"}
+  - {title: "쿼리밀 천연석 베니어 제품", url: "https://quarrymill.com/?p=25892", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

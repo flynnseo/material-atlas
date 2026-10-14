@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/ultra-lightweight-concrete/
-apply_links:
-  - {title: "초경량 콘크리트 소재 제품 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ultra-lightweight-concrete/"}
-  - {title: "에어로젤 경량콘크리트 벽·천장·파사드 요소 연구", url: "https://tu-dresden.de/bu/der-bereich/news/forschungsprojekt-aerogel-leichtbeton-elemente"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2014/10/G.tecz-Lightweight-Concrete-CON111-13.jpg?v=20161013084008"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/ultra-lightweight-concrete/"
+apply_links:
+  - {title: "초경량 콘크리트 소재 제품 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ultra-lightweight-concrete/", page_title: "Ultra Lightweight Concrete", desc: "G.tecz is a research and development company focused on the innovation of cement bonded, high-tech materials for use in the construction industry. Some of their concrete innovations include lightweight, foamed and aeroge", img: "https://media.materialdistrict.com/wp-content/uploads/2014/10/G.tecz-Lightweight-Concrete-CON111-13.jpg?v=20161013084008"}
+  - {title: "에어로젤 경량콘크리트 벽·천장·파사드 요소 연구", url: "https://tu-dresden.de/bu/der-bereich/news/forschungsprojekt-aerogel-leichtbeton-elemente", page_title: "Forschungsprojekt Aerogel-Leichtbeton-Elemente", desc: "Das von den Professoren Ansgar Schulz und Benedikt Schulz am Lehrstuhl Baukonstruktion der Fakultät für Architektur und Bauingenieurwesen der TU Dortmund initiierte Forschungsprojekt „Aerogel - Entwicklung von Hybridbeto", img: "https://tu-dresden.de/bu/architektur-landschaft/ek/ressourcen/bilder/200918_Aerogel.jpg/@@images/f858c8c7-eafa-4422-834d-2c30a7c611a7.jpeg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

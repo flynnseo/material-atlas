@@ -25,8 +25,8 @@ image: "https://www.grown.bio/wp-content/uploads/2023/09/mushroom-packaging-flat
 image_credit: "출처 페이지 대표 이미지 · grown.bio (원본 링크)"
 image_source: "https://www.grown.bio"
 apply_links:
-  - {title: "Dutch Design Week 균사체 팝업 파빌리온", url: "https://www.dezeen.com/?p=1427214"}
-  - {title: "Grown bio 균사체 포장·조명·가구 소개", url: "https://circulareconomy.europa.eu/platform/en/good-practices/grown-bio-making-biodegradable-packaging-mycelium-and-agricultural-waste"}
+  - {title: "Dutch Design Week 균사체 팝업 파빌리온", url: "https://www.dezeen.com/?p=1427214", page_title: "Just a moment..."}
+  - {title: "Grown bio 균사체 포장·조명·가구 소개", url: "https://circulareconomy.europa.eu/platform/en/good-practices/grown-bio-making-biodegradable-packaging-mycelium-and-agricultural-waste", page_title: "Grown bio: making biodegradable packaging from mycelium and agricultural waste", desc: "European Circular Economy Stakeholder Platform - A joint initiative by the European Commission and the European Economic and Social Committee"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,12 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "런던 나이츠브리지 저반사 유리 상가", url: "https://source.thenbs.com/en/case-study/55-91-knightsbridge-london/dsYLZ3MGAPwCwgj592Fm61/tAjWNp9WMjhbaCCfhTsgde"}
-  - {title: "그로글라스 박물관·매장 AR 유리 레퍼런스", url: "https://www.groglass.com/about/references/"}
 image: "https://www.groglass.com/themes/groglass/assets/images/share_new.jpg"
 image_credit: "적용 사례 사진 · groglass.com (원본 링크)"
 image_source: "https://www.groglass.com/about/references/"
+apply_links:
+  - {title: "런던 나이츠브리지 저반사 유리 상가", url: "https://source.thenbs.com/en/case-study/55-91-knightsbridge-london/dsYLZ3MGAPwCwgj592Fm61/tAjWNp9WMjhbaCCfhTsgde", page_title: "55-91 Knightsbridge, London | Pilkington United Kingdom Limited | NBS Source", desc: "<p><strong>Project</strong>: Knightsbridge Gate, 55-91 Knightsbridge</p><p><strong>Client:</strong>&nbsp;APML Estate</p><p><strong>Main contractor:</strong>&nbsp;Sir Robert McAlpine</p><p><strong>Architects:</strong>&nbs", img: "https://asset.source.thenbs.com/api/thumbnail/896efbf7-0cc9-4918-883b-5bf698651170"}
+  - {title: "그로글라스 박물관·매장 AR 유리 레퍼런스", url: "https://www.groglass.com/about/references/", page_title: "Projects", desc: "Discover how our glass enhances visibility, protects what matters, and performs in demanding environments.", img: "https://www.groglass.com/themes/groglass/assets/images/share_new.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

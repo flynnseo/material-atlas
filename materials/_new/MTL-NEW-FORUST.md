@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.forust.com
-apply_links:
-  - {title: "이브 베하르×Forust 3D프린팅 우드 홈웨어 (Dezeen)", url: "https://www.dezeen.com/2021/05/13/yves-behar-3d-prints-forust-homeware-from-reclaimed-wood-waste/amp/"}
-  - {title: "Forust 3D프린팅 목재 인테리어 제작", url: "https://www.3dnatives.com/en/forust-3d-interview-270820206/amp/"}
 image: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2020/08/Untitled-5.jpg"
 image_credit: "적용 사례 사진 · 3dnatives.com (원본 링크)"
 image_source: "https://www.3dnatives.com/en/forust-3d-interview-270820206/amp/"
+apply_links:
+  - {title: "이브 베하르×Forust 3D프린팅 우드 홈웨어 (Dezeen)", url: "https://www.dezeen.com/2021/05/13/yves-behar-3d-prints-forust-homeware-from-reclaimed-wood-waste/amp/", page_title: "Just a moment..."}
+  - {title: "Forust 3D프린팅 목재 인테리어 제작", url: "https://www.3dnatives.com/en/forust-3d-interview-270820206/amp/", page_title: "Forust Corporation designs interiors with 3D printed wood - 3Dnatives", desc: "Forust Corporation is a wood technology company that leverages 3D printing to create beautiful and sustainable interior design pieces. The company’s goal is to manufacture with wood but without damaging our planet’s ecos", img: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2020/08/Untitled-5.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

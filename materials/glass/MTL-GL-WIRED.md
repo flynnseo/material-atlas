@@ -20,13 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "뉴욕 본드스트리트 로프트 망입유리 파티션", url: "https://bendheim.com/?p=95032"}
-  - {title: "스카이라크 라운지 망입유리 벽·파티션", url: "https://bendheim.com/?p=3386"}
-  - {title: "포틀랜드 주택 와이어드 글라스 어닝", url: "https://studio.bullseyeglass.com/projects/chevron-wired-panels-condor-awning/"}
 image: "https://bendheim.com/wp-content/uploads/2021/12/bond-st-bendheim-textured-glass-bathroom-doors.jpg"
 image_credit: "적용 사례 사진 · bendheim.com (원본 링크)"
 image_source: "https://bendheim.com/?p=95032"
+apply_links:
+  - {title: "뉴욕 본드스트리트 로프트 망입유리 파티션", url: "https://bendheim.com/?p=95032", page_title: "Bond Street Loft | Bendheim VintageWire™ Glass Project", desc: "Interior partition walls and doors throughout this elegant loft feature privacy VintageWire™ glass inserts, using two different chicken wire glass varieties", img: "https://bendheim.com/wp-content/uploads/2021/12/bond-st-bendheim-textured-glass-bathroom-doors.jpg"}
+  - {title: "스카이라크 라운지 망입유리 벽·파티션", url: "https://bendheim.com/?p=3386", page_title: "The Skylark | Bendheim Architectural Glass Project", desc: "Bendheim's chicken wire glass partitions and mirrored wall cladding contribute to the unique decor and \"old world\" atmosphere of The Skylark", img: "https://bendheim.com/wp-content/uploads/2016/08/skylark-mirrored-chicken-wire-glass-wall-1.jpg"}
+  - {title: "포틀랜드 주택 와이어드 글라스 어닝", url: "https://studio.bullseyeglass.com/projects/chevron-wired-panels-condor-awning/", page_title: "Chevron Wired Panels: Condor Awning", desc: "The Chevron Wired Panels, designed and fabricated by Bullseye Studio, are copper-wired kilnformed glass panels with slumped sides reminiscent of channel glass. The Condor Awning project consists of five smokey-colored pa", img: "https://studio.bullseyeglass.com/wp-content/uploads/2018/10/h2m7518.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

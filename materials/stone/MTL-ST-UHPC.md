@@ -21,6 +21,10 @@ sources: []
 image: "assets/img/MTL-ST-UHPC.jpg"
 image_credit: "Bianca Paola Maffezzoli · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3AUHPFRC%20-%20Ultra-High%20Performance%20Fiber%20Reinforced%20Concrete.jpg"
+apply_links:
+  - {title: "선전 루후 문화센터 UHPC 클래딩", url: "https://www.aalborgwhite.com/projects/shenzhen-luhu-culture-center-uhpc-claddings", page_title: "Shenzhen Luhu Culture Center - Aalborg Excel UHPC Claddings | Aalborg White", desc: "Designed by Studio Link Arc, the project is set to become Asia’s largest earth-sheltered construction of its kind upon completion in May 2025. It features oversized UHPC façade cladding with natural stone surface texture"}
+  - {title: "빅토리아 아트리움 UHPC 프리캐스트 외장", url: "https://www.pci.org/PCI/Project_Resources/Project_Profile/Project_Profile_Details.aspx?ID=23498", page_title: "Project Profile Details"}
+  - {title: "마이애미비치 심포니파크 UHPC 스크린", url: "https://www.tylin.com/node/1941", page_title: "Attention Required! | Cloudflare"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

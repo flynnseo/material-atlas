@@ -22,13 +22,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Thermochromism
-apply_links:
-  - {title: "Lennox 열변색 도료 LA 벽화 전시", url: "https://www.contractingbusiness.com/residential-hvac/article/20868526/lennox-joins-art-project-to-bring-murals-to-life"}
-  - {title: "123KLAN 열변색 벽화 작업", url: "https://www.123klan.com/blogs/news/lennox-art-project-lennox-project-artistique"}
-  - {title: "Cubo Chrome 열변색 설치 작품", url: "https://lina.community/projects/ea523810-cafb-4f2a-bf42-bfba8860bc0d"}
 image: "https://cdn.shopify.com/s/files/1/1074/9018/files/header-good_5cbda491-21c6-414f-af98-dfb40386c777.jpg?height=628&pad_color=fff&v=1613530062&width=1200"
 image_credit: "적용 사례 사진 · 123klan.com (원본 링크)"
 image_source: "https://www.123klan.com/blogs/news/lennox-art-project-lennox-project-artistique"
+apply_links:
+  - {title: "Lennox 열변색 도료 LA 벽화 전시", url: "https://www.contractingbusiness.com/residential-hvac/article/20868526/lennox-joins-art-project-to-bring-murals-to-life", page_title: "Lennox Joins Art Project to Bring Murals to Life", desc: "The artists, led by Fluke, the creative producer and founder of the A'shop production company, enlisted the help of Alain Savard — founder and owner of Climatisation based...", img: "https://img.contractingbusiness.com/files/base/ebm/contractingbusiness/image/2019/04/contractingbusiness_3866_lennoxart.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"}
+  - {title: "123KLAN 열변색 벽화 작업", url: "https://www.123klan.com/blogs/news/lennox-art-project-lennox-project-artistique", page_title: "Lennox Art Project", img: "https://cdn.shopify.com/s/files/1/1074/9018/files/header-good_5cbda491-21c6-414f-af98-dfb40386c777.jpg?height=628&pad_color=fff&v=1613530062&width=1200"}
+  - {title: "Cubo Chrome 열변색 설치 작품", url: "https://lina.community/projects/ea523810-cafb-4f2a-bf42-bfba8860bc0d", page_title: "Cubo Chrome", desc: "Cubo Chrome is synthetic audiovisual sensory canvas installation that takes the audience to a thermochroimc paints and soundscape discovery journey", img: "https://lina.community/media/cache/86/0b/860bfe385978dd5da2c11c52a2411700.webp"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

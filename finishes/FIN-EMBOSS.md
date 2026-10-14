@@ -11,13 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Embossing_(manufacturing)
-apply_links:
-  - {title: "엠보 패널 3D 패턴 금속 클래딩", url: "https://materialbank.eu/partner/embosspanels"}
-  - {title: "Rimex 엠보 스테인리스 벽·천장", url: "https://www.archiexpo.com/prod/rimex/product-4580386-2390663.html"}
-  - {title: "엠보 스테인리스 엘리베이터·파사드", url: "https://hidayath.com/architectural-products/metal-finishes/embossing/"}
 image: "https://materialbank-cdn.global.ssl.fastly.net/media/wysiwyg/linkedIn_1200_627.jpg"
 image_credit: "적용 사례 사진 · materialbank.eu (원본 링크)"
 image_source: "https://materialbank.eu/partner/embosspanels"
+apply_links:
+  - {title: "엠보 패널 3D 패턴 금속 클래딩", url: "https://materialbank.eu/partner/embosspanels", page_title: "Explore Emboss Panels on Material Bank", desc: "Emboss Panels is on Material Bank. Discover and sample materials with free overnight shipping.", img: "https://materialbank-cdn.global.ssl.fastly.net/media/wysiwyg/linkedIn_1200_627.jpg"}
+  - {title: "Rimex 엠보 스테인리스 벽·천장", url: "https://www.archiexpo.com/prod/rimex/product-4580386-2390663.html", page_title: "Just a moment..."}
+  - {title: "엠보 스테인리스 엘리베이터·파사드", url: "https://hidayath.com/architectural-products/metal-finishes/embossing/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

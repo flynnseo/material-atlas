@@ -21,8 +21,8 @@ hands_on: false
 sources:
   - https://materialdistrict.com/material/tensotherm-nanogel/
 apply_links:
-  - {title: "Hanover Park 커뮤니티센터 Tensotherm 지붕", url: "https://www.birdair.com/birdair-tips-off-new-chapter-at-hanover-park-community-center-with-innovative-tensotherm-roofing-system/"}
-  - {title: "대학 체육시설 Dillon Field House 막지붕", url: "https://www.birdair.com/birdairs-tensotherm-product-chosen-for-university-athletic-facility"}
+  - {title: "Hanover Park 커뮤니티센터 Tensotherm 지붕", url: "https://www.birdair.com/birdair-tips-off-new-chapter-at-hanover-park-community-center-with-innovative-tensotherm-roofing-system/", page_title: "Birdair Tips Off New Chapter at Hanover Park Community Center with Innovative Tensotherm™ Roofing System – Birdair", desc: "Insulated translucent membrane to replace original Birdair PTFE fabric roof from 1975"}
+  - {title: "대학 체육시설 Dillon Field House 막지붕", url: "https://www.birdair.com/birdairs-tensotherm-product-chosen-for-university-athletic-facility", page_title: "Birdair’s Tensotherm Product Chosen for University Athletic Facility – Birdair", desc: "Mount St. Mary’s University’s John J. Dillon Field House in the Knott Athletic Recreation Convocation Complex (ARCC) will soon feature a new Tensotherm roofing system by Birdair."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood_wool
-apply_links:
-  - {title: "바욱스 컬러 우드울 흡음 타일", url: "https://www.dezeen.com/2015/02/02/form-us-with-love-baux-colourful-acoustic-panels-stockholm-furniture-fair-2015/"}
-  - {title: "독일 주택 우드울 천장 흡음", url: "https://knauf.com/en-GB/news/knauf-ceiling-solutions/gb-kcs-in-conversation-with-yvonne-and-wiorel-scheumar"}
-  - {title: "헤라디자인 우드울 패널 실내 적용", url: "https://trendsideas.com/article/acoustic-wood-wool-panels-from-potter-interior-systems"}
 image: "https://res.cloudinary.com/trends-publishing/image/upload/ar_1.8,c_thumb,dpr_2.0,g_center,w_800/f_auto,q_auto:best/0148986.jpg"
 image_credit: "적용 사례 사진 · trendsideas.com (원본 링크)"
 image_source: "https://trendsideas.com/article/acoustic-wood-wool-panels-from-potter-interior-systems"
+apply_links:
+  - {title: "바욱스 컬러 우드울 흡음 타일", url: "https://www.dezeen.com/2015/02/02/form-us-with-love-baux-colourful-acoustic-panels-stockholm-furniture-fair-2015/", page_title: "Just a moment..."}
+  - {title: "독일 주택 우드울 천장 흡음", url: "https://knauf.com/en-GB/news/knauf-ceiling-solutions/gb-kcs-in-conversation-with-yvonne-and-wiorel-scheumar", page_title: "Just a moment..."}
+  - {title: "헤라디자인 우드울 패널 실내 적용", url: "https://trendsideas.com/article/acoustic-wood-wool-panels-from-potter-interior-systems", page_title: "Acoustic wood wool panels from Potter Interior Systems", desc: "Colourful Heradesign wood wool acoustic insulation from Potter Interior Systems is cost-effective, sustainable option", img: "https://res.cloudinary.com/trends-publishing/image/upload/ar_1.8,c_thumb,dpr_2.0,g_center,w_800/f_auto,q_auto:best/0148986.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

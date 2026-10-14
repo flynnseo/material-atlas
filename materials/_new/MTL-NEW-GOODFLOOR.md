@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/recycled-terrazzo/
-apply_links:
-  - {title: "재활용 테라조 바닥 소재 페이지", url: "https://materialdistrict.com/material/recycled-terrazzo/"}
-  - {title: "Gensler x Good Plastic Company 컬렉션", url: "https://www.dezeen.com/2025/03/18/growth-collection-the-good-plastic-company-dezeen-showroom/amp/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2024/05/the-good-floor-recycled-terrazzo-pla1455-8.jpeg?v=20240531082408"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/recycled-terrazzo/"
+apply_links:
+  - {title: "재활용 테라조 바닥 소재 페이지", url: "https://materialdistrict.com/material/recycled-terrazzo/", page_title: "Recycled Terrazzo", desc: "The Good Floor is a flooring system based on recycled plastic aggregates combined with a biobased, waterborne binder. Inspired by the appearance of traditional terrazzo, the material is designed as a customisable floor f", img: "https://media.materialdistrict.com/wp-content/uploads/2024/05/the-good-floor-recycled-terrazzo-pla1455-8.jpeg?v=20240531082408"}
+  - {title: "Gensler x Good Plastic Company 컬렉션", url: "https://www.dezeen.com/2025/03/18/growth-collection-the-good-plastic-company-dezeen-showroom/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

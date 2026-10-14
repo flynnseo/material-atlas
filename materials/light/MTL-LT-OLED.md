@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/OLED
-image: "assets/img/MTL-LT-OLED.jpg"
-image_credit: "Samsung Belgium · CC BY 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Samsung_OLED_TV.jpg"
+image: "https://www.oledworks.com/wp-content/uploads/2018/12/DSC_0293_1.jpg"
+image_credit: "적용 사례 사진 · oledworks.com (원본 링크)"
+image_source: "https://www.oledworks.com/installations/customized-oled-light-installation/"
+apply_links:
+  - {title: "Ron Arad OLED 패널 월 설치(LG Display)", url: "https://www.dezeen.com/2016/09/26/ron-arad-oled-lighting-installation-lg-display-london-design-festival/amp/", page_title: "Just a moment..."}
+  - {title: "OLEDWorks 맞춤 OLED 조명 설치", url: "https://www.oledworks.com/installations/customized-oled-light-installation/", page_title: "Customized OLED light installation", img: "https://www.oledworks.com/wp-content/uploads/2018/12/DSC_0293_1.jpg"}
+  - {title: "건축 조명에서의 OLED 적용 사례", url: "https://www.architectmagazine.com/technology/architectural-lighting-oleds-in-the-spotlight_o/", page_title: "Attention Required!"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

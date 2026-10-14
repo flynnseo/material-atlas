@@ -26,8 +26,8 @@ image: "assets/img/FIN-SILKSCREEN.jpg"
 image_credit: "Meul (Meul) · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:TeeshirtCopyleft_cadre.jpg"
 apply_links:
-  - {title: "건축·출입문용 실크스크린 인쇄 유리", url: "https://glasswerks.com/?p=174"}
-  - {title: "실크스크린 유리 인테리어 적용", url: "https://www.glassonline.com/?p=86701"}
+  - {title: "건축·출입문용 실크스크린 인쇄 유리", url: "https://glasswerks.com/?p=174", page_title: "Page not found - Glasswerks"}
+  - {title: "실크스크린 유리 인테리어 적용", url: "https://www.glassonline.com/?p=86701", page_title: "Cugher and Vismaravetro: silk-screen printing for interior design | GlassOnline.com - The World's Leading Glass Industry"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

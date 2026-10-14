@@ -32,13 +32,13 @@ sources:
   - https://en.wikipedia.org/wiki/Decorative_laminate
   - https://dinmedia.de/en/standard/din-en-438-1/238898874
   - https://icdli.com/TL 150729 Manufacturing of HPL.pdf
-apply_links:
-  - {title: "유닐린 HPL 인테리어 패널링 사례", url: "https://www.designboom.com/design/unilin-panels-hpl-interior-designs-material-11-16-2021/"}
-  - {title: "HPL 고성능 라미네이트 디자인 활용", url: "https://frameweb.com/article/why-this-brands-high-performance-laminate-is-a-top-design-asset"}
-  - {title: "포르미카 HPL 케이스 스터디", url: "https://source.thenbs.com/en/manufacturer/formica-group/kAUzfnG5oGQSpgStPVTpwp/case-studies"}
 image: "https://www.designboom.com/twitterimages/uploads/2020/11/unilin-panels-hpl-interior-designs-material-designboom-facebook.jpg"
 image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
 image_source: "https://www.designboom.com/design/unilin-panels-hpl-interior-designs-material-11-16-2021/"
+apply_links:
+  - {title: "유닐린 HPL 인테리어 패널링 사례", url: "https://www.designboom.com/design/unilin-panels-hpl-interior-designs-material-11-16-2021/", page_title: "UNILIN HPL panels interior designs with high performance, versatility & customization", desc: "the high performance, versatility and customization of HPL means UNILIN panels is a veritable one-stop-shop for interior projects.", img: "https://www.designboom.com/twitterimages/uploads/2020/11/unilin-panels-hpl-interior-designs-material-designboom-facebook.jpg"}
+  - {title: "HPL 고성능 라미네이트 디자인 활용", url: "https://frameweb.com/article/why-this-brands-high-performance-laminate-is-a-top-design-asset", page_title: "Why this brand", desc: "The range of high-pressure laminate (HPL) products offered by Unilin Panels allows the company to accommodate a great diversity of interior projects.", img: "https://d1tm14lrsghf7q.cloudfront.net/public/media/63394/conversions/Referentie_Office_Wraptor_Elegant_Black_Elephant_Grey_HPL-Cropped-thumb.jpg"}
+  - {title: "포르미카 HPL 케이스 스터디", url: "https://source.thenbs.com/en/manufacturer/formica-group/kAUzfnG5oGQSpgStPVTpwp/case-studies", page_title: "Formica Group | Case Studies | BIM Library", desc: "NBS Source is the home of the BIM Library - BIM objects and Revit families (free to download).. Case Studies for Formica Group - UK Manufacturer of High Pressure Laminate (HPL)"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

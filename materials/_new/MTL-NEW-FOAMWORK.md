@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/foamwork/
-apply_links:
-  - {title: "ETH FoamWork 3D프린트 폼 거푸집 슬래브", url: "https://dbt.arch.ethz.ch/project/foamwork/"}
-  - {title: "ETH 폼 거푸집 콘크리트 절감 (Dezeen)", url: "https://www.dezeen.com/?p=1748877"}
-  - {title: "3D프린트 폼 거푸집 (Designboom)", url: "https://www.designboom.com/technology/eth-zurich-foam-3d-printing-unique-recyclable-formwork-concrete-casting-12-14-2021/"}
 image: "https://dbt.arch.ethz.ch/wp-content/uploads/2021/12/Img_slab03_b.jpg"
 image_credit: "적용 사례 사진 · dbt.arch.ethz.ch (원본 링크)"
 image_source: "https://dbt.arch.ethz.ch/project/foamwork/"
+apply_links:
+  - {title: "ETH FoamWork 3D프린트 폼 거푸집 슬래브", url: "https://dbt.arch.ethz.ch/project/foamwork/", page_title: "FoamWork - dbt", desc: "﻿ Building complex concrete elements that are optimized for resource efficiency requires custom formwork, which is often wasteful and labor-intensive to produce. FoamWork explores how foam 3D printing (F3DP) can be used ", img: "https://dbt.arch.ethz.ch/wp-content/uploads/2021/12/Img_slab03_b.jpg"}
+  - {title: "ETH 폼 거푸집 콘크리트 절감 (Dezeen)", url: "https://www.dezeen.com/?p=1748877", page_title: "Just a moment..."}
+  - {title: "3D프린트 폼 거푸집 (Designboom)", url: "https://www.designboom.com/technology/eth-zurich-foam-3d-printing-unique-recyclable-formwork-concrete-casting-12-14-2021/", page_title: "ETH zurich uses foam 3D printing to produce intricate recyclable formwork in concrete casting", desc: "the DBT unit of ETH zurich explores how foam 3D printing can be used to produce intricate shapes and recyclable formwork in concrete casting.", img: "https://www.designboom.com/twitterimages/uploads/2021/12/eth-zurich-foam-3d-printing-produce-unique-shapes-and-recyclable-formwork-in-concrete-casting-designboom-1200.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

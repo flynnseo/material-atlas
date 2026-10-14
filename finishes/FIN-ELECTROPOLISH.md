@@ -11,12 +11,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electropolishing
-apply_links:
-  - {title: "스테인리스 인테리어 적용 흐름", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"}
-  - {title: "전해연마 스테인리스 스트리트퍼니처", url: "https://streetfurniture.com/new-premium-electropolishing-for-high-end-and-coastal-projects"}
 image: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"
 image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
 image_source: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"
+apply_links:
+  - {title: "스테인리스 인테리어 적용 흐름", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance", page_title: "Stainless Steel in Interior Design: Transforming Spaces with Industrial Elegance", desc: "Explore how stainless steel transforms interiors, enhancing sophistication and light with its reflective properties.", img: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"}
+  - {title: "전해연마 스테인리스 스트리트퍼니처", url: "https://streetfurniture.com/new-premium-electropolishing-for-high-end-and-coastal-projects", page_title: "New Premium Electropolishing for High-End and Coastal Projects - Street Furniture Australia", desc: "Linea Bicycle Stand and Linea Bollard are now available with the premium finish of 316 electropolished stainless steel frames.", img: "https://streetfurniture.com/wp-content/uploads/2025/06/Linea-Bicycle-Stand_002_Street-Furniture-Australia.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

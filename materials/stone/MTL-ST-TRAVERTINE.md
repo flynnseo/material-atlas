@@ -22,6 +22,10 @@ sources:
 image: "assets/img/MTL-ST-TRAVERTINE.jpg"
 image_credit: "Frank Schulenburg · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Mammoth_Terraces.jpg"
+apply_links:
+  - {title: "서울 다락방 리노베이션 트래버틴", url: "https://www.emilamerica.com/projects/attic_with_a_view_in_seoul", page_title: "Attic with a View Project in Seoul: Tile Interiors"}
+  - {title: "텍사스 주택 오로 트래버틴 바닥·벽난로", url: "https://www.stoneworld.com/articles/86122-capturing-the-essence-of-the-texas-landscape", page_title: "Just a moment..."}
+  - {title: "트래버틴 인테리어 프로젝트", url: "https://emilgroup.com/projects/the_elegant_charm_of_travertine", page_title: "The elegant charm of travertine", desc: "Elevate your projects with Emilgroup's Unique Travertine in Travertino Vein White, blending elegance and functionality in every detail."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

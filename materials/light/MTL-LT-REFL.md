@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Reflector_(photography)
-image: "assets/img/MTL-LT-REFL.jpg"
-image_credit: "작자 미상 · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:SVLightWithFlexReflect.jpg"
+image: "https://s3files.core77.com/blog/images/lead_n_spotlight/1316035_lead_400_117178_.jpg"
+image_credit: "적용 사례 사진 · core77.com (원본 링크)"
+image_source: "https://core77.com/posts/117178/Tilt-Industrial-Designs-Impressive-One-Central-Park-Heliostat"
+apply_links:
+  - {title: "시드니 One Central Park 헬리오스탯 반사경", url: "https://www.tilt-industrialdesign.com/projects/one-central-park/", page_title: "Page not found - Tilt"}
+  - {title: "One Central Park 반사경 조명 아트", url: "https://core77.com/posts/117178/Tilt-Industrial-Designs-Impressive-One-Central-Park-Heliostat", page_title: "Tilt Industrial Design's Impressive One Central Park Heliostat - Core77", desc: "A dual system of mirrors illuminates the interior atrium of a dual-tower complex", img: "https://s3files.core77.com/blog/images/lead_n_spotlight/1316035_lead_400_117178_.jpg"}
+  - {title: "알루미늄 반사 스크린 모듈 조명 설치", url: "https://gessato.com/reflector-modular-light-installation", page_title: "Reflector, A Modular Light Installation - Gessato", desc: "Copenhagen-based design studio Frederik Gustav created the Reflector light fixture with a modular design that enables endless configurations.", img: "https://www.gessato.com/wp-content/uploads/2024/12/reflector-modular-light-installation-10-1360x1360.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

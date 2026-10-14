@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Rammed_earth
-image: "assets/img/MTL-ST-RAMMEDEARTH.jpg"
-image_credit: "The Real Bear · CC BY 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Summer_Vacation_2007%2C_263%2C_Watchtower_In_The_Morning_Light%2C_Dunhuang%2C_Gansu_Province.jpg"
+image: "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1775061324/726241f8-41ae-496e-93a4-6f512f8cb7b9.jpg"
+image_credit: "적용 사례 사진 · divisare.com (원본 링크)"
+image_source: "https://divisare.com/projects/555009-tuckey-design-studio-jim-stephenson-rammed-earth-house"
+apply_links:
+  - {title: "윌트셔 래머드 어스 하우스 (Tuckey)", url: "https://divisare.com/projects/555009-tuckey-design-studio-jim-stephenson-rammed-earth-house", page_title: "Tuckey Design Studio, Jim Stephenson · Rammed Earth House", desc: "Since 1998 the Web Atlas of Contemporary Architecture", img: "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1775061324/726241f8-41ae-496e-93a4-6f512f8cb7b9.jpg"}
+  - {title: "에콰도르 래머드 어스 주택 (Rama Estudio)", url: "https://www.domusweb.it/en/architecture/2019/02/01/rama-estudio-designs-a-rammed-earth-house-in-the-countryside-of-ecuador.amp.html", page_title: "Rama Estudio designs a rammed earth house in the countryside of Ecuador", desc: "Rama Estudio's project is a comprehensive investigation on resource-saving, in terms of building materials, technical know-how and spatial layout."}
+  - {title: "래머드 어스 건축 사례 모음", url: "https://arquitecturaviva.com/tag/rammed-earth", page_title: "Rammed earth", desc: "Every content of the tag Rammed earth"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

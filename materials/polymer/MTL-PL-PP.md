@@ -30,6 +30,9 @@ sources:
 image: "assets/img/MTL-PL-PP.jpg"
 image_credit: "PakpongICCH444 · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Polypropylene_isotactic_mini_trp.png"
+apply_links:
+  - {title: "Renolit PP 필름 도어·패널 마감", url: "https://www.architectatwork.com/en/curated/innovations/renolit-alkorcell-premier-matt-trends-25-1863637"}
+  - {title: "인테리어용 폴리프로필렌 시트 적용", url: "https://www.acplasticsinc.com/pages/interior-design", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

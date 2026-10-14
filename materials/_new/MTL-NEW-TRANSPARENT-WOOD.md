@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Transparent_wood_composite
-apply_links:
-  - {title: "투명 목재 창호 대체 가능성 (Architizer)", url: "https://architizer.com/blog/practice/materials/material-lab-windows-clear-wood/"}
-  - {title: "투명 목재 건축 (CNN Style)", url: "https://edition.cnn.com/style/article/clear-wood-architecture"}
 image: "https://images.architizer.com/media/mediadata/uploads/15023112132071502290442084160523141457-clear-wood-tease-super-169.jpg?width=1140&quality=60&height=569"
 image_credit: "적용 사례 사진 · architizer.com (원본 링크)"
 image_source: "https://architizer.com/blog/practice/materials/material-lab-windows-clear-wood/"
+apply_links:
+  - {title: "투명 목재 창호 대체 가능성 (Architizer)", url: "https://architizer.com/blog/practice/materials/material-lab-windows-clear-wood/", page_title: "Could Transparent Wood One Day Replace Glass? - Architizer Journal", desc: "What if windows were timber’s next frontier? Transparent wood is being developed by scientists as an architectural material of the future.", img: "https://images.architizer.com/media/mediadata/uploads/15023112132071502290442084160523141457-clear-wood-tease-super-169.jpg?width=1140&quality=60&height=569"}
+  - {title: "투명 목재 건축 (CNN Style)", url: "https://edition.cnn.com/style/article/clear-wood-architecture", page_title: "Incredible possibilities of ‘invisible’ wood | CNN", desc: "Scientists at the University of Maryland, College Park have created transparent wood. The material could revolutionize design concepts.", img: "https://media.cnn.com/api/v1/images/stellar/prod/160523141457-clear-wood-tease.jpg?q=x_0,y_0,h_900,w_1599,c_fill/w_800"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

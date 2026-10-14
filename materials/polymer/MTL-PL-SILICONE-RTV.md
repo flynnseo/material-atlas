@@ -29,8 +29,8 @@ sources:
   - https://www.smooth-on.com/products/mold-star-15-slow/
   - https://www.smooth-on.com/products/oomoo-30/
 apply_links:
-  - {title: "RTV 실리콘 몰드로 조각상 캐스팅 과정", url: "https://www.westdean.ac.uk/blog/the-thinker-casting-using-rtv-silicone-mould"}
-  - {title: "RTV 실리콘 몰드 제작 가이드", url: "https://www.fslplymouth.co.uk/blog/news/how-to-make-an-rtv-silicone-mould/"}
+  - {title: "RTV 실리콘 몰드로 조각상 캐스팅 과정", url: "https://www.westdean.ac.uk/blog/the-thinker-casting-using-rtv-silicone-mould", page_title: "‘The Thinker’ Casting Using RTV Silicone Mould"}
+  - {title: "RTV 실리콘 몰드 제작 가이드", url: "https://www.fslplymouth.co.uk/blog/news/how-to-make-an-rtv-silicone-mould/", page_title: "How to Make an RTV Silicone Mould", desc: "RTV Silicone is a silicone compound used to make moulds in order to replicate parts. RTV comes in various hardnesses which is helpful when producing parts"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

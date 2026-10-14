@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/ecoben/
-apply_links:
-  - {title: "Ecoben 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ecoben/"}
-  - {title: "Bencore 프로젝트 (Archiexpo)", url: "https://trends.archiexpo.com/bencore/project-50184-213744.html"}
-  - {title: "Bencore 패널 인테리어 (Interni)", url: "https://www.internimagazine.com/features/stories/bencore/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2011/12/PLA659-1.jpg?v=20130830124950"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/ecoben/"
+apply_links:
+  - {title: "Ecoben 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ecoben/", page_title: "Ecoben", desc: "honeycomb of recycled cardboard", img: "https://media.materialdistrict.com/wp-content/uploads/2011/12/PLA659-1.jpg?v=20130830124950"}
+  - {title: "Bencore 프로젝트 (Archiexpo)", url: "https://trends.archiexpo.com/bencore/project-50184-213744.html", page_title: "Just a moment..."}
+  - {title: "Bencore 패널 인테리어 (Interni)", url: "https://www.internimagazine.com/features/stories/bencore/", page_title: "Bencore's X-Files: doors and modular walls by Marco Piva", desc: "X-Files, collection of modular doors and walls designed by Marco Piva for Bencore. An innovative design guarantees lightness, resistance, transparency and performance", img: "https://www.internimagazine.com/content/uploads/2020/07/bencore-xfiles-10.jpg?imbypass=true"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

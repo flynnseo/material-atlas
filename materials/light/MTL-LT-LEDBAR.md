@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Light-emitting_diode
-image: "assets/img/MTL-LT-LEDBAR.jpg"
-image_credit: "PiccoloNamek · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:RBG-LED.jpg"
+image: "https://www.gmlighting.net/wp-content/uploads/2025/05/DAVID-JOSEPH_EQ2A7515C-scaled.jpg"
+image_credit: "적용 사례 사진 · gmlighting.net (원본 링크)"
+image_source: "https://www.gmlighting.net/imagegallery/2024-1st-place-lighting-dynamics/"
+apply_links:
+  - {title: "런던 극장 파사드 LEDBar 적용", url: "https://www.ribaj.com/spec/ledbar-helps-put-on-a-show/", page_title: "Just a moment..."}
+  - {title: "레스토랑 바 코브 리니어 조명", url: "https://www.gmlighting.net/imagegallery/2024-1st-place-lighting-dynamics/", page_title: "2024 1st Place – Lighting Dynamics - GM Lighting LLC", desc: "Awarded 1st Place, this project features LED linear cove lighting that elegantly guides the eye to a central bar, creating a strong focal point. Designed by Lighting Dynamics with Vocon Inc., the ceiling illumination wra", img: "https://www.gmlighting.net/wp-content/uploads/2025/05/DAVID-JOSEPH_EQ2A7515C-scaled.jpg"}
+  - {title: "Arup 협업 Traceline 리니어 시스템", url: "https://www.arup.com/projects/traceline-lighting-system", page_title: "404", desc: "404 error - page not found"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

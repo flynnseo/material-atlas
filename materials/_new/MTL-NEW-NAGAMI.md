@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.nagami.design
-apply_links:
-  - {title: "Ecoalf 라스로사스 매장 3D프린팅 인테리어", url: "https://www.dezeen.com/?p=1896598"}
-  - {title: "Nagami Ecoalf 플래그십 스토어", url: "https://www.stirworld.com/see-features-nagami-sculpts-the-ecoalf-flagship-store-as-a-contemplative-space"}
-  - {title: "Hassell×Nagami 3D프린팅 공공 파빌리온", url: "https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavilion-prototype-03-14-2023/"}
 image: "https://www.stirworld.com/images/article_gallery/ecoalf-store-in-madrid-ecoalf-nagami-stirworld-230306043332.jpg"
 image_credit: "적용 사례 사진 · stirworld.com (원본 링크)"
 image_source: "https://www.stirworld.com/see-features-nagami-sculpts-the-ecoalf-flagship-store-as-a-contemplative-space"
+apply_links:
+  - {title: "Ecoalf 라스로사스 매장 3D프린팅 인테리어", url: "https://www.dezeen.com/?p=1896598", page_title: "Just a moment..."}
+  - {title: "Nagami Ecoalf 플래그십 스토어", url: "https://www.stirworld.com/see-features-nagami-sculpts-the-ecoalf-flagship-store-as-a-contemplative-space", page_title: "Nagami sculpts the Ecoalf flagship store as a contemplative space", desc: "With their 3D printed experiential installation, Spanish design studio Nagami sculpts the new Ecoalf flagship store in Madrid as a metaphor for glaciers.", img: "https://www.stirworld.com/images/article_gallery/ecoalf-store-in-madrid-ecoalf-nagami-stirworld-230306043332.jpg"}
+  - {title: "Hassell×Nagami 3D프린팅 공공 파빌리온", url: "https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavilion-prototype-03-14-2023/", page_title: "HASSELL & nagami develop 3D-printed public pavilion for harsh climates", desc: "HASSELL & nagami's 3D-printed public pavilion for to.org Architecture studio HASSELL has joined forces with creative collective to.org and 3D", img: "https://www.designboom.com/twitterimages/uploads/2023/03/hassell-nagami-designboom-fb.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

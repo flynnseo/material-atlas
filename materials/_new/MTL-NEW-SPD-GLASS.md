@@ -22,12 +22,12 @@ hands_on: false
 sources:
   - https://www.smartglass.com/
   - https://en.wikipedia.org/wiki/Smart_glass
-apply_links:
-  - {title: "밀라노 엑스포 미국관 SPD 스마트글라스 지붕", url: "https://buildingenclosureonline.com/articles/85035-largest-smartglass-roof-at-next-worlds-fair"}
-  - {title: "세계박람회 SPD 글라스 루프 기술", url: "https://www.ceramicindustry.com/articles/94683-glass-innovation-smartglass-roof-technology-at-the-worlds-fair"}
 image: "http://www.ceramicindustry.com/ext/resources/Issues/2015_05/CI0515-research-feature-900px.jpg?1430233024"
 image_credit: "적용 사례 사진 · ceramicindustry.com (원본 링크)"
 image_source: "https://www.ceramicindustry.com/articles/94683-glass-innovation-smartglass-roof-technology-at-the-worlds-fair"
+apply_links:
+  - {title: "밀라노 엑스포 미국관 SPD 스마트글라스 지붕", url: "https://buildingenclosureonline.com/articles/85035-largest-smartglass-roof-at-next-worlds-fair", page_title: "Just a moment..."}
+  - {title: "세계박람회 SPD 글라스 루프 기술", url: "https://www.ceramicindustry.com/articles/94683-glass-innovation-smartglass-roof-technology-at-the-worlds-fair", page_title: "Glass Innovation: SmartGlass Roof Technology at the World", desc: "Research Frontiers Inc.&rsquo;s patented SPD-SmartGlass technology has been selected as the exclusive smart glass for the USA Pavilion at this year&rsquo;s World&rsquo;s Fair, Expo Milano 2015, which is expected to attra", img: "http://www.ceramicindustry.com/ext/resources/Issues/2015_05/CI0515-research-feature-900px.jpg?1430233024"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

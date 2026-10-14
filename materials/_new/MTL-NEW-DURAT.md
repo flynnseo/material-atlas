@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.durat.com/
-apply_links:
-  - {title: "헬싱키 Durat 쇼룸 (Linda Bergroth)", url: "https://www.dezeen.com/?p=1815188"}
-  - {title: "밀라노 Alcova 2024 Durat 설치", url: "https://frameweb.com/project/durat-installation-alcova-milan-2024"}
 image: "https://d1tm14lrsghf7q.cloudfront.net/public/media/157736/conversions/Durat_Alcova_2024_08-thumb.jpg"
 image_credit: "적용 사례 사진 · frameweb.com (원본 링크)"
 image_source: "https://frameweb.com/project/durat-installation-alcova-milan-2024"
+apply_links:
+  - {title: "헬싱키 Durat 쇼룸 (Linda Bergroth)", url: "https://www.dezeen.com/?p=1815188", page_title: "Just a moment..."}
+  - {title: "밀라노 Alcova 2024 Durat 설치", url: "https://frameweb.com/project/durat-installation-alcova-milan-2024", page_title: "Durat Installation Alcova Milan 2024", desc: "Frameweb", img: "https://d1tm14lrsghf7q.cloudfront.net/public/media/157736/conversions/Durat_Alcova_2024_08-thumb.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

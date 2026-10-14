@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/garmento-boards/
-apply_links:
-  - {title: "Jeans Loop 재활용 데님 보드 매장 (Dezeen)", url: "https://www.dezeen.com/?p=2244669"}
-  - {title: "TorZo 데님 패널", url: "https://www.woodworkersjournal.com/denim-panels-torzo-surfaces/"}
 image: "https://www.woodworkersjournal.com/wp-content/uploads/367WSDenimPanel.jpg"
 image_credit: "적용 사례 사진 · woodworkersjournal.com (원본 링크)"
 image_source: "https://www.woodworkersjournal.com/denim-panels-torzo-surfaces/"
+apply_links:
+  - {title: "Jeans Loop 재활용 데님 보드 매장 (Dezeen)", url: "https://www.dezeen.com/?p=2244669", page_title: "Just a moment..."}
+  - {title: "TorZo 데님 패널", url: "https://www.woodworkersjournal.com/denim-panels-torzo-surfaces/", page_title: "Denim Panels|TorZo Surfaces|Recycled Material|Woodworking", desc: "TorZo Surfaces is now offering Denim, panels made from recycled denim scraps infused with an acrylic resin and laminated to a Baltic birch plywood backer board.", img: "https://www.woodworkersjournal.com/wp-content/uploads/367WSDenimPanel.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

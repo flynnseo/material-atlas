@@ -22,8 +22,8 @@ hands_on: false
 sources:
   - https://www.icd.uni-stuttgart.de/projects/elytra-filament-pavilion/
 apply_links:
-  - {title: "Elytra Filament Pavilion 파빌리온", url: "https://www.ribaj.com/spec/elytra-filament-pavilion/"}
-  - {title: "비트라 캠퍼스 Elytra 설치", url: "https://vitra.com/en-au/campus/news/details/elytra-filament-pavilion"}
+  - {title: "Elytra Filament Pavilion 파빌리온", url: "https://www.ribaj.com/spec/elytra-filament-pavilion/", page_title: "Just a moment..."}
+  - {title: "비트라 캠퍼스 Elytra 설치", url: "https://vitra.com/en-au/campus/news/details/elytra-filament-pavilion", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

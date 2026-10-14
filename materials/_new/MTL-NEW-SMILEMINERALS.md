@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
-apply_links:
-  - {title: "Smile Materials 소재 소개", url: "https://materialmatters.design/smile-materials"}
-  - {title: "Smile Materials 제조사 페이지", url: "https://www.materialbank.eu/en/partner/smilematerials"}
 image: "https://freight.cargo.site/w/1200/i/X2851967187919791994042157030819/smile-materials-recycled-material-panels-surface-design-samples.jpeg"
 image_credit: "적용 사례 사진 · materialmatters.design (원본 링크)"
 image_source: "https://materialmatters.design/smile-materials"
+apply_links:
+  - {title: "Smile Materials 소재 소개", url: "https://materialmatters.design/smile-materials", page_title: "Smile Materials — Material Matters", desc: "Material Matters is a cross-media platform delivering material intelligence for architecture & design. From fairs in London and Copenhagen to podcasts, consultancy, and expert discussions, we connect designers, brands an", img: "https://freight.cargo.site/w/1200/i/X2851967187919791994042157030819/smile-materials-recycled-material-panels-surface-design-samples.jpeg"}
+  - {title: "Smile Materials 제조사 페이지", url: "https://www.materialbank.eu/en/partner/smilematerials", page_title: "Explore Smile Materials on Material Bank", desc: "Smile Materials is on Material Bank. Discover and sample materials with free overnight shipping.", img: "https://materialbank-cdn.global.ssl.fastly.net/media/wysiwyg/linkedIn_1200_627.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

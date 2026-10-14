@@ -12,9 +12,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Photochemical_machining
 apply_links:
-  - {title: "Eco-Etch 엘리베이터 에칭 패턴", url: "https://forms-surfaces.com/news/new-eco-etch-patterns-play-light-dimension"}
-  - {title: "Mosun 에칭 스테인리스 포트폴리오", url: "https://mosun.com/portfolio/details.php?pid=23"}
-  - {title: "GKD 에칭 스테인리스 메쉬", url: "https://www.gkd-group.com/en/?p=94510"}
+  - {title: "Eco-Etch 엘리베이터 에칭 패턴", url: "https://forms-surfaces.com/news/new-eco-etch-patterns-play-light-dimension", page_title: "Forms+Surfaces: Page Not Found"}
+  - {title: "Mosun 에칭 스테인리스 포트폴리오", url: "https://mosun.com/portfolio/details.php?pid=23", page_title: "Marshall Residence - Interior Finishes - Soheil Mosun Limited - Custom Architectural Manufacturer", desc: "Soheil Mosun Limited is a designer and custom architectural manufacturer. Specialized in the fabrication of architectural fixtures, elevator interiors, monumental staircases, awards, scale models and more. We are your so"}
+  - {title: "GKD 에칭 스테인리스 메쉬", url: "https://www.gkd-group.com/en/?p=94510", page_title: "Attention Required! | Cloudflare"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LiTraCon
-apply_links:
-  - {title: "LiTraCon 투광 콘크리트 벽 적용 사례", url: "https://www.concretedecor.net/departments/concrete-furniture/concrete-comes-to-light/"}
-  - {title: "LiTraCon 투광 콘크리트 Dwell", url: "https://dwell.com/amp/article/litracon-light-transmitting-concrete-85f0b715"}
 image: "https://www.concretedecor.net/wp-content/uploads/CD/assets/Image/archives/CD901/901-light-concrete.png"
 image_credit: "적용 사례 사진 · concretedecor.net (원본 링크)"
 image_source: "https://www.concretedecor.net/departments/concrete-furniture/concrete-comes-to-light/"
+apply_links:
+  - {title: "LiTraCon 투광 콘크리트 벽 적용 사례", url: "https://www.concretedecor.net/departments/concrete-furniture/concrete-comes-to-light/", page_title: "Concrete Comes to Light - Concrete Decor", desc: "Learn more about how concrete comes to light with fiber optics.", img: "https://www.concretedecor.net/wp-content/uploads/CD/assets/Image/archives/CD901/901-light-concrete.png"}
+  - {title: "LiTraCon 투광 콘크리트 Dwell", url: "https://dwell.com/amp/article/litracon-light-transmitting-concrete-85f0b715", page_title: "LiTraCon: Light-Transmitting Concrete - Dwell"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

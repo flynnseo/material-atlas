@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/hiendl-nfc/
-apply_links:
-  - {title: "Hiendl NFC 소재 페이지", url: "https://materialdistrict.com/material/hiendl-nfc/"}
-  - {title: "Hiendl MP 마운팅 프로파일 디자인 어워드", url: "https://renewable-carbon.eu/news/?p=15237"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2011/11/PLA652-1.jpg?v=20130830114923"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/hiendl-nfc/"
+apply_links:
+  - {title: "Hiendl NFC 소재 페이지", url: "https://materialdistrict.com/material/hiendl-nfc/", page_title: "Hiendl NFC", desc: "The Natural Fibre Composites consist of synthetic polymers, reinforced by natural fibres such as hemp, flax, various woods, and others. Depending on the raw materials used and the quantity ratios a large variety of speci", img: "https://media.materialdistrict.com/wp-content/uploads/2011/11/PLA652-1.jpg?v=20130830114923"}
+  - {title: "Hiendl MP 마운팅 프로파일 디자인 어워드", url: "https://renewable-carbon.eu/news/?p=15237", page_title: "Hiendl mounting profile system sortiment wins Design Plus Award - Renewable Carbon News", desc: "Dear Sir or Madam,we are pleased to inform you that the Hiendl mounting profile system sortiment was awarded the Design Plus Award by the", img: "https://renewable-carbon.eu/news/wp-content/uploads/news-images/20110528-01/HiendlProfile.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

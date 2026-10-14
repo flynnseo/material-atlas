@@ -23,12 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/Polished_plaster
   - https://en.wikipedia.org/wiki/Lime_plaster
   - https://www.dulux.com.au/specifier/products/venetian-plaster/venetian-plaster-marmorino-naturale/
-apply_links:
-  - {title: "루이비통 히드로 T3 매장 베네치안 플라스터", url: "https://www.sbid.org/marmo-surface-finishes-install-venetian-plaster-finishes-for-a-retail-space/"}
-  - {title: "파리 Ports 1961 부티크 플라스터 벽", url: "https://archi-tectonics.com/work/ports-1961-paris"}
 image: "https://www.sbid.org/wp-content/uploads/2024/03/5-7.jpg"
 image_credit: "적용 사례 사진 · sbid.org (원본 링크)"
 image_source: "https://www.sbid.org/marmo-surface-finishes-install-venetian-plaster-finishes-for-a-retail-space/"
+apply_links:
+  - {title: "루이비통 히드로 T3 매장 베네치안 플라스터", url: "https://www.sbid.org/marmo-surface-finishes-install-venetian-plaster-finishes-for-a-retail-space/", page_title: "Marmo Surface Finishes Install Venetian Plaster Finishes for a Retail Space | SBID", desc: "In 2023, Marmo were invited to supply and install the Venetian Plaster finishes for the Louis Vuitton store in Heathrow’s Terminal 3.", img: "https://www.sbid.org/wp-content/uploads/2024/03/5-7.jpg"}
+  - {title: "파리 Ports 1961 부티크 플라스터 벽", url: "https://archi-tectonics.com/work/ports-1961-paris", page_title: "PORTS 1961 PARIS | Archi-Tectonics", desc: "We focus on a cutting-edge design process that combines creativity and technical advancement, from which poetic precision emerges."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

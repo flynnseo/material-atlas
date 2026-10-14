@@ -20,12 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "딕키스 아레나 맞춤 강관 난간", url: "https://sightlinecommercial.com/articles/sightlines-railing-steels-the-show-at-dickies-arena"}
-  - {title: "Feeney 강재 프레임 케이블 난간 사례", url: "https://feeneyinc.com/steel-fabricated-projects/"}
 image: "https://feeneyinc.com/wp-content/uploads/2026/04/KruegerPoolDeck_S04_CRKits_Exterior_2013-scaled.jpg"
 image_credit: "적용 사례 사진 · feeneyinc.com (원본 링크)"
 image_source: "https://feeneyinc.com/steel-fabricated-projects/"
+apply_links:
+  - {title: "딕키스 아레나 맞춤 강관 난간", url: "https://sightlinecommercial.com/articles/sightlines-railing-steels-the-show-at-dickies-arena", page_title: "Page not found - Sightline Commercial Solutions"}
+  - {title: "Feeney 강재 프레임 케이블 난간 사례", url: "https://feeneyinc.com/steel-fabricated-projects/", page_title: "Steel Fabricated Cable Railing Projects", desc: "Explore steel fabricated railing projects using CableRail systems. View real applications and solutions for your next build.", img: "https://feeneyinc.com/wp-content/uploads/2026/04/KruegerPoolDeck_S04_CRKits_Exterior_2013-scaled.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

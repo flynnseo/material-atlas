@@ -18,13 +18,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "i-Mesh 피티 우오모 살라 론다 스페이스", url: "https://www.i-mesh.eu/projects/sala-ronda-pitti-uomo"}
-  - {title: "GKD 건축용 메쉬 인테리어", url: "https://www.gkd-group.com/en/?p=94592"}
-  - {title: "IAA 수상 패브릭 멤브레인 천장 사무실", url: "https://iaa.textiles.org/awards/274759-2/"}
 image: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/669f87884406b216875a18a8_0_COPERTINA.jpg"
 image_credit: "적용 사례 사진 · i-mesh.eu (원본 링크)"
 image_source: "https://www.i-mesh.eu/projects/sala-ronda-pitti-uomo"
+apply_links:
+  - {title: "i-Mesh 피티 우오모 살라 론다 스페이스", url: "https://www.i-mesh.eu/projects/sala-ronda-pitti-uomo", page_title: "Sala Ronda | Pitti Uomo", desc: "The Sala Ronda at Pitti Uomo in Florence has been transformed into a unique scenography thanks to the use of i-Mesh fabric.", img: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/669f87884406b216875a18a8_0_COPERTINA.jpg"}
+  - {title: "GKD 건축용 메쉬 인테리어", url: "https://www.gkd-group.com/en/?p=94592", page_title: "Attention Required! | Cloudflare"}
+  - {title: "IAA 수상 패브릭 멤브레인 천장 사무실", url: "https://iaa.textiles.org/awards/274759-2/", page_title: "Architen Landrell Project Office Fabric Ceiling"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Rope
-image: "assets/img/MTL-TX-COTTONROPE.jpg"
-image_credit: "Ji-Elle · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Cordage_en_chanvre.jpg"
+image: "http://www.ravenox.com/cdn/shop/articles/BacchanaliaSP_32.jpg?v=1502918351"
+image_credit: "적용 사례 사진 · ravenox.com (원본 링크)"
+image_source: "https://ravenox.com/blogs/news/atlanta-cafe-integrates-fms-rope-into-interior-design"
+apply_links:
+  - {title: "애틀랜타 카페 면 로프 인테리어", url: "https://ravenox.com/blogs/news/atlanta-cafe-integrates-fms-rope-into-interior-design", page_title: "Atlanta Cafe Integrates Ravenox Rope into Interior Design", desc: "If you happen to be in Atlanta and want to see a great example of how Ravenox rope can be integrated into interior design, stop in and have a bite to eat at Star Provisions Bacchanalia on Ellsworth Industrial Blvd. Their", img: "http://www.ravenox.com/cdn/shop/articles/BacchanaliaSP_32.jpg?v=1502918351"}
+  - {title: "면 로프 마크라메 월 설치", url: "https://www.ravenox.com/blogs/news/macrame-cotton-rope-wall", page_title: "The Tao of a Macrame Rope Wall", desc: "ENDLESS ROPE CREATIVITY From 13th-century weavers to modern day designers, the use of cotton rope in a macrame cord project has kept a steadfast hold on endless rope creativity, high quality art and inspiration. The use ", img: "http://www.ravenox.com/cdn/shop/articles/Ravenox_macrame_wall_hanging_wall_decor_tapestry_wall_hanging_knots_cotton_rope_wall_hanger.jpg?v=1592630281"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

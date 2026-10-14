@@ -22,11 +22,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Gold_plating
   - https://pfonline.com/articles/thin-gold
-apply_links:
-  - {title: "홍콩 스키아파렐리 브러시드 골드 파사드", url: "https://www.designboom.com/architecture/hong-kong-schiaparelli-gold-boutique-halleroed/"}
 image: "https://www.designboom.com/twitterimages/uploads/2026/01/schiaparelli-hong-kong-halleroed-daniel-roseberry-designboom-FB.jpg"
 image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
 image_source: "https://www.designboom.com/architecture/hong-kong-schiaparelli-gold-boutique-halleroed/"
+apply_links:
+  - {title: "홍콩 스키아파렐리 브러시드 골드 파사드", url: "https://www.designboom.com/architecture/hong-kong-schiaparelli-gold-boutique-halleroed/", page_title: "from paris to hong kong: opulent schiaparelli salon opens in glimmering gold", desc: "design studio halleroed arrives in hong kong with a new retail project, a schiaparelli salon realized with gilded interiors.", img: "https://www.designboom.com/twitterimages/uploads/2026/01/schiaparelli-hong-kong-halleroed-daniel-roseberry-designboom-FB.jpg"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

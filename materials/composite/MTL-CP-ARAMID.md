@@ -23,12 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Kevlar
-apply_links:
-  - {title: "서울 Kolon One & Only Tower 아라미드 외장", url: "https://www.architectmagazine.com/?p=190502"}
-  - {title: "MOCA Textile Room 아라미드 파빌리온", url: "https://archello.com/project/textile-room"}
 image: "https://archello.s3.eu-central-1.amazonaws.com/images/2023/09/08/p-a-t-t-e-r-n-s-textile-room-exhibitions-archello.1694124307.8484.jpg"
 image_credit: "적용 사례 사진 · archello.com (원본 링크)"
 image_source: "https://archello.com/project/textile-room"
+apply_links:
+  - {title: "서울 Kolon One & Only Tower 아라미드 외장", url: "https://www.architectmagazine.com/?p=190502", page_title: "Attention Required!"}
+  - {title: "MOCA Textile Room 아라미드 파빌리온", url: "https://archello.com/project/textile-room", page_title: "Textile Room | Patterns 2 | Archello", desc: "The Textile Room aims to physically stage a direct response to the exhibition brief set up by the Curators, following the tradition of formal experimentation...", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2023/09/08/p-a-t-t-e-r-n-s-textile-room-exhibitions-archello.1694124307.8484.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

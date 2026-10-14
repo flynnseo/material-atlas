@@ -24,7 +24,7 @@ sources:
   - https://www.specialtybolt.com/wp-content/uploads/2026/03/Plating-and-Coating-sbs.pdf
   - https://glecoplating.com/electroplating-company/electroplating-zinc/
 apply_links:
-  - {title: "킹스크로스 Fenman House 아연도 몰딩", url: "https://www.johndesmond.com/eshots/04/"}
+  - {title: "킹스크로스 Fenman House 아연도 몰딩", url: "https://www.johndesmond.com/eshots/04/", page_title: "V-Grooved and folded architectural finishes. Achieving the look of solid material without the weight or expense"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -24,9 +24,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Incandescent_light_bulb
   - https://en.wikipedia.org/wiki/Halogen_lamp
-image: "assets/img/MTL-LT-HALOGEN.jpg"
-image_credit: "KMJ, alpha masking by Edokter · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.png"
+image: "https://www.paclights.com/wp-content/uploads/2025/10/image-7926.jpg"
+image_credit: "적용 사례 사진 · paclights.com (원본 링크)"
+image_source: "https://www.paclights.com/explore/halogen-lamps-lowes-real-world-case-studies-in-lighting/"
+apply_links:
+  - {title: "할로겐 램프 실제 매장 조명 사례", url: "https://www.paclights.com/explore/halogen-lamps-lowes-real-world-case-studies-in-lighting/", page_title: "Halogen Lamps Lowes: Real-World Case Studies in Lighting", desc: "Discover real-world case studies on halogen lamps at Lowes, highlighting benefits like energy efficiency and cost savings.", img: "https://www.paclights.com/wp-content/uploads/2025/10/image-7926.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

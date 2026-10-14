@@ -18,12 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "베이징 China View 전시공간 Luminex (Boeri)", url: "https://www.stefanoboeriarchitetti.net/en/project/china-view/"}
-  - {title: "Rockwell Group 광섬유 직물 설치", url: "https://metropolismag.com/programs/let-it-glow/"}
 image: "https://www.stefanoboeriarchitetti.net/wp-content/uploads/2018/02/4DEF.jpg"
 image_credit: "적용 사례 사진 · stefanoboeriarchitetti.net (원본 링크)"
 image_source: "https://www.stefanoboeriarchitetti.net/en/project/china-view/"
+apply_links:
+  - {title: "베이징 China View 전시공간 Luminex (Boeri)", url: "https://www.stefanoboeriarchitetti.net/en/project/china-view/", page_title: "China View | Beijing", desc: "China View, a unique space above the city where people feel like floating in the air. The project proposes a sequence of translucent mutating light surfaces creating a suggestive atmosphere, a series of screening texture", img: "https://www.stefanoboeriarchitetti.net/wp-content/uploads/2018/02/4DEF.jpg"}
+  - {title: "Rockwell Group 광섬유 직물 설치", url: "https://metropolismag.com/programs/let-it-glow/", page_title: "Let it Glow - Metropolis", desc: "Woven with fiber optics, Luminex illuminated textiles really shine."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Porcelain_tile
-image: "assets/img/MTL-ST-PORCELAIN.jpg"
-image_credit: "jeem from Saint Louis, United States · CC BY-SA 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Chinese_porcelain_tiles%2C_Cochin_synagogue.jpg"
+image: "https://metropolismag.com/wp-content/uploads/2021/07/338a4922a38fdb9eaa67f7c0fef16b8e-Porcelanosa-3284.jpg"
+image_credit: "적용 사례 사진 · metropolismag.com (원본 링크)"
+image_source: "https://metropolismag.com/projects/porcelanosas-flagship-opens/"
+apply_links:
+  - {title: "뉴욕 포르셀라노사 플래그십 포세린", url: "https://metropolismag.com/projects/porcelanosas-flagship-opens/", page_title: "Porcelanosa's Flagship Opens in Heart of Manhattan - Metropolis", desc: "In searching for a firm foothold in New York City, Spanish tile maker Porcelanosa found an architectural gem in the heart of Manhattan.", img: "https://metropolismag.com/wp-content/uploads/2021/07/338a4922a38fdb9eaa67f7c0fef16b8e-Porcelanosa-3284.jpg"}
+  - {title: "리테일 매장 대형 포세린 슬랩 시공", url: "https://atlasconcorde.com/en/magazine/think-big-for-your-retail-space", page_title: "Vercel Security Checkpoint"}
+  - {title: "리버아일랜드 뉴캐슬 매장 포세린 바닥", url: "https://mail.specificationonline.co.uk/articles/2017-02-23/river-island-newcastle", page_title: "River Island, Newcastle", desc: "​Having spent over 60 years establishing a worldwide retail presence in the fashion arena, River Island now boast nearly 300 stores worldwide! In the UK the company is committed to keeping their retail outlets looking fr", img: "https://d2c6s77msf04pp.cloudfront.net/uploads/thumbnails/ri-newcastle-mens-arch-1-of-9-225165-5822thumb-58aeb4c8dec64.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

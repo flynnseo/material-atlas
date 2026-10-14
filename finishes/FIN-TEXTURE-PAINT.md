@@ -10,11 +10,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "스프레이 텍스처 제품·질감 예시(CertainTeed)", url: "https://www.certainteed.com/products/drywall-products/spray-texture"}
 image: "https://www.certainteed.com/sites/drupalvm.dev/themes/certainteed/ct_bootstrap/images/CTOGImage1_1200x630.jpg"
 image_credit: "적용 사례 사진 · certainteed.com (원본 링크)"
 image_source: "https://www.certainteed.com/products/drywall-products/spray-texture"
+apply_links:
+  - {title: "스프레이 텍스처 제품·질감 예시(CertainTeed)", url: "https://www.certainteed.com/products/drywall-products/spray-texture", page_title: "Spray Texture | CertainTeed", img: "https://www.certainteed.com/sites/drupalvm.dev/themes/certainteed/ct_bootstrap/images/CTOGImage1_1200x630.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

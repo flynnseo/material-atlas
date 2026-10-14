@@ -24,6 +24,9 @@ sources:
 image: "assets/img/MTL-LT-LASER.jpg"
 image_credit: "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Tamron 28-75mm f/2.8 · GFDL 1.2 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Classical_spectacular_laser_effects.jpg"
+apply_links:
+  - {title: "Tarm 모듈형 레이저 그리드 설치", url: "https://www.lsionline.com/news/lighting/tarm-showlaser-launches-lasergrid", page_title: "Tarm Showlaser launches Lasergrid - LSi Online", desc: "Europe – Laser presentations specialist Tarm Showlaser has launched Lasergrid, which combines a number of single laser units with one single-coloured laser source, one or more power supply units and accessories. The sing"}
+  - {title: "Laser Encore 레이저쇼 설치 업체", url: "https://iaapa.org/node/386681", page_title: "404 | IAAPA.org"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,9 +20,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-FE-CHECKER.jpg"
-image_credit: "N509FZ · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AFive-bar%20diamond%20plate%20on%204125610%20%2820220927162618%29.jpg"
+image: "https://media.assettype.com/resident%2F2025-12-02%2Ff4njjuvo%2F1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+image_credit: "적용 사례 사진 · resident.com (원본 링크)"
+image_source: "https://resident.com/amp/story/resource-guide/2025/12/03/raw-meets-refined-using-aluminium-checker-plate-feature-panels-in-loft-apartments-and-gallery-interiors"
+apply_links:
+  - {title: "로프트·갤러리 인테리어 체커플레이트 패널 활용", url: "https://resident.com/amp/story/resource-guide/2025/12/03/raw-meets-refined-using-aluminium-checker-plate-feature-panels-in-loft-apartments-and-gallery-interiors", page_title: "Raw Meets Refined: Using Aluminium Checker Plate Feature Panels in Loft Apartments and Gallery Interiors", desc: "There’s something compelling about interiors that blend raw, industrial finishes with contemporary design. In loft apartments and gallery spaces, this contrast", img: "https://media.assettype.com/resident%2F2025-12-02%2Ff4njjuvo%2F1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

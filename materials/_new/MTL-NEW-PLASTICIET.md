@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://plasticiet.com/
-apply_links:
-  - {title: "Plasticiet Mother of Pearl 재생 PC 가구 (Dezeen)", url: "https://www.dezeen.com/2020/03/20/plasticiet-mother-of-pearl-furniture/"}
-  - {title: "재생 폴리카보네이트 가구", url: "https://materialdistrict.com/article/furniture-recycled-polycarbonate-waste/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2020/04/furniture-recycled-polycarbonate-waste-materialdistrict-7-scaled.jpg?v=20200416123932"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/article/furniture-recycled-polycarbonate-waste/"
+apply_links:
+  - {title: "Plasticiet Mother of Pearl 재생 PC 가구 (Dezeen)", url: "https://www.dezeen.com/2020/03/20/plasticiet-mother-of-pearl-furniture/", page_title: "Just a moment..."}
+  - {title: "재생 폴리카보네이트 가구", url: "https://materialdistrict.com/article/furniture-recycled-polycarbonate-waste/", page_title: "Furniture made from recycled polycarbonate waste", desc: "Dutch company Plasticiet produced recycled plastic sheet material with a marbled, or pearlescent look, which they used to make a series of furniture. Plasticiet (which you can find in our collection here) uses a variety ", img: "https://media.materialdistrict.com/wp-content/uploads/2020/04/furniture-recycled-polycarbonate-waste-materialdistrict-7-scaled.jpg?v=20200416123932"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

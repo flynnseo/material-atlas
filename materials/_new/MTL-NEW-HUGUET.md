@@ -24,8 +24,8 @@ image: "https://media.materialdistrict.com/wp-content/uploads/2022/03/Huguet-x-M
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/huguet-recycled-terrazzo/"
 apply_links:
-  - {title: "바르셀로나 주택 타일 파쇄 테라조 바닥", url: "https://www.dezeen.com/2018/07/22/laia-biels-house-in-barcelona-apartment-tiles-terrazzo/"}
-  - {title: "APT x Huguet 건설폐기물 테라조", url: "https://ribaj.com/products/recycled-construction-waste-creates-terrazzo-apt-architects-huguet-stephen-cousins"}
+  - {title: "바르셀로나 주택 타일 파쇄 테라조 바닥", url: "https://www.dezeen.com/2018/07/22/laia-biels-house-in-barcelona-apartment-tiles-terrazzo/", page_title: "Just a moment..."}
+  - {title: "APT x Huguet 건설폐기물 테라조", url: "https://ribaj.com/products/recycled-construction-waste-creates-terrazzo-apt-architects-huguet-stephen-cousins", page_title: "Just a moment..."}
   - {title: "Huguet Zero Waste 테라조", url: "https://www.architectatwork.com/en/curated/innovations/zero-waste-terrazzo-1810662"}
 updated: 2026-10-14
 ---

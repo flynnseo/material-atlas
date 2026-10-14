@@ -20,12 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "인테리어 속 스테인리스 스틸 적용 사례", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"}
-  - {title: "스테인리스 201 난간 파이프 제품", url: "https://www.pipingmart.com/product/stainless-steel-201-railing-pipes"}
 image: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"
 image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
 image_source: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"
+apply_links:
+  - {title: "인테리어 속 스테인리스 스틸 적용 사례", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance", page_title: "Stainless Steel in Interior Design: Transforming Spaces with Industrial Elegance", desc: "Explore how stainless steel transforms interiors, enhancing sophistication and light with its reflective properties.", img: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"}
+  - {title: "스테인리스 201 난간 파이프 제품", url: "https://www.pipingmart.com/product/stainless-steel-201-railing-pipes", page_title: "Order now Stainless Steel 201 Railing Pipes from suppliers | ThePipingMart", desc: "Stainless Steel 201 Railing Pipes for efficient and reliable performance. Contact our trusted suppliers now.", img: "https://dzyqewgrzyhxi.cloudfront.net/images/no_material.webp"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

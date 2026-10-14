@@ -32,12 +32,12 @@ sources:
   - https://en.wikipedia.org/wiki/Decorative_laminate
   - https://din.de/en/wdc-beuth:din21:238898758
   - https://www.nationalbimlibrary.com/kronospan-ltd/kronodesign-compact-interior-laminates?lo=en
-apply_links:
-  - {title: "플라이데러 HPL 파사드·파라펫 적용", url: "https://pfleiderer.com/au-en/solutions/exterior-use/facades-parapets"}
-  - {title: "그린램 외장 HPL 파사드 사례", url: "https://wfmmedia.com/elevating-building-facades-with-greenlam-exterior-clads-style-durability-and-sustainability/"}
 image: "https://wfmmedia.com/wp-content/uploads/2025/04/Elevating-Building-Facades-With-Greenlam-Exterior-Clads-Style-Durability-And-Sustainability.webp"
 image_credit: "적용 사례 사진 · wfmmedia.com (원본 링크)"
 image_source: "https://wfmmedia.com/elevating-building-facades-with-greenlam-exterior-clads-style-durability-and-sustainability/"
+apply_links:
+  - {title: "플라이데러 HPL 파사드·파라펫 적용", url: "https://pfleiderer.com/au-en/solutions/exterior-use/facades-parapets", page_title: "Façades & parapets", desc: "Eye-catchers for outdoors: Premium wood materials ✓ Outdoor application ✓ Facade ✓ Privacy screen ✓ Balustrades ✓ | Discover now!"}
+  - {title: "그린램 외장 HPL 파사드 사례", url: "https://wfmmedia.com/elevating-building-facades-with-greenlam-exterior-clads-style-durability-and-sustainability/", page_title: "Elevating Building Façades With Greenlam Exterior Clads: Style, Durability, And Sustainability - WFM Media", desc: "Greenlam Clads: Elevate facades with style, durability, & sustainability. HPL exterior cladding resists weather, UV, & more. 40+ designs, 12-year warranty.", img: "https://wfmmedia.com/wp-content/uploads/2025/04/Elevating-Building-Facades-With-Greenlam-Exterior-Clads-Style-Durability-And-Sustainability.webp"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

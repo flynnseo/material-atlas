@@ -23,13 +23,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polylactic_acid
-apply_links:
-  - {title: "FRANCA Studio PLA 출력 조명·화병", url: "https://thedesignfiles.net/2025/03/studio-visit-franca-studio"}
-  - {title: "자하 하디드 PLA 3D프린트 라이즈 체어", url: "https://www.zaha-hadid.com/?p=11689"}
-  - {title: "Ennead Lab PLA 르완 램프", url: "https://ennead.com/?p=5378"}
 image: "https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2025/03/FrancaStudio-tdf-creative4-2200x2860.jpg"
 image_credit: "적용 사례 사진 · thedesignfiles.net (원본 링크)"
 image_source: "https://thedesignfiles.net/2025/03/studio-visit-franca-studio"
+apply_links:
+  - {title: "FRANCA Studio PLA 출력 조명·화병", url: "https://thedesignfiles.net/2025/03/studio-visit-franca-studio", page_title: "This Designer Makes Very Nice 3D-Printed Homewares", desc: "Not many designers have made 3D-printed homewares look as elegant and elevated as Brisbane-based FRANCA Studio.", img: "https://thedesignfiles.wpenginepowered.com/wp-content/uploads/2025/03/FrancaStudio-tdf-creative4-2200x2860.jpg"}
+  - {title: "자하 하디드 PLA 3D프린트 라이즈 체어", url: "https://www.zaha-hadid.com/?p=11689", page_title: "Just a moment..."}
+  - {title: "Ennead Lab PLA 르완 램프", url: "https://ennead.com/?p=5378", page_title: "Lewan Lamp - ennead", desc: "Inspired by the craft, depth, and beauty of cast glass and the design precedents of earlier cutting-edge materials like Bakelite, the Lewan leverages a zero waste process and the fabrication marks of 3D printing to turn ", img: "https://ennead.com/wp-content/uploads/2026/02/Image-003_C.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

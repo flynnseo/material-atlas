@@ -23,12 +23,12 @@ hands_on: false
 sources:
   - https://ferrofluid.ferrotec.com/
   - https://en.wikipedia.org/wiki/Ferrofluid
-apply_links:
-  - {title: "Morpho Towers 페로플루이드 설치작품", url: "https://digitalartarchive.at/database/work/2230"}
-  - {title: "Sam Lewitt 'Fluid Employment' 휘트니 비엔날레", url: "https://vernissage.tv/2012/08/17/sam-lewitt-fluid-employment-2012/"}
 image: "https://digitalartarchive.at/typo3conf/ext/va_style/Resources/Public/Images/v2/wide.webp?1690888931"
 image_credit: "적용 사례 사진 · digitalartarchive.at (원본 링크)"
 image_source: "https://digitalartarchive.at/database/work/2230"
+apply_links:
+  - {title: "Morpho Towers 페로플루이드 설치작품", url: "https://digitalartarchive.at/database/work/2230", page_title: "Morpho Tower", desc: "The Archive of Digital Art", img: "https://digitalartarchive.at/typo3conf/ext/va_style/Resources/Public/Images/v2/wide.webp?1690888931"}
+  - {title: "Sam Lewitt 'Fluid Employment' 휘트니 비엔날레", url: "https://vernissage.tv/2012/08/17/sam-lewitt-fluid-employment-2012/", page_title: "Sam Lewitt: Fluid Employment (2012) | VernissageTV Art TV"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

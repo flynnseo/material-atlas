@@ -18,12 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Santa Ana 카운티 오피스 시공", url: "https://americanwindowfilm.com/en/3m-daylight-redirecting-film-santa-ana-california"}
-  - {title: "3M 데이라이팅 솔루션 페이지", url: "https://3m.com.sg/3M/en_SG/building-window-solutions-sg/solutions/daylighting"}
 image: "https://americanwindowfilm.com/hubfs/3M-Daylight-Redirecting-Film-Santa-Ana-California.jpg"
 image_credit: "적용 사례 사진 · americanwindowfilm.com (원본 링크)"
 image_source: "https://americanwindowfilm.com/en/3m-daylight-redirecting-film-santa-ana-california"
+apply_links:
+  - {title: "Santa Ana 카운티 오피스 시공", url: "https://americanwindowfilm.com/en/3m-daylight-redirecting-film-santa-ana-california", page_title: "3M Daylight Redirecting Film | Santa Ana, California", desc: "American Window Film installed 3M Daylight Redirecting Film in Santa Ana, California! The customer wanted to block out harsh sun coming through the windows!", img: "https://americanwindowfilm.com/hubfs/3M-Daylight-Redirecting-Film-Santa-Ana-California.jpg"}
+  - {title: "3M 데이라이팅 솔루션 페이지", url: "https://3m.com.sg/3M/en_SG/building-window-solutions-sg/solutions/daylighting"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

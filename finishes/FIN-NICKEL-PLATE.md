@@ -26,7 +26,7 @@ image: "assets/img/FIN-NICKEL-PLATE.jpg"
 image_credit: "Paul from Enschede, The Netherlands · CC BY-SA 2.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Nickel_Nodule_obtained_by_Electroplating.jpg"
 apply_links:
-  - {title: "니켈 도금 바 선반·샤워 프레임 제작 사례", url: "https://andrewnebbettdesigns.co.uk/nickel-plate"}
+  - {title: "니켈 도금 바 선반·샤워 프레임 제작 사례", url: "https://andrewnebbettdesigns.co.uk/nickel-plate", page_title: "Bespoke Nickel Plated Furniture - Andrew Nebbett Designs", desc: "Bespoke nickel-plated furniture by Andrew Nebbett Designs. Custom shelving, library ladders, rails, and bar shelves with a luxurious, warm silver finish."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

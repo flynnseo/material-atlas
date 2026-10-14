@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://mx3d.com
-apply_links:
-  - {title: "Schindler 3D 프린팅 엘리베이터 카", url: "https://group.schindler.com/en/media/stories/when-engineering-meets-arts.html"}
-  - {title: "Nike 본사 MX3D Oregon Dragon 벤치", url: "https://www.3dnatives.com/en/oregon-dragon-bench-3d-printed-bench-120420224/"}
 image: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2022/04/bench_cover.jpg"
 image_credit: "적용 사례 사진 · 3dnatives.com (원본 링크)"
 image_source: "https://www.3dnatives.com/en/oregon-dragon-bench-3d-printed-bench-120420224/"
+apply_links:
+  - {title: "Schindler 3D 프린팅 엘리베이터 카", url: "https://group.schindler.com/en/media/stories/when-engineering-meets-arts.html", page_title: "When engineering meets art", desc: "The 3D-printed elevator car has arrived, and it looks nothing short of stunning.", img: "https://group.schindler.com/content/dam/website/group/images/stories/3d-printed-elevator-3.jpg/_jcr_content/renditions/original.image_file.1120.630.file/3d-printed-elevator-3.jpg"}
+  - {title: "Nike 본사 MX3D Oregon Dragon 벤치", url: "https://www.3dnatives.com/en/oregon-dragon-bench-3d-printed-bench-120420224/", page_title: "Oregon Dragon Bench, MX3D's Nearly 33-Foot 3D Printed Metal Seat - 3Dnatives", desc: "The Oregon Dragon Bench, located at the Nike World headquartes, is a metal stucture that was made entirely by using 3D printing technology.", img: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2022/04/bench_cover.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,12 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electroluminescent_wire
-apply_links:
-  - {title: "EL와이어 야외 공간 아트 설치", url: "https://ellumiglow.com/blogs/blog-page/spring-installations-el-wire-art-for-outdoor-spaces"}
-  - {title: "EL와이어 설치 전시 (Rhizome DC)", url: "https://www.rhizomedc.org/new-events/2017/3/8/d617o1t5l2qqqpm1ne850hw8xuf2i0"}
 image: "https://ellumiglow.com/cdn/shop/articles/el_wire_garden.png?v=1766002249&width=1200"
 image_credit: "적용 사례 사진 · ellumiglow.com (원본 링크)"
 image_source: "https://ellumiglow.com/blogs/blog-page/spring-installations-el-wire-art-for-outdoor-spaces"
+apply_links:
+  - {title: "EL와이어 야외 공간 아트 설치", url: "https://ellumiglow.com/blogs/blog-page/spring-installations-el-wire-art-for-outdoor-spaces", page_title: "Spring Installations: EL Wire Art for Outdoor Spaces", desc: "As the days grow longer and the air turns warmer, spring becomes the perfect season to bring creativity outside. Whether you’re planning a public art display, enhancing a garden path, or designing an event experience, EL", img: "https://ellumiglow.com/cdn/shop/articles/el_wire_garden.png?v=1766002249&width=1200"}
+  - {title: "EL와이어 설치 전시 (Rhizome DC)", url: "https://www.rhizomedc.org/new-events/2017/3/8/d617o1t5l2qqqpm1ne850hw8xuf2i0", page_title: "Electroluminescent Wire Workshop — Rhizome DC", desc: "This workshop is an introduction to working with Electroluminescent wire aka “cool neon\". El-wire emits a neon like glow but doesn’t get hot. It is also quite flexible making it an affordable neon element that can be add", img: "http://static1.squarespace.com/static/54f7644de4b0b5b2f2b652f0/54f770b7e4b0602596ca61d4/58c07c1b579fb389a5063772/1489101982081/Screen+Shot+2017-03-08+at+4.46.56+PM.png?format=1500w"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

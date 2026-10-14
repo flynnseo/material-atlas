@@ -23,6 +23,9 @@ sources: []
 image: "assets/img/MTL-LT-LIGHTPIPE.jpg"
 image_credit: "KVDP · CC0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3ALight%20tube%20daylighting%20system.png"
+apply_links:
+  - {title: "상파울루 Triptyque 파이프 라이트 설치", url: "https://www.dezeen.com/2008/11/09/pipe-light-by-triptyque/", page_title: "Just a moment..."}
+  - {title: "Vibia 튜브 펜던트 시스템", url: "https://www.vibia.com/us/usa/pendants-tube-pendant", page_title: "Vibia | Tube", desc: "Tube; hanging lamp; Ichiro Iwasaki"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

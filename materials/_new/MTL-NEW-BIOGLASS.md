@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/bio-glass/
-apply_links:
-  - {title: "Bio-Glass 재활용 유리 벽·카운터 제품", url: "https://archello.com/product/bio-glass"}
-  - {title: "Coverings ETC Urban Fossil Glacier Shards 표면", url: "https://hospitalitydesign.com/?p=96534"}
 image: "https://archello.s3.eu-central-1.amazonaws.com/images/2015/12/08/BioGlass-Spa-bath.1506060877.4117.jpg"
 image_credit: "적용 사례 사진 · archello.com (원본 링크)"
 image_source: "https://archello.com/product/bio-glass"
+apply_links:
+  - {title: "Bio-Glass 재활용 유리 벽·카운터 제품", url: "https://archello.com/product/bio-glass", page_title: "Bio Glass by Coverings Etc | Archello", desc: "Bio-Glass is a Future Friendly™ material made of 100% recycled glass and 100% recyclable. No colorants or additives. A truly “ecologically intelligent product” (MBDC 2008). Used for work tops, vanities, walls, ext...", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2015/12/08/BioGlass-Spa-bath.1506060877.4117.jpg"}
+  - {title: "Coverings ETC Urban Fossil Glacier Shards 표면", url: "https://hospitalitydesign.com/?p=96534", page_title: "Error 403 Forbidden"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,9 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_strip_light
-image: "assets/img/MTL-LT-PIXLED.jpg"
-image_credit: "Matti Blume · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Passenger_Experience_Week_2018%2C_Hamburg_%281X7A3748%29.jpg"
+image: "https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg"
+image_credit: "적용 사례 사진 · hackaday.com (원본 링크)"
+image_source: "https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/"
+apply_links:
+  - {title: "WS2812 928개 건축 벽면 LED 설치", url: "https://hackaday.com/2026/08/02/architectural-led-install-shows-how-to-do-it-with-style/", page_title: "Architectural LED Install Shows How To Do It With Style", desc: "Anyone can string up some LED string lights in a space with mixed results. However, if you want to create a lighting environment that’s classy and stylish, it takes a little more finesse. [ip…", img: "https://hackaday.com/wp-content/uploads/2026/07/IMG_4496-e1785554235185.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

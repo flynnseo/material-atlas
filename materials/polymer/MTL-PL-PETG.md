@@ -26,13 +26,13 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyethylene_terephthalate_glycol
   - https://www.curbellplastics.com/wp-content/uploads/2022/11/PETG-Data-Sheet.pdf
-apply_links:
-  - {title: "하버드 GSD 코모레비 PETG 파빌리온", url: "https://www.gsd.harvard.edu/?p=21963"}
-  - {title: "뉴욕 롱샴 매장 PETG 계단 난간", url: "https://www.barbourproductsearch.info/longchamp-store-new-york-news009610.html"}
-  - {title: "PETG 펠릿 3D프린트 가구 적용", url: "https://wiki.polymaker.com/polymaker-products/polycore-tm-pellets/applications/indoor-decoration"}
 image: "https://wiki.polymaker.com/~gitbook/ogimage/rAB3vq3K5ARvvpkoPqYO"
 image_credit: "적용 사례 사진 · wiki.polymaker.com (원본 링크)"
 image_source: "https://wiki.polymaker.com/polymaker-products/polycore-tm-pellets/applications/indoor-decoration"
+apply_links:
+  - {title: "하버드 GSD 코모레비 PETG 파빌리온", url: "https://www.gsd.harvard.edu/?p=21963", page_title: "Page not found - Harvard Graduate School of Design"}
+  - {title: "뉴욕 롱샴 매장 PETG 계단 난간", url: "https://www.barbourproductsearch.info/longchamp-store-new-york-news009610.html", page_title: "Longchamp Store, New York", desc: "Longchamp Store, New York"}
+  - {title: "PETG 펠릿 3D프린트 가구 적용", url: "https://wiki.polymaker.com/polymaker-products/polycore-tm-pellets/applications/indoor-decoration", page_title: "Indoor Decoration | Polymaker Wiki", img: "https://wiki.polymaker.com/~gitbook/ogimage/rAB3vq3K5ARvvpkoPqYO"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

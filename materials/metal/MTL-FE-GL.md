@@ -20,9 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-FE-GL.jpg"
-image_credit: "Pinqui · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AGalvalume%20sheetmetal%20surface.jpg"
+image: "https://archello.s3.eu-central-1.amazonaws.com/images/2021/05/31/design-associates-nakamura-house-in-sumiregaoka-private-houses-archello.1622443820.9645.jpg"
+image_credit: "적용 사례 사진 · archello.com (원본 링크)"
+image_source: "https://archello.com/project/house-in-sumiregaoka"
+apply_links:
+  - {title: "일본 Sumiregaoka 주택 갈바륨 외장", url: "https://archello.com/project/house-in-sumiregaoka", page_title: "House in Sumiregaoka | Design Associates Nakamura | Archello", desc: "The roof is divided into small volumes that harmonize with the city. The slope direction of each roof is varied to create a continuity with the cityscape. Ga...", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2021/05/31/design-associates-nakamura-house-in-sumiregaoka-private-houses-archello.1622443820.9645.jpg"}
+  - {title: "Eye Center South 갈바륨 스탠딩심 지붕", url: "https://designandbuildwithmetal.com/featured-projects/eye-center-south", page_title: "Eye Center South", desc: "Metal roofing, metal walls & metal buildings projects case studies; new construction and retrofit. Manufacturer and product info in every article."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

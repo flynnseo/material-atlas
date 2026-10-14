@@ -24,7 +24,7 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Nylon_6
 apply_links:
-  - {title: "Aquafil PA6 폴리머, 가구·디자인 적용", url: "https://www.aquafil.com/products/polymers/"}
+  - {title: "Aquafil PA6 폴리머, 가구·디자인 적용", url: "https://www.aquafil.com/products/polymers/", page_title: "Aquafil's Engineering Plastic Solutions | Aquafil", desc: "Aquafil is a global leader in the production of Nylon 6 and synthetic polymers and fibers, high performance for industrial and design application."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

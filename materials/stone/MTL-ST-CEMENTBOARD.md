@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fibre_cement
-image: "assets/img/MTL-ST-CEMENTBOARD.jpg"
-image_credit: "HelenOnline · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Corrugated_fibre_cement_roofing_2.jpg"
+image: "https://www.swisspearl.com/uploads/media/1200x630/00/4550-Raiffeisenbank_Vouvry_CH_Photo_06.jpg?v=94-0"
+image_credit: "적용 사례 사진 · swisspearl.com (원본 링크)"
+image_source: "https://www.swisspearl.com/en-ie/modula"
+apply_links:
+  - {title: "섬유시멘트 파사드 대표 사례 9선", url: "https://www.archdaily.com/904642/whatsapp:/send", page_title: "Fiber Cement Facades in Architecture: 9 Notable Examples", desc: "Learn how to build light and modular facades with a rustic and monolithic appearance.", img: "https://images.adsttc.com/media/images/5bbf/bf63/f197/cc3c/6a00/04df/large_jpg/Lighthouse_0003.jpg?1539293021"}
+  - {title: "스위스펄 모듈라 섬유시멘트 파사드", url: "https://www.swisspearl.com/en-ie/modula", page_title: "Fibre cement facade boards| Modula", desc: "Fine outline for durable protection Modula lives from the fine, architectural rhythm. Available in two lengths, the slender tile strips are laid as a slip-on covering and can be arranged with either continuous or stagger", img: "https://www.swisspearl.com/uploads/media/1200x630/00/4550-Raiffeisenbank_Vouvry_CH_Photo_06.jpg?v=94-0"}
+  - {title: "섬유시멘트 파사드 디자인 가이드", url: "https://www.archdaily.com/1011851/design-guide-working-with-fiber-cement-facades/", page_title: "Design Guide: Working with Fiber Cement Facades", desc: "From functional considerations to decorative roles, fiber cement panels prove adaptable in addressing diverse design needs.", img: "https://images.adsttc.com/media/images/6597/6519/9936/3f1b/2dce/f973/large_jpg/design-guide-working-with-fiber-cement-facades_1.jpg?1704420662"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

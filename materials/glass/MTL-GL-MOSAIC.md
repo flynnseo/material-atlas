@@ -20,13 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "미니애폴리스 Masa 레스토랑 유리 모자이크", url: "https://www.stoneworld.com/articles/86329-glass-mosaics-create-a-festive-spirit-for-dining"}
-  - {title: "뉴욕 욕실 수련 유리 모자이크 벽화", url: "https://mecartworks.com/?p=21611"}
-  - {title: "에자리 유리 모자이크 인테리어", url: "https://www.ezarri.com/en/interior-design"}
 image: "https://mecartworks.com/wp-content/uploads/2019/09/FOLHA.jpg"
 image_credit: "적용 사례 사진 · mecartworks.com (원본 링크)"
 image_source: "https://mecartworks.com/?p=21611"
+apply_links:
+  - {title: "미니애폴리스 Masa 레스토랑 유리 모자이크", url: "https://www.stoneworld.com/articles/86329-glass-mosaics-create-a-festive-spirit-for-dining", page_title: "Just a moment..."}
+  - {title: "뉴욕 욕실 수련 유리 모자이크 벽화", url: "https://mecartworks.com/?p=21611", page_title: "Folha Glass Tile Wall Motifs - MEC Artworks", desc: "Folha Glass Tiles: Leaf-like motifs in earthy greens with light outlines. Smooth, reflective glass. Natural & calming design. Explore this wall art now.", img: "https://mecartworks.com/wp-content/uploads/2019/09/FOLHA.jpg"}
+  - {title: "에자리 유리 모자이크 인테리어", url: "https://www.ezarri.com/en/interior-design", page_title: "Mosaic Tiles for Interior Design", desc: "Discover the many mosaic interior design possibilities with Ezarri."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,6 +23,9 @@ sources: []
 image: "assets/img/MTL-PM-PERF.jpg"
 image_credit: "Saeed.mahmoudi217 · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3APerforated-Sheet-Metal-min.png"
+apply_links:
+  - {title: "룬드 사무실 증축 타공 금속 파사드", url: "https://www.dezeen.com/2015/07/20/perforated-metal-concertina-facade-office-extension-lund-johan-sundberg-arkitektur-blasberg-andreasson-arkitekter/", page_title: "Just a moment..."}
+  - {title: "타공 금속 건축 프로젝트 4선", url: "https://architectureanddesign.com.au/suppliers/locker-group/perforated-metal-architecture-4-amazing-projects-f", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

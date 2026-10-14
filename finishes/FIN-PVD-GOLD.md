@@ -12,12 +12,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
-apply_links:
-  - {title: "쿠웨이트 할베이니콜스 골드 PVD 파사드", url: "https://www.doublestonesteel.com/case-studies/harvey-nichols/"}
-  - {title: "런던 나이츠브리지 백화점 에스컬레이터홀", url: "https://www.johndesmond.com/case-studies/returning-a-knightsbridge-stores-escalator-hall-to-a-former-glory/"}
 image: "https://www.dssel.com/wp-content/uploads/2017/06/caseStudy-harrods-01.jpg"
 image_credit: "적용 사례 사진 · johndesmond.com (원본 링크)"
 image_source: "https://www.johndesmond.com/case-studies/returning-a-knightsbridge-stores-escalator-hall-to-a-former-glory/"
+apply_links:
+  - {title: "쿠웨이트 할베이니콜스 골드 PVD 파사드", url: "https://www.doublestonesteel.com/case-studies/harvey-nichols/", page_title: "Arabian gold stainless steel façade for Harvey Nichols, The Avenues, Kuwait – Double Stone Steel"}
+  - {title: "런던 나이츠브리지 백화점 에스컬레이터홀", url: "https://www.johndesmond.com/case-studies/returning-a-knightsbridge-stores-escalator-hall-to-a-former-glory/", page_title: "Returning a Knightsbridge Store’s escalator hall to a former glory", desc: "The upgraded escalator hall, Knightsbridge Store, London, UKArchitect: Make ArchitectsPVD coloured stainless steel trims: Double Stone Steel Europe Ltd", img: "https://www.dssel.com/wp-content/uploads/2017/06/caseStudy-harrods-01.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

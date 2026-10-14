@@ -23,8 +23,8 @@ image: "assets/img/MTL-CP-MODBOARD.jpg"
 image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
 apply_links:
-  - {title: "Base Materials 모델링·스타일링 보드", url: "https://base-materials.com/?p=624"}
-  - {title: "PU 중밀도 모델보드 제품", url: "https://www.easycomposites.co.uk/pu-medium-density-model-board"}
+  - {title: "Base Materials 모델링·스타일링 보드", url: "https://base-materials.com/?p=624", page_title: "Error 403 Forbidden"}
+  - {title: "PU 중밀도 모델보드 제품", url: "https://www.easycomposites.co.uk/pu-medium-density-model-board", page_title: "PU240 Polyurethane Model Board; 50mm, 100mm - Easy Composites", desc: "240kg/m³ PU modelboard ideal for CNC or hand shaped composite patterns. 50mm & 100mm thickness in a range of sheet sizes. UK next-day & fast delivery worldwide."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

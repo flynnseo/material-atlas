@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/mvrdv-tiffany-beijing-flagship-rippling-facade-translucent-glass-fins-01-13-2026/
-apply_links:
-  - {title: "MVRDV 베이징 티파니 유리 핀 파사드", url: "https://mvrdv.com/news/4829/mvrdv-designs-facade-of-glass-fins-with-fluid-curves-for-tiffany--co-flagship-store-in-beijing"}
-  - {title: "티파니 베이징 파사드 (ArchEyes)", url: "https://archeyes.com/mvrdv-designs-tiffany-co-flagship-facade-with-curved-glass-fins-in-beijing/"}
-  - {title: "티파니 베이징 유리 핀 (Mix Interiors)", url: "https://www.mixinteriors.com/project/mvrdv-creates-an-ethereal-glass-fin-facade-for-tiffany-beijing/"}
 image: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/01/04_MVRDV_Tiffany-Beijing_%E2%95%95Tiffany-Co.jpg?fit=2000%2C1500&ssl=1"
 image_credit: "적용 사례 사진 · archeyes.com (원본 링크)"
 image_source: "https://archeyes.com/mvrdv-designs-tiffany-co-flagship-facade-with-curved-glass-fins-in-beijing/"
+apply_links:
+  - {title: "MVRDV 베이징 티파니 유리 핀 파사드", url: "https://mvrdv.com/news/4829/mvrdv-designs-facade-of-glass-fins-with-fluid-curves-for-tiffany--co-flagship-store-in-beijing", page_title: "MVRDV designs façade of glass fins with fluid curves for Tiffany & Co. flagship store in Beijing", desc: "A new Tiffany &amp; Co. flagship store has opened in the Taikoo-Li Sanlitun commercial neighbourhood in Beijing, with a façade of curving, translucent glass fi...", img: "https://mvrdv.com/media/uploads/01_MVRDV_Tiffany Beijing_©Tiffany & Co.jpg"}
+  - {title: "티파니 베이징 파사드 (ArchEyes)", url: "https://archeyes.com/mvrdv-designs-tiffany-co-flagship-facade-with-curved-glass-fins-in-beijing/", page_title: "MVRDV Designs Tiffany & Co. Flagship Façade with Curved Glass Fins in Beijing | ArchEyes", desc: "Discover how MVRDV transforms Tiffany & Co.’s Beijing flagship with a sculptural façade of curved glass fins that blend luxury branding with contemporary architectural expression.", img: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/01/04_MVRDV_Tiffany-Beijing_%E2%95%95Tiffany-Co.jpg?fit=2000%2C1500&ssl=1"}
+  - {title: "티파니 베이징 유리 핀 (Mix Interiors)", url: "https://www.mixinteriors.com/project/mvrdv-creates-an-ethereal-glass-fin-facade-for-tiffany-beijing/", page_title: "MVRDV creates an ethereal glass fin façade for Tiffany Beijing | Mix Interiors", desc: "Marking its fifth store for the jewellery titan, MVRDV's facade for Tiffany Beijing is inspired by the fluid, dynamic pieces by designer Elsa Peretti.", img: "https://www.mixinteriors.com/content/uploads/2026/02/mix-interiors-architecture-retail-design-mvrdv-tiffany-beijing-facade-commercial-interiors-08.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

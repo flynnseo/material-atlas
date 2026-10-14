@@ -21,12 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Hons 매장 거울 벽 인테리어", url: "https://frameweb.com/project/hons"}
-  - {title: "펜타그램 로버트 웰치 바스 매장", url: "https://pentagram.com/work/robert-welch-bath/story"}
 image: "https://d1tm14lrsghf7q.cloudfront.net/public/media/50549/conversions/DSCF0116_Zware-Jongens_Optiek-Hons_Photo-by-Tibods-thumb.jpg"
 image_credit: "적용 사례 사진 · frameweb.com (원본 링크)"
 image_source: "https://frameweb.com/project/hons"
+apply_links:
+  - {title: "Hons 매장 거울 벽 인테리어", url: "https://frameweb.com/project/hons", page_title: "Hons", desc: "Frameweb", img: "https://d1tm14lrsghf7q.cloudfront.net/public/media/50549/conversions/DSCF0116_Zware-Jongens_Optiek-Hons_Photo-by-Tibods-thumb.jpg"}
+  - {title: "펜타그램 로버트 웰치 바스 매장", url: "https://pentagram.com/work/robert-welch-bath/story", page_title: "Robert Welch, Bath", desc: "Interior design for the retailer specializing in modern silverware designs.", img: "https://pentagram-production.imgix.net/wp/592ca015d43fc/rw-1.jpg?auto=compress%2Cformat&crop=entropy&fit=crop&fm=jpg&h=470&q=80&rect=0%2C47%2C1280%2C798&w=900&s=38e2c4e537830e97b7fbc27a78f80f4a"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,11 +22,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
   - https://en.wikipedia.org/wiki/BoPET
-apply_links:
-  - {title: "세르주페라리 본사 rPET 대형 파사드", url: "https://www.archify.com/au/product/serge-ferrari-au/updates/detail/50-years-of-commitment-a-monumental-facade-printed-in-the-serge-ferrari-group-colors"}
 image: "https://image-apac.archify.com/catalog/supplier_updates/s/m2st2s3x.jpg"
 image_credit: "적용 사례 사진 · archify.com (원본 링크)"
 image_source: "https://www.archify.com/au/product/serge-ferrari-au/updates/detail/50-years-of-commitment-a-monumental-facade-printed-in-the-serge-ferrari-group-colors"
+apply_links:
+  - {title: "세르주페라리 본사 rPET 대형 파사드", url: "https://www.archify.com/au/product/serge-ferrari-au/updates/detail/50-years-of-commitment-a-monumental-facade-printed-in-the-serge-ferrari-group-colors", page_title: "[50 Years of Commitment] A Monumental Facade Printed in the Serge Ferrari Group Colors", desc: "To celebrate the 50th anniversary of the Serge Ferrari Group, a monumental facade was installed on one of the buildings at the Group", img: "https://image-apac.archify.com/catalog/supplier_updates/s/m2st2s3x.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

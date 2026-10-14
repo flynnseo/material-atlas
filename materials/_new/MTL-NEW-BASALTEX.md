@@ -23,12 +23,12 @@ sources:
   - https://www.basaltex.com/
   - https://materialdistrict.com/material/basalt-woven-textile/
   - https://en.wikipedia.org/wiki/Basalt_fiber
-apply_links:
-  - {title: "가르다 호수 빌라 외부 현무암 직물 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda"}
-  - {title: "Stone Web 현무암 필라멘트 공간 시스템", url: "https://rapp-unger.com/stone-web-expanding-space/"}
 image: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/66a77de6651e58c375094ce1_____669f8956304229f4bec794b3_0_COPERTINA.webp"
 image_credit: "적용 사례 사진 · i-mesh.eu (원본 링크)"
 image_source: "https://www.i-mesh.eu/projects/villa-v-lake-garda"
+apply_links:
+  - {title: "가르다 호수 빌라 외부 현무암 직물 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda", page_title: "Villa V | Lake Garda", desc: "In the breathtaking context of Lake Garda stands an amazing villa with a swimming pool. Davide Montanaro of Studiodsgn has created special panels for the external annexes where the furnishings are stored during the winte", img: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/66a77de6651e58c375094ce1_____669f8956304229f4bec794b3_0_COPERTINA.webp"}
+  - {title: "Stone Web 현무암 필라멘트 공간 시스템", url: "https://rapp-unger.com/stone-web-expanding-space/", page_title: "Expanding Space - RappUnger", img: "https://rapp-unger.com/wp-content/uploads/2018/12/stone-webkl.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

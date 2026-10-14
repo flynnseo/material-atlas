@@ -11,13 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Epoxy
-apply_links:
-  - {title: "코블렌츠 마트 컬러 에폭시 바닥 안내 시스템", url: "https://www.remmers.co.uk/en_GB/references/edeka-goerzen-koblenz-germany/detail/1032"}
-  - {title: "의류 매장 하이빌드 에폭시 바닥", url: "https://duraamen.com/blog/high-build-epoxy-coatings/"}
-  - {title: "텍사스 매장 메탈릭 에폭시 바닥", url: "https://duraamen.com/blog/metallic-epoxy-coatings-in-a-nutrition-store-in-texas"}
 image: "https://duraamen.com/wp-content/uploads/2021/01/IMG_2476-1-scaled.jpg"
 image_credit: "적용 사례 사진 · duraamen.com (원본 링크)"
 image_source: "https://duraamen.com/blog/metallic-epoxy-coatings-in-a-nutrition-store-in-texas"
+apply_links:
+  - {title: "코블렌츠 마트 컬러 에폭시 바닥 안내 시스템", url: "https://www.remmers.co.uk/en_GB/references/edeka-goerzen-koblenz-germany/detail/1032", page_title: "Edeka Goerzen, Koblenz, Germany", desc: "<p>The new Edeka store in Koblenz is a functional building with a large hall. Its spatial atmosphere is characterised by colourful design elements of the floor areas in pop art style. The special shop concept was the goa", img: "https://media.remmers.com/celum/export/zuschnitte/1200wz/43862.png"}
+  - {title: "의류 매장 하이빌드 에폭시 바닥", url: "https://duraamen.com/blog/high-build-epoxy-coatings/", page_title: "High Build Epoxy Coatings Specified in Clothing Store", desc: "Duraamen’s Perdure HBE, high build epoxy coating system has been specified in Los Angeles based Joe’s Jeans stores. This floor […]", img: "https://duraamen.com/wp-content/uploads/2021/01/DSC_0449-5-scaled.jpg"}
+  - {title: "텍사스 매장 메탈릭 에폭시 바닥", url: "https://duraamen.com/blog/metallic-epoxy-coatings-in-a-nutrition-store-in-texas", page_title: "Nutrition Store in Texas Uses Metallic Epoxy Coatings", desc: "Total Nutrition has an image to live up to…Right in the name, it says that their products cover “total” nutrition. […]", img: "https://duraamen.com/wp-content/uploads/2021/01/IMG_2476-1-scaled.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

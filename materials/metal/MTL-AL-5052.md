@@ -26,7 +26,7 @@ sources:
   - https://en.wikipedia.org/wiki/5052_aluminium_alloy
   - https://www.hobartbrothers.com/resources/technical-guides/aluminum-welding-guide/base-metal-heat-treatable-and-non-heat-treatable-alloys/
 apply_links:
-  - {title: "타공 알루미늄 파사드·사인 사례", url: "https://www.hendrickcorp.com/node/2976/"}
+  - {title: "타공 알루미늄 파사드·사인 사례", url: "https://www.hendrickcorp.com/node/2976/", page_title: "Perforated Metal Façade & Sign at Best Buy | Hendrick Mfg.", desc: "We work with national brands in creating their exterior store designs. One of example of this is the perforated metal façade & sign we made for Best Buy."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

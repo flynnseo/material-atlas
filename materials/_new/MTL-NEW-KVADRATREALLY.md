@@ -21,7 +21,7 @@ hands_on: false
 sources:
   - https://www.kvadrat.dk/en/really
 apply_links:
-  - {title: "코펜하겐 Kvadrat 쇼룸 Really 보드 데스크", url: "https://www.dezeen.com/2017/12/02/bouroullec-brothers-kvadrat-copenhagen-showroom-white-transparency/amp/"}
+  - {title: "코펜하겐 Kvadrat 쇼룸 Really 보드 데스크", url: "https://www.dezeen.com/2017/12/02/bouroullec-brothers-kvadrat-copenhagen-showroom-white-transparency/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

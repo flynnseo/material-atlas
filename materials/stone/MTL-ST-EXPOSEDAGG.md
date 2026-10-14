@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Concrete
-image: "assets/img/MTL-ST-EXPOSEDAGG.jpg"
-image_credit: "Ablazejo · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Bloczek_betonowy.jpg"
+image: "https://www.designboom.com/twitterimages/uploads/2023/11/three-exposed-concrete-facades-corpo-atelier-portugal-designboom-1200-1.jpg"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
+image_source: "https://designboom.com/architecture/corpo-atelier-three-exposed-concrete-stone-facades-portugal-11-09-2023"
+apply_links:
+  - {title: "페낭 쯔치 교육센터 골재노출 파사드", url: "https://ascconline.org/Decorative-Concrete/Awards-Program/DCC-Project-Award-Winners/articleType/ArticleView/articleId/152/Tzu-Chi-Education-Center", page_title: "Tzu Chi Education Center", desc: "2020 DCC Award Winner Tzu Chi Education Center, Bomanite Malaysia Sdn Bhd First Place: Vertical/Facades, Over 5,000 SF The Tzu Chi Education Center in Penang, Malaysia, is the result of a global foundation whose mission ", img: "https://ascconline.org/Portals/ASCC/Thumbnail_image/680/13486754-3887-4ab2-8b87-5ddc313b6dbd.jpg"}
+  - {title: "포르투갈 노출 콘크리트·석재 파사드 주택", url: "https://designboom.com/architecture/corpo-atelier-three-exposed-concrete-stone-facades-portugal-11-09-2023", page_title: "corpo atelier unveils three exposed concrete and stone facades in portugal", img: "https://www.designboom.com/twitterimages/uploads/2023/11/three-exposed-concrete-facades-corpo-atelier-portugal-designboom-1200-1.jpg"}
+  - {title: "덴버 히스토리 콜로라도 센터 골재노출", url: "https://bomanite.com/projectprofile/history-colorado-center/", page_title: "History Colorado Center | Bomanite"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

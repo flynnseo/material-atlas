@@ -22,6 +22,8 @@ sources:
 image: "assets/img/MTL-ST-GRANITE.jpg"
 image_credit: "The stone gate · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Bianco_Sardo_Granit_mit_polierter_Oberfl%C3%A4che.jpg"
+apply_links:
+  - {title: "더블린 트리니티 롱룸 허브 화강석", url: "https://levantina.com/en/project/trinity-long-room-hub"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

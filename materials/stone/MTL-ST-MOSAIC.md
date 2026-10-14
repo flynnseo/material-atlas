@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Mosaic
-image: "assets/img/MTL-ST-MOSAIC.jpg"
-image_credit: "AnonymousUnknown author · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:MosaicEpiphany-of-Dionysus.jpg"
+image: "http://www.fireclaytile.com/cdn/shop/files/fc-cover.jpg?v=1777073974&width=2048"
+image_credit: "적용 사례 사진 · fireclaytile.com (원본 링크)"
+image_source: "https://www.fireclaytile.com/custom-mosaic-tile-2"
+apply_links:
+  - {title: "파이어클레이 체커보드 모자이크 욕실 바닥", url: "https://www.fireclaytile.com/custom-mosaic-tile-2", page_title: "Custom Mosaic Tile", desc: "Custom Mosaic Tile", img: "http://www.fireclaytile.com/cdn/shop/files/fc-cover.jpg?v=1777073974&width=2048"}
+  - {title: "플로리다 주택 모자이크 타일 시공", url: "https://www.yourobserver.com/news/2014/feb/05/mosaic-masterpiece/", page_title: "Mosaic masterpiece | Your Observer", desc: "The attention to detail in Stanley and Mary Williams' home on Bay Point Drive is indisputable, and the tile work provides the perfect example.", img: "https://media.yourobserver.com/img/photos/2022/05/10/photo-1-32021-20140204140830_r1080x720.jpg?a5a8e335434cfe3a93dc299de6ea435221e0bf0d"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

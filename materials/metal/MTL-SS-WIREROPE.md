@@ -23,6 +23,9 @@ sources: []
 image: "assets/img/MTL-SS-WIREROPE.jpg"
 image_credit: "Spring9910 · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3AStainless%20steel%20wire%20rope.jpg"
+apply_links:
+  - {title: "모나시대 등 건축 스테인리스 케이블 시공", url: "https://www.tensile.com.au/?p=2062", page_title: "Stainless Steel Cable for Architectural and Artistic Use | Tensile Design & Construct", desc: "Stainless steel cable can be used in a wide variety of architectural projects to improve safety while looking very modern, sleek and minimalist."}
+  - {title: "건축 프로젝트 스테인리스 케이블 활용", url: "https://architectureanddesign.com.au/suppliers/tensile/stainless-steel-cables-for-architectural-projects", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

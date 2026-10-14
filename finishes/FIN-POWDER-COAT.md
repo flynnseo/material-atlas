@@ -11,13 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Powder_coating
-apply_links:
-  - {title: "DSV 본사 진주광 분체도장 파사드", url: "https://www.teknos.com/industrial-coatings/showroom/dsv/"}
-  - {title: "멜버른 A'Beckett Tower 분체도장 스크린", url: "https://architectureanddesign.com.au/suppliers/aaf-australian-aluminium-finishing/a-beckett-tower-completed-with-australian-alum-1"}
-  - {title: "게이츠헤드 주차장 분체도장 알루미늄 패널", url: "https://source.thenbs.com/case-study/gateshead-mscp-continuum-aluminium-panel-facade-system-and-aspect-rainscreen-cladding/bSABzNCpAENEfKyzQptLwz/iuhkWTNhxogh6EsxM7sfGf"}
 image: "https://www.teknos.com/globalassets/teknos.com/industrial-coatings/showroom/steel--aluminium/dsv_1920x1080.jpg"
 image_credit: "적용 사례 사진 · teknos.com (원본 링크)"
 image_source: "https://www.teknos.com/industrial-coatings/showroom/dsv/"
+apply_links:
+  - {title: "DSV 본사 진주광 분체도장 파사드", url: "https://www.teknos.com/industrial-coatings/showroom/dsv/", page_title: "DSV", desc: "The white pearlescent decorative metallic effect powder coating, which was selected for the DSV project, provides a more vivid surface that captures the daylight and gives life to the entire facade.", img: "https://www.teknos.com/globalassets/teknos.com/industrial-coatings/showroom/steel--aluminium/dsv_1920x1080.jpg"}
+  - {title: "멜버른 A'Beckett Tower 분체도장 스크린", url: "https://architectureanddesign.com.au/suppliers/aaf-australian-aluminium-finishing/a-beckett-tower-completed-with-australian-alum-1", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
+  - {title: "게이츠헤드 주차장 분체도장 알루미늄 패널", url: "https://source.thenbs.com/case-study/gateshead-mscp-continuum-aluminium-panel-facade-system-and-aspect-rainscreen-cladding/bSABzNCpAENEfKyzQptLwz/iuhkWTNhxogh6EsxM7sfGf", page_title: "Error"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

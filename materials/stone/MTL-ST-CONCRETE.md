@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Concrete
-image: "assets/img/MTL-ST-CONCRETE.jpg"
-image_credit: "Ablazejo · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Bloczek_betonowy.jpg"
+image: "https://www.designboom.com/twitterimages/uploads/2020/06/herzog-de-meuron-uniqlo-tokyo-flagship-store-designboom-Fb.jpg"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/architecture/herzog-de-meuron-tokyo-department-store-flagship-uniqlo-branch-06-19-2020/"
+apply_links:
+  - {title: "발렌시아가 슬론스트리트 콘크리트 매장", url: "https://www.dezeen.com/2021/10/26/balenciaga-flagship-store-sloane-street-london-interiors/amp/", page_title: "Just a moment..."}
+  - {title: "헤르조그&드뫼롱 유니클로 긴자 노출 콘크리트", url: "https://www.designboom.com/architecture/herzog-de-meuron-tokyo-department-store-flagship-uniqlo-branch-06-19-2020/", page_title: "herzog & de meuron turns tokyo department store into flagship UNIQLO branch", img: "https://www.designboom.com/twitterimages/uploads/2020/06/herzog-de-meuron-uniqlo-tokyo-flagship-store-designboom-Fb.jpg"}
+  - {title: "이솝 상파울루 콘크리트 매장", url: "https://www.dezeen.com/2015/10/05/paulo-mendes-da-rocha-metro-associated-architects-aesop-first-store-sao-paulo-pastel-toned-flooring-raw-concrete-plinths/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,12 +22,12 @@ hands_on: false
 sources:
   - https://www.gauzy.com/
   - https://en.wikipedia.org/wiki/Smart_glass
-apply_links:
-  - {title: "사무실 유리 파티션 PDLC 필름 시공", url: "https://designbuybuild.co.uk/sonte-uk-smart-glass-film/"}
-  - {title: "Gauzy PDLC 스마트 필름 제품", url: "https://www.gauzy.com/pdlc-smart-film/"}
 image: "https://i0.wp.com/designbuybuild.co.uk/wp-content/uploads/2017/02/window_room-2.jpg?fit=1200%2C952&ssl=1"
 image_credit: "적용 사례 사진 · designbuybuild.co.uk (원본 링크)"
 image_source: "https://designbuybuild.co.uk/sonte-uk-smart-glass-film/"
+apply_links:
+  - {title: "사무실 유리 파티션 PDLC 필름 시공", url: "https://designbuybuild.co.uk/sonte-uk-smart-glass-film/", page_title: "SMART GLASS HAS GONE WIRELESS …….SONTE UK Smart Glass & Film specialise in switchable film installations", desc: "The technology known as Polymer Dispersed Liquid Crystal (PDLC) film is based on LCD crystals sandwiched between layers of PET plastic film. When a current is applied to the film the crystals are a…", img: "https://i0.wp.com/designbuybuild.co.uk/wp-content/uploads/2017/02/window_room-2.jpg?fit=1200%2C952&ssl=1"}
+  - {title: "Gauzy PDLC 스마트 필름 제품", url: "https://www.gauzy.com/pdlc-smart-film/", page_title: "PDLC Smart Film | Smart Window Film | Retrofit Smart Film - Gauzy", desc: "PDLC smart film technology—instantly switchable privacy film that turns glass from clear to frosted. Ideal for offices, stores and healthcare", img: "https://www.gauzy.com/wp-content/uploads/2021/03/lc-smart-glass-layers.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

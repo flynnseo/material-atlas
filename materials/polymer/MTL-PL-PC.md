@@ -27,9 +27,13 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polycarbonate
   - https://solutions.covestro.com/en/products/makrolon/makrolon-et3113_00892839-05121861
-image: "assets/img/MTL-PL-PC.jpg"
-image_credit: "Yerachmiel C · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ABottom%20of%2018.9%20Liter%20%285%20Gallon%29%20jug%20made%20by%20GREIF%2C%20plastic%20type%20PC%20%28polycarbonate%29.jpg"
+image: "https://images.adsttc.com/media/images/5f67/b34c/63c0/17fe/ca00/0001/large_jpg/jonathan_leijonhufvud_3.jpg?1600631623"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/948075"
+apply_links:
+  - {title: "멕시코시티 Yoozoo 매장 폴리카보네이트 벽", url: "https://www.dezeen.com/2025/02/13/worc-yoozoo-store-mexico-city/amp/", page_title: "Just a moment..."}
+  - {title: "온타리오 클리닉 반투명 PC 벽", url: "https://www.dezeen.com/2016/05/07/uufie-architecture-ontario-canada-1-4-medical-clinic-polycarbonate-walls/amp/", page_title: "Just a moment..."}
+  - {title: "실내 폴리카보네이트 반투명 건축 8선", url: "https://www.archdaily.com/948075", page_title: "Polycarbonate for Interiors: 8 Examples of Translucent Architecture Indoors", desc: "Polycarbonate, a type of lightweight, durable thermoplastic, is an excellent medium for creating partitions and diversifying interiors.", img: "https://images.adsttc.com/media/images/5f67/b34c/63c0/17fe/ca00/0001/large_jpg/jonathan_leijonhufvud_3.jpg?1600631623"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

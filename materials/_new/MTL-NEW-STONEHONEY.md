@@ -22,12 +22,12 @@ hands_on: false
 sources:
   - https://www.stoneply.com/
   - https://materialdistrict.com/material/mineral-system-honeycomb-panel/
-apply_links:
-  - {title: "Stonesize 경량 석재 패널 프로젝트 모음", url: "https://stonesizepanels.com/lightweight-stone-panels-projects"}
-  - {title: "Stonesize 허니콤 석재 인테리어 적용", url: "https://stonesizepanels.com/lightweight-stone-honeycomb-interiors"}
 image: "https://stonesizepanels.com/wp-content/uploads/2023/05/paneles-de-piedra-livianos.jpg"
 image_credit: "적용 사례 사진 · stonesizepanels.com (원본 링크)"
 image_source: "https://stonesizepanels.com/lightweight-stone-panels-projects"
+apply_links:
+  - {title: "Stonesize 경량 석재 패널 프로젝트 모음", url: "https://stonesizepanels.com/lightweight-stone-panels-projects", page_title: "Why choose lightweight stone panels for your projects?", desc: "Lightweight stone panels are an effective solution to use sizeable natural stone panels but with a reduced weight compared to traditional one", img: "https://stonesizepanels.com/wp-content/uploads/2023/05/paneles-de-piedra-livianos.jpg"}
+  - {title: "Stonesize 허니콤 석재 인테리어 적용", url: "https://stonesizepanels.com/lightweight-stone-honeycomb-interiors", page_title: "Lightweight natural stone panels for interiors | Honeycomb | Stonesize", desc: "With the lightweight natural stone panels for interiors Stonesize we achieve yields never seen before in natural products in interior design. Honeycomb...", img: "https://stonesizepanels.com/wp-content/uploads/2019/08/INTERIORS-STONESIZE.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

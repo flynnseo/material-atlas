@@ -22,6 +22,9 @@ sources:
 image: "assets/img/MTL-ST-LIMESTONE.jpg"
 image_credit: "Fernando Domínguez Cerejido · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:ElTorcal0408.jpg"
+apply_links:
+  - {title: "미타공 하우스 산타페 라임스톤 욕실", url: "https://archipro.com.au/article/santa-fe-limestone-flooring-for-warm-timeless-interiors-sareen-stone", page_title: "Just a moment..."}
+  - {title: "탄블드 라임스톤 클래식 인테리어", url: "https://www.stoneworld.com/articles/83824-tumbled-limestone-provides-a-classic-feel", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

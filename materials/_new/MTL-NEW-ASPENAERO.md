@@ -26,8 +26,8 @@ image: "assets/img/MTL-NEW-ASPENAERO.jpg"
 image_credit: "Courtesy NASA/JPL-Caltech · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Aerogel_hand.jpg"
 apply_links:
-  - {title: "Aspen 건축용 에어로젤 단열재 적용", url: "https://aerogel.com/?p=560"}
-  - {title: "Spaceloft 단열 블랭킷 건축 적용(Architect)", url: "https://www.architectmagazine.com/?p=86181"}
+  - {title: "Aspen 건축용 에어로젤 단열재 적용", url: "https://aerogel.com/?p=560", page_title: "Sustainable Building Materials | Aspen Aerogels", desc: "Spaceloft is a top choice to address heat loss in space-challenged environments because it has the highest thermal performance of any commercial insulation."}
+  - {title: "Spaceloft 단열 블랭킷 건축 적용(Architect)", url: "https://www.architectmagazine.com/?p=86181", page_title: "Attention Required!"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

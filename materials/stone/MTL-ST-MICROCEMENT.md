@@ -18,9 +18,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-ST-MICROCEMENT.jpg"
-image_credit: "Чернов Сергей · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AMicrocement%205.jpg"
+image: "https://idealworkuk.com/wp-content/uploads/2026/05/CarhartFeatured.jpg"
+image_credit: "적용 사례 사진 · idealworkuk.com (원본 링크)"
+image_source: "https://idealworkuk.com/project/carhartt-covent-garden/"
+apply_links:
+  - {title: "런던 칼하트 WIP 코벤트가든 마이크로토핑", url: "https://idealworkuk.com/project/carhartt-covent-garden/", page_title: "Carhartt WIP, Covent Garden - Ideal Work", desc: "Carhartt WIP, Covent Garden Seamless Microcement Flooring for Contemporary Retail Interiors Located in the heart of London’s Covent Garden, this Carhartt WIP retail space features bespoke Ideal Work Microtopping® finishe", img: "https://idealworkuk.com/wp-content/uploads/2026/05/CarhartFeatured.jpg"}
+  - {title: "오드리 부티크 마이크로시멘트 매장", url: "https://www.dezeen.com/?p=1706412", page_title: "Just a moment..."}
+  - {title: "타이베이 테라 초콜릿숍 마이크로시멘트", url: "https://www.topciment.com/en-au/project/project-terra-bean", page_title: "Terra Bean To Bar project with microcement | Topciment", desc: "Terra Bean To Bar is an impressive chocolate shop located in Taipei (Taiwan). The walls, floor and structures have been coated with Topciment microcement.", img: "https://www.topciment.com/assets/tc/Topciment_Contacta_Home.webp"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

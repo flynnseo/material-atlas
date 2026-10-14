@@ -19,12 +19,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "엔드글로우 광섬유 제품 페이지", url: "https://wiedamark.com/pcat/fiberopticlighting/fiberopticcable/fiberopticendglow"}
-  - {title: "실내 광섬유 조명 별천장 시공 가이드", url: "https://engineerfix.com/how-to-install-interior-fiber-optic-lighting/"}
 image: "https://www.wiedamark.com/wp-content/uploads/2024/11/3-1.png"
 image_credit: "적용 사례 사진 · wiedamark.com (원본 링크)"
 image_source: "https://wiedamark.com/pcat/fiberopticlighting/fiberopticcable/fiberopticendglow"
+apply_links:
+  - {title: "엔드글로우 광섬유 제품 페이지", url: "https://wiedamark.com/pcat/fiberopticlighting/fiberopticcable/fiberopticendglow", page_title: "Fiber Optic End Glow - WDM Lighting", desc: "EndGlow cable is multistrand fibers protected in a flexible PVC jacket for ease of handling and fiber protection. Ideal for use with architectural lighting fixtures, landscape fixtures, water-light lenses, feature lights", img: "https://www.wiedamark.com/wp-content/uploads/2024/11/3-1.png"}
+  - {title: "실내 광섬유 조명 별천장 시공 가이드", url: "https://engineerfix.com/how-to-install-interior-fiber-optic-lighting/", page_title: "How to Install Interior Fiber Optic Lighting", desc: "Comprehensive guide to installing unique fiber optic lighting. Understand the technology, find design inspiration, and master the DIY steps."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -61,5 +61,59 @@ def main(files):
     F.report()
 
 
-if __name__ == "__main__":
+if __name__ == "__main__" and (len(sys.argv) < 2 or sys.argv[1] != "--enrich"):
     main(sys.argv[1:])
+
+
+def page_meta(url):
+    """og:title / og:description / og:image (LLM 없이)."""
+    page = F.get(url, timeout=12)
+    def meta(*names):
+        for n in names:
+            for pat in (rf'<meta[^>]+(?:property|name)=["\']{n}["\'][^>]+content=["\']([^"\']*)',
+                        rf'<meta[^>]+content=["\']([^"\']*)["\'][^>]+(?:property|name)=["\']{n}["\']'):
+                m = re.search(pat, page, re.I)
+                if m and m.group(1).strip():
+                    return html.unescape(m.group(1)).strip()
+        return ""
+    title = meta("og:title", "twitter:title") or html.unescape((re.search(r"<title[^>]*>(.*?)</title>", page, re.I | re.S) or [None, ""])[1]).strip()
+    desc = meta("og:description", "description", "twitter:description")
+    img = meta("og:image", "twitter:image")
+    img = urllib.parse.urljoin(url, img) if img and not CHEM.search(urllib.parse.unquote(img)) else ""
+    return re.sub(r"\s+", " ", title)[:120], re.sub(r"\s+", " ", desc)[:220], img
+
+
+def write_links(p, t, links):
+    keys = ("title", "url", "page_title", "desc", "img")
+    block = "apply_links:\n" + "".join(
+        "  - {" + ", ".join(f"{k}: {json.dumps(a[k], ensure_ascii=False)}" for k in keys if a.get(k)) + "}\n" for a in links)
+    t = re.sub(r"^apply_links:\n(  - .*\n)*", "", t, flags=re.M)
+    t = re.sub(r"^(updated:.*)$", lambda m: block + m.group(1), t, count=1, flags=re.M)
+    p.write_text(t, encoding="utf-8")
+
+
+def enrich():
+    import yaml, concurrent.futures as cf
+    jobs = []
+    for p, t, fm in F.cards():
+        c = yaml.safe_load(fm)
+        links = [a for a in (c.get("apply_links") or []) if isinstance(a, dict) and a.get("url")]
+        if links and any(not a.get("desc") and not a.get("page_title") for a in links):
+            jobs.append((p, links))
+    urls = {a["url"] for _, ls in jobs for a in ls}
+    with cf.ThreadPoolExecutor(16) as ex:
+        meta = dict(zip(urls, ex.map(page_meta, urls)))
+    n = 0
+    for p, links in jobs:
+        for a in links:
+            pt, d, im = meta.get(a["url"], ("", "", ""))
+            if pt: a["page_title"] = pt
+            if d: a["desc"] = d
+            if im: a["img"] = im
+            n += bool(pt or d)
+        write_links(p, p.read_text(encoding="utf-8"), links)
+    print(f"카드 {len(jobs)} · 링크 {len(urls)} · 요약 붙음 {n}")
+
+
+if __name__ == "__main__" and len(sys.argv) > 1 and sys.argv[1] == "--enrich":
+    enrich()

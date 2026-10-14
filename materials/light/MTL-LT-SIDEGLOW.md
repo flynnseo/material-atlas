@@ -19,12 +19,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "티그마우스 Making Waves 거리 조명 설치", url: "https://publicartonline.org.uk/casestudies/lighting/making_waves/techrelease.php.html"}
-  - {title: "사이드글로우 광섬유 제품 페이지", url: "https://evandesigns.com/products/side-glow-fiber-optics"}
 image: "http://evandesigns.com/cdn/shop/products/sideglowfiberopticsquare.jpg?v=1670449846"
 image_credit: "적용 사례 사진 · evandesigns.com (원본 링크)"
 image_source: "https://evandesigns.com/products/side-glow-fiber-optics"
+apply_links:
+  - {title: "티그마우스 Making Waves 거리 조명 설치", url: "https://publicartonline.org.uk/casestudies/lighting/making_waves/techrelease.php.html", page_title: "Public Art Online Lighting Case Studies - Making Waves", desc: "Making Waves is a major town centre lighting artwork commissioned by Teignmouth Town Council. A fluent wave form is repeated throughout 26 spans of display lighting, using the newest lighting technology."}
+  - {title: "사이드글로우 광섬유 제품 페이지", url: "https://evandesigns.com/products/side-glow-fiber-optics", page_title: "Side Glow Fiber Optics", desc: "Side Glow Fiber Optic for LEDs is a great choice for bringing light into challenging to reach spaces. The unique optic strands glow equally along their length", img: "http://evandesigns.com/cdn/shop/products/sideglowfiberopticsquare.jpg?v=1670449846"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

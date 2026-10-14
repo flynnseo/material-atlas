@@ -22,13 +22,13 @@ hands_on: false
 sources:
   - https://www.mdpi.com/1999-4907/12/9/1262/htm
   - https://www.livingetc.com/features/what-is-shou-sugi-ban
-apply_links:
-  - {title: "요기스 캐빈 탄화목 외장 (Dezeen)", url: "https://www.dezeen.com/?p=2367688"}
-  - {title: "야키스기 건축 외장 사례 모음", url: "https://www.constructionspecifier.com/yakisugi-architectural-comeback/"}
-  - {title: "전 세계 쇼스기반 파사드", url: "https://plainmagazine.com/?p=60331"}
 image: "https://www.constructionspecifier.com/wp-content/uploads/2025/11/Photo-by-Nakamoto-Forestry_Gladys-Valley-Marine-Sciences-Building_Gendai-Acrylic-Black-and-Pika-Pika-Silver_1.jpg"
 image_credit: "적용 사례 사진 · constructionspecifier.com (원본 링크)"
 image_source: "https://www.constructionspecifier.com/yakisugi-architectural-comeback/"
+apply_links:
+  - {title: "요기스 캐빈 탄화목 외장 (Dezeen)", url: "https://www.dezeen.com/?p=2367688", page_title: "Just a moment..."}
+  - {title: "야키스기 건축 외장 사례 모음", url: "https://www.constructionspecifier.com/yakisugi-architectural-comeback/", page_title: "Burn to last: Yakisugi’s architectural comeback", desc: "Yakisugi is a traditional Japanese charred wood siding material that was historically only for thin plank wall and ceiling cladding, but is now steadily gaining traction in the global architectural community.", img: "https://www.constructionspecifier.com/wp-content/uploads/2025/11/Photo-by-Nakamoto-Forestry_Gladys-Valley-Marine-Sciences-Building_Gendai-Acrylic-Black-and-Pika-Pika-Silver_1.jpg"}
+  - {title: "전 세계 쇼스기반 파사드", url: "https://plainmagazine.com/?p=60331", page_title: "Shou Sugi Ban Facades Around the World - PLAIN Magazine", desc: "A round-up of five homes around the world that make use of the environmentally-friendly and aesthetically pleasing wood burning technique, Shou Sugi Ban.", img: "https://i1.wp.com/plainmagazine.com/wp-content/uploads/2021/03/shou-sugi-ban-house-04.jpg?fit=2000%2C1396&ssl=1"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -22,12 +22,12 @@ hands_on: false
 sources:
   - https://www.foamglas.com/
   - https://en.wikipedia.org/wiki/Foam_glass
-apply_links:
-  - {title: "콜체스터 Firstsite 시각예술센터 지붕·외장", url: "https://www.foamglas.com/en/references/united-kingdom/firstsite-visual-arts-centre-roof"}
-  - {title: "신규 갤러리 셀룰러 글라스 단열 적용", url: "https://www.specificationonline.co.uk/articles/2016-03-22/new-gallery-opts-for-cellular-glass-insulation"}
 image: "https://d2c6s77msf04pp.cloudfront.net/uploads/thumbnails/turner-contemporary-image9ca1d09fjpg"
 image_credit: "적용 사례 사진 · specificationonline.co.uk (원본 링크)"
 image_source: "https://www.specificationonline.co.uk/articles/2016-03-22/new-gallery-opts-for-cellular-glass-insulation"
+apply_links:
+  - {title: "콜체스터 Firstsite 시각예술센터 지붕·외장", url: "https://www.foamglas.com/en/references/united-kingdom/firstsite-visual-arts-centre-roof", page_title: "Visual arts centre", desc: "Colchester’s Visual Arts Centre is a stunning, crescent-shaped building that treads lightly and shouts loudly. The elegant roof and façade are 100% waterproof thanks to FOAMGLAS® cellular glass insulation. The insulation"}
+  - {title: "신규 갤러리 셀룰러 글라스 단열 적용", url: "https://www.specificationonline.co.uk/articles/2016-03-22/new-gallery-opts-for-cellular-glass-insulation", page_title: "| Specification Online", desc: "Specification Online supplies building news and construction news to specifiers working across the architectural and building sector. It follows on from the successful Specification Magazine.", img: "https://d2c6s77msf04pp.cloudfront.net/uploads/thumbnails/turner-contemporary-image9ca1d09fjpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

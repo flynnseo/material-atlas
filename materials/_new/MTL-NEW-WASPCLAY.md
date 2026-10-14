@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.3dwasp.com/en/
-apply_links:
-  - {title: "WASP 점토·짚 3D프린팅 쉘터 (Architect)", url: "https://www.architectmagazine.com/design/a-low-cost-3d-printed-shelter-built-from-clay-and-straw_s/"}
-  - {title: "WASP 3D프린팅 진흙집", url: "https://3dprint.com/17179/wasp-3d-printed-houses/"}
 image: "https://3dprint.com/wp-content/uploads/2014/09/house-wasp-1.jpg"
 image_credit: "적용 사례 사진 · 3dprint.com (원본 링크)"
 image_source: "https://3dprint.com/17179/wasp-3d-printed-houses/"
+apply_links:
+  - {title: "WASP 점토·짚 3D프린팅 쉘터 (Architect)", url: "https://www.architectmagazine.com/design/a-low-cost-3d-printed-shelter-built-from-clay-and-straw_s/", page_title: "Attention Required!"}
+  - {title: "WASP 3D프린팅 진흙집", url: "https://3dprint.com/17179/wasp-3d-printed-houses/", page_title: "WASP Plans to Demonstrate New 6 Meter Tall 3D House Printer This Week: Will 3D print houses in developing countries next", desc: "Back in July, we broke a story about an Italian group called WASP, that had plans to 3D print homes in third world countries, using these countries’ native soils as print material....", img: "https://3dprint.com/wp-content/uploads/2014/09/house-wasp-1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

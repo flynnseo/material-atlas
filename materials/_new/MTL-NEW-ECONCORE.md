@@ -24,8 +24,8 @@ image: "https://media.materialdistrict.com/wp-content/uploads/2010/06/PLA534-1.j
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/econcore-honeycomb/"
 apply_links:
-  - {title: "항공기 내장 모듈 EconCore x Diehl", url: "https://www.airframer.com/news/release/38788"}
-  - {title: "자동차 내장 허니콤 패널 (CompositesWorld)", url: "https://compositesworld.com/products/jec-world-2020-preview-econcore"}
+  - {title: "항공기 내장 모듈 EconCore x Diehl", url: "https://www.airframer.com/news/release/38788", page_title: "Diehl Aircabin and EconCore combine to develop aircraft interior modules based on thermoplastic honeycomb | Press releas", desc: "Thermoplastic honeycomb technology specialist EconCore has joined forces with Diehl Aircabin to develop next- generation solutions for aircraft interior mo"}
+  - {title: "자동차 내장 허니콤 패널 (CompositesWorld)", url: "https://compositesworld.com/products/jec-world-2020-preview-econcore", page_title: "Human Verification"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

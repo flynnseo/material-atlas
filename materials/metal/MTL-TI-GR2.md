@@ -21,8 +21,8 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "건축용 티타늄 외장·내장 클래딩", url: "https://materialdistrict.com/material/architectural-titanium/"}
-  - {title: "건축용 티타늄 자재 목록", url: "https://archipro.com.au/products/building-hardware/material-titanium"}
+  - {title: "건축용 티타늄 외장·내장 클래딩", url: "https://materialdistrict.com/material/architectural-titanium/", page_title: "Architectural Titanium", desc: "The excellent corrosion resistance of architectural titanium results from the formation of a very stable, continuous surface. Because titanium metal itself is highly reactive, a beneficial oxide film forms immediately wh"}
+  - {title: "건축용 티타늄 자재 목록", url: "https://archipro.com.au/products/building-hardware/material-titanium", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

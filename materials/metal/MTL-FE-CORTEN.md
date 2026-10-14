@@ -20,9 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-FE-CORTEN.jpg"
-image_credit: "Kurt Müllers · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AWeathering%20steel%20door.jpg"
+image: "https://blog.architizer.com/wp-content/uploads/1-16.jpeg"
+image_credit: "적용 사례 사진 · architizer.com (원본 링크)"
+image_source: "https://architizer.com/blog/inspiration/collections/corten-houses/"
+apply_links:
+  - {title: "Tchoban 코르텐강 바스켓 위브 파사드", url: "https://www.dezeen.com/?p=1708368", page_title: "Just a moment..."}
+  - {title: "코르텐강 주택 12선", url: "https://architizer.com/blog/inspiration/collections/corten-houses/", page_title: "Weathering Steel: 12 Corten Houses Built for Resiliency - Architizer Journal", desc: "Drawing together 12 corten houses, each of the following projects explores the steel alloy’s application through interiors and exteriors alike.", img: "https://blog.architizer.com/wp-content/uploads/1-16.jpeg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

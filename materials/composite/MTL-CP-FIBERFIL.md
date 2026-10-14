@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fused_filament_fabrication
-apply_links:
-  - {title: "슈투트가르트대 천연섬유 필라멘트 건축 연구", url: "https://www.itke.uni-stuttgart.de/research/current-research-projects/3dnaturdruck/"}
-  - {title: "TUM 연속섬유 로봇 3D프린팅 설비", url: "https://www.asg.ed.tum.de/en/lcc/news/article/roboteranlage-zum-3d-drucken-von-endlosfaserverstaerkten-bauteilen00/"}
 image: "https://www.asg.ed.tum.de/fileadmin/_processed_/1/0/csm_20191119_-_Roboteranlage_zum_3D-Drucken_von_endlosfaserverstaerkten_Bauteilen_2_b4c12ca2e8.jpg"
 image_credit: "적용 사례 사진 · asg.ed.tum.de (원본 링크)"
 image_source: "https://www.asg.ed.tum.de/en/lcc/news/article/roboteranlage-zum-3d-drucken-von-endlosfaserverstaerkten-bauteilen00/"
+apply_links:
+  - {title: "슈투트가르트대 천연섬유 필라멘트 건축 연구", url: "https://www.itke.uni-stuttgart.de/research/current-research-projects/3dnaturdruck/", page_title: "3DNaturDruck | Institute of Building Structures and Structural Design | University of Stuttgart", desc: "3DNaturDruck: Design and fabrication of 3D-printed components from biocomposites/ filaments made of continuous and short natural fibres", img: "https://www.itke.uni-stuttgart.de/.content/fotostrecken_v3/3DNarurDruck/01_Naturdruck.jpg"}
+  - {title: "TUM 연속섬유 로봇 3D프린팅 설비", url: "https://www.asg.ed.tum.de/en/lcc/news/article/roboteranlage-zum-3d-drucken-von-endlosfaserverstaerkten-bauteilen00/", page_title: "Robot system for 3D printing of endless fiber-reinforced components", img: "https://www.asg.ed.tum.de/fileadmin/_processed_/1/0/csm_20191119_-_Roboteranlage_zum_3D-Drucken_von_endlosfaserverstaerkten_Bauteilen_2_b4c12ca2e8.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

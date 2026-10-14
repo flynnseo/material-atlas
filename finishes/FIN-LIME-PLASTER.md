@@ -23,12 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/Lime_plaster
   - https://en.wikipedia.org/wiki/Tadelakt
   - https://homebuilding.co.uk/advice/tadelakt
-apply_links:
-  - {title: "마라케시 Riad Rosemary 타데락트 시공", url: "https://www.dezeen.com/awards/2025/longlists/rosemary/"}
-  - {title: "타데락트 욕실 적용 사례", url: "https://www.livingetc.com/news/tadelakt-decor-trend"}
 image: "https://cdn.mos.cms.futurecdn.net/pm6bSxWhdmqSPQFizc5AK5-1239-80.jpg"
 image_credit: "적용 사례 사진 · livingetc.com (원본 링크)"
 image_source: "https://www.livingetc.com/news/tadelakt-decor-trend"
+apply_links:
+  - {title: "마라케시 Riad Rosemary 타데락트 시공", url: "https://www.dezeen.com/awards/2025/longlists/rosemary/", page_title: "Just a moment..."}
+  - {title: "타데락트 욕실 적용 사례", url: "https://www.livingetc.com/news/tadelakt-decor-trend", page_title: "Designers Love To Use This Peaceful Decor Trend —", desc: "Interior experts use tadelakt, a waterproof Moroccan plaster with a polished finish, to shine up contemporary walls and surfaces", img: "https://cdn.mos.cms.futurecdn.net/pm6bSxWhdmqSPQFizc5AK5-1239-80.jpg"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

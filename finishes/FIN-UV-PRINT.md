@@ -27,7 +27,7 @@ image: "assets/img/FIN-UV-PRINT.jpg"
 image_credit: "Smokeonthewater · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3AAtlantic%20Zeiser%20Delta%20105i%20UV%20inkjet%20imprinters%20at%20a%20Rapida%20offset%20press.jpg"
 apply_links:
-  - {title: "플랫베드 인쇄 인테리어 장식 활용", url: "https://www.fespa.com/en/news-media/opportunities-abound-for-interior-decoration-using-flatbed-digital-printing-technologies"}
+  - {title: "플랫베드 인쇄 인테리어 장식 활용", url: "https://www.fespa.com/en/news-media/opportunities-abound-for-interior-decoration-using-flatbed-digital-printing-technologies", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
-apply_links:
-  - {title: "Smile Plastics 패널 리테일 인테리어 (Dezeen)", url: "https://www.dezeen.com/2024/06/18/we-have-a-duty-to-honour-plastics-says-smile-plastics-co-founder-rosalie-mcmillan/amp/"}
-  - {title: "재생 소재 쇼핑 매장 시공(Euroshop)", url: "https://www.euroshop-tradefair.com/en/media-news/euroshopmag/shopfitting-store-design/shopfitting-with-recycled-materials-in-retail"}
-  - {title: "요거트 용기로 만든 테라조풍 패널", url: "https://design-milk.com/smile-plastics-turns-yogurt-pots-into-terrazzo-like-surface-panels/"}
 image: "https://www.euroshop.de/cache/pica/5/5/4/0/4/7/7483381733222409/tala-recycled-plastics-store-design-s.jpg"
 image_credit: "적용 사례 사진 · euroshop-tradefair.com (원본 링크)"
 image_source: "https://www.euroshop-tradefair.com/en/media-news/euroshopmag/shopfitting-store-design/shopfitting-with-recycled-materials-in-retail"
+apply_links:
+  - {title: "Smile Plastics 패널 리테일 인테리어 (Dezeen)", url: "https://www.dezeen.com/2024/06/18/we-have-a-duty-to-honour-plastics-says-smile-plastics-co-founder-rosalie-mcmillan/amp/", page_title: "Just a moment..."}
+  - {title: "재생 소재 쇼핑 매장 시공(Euroshop)", url: "https://www.euroshop-tradefair.com/en/media-news/euroshopmag/shopfitting-store-design/shopfitting-with-recycled-materials-in-retail", page_title: "Shopfitting with recycled materials", desc: "The circular economy and waste reduction in retail are a lever for greater sustainability – and store furnishings play a central role in this. Recycled materials are conquering the retail sector and show how aestheticall", img: "https://www.euroshop.de/cache/pica/5/5/4/0/4/7/7483381733222409/tala-recycled-plastics-store-design-s.jpg"}
+  - {title: "요거트 용기로 만든 테라조풍 패널", url: "https://design-milk.com/smile-plastics-turns-yogurt-pots-into-terrazzo-like-surface-panels/", page_title: "Smile Plastics Turns Yogurt Pots Into Terrazzo-Like Surface Panels", desc: "Smile Plastics designs and manufactures hand-crafted, supersized panels for retail, architecture, interiors, and product design – from waste.", img: "https://design-milk.com/images/2022/12/GAN_LONDON-STORE_11971.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.plascore.com/
-apply_links:
-  - {title: "알루미늄 허니콤 철도 객실 인테리어", url: "https://railway-news.com/aluminium-honeycomb-uses-in-train-interior-design/"}
-  - {title: "Encocam 허니콤 인테리어·가구 패널", url: "https://www.encocam.com/?p=55"}
-  - {title: "Aludecor 허니콤 건축 패널", url: "https://www.alcircle.com/news/aludecors-latest-aluminium-honeycomb-panels-usher-in-a-new-age-architectural-design-97581"}
 image: "https://railway-news.com/wp-content/uploads/2022/08/Corex-Honeycomb-InnoTrans-2022.jpeg"
 image_credit: "적용 사례 사진 · railway-news.com (원본 링크)"
 image_source: "https://railway-news.com/aluminium-honeycomb-uses-in-train-interior-design/"
+apply_links:
+  - {title: "알루미늄 허니콤 철도 객실 인테리어", url: "https://railway-news.com/aluminium-honeycomb-uses-in-train-interior-design/", page_title: "Aluminium Honeycomb Uses in Train Interior Design", desc: "Aluminium honeycomb is a lightweight structural material with high strength to weight properties, making it suitable for a range of railway applications.", img: "https://railway-news.com/wp-content/uploads/2022/08/Corex-Honeycomb-InnoTrans-2022.jpeg"}
+  - {title: "Encocam 허니콤 인테리어·가구 패널", url: "https://www.encocam.com/?p=55", page_title: "Page not found - Encocam Ltd."}
+  - {title: "Aludecor 허니콤 건축 패널", url: "https://www.alcircle.com/news/aludecors-latest-aluminium-honeycomb-panels-usher-in-a-new-age-architectural-design-97581", page_title: "Aludecor’s latest aluminium honeycomb panels usher in a new-age architectural design", desc: "Aludecor, India's leading brand in the premium Metal Composite Panel (MCP) market, launched its much-awaited aluminium honeycomb panels called...", img: "https://assets.alcircle.com/dynamic/prod/news/20260831134705061_d1f886fe2_lg.webp"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

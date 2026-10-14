@@ -33,13 +33,13 @@ sources:
   - https://alucobond.com.sg/products/alucobond-plus-composite-panels/processing-plus/routing-folding-plus/
   - https://theconversation.com/fact-check-is-the-type-of-cladding-used-on-grenfell-tower-actually-banned-in-britain-79803
   - https://www.designingbuildings.co.uk/wiki/Aluminium_composite_panels
-apply_links:
-  - {title: "뉴욕 바카라 호텔 ACM 파사드", url: "https://www.constructionspecifier.com/acm-panels-glam-up-baccarat-hotel/"}
-  - {title: "샌프란시스코 Olume Alucobond 외장", url: "https://designandbuildwithmetal.com/featured-projects/olume"}
-  - {title: "외장재로 쓰이는 소재 개요 (ArchDaily)", url: "https://www.archdaily.com/979639/what-materials-can-be-used-for-facade-cladding"}
 image: "https://www.constructionspecifier.com/wp-content/uploads/2016/02/Baccarat_7350.jpg"
 image_credit: "적용 사례 사진 · constructionspecifier.com (원본 링크)"
 image_source: "https://www.constructionspecifier.com/acm-panels-glam-up-baccarat-hotel/"
+apply_links:
+  - {title: "뉴욕 바카라 호텔 ACM 파사드", url: "https://www.constructionspecifier.com/acm-panels-glam-up-baccarat-hotel/", page_title: "ACM panels glam up Baccarat Hotel", desc: "Baccarat Hotel & Residences is a 184-m (605-ft) tall mixed-use building located on the corner of Fifth Avenue and 53rd Street in New York City. It stands out not only for its views of Manhattan landmarks, but also for it", img: "https://www.constructionspecifier.com/wp-content/uploads/2016/02/Baccarat_7350.jpg"}
+  - {title: "샌프란시스코 Olume Alucobond 외장", url: "https://designandbuildwithmetal.com/featured-projects/olume", page_title: "Olume", desc: "Metal roofing, metal walls & metal buildings projects case studies; new construction and retrofit. Manufacturer and product info in every article."}
+  - {title: "외장재로 쓰이는 소재 개요 (ArchDaily)", url: "https://www.archdaily.com/979639/what-materials-can-be-used-for-facade-cladding", page_title: "What Materials Can Be Used for Façade Cladding?", desc: "We outline the main materials used for façade cladding, and the projects that use them in a remarkable way.", img: "https://images.adsttc.com/media/images/624b/2e67/0174/da47/cb41/68d4/large_jpg/cs.jpg?1649094252"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -22,9 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_strip_light
-image: "assets/img/MTL-LT-LEDSTRIP.jpg"
-image_credit: "Matti Blume · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Passenger_Experience_Week_2018%2C_Hamburg_%281X7A3748%29.jpg"
+image: "https://www.paclights.com/wp-content/uploads/2025/10/image-2119.jpg"
+image_credit: "적용 사례 사진 · paclights.com (원본 링크)"
+image_source: "https://www.paclights.com/explore/indoor-strip-lighting-why-it-matters-in-lighting-projects/"
+apply_links:
+  - {title: "실내 스트립 조명 프로젝트 적용 가이드", url: "https://www.paclights.com/explore/indoor-strip-lighting-why-it-matters-in-lighting-projects/", page_title: "Indoor Strip Lighting: Why It Matters in Lighting Projects", desc: "Discover why indoor strip lighting is essential in modern lighting projects, offering energy efficiency, enhanced ambiance, and cost savings—boost your design today!.", img: "https://www.paclights.com/wp-content/uploads/2025/10/image-2119.jpg"}
+  - {title: "LED 스트립 인테리어 조명 디자인", url: "https://www.rs-online.com/designspark/led-strips-enable-a-new-generation-of-interior-lighting-design", page_title: "LED Strips Enable a New Generation of Interior Lighting Design | LED Lighting", desc: "Flexible LED lighting strips enable a new approach to lighting for interior decorators, designers and architects."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

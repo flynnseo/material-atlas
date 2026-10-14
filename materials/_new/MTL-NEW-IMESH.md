@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/i-mesh/
-apply_links:
-  - {title: "베니스 건축 비엔날레 i-Mesh 설치", url: "https://www.i-mesh.eu/projects/biennale-di-architettura-di-venezia"}
-  - {title: "가르다 호수 빌라 i-Mesh 외부 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda"}
-  - {title: "살로네 델 모빌레 i-Mesh 임시 설치", url: "https://i-mesh.eu/applications/temporary-outdoor"}
 image: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/669a310c40913a09aba75117_0_COPERTINA.webp"
 image_credit: "적용 사례 사진 · i-mesh.eu (원본 링크)"
 image_source: "https://www.i-mesh.eu/projects/biennale-di-architettura-di-venezia"
+apply_links:
+  - {title: "베니스 건축 비엔날레 i-Mesh 설치", url: "https://www.i-mesh.eu/projects/biennale-di-architettura-di-venezia", page_title: "Biennale di Architettura di Venezia", desc: "Project Identification: Experiencing i-Mesh's Soft Architecture in the visual and poetic prototype of the installation ‘Weaving Architecture’ at the Biennale Architettura 2018.", img: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/669a310c40913a09aba75117_0_COPERTINA.webp"}
+  - {title: "가르다 호수 빌라 i-Mesh 외부 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda", page_title: "Villa V | Lake Garda", desc: "In the breathtaking context of Lake Garda stands an amazing villa with a swimming pool. Davide Montanaro of Studiodsgn has created special panels for the external annexes where the furnishings are stored during the winte", img: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/66a77de6651e58c375094ce1_____669f8956304229f4bec794b3_0_COPERTINA.webp"}
+  - {title: "살로네 델 모빌레 i-Mesh 임시 설치", url: "https://i-mesh.eu/applications/temporary-outdoor", page_title: "Not Found"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -27,9 +27,12 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/High-density_polyethylene
   - https://en.wikipedia.org/wiki/Polyethylene
-image: "assets/img/MTL-PL-HDPE.jpg"
-image_credit: "Lluis tgn · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Polyethylene_balls1.jpg"
+image: "https://cdn.myportfolio.com/2ae35c70-8cef-4d5c-8a63-113be26117b8/c906fa00-94ce-4c1c-9fd4-d719ebcd0d2f_rwc_0x1378x3840x3840x3840.jpg?h=6e76296ee350d9e7ff6afc1db0c1fefa"
+image_credit: "적용 사례 사진 · estylesdesign.myportfolio.com (원본 링크)"
+image_source: "https://estylesdesign.myportfolio.com/moo-table"
+apply_links:
+  - {title: "Loll 재생 HDPE 실내 현관 가구", url: "https://www.rit.edu/vignellicenter/loll-designs-rit-id-project", page_title: "Loll Designs + RIT ID Project | Vignelli Center | RIT"}
+  - {title: "우유병 HDPE Moo 테이블", url: "https://estylesdesign.myportfolio.com/moo-table", page_title: "Eliza Styles Design Portfolio - MOO TABLE", img: "https://cdn.myportfolio.com/2ae35c70-8cef-4d5c-8a63-113be26117b8/c906fa00-94ce-4c1c-9fd4-d719ebcd0d2f_rwc_0x1378x3840x3840x3840.jpg?h=6e76296ee350d9e7ff6afc1db0c1fefa"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

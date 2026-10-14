@@ -23,9 +23,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polytetrafluoroethylene
-image: "assets/img/MTL-PL-PTFE.jpg"
-image_credit: "Atlas of Medical Foreign Bodies · CC BY-SA 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3APTFE%20%28polytetrafluoroethylene%29%20-%20Teflon%20%2849615920942%29.jpg"
+image: "https://www.stylepark.com/assets/transformations/articles/_1410xAUTO_fit_center-center_90_none/TS_QF_Ben-van-Berkel.jpg"
+image_credit: "적용 사례 사진 · stylepark.com (원본 링크)"
+image_source: "https://www.stylepark.com/en/news/interview-ben-van-berkel-textile-architecture-mdt-tex-techtextil"
+apply_links:
+  - {title: "밴쿠버 마린 게이트웨이 PTFE 막 파사드", url: "https://www.birdair.com/birdair-portfolio/marine-gateway-facade/", page_title: "Marine Gateway – Facade – Birdair", desc: "Tensioned Membrane Roofing, Fabric Roofing – Birdair, Inc"}
+  - {title: "폼파노비치 주차장 PTFE 막 파사드", url: "https://birdair.com/projects/pompano-beach-parking-garage", page_title: "Pompano Beach Parking Garage – Birdair", desc: "Tensioned Membrane Roofing, Fabric Roofing – Birdair, Inc"}
+  - {title: "UNStudio 테크텍스틸 PTFE 파빌리온", url: "https://www.stylepark.com/en/news/interview-ben-van-berkel-textile-architecture-mdt-tex-techtextil", page_title: "Interview with Ben van Berkel about textile architecture | Stylepark", desc: "Read our Interview with UNStudio founder Ben van Berkel about the future of textile architecture and his research with MDT-tex for a pavilion at Techtextil", img: "https://www.stylepark.com/assets/transformations/articles/_1410xAUTO_fit_center-center_90_none/TS_QF_Ben-van-Berkel.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

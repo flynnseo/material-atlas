@@ -22,12 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Corian
-apply_links:
-  - {title: "코리안 리테일 매장 디자인 적용", url: "https://indesignlive.com/products/dupont-corian-retail-design"}
-  - {title: "크리온 상업공간 솔리드서피스", url: "https://www.krion.com/uk/sectors/commercial-business-premises"}
 image: "https://cdn.indesignlive.com/wp-content/uploads/2013/10/jacobs-and-co.jpg"
 image_credit: "적용 사례 사진 · indesignlive.com (원본 링크)"
 image_source: "https://indesignlive.com/products/dupont-corian-retail-design"
+apply_links:
+  - {title: "코리안 리테일 매장 디자인 적용", url: "https://indesignlive.com/products/dupont-corian-retail-design", page_title: "DuPont™ Corian® Retail Design | Indesignlive", desc: "Retail interior designs wrought in DuPont™ Corian® solid surface dazzle both customers and merchants.", img: "https://cdn.indesignlive.com/wp-content/uploads/2013/10/jacobs-and-co.jpg"}
+  - {title: "크리온 상업공간 솔리드서피스", url: "https://www.krion.com/uk/sectors/commercial-business-premises", page_title: "Compact mineral establishments and companies | Solid Surface...", desc: "Discover the possibilities of the compact mineral Krion in the design of commercial establishments and spaces. Ecological, resistant and anti-bacterial material. Develop the corporate image of your company with the moder"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

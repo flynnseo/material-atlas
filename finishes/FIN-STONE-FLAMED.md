@@ -10,11 +10,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "세키가하라 스톤 오사카 쇼룸 석재 벽면", url: "https://haveagood-holiday.com/ko/articles/sekigahara-stone-osaka-showroom-opening"}
 image: "https://assets.hldycdn.com/60f22744-3469-4c64-9d71-a8cf2ab77a70.jpeg"
 image_credit: "적용 사례 사진 · haveagood-holiday.com (원본 링크)"
 image_source: "https://haveagood-holiday.com/ko/articles/sekigahara-stone-osaka-showroom-opening"
+apply_links:
+  - {title: "세키가하라 스톤 오사카 쇼룸 석재 벽면", url: "https://haveagood-holiday.com/ko/articles/sekigahara-stone-osaka-showroom-opening", page_title: "세키가하라 스톤 오사카 쇼룸 6월 1일 오픈, 간사이 지역에 새로운 석재 경험 선사 - Holiday Travel", desc: "2026년 6월 1일, 오사카 중심부에 야나기하라 테루히로 스튜디오가 인테리어를 맡은 건축용 석재 쇼룸이 문을 엽니다. 이곳에서는 550여 종 이상의 천연석, 타일, 쿼츠 스톤 샘플을 직접 만나볼 수 있습니다.", img: "https://assets.hldycdn.com/60f22744-3469-4c64-9d71-a8cf2ab77a70.jpeg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

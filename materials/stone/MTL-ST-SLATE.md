@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Slate
-image: "assets/img/MTL-ST-SLATE.jpg"
-image_credit: "James St. John · CC BY 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Slate_%28Knife_Lake_Formation%2C_metamorphism_at_2.7_Ga%2C_Neoarchean%3B_Rt._135_roadcut%2C_Gilbert%2C_Minnesota%2C_USA%29_3_%2823140002749%29.jpg"
+image: "https://assets.dwell.com/images/share.jpg"
+image_credit: "적용 사례 사진 · dwell.com (원본 링크)"
+image_source: "https://www.dwell.com/home/suncadia-3d2060f8"
+apply_links:
+  - {title: "선카디아 별장 슬레이트 주방·욕실", url: "https://www.dwell.com/home/suncadia-3d2060f8", page_title: "404 Page Not Found", desc: "Welcome to Dwell, the modern architecture and design community. Every day thousands of new photos & discussions are created by bloggers, photographers, architects and design lovers.", img: "https://assets.dwell.com/images/share.jpg"}
+  - {title: "버몬트 슬레이트 적용 사례", url: "https://www.stoneworld.com/articles/85149-slate-fits-into-the-vermont-climate", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

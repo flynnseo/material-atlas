@@ -21,7 +21,7 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "3003 알루미늄 파사드 카세트 프로젝트", url: "https://www.aluminas.ru/en/projects/alyuminievye_fasadnye_kassety/"}
+  - {title: "3003 알루미늄 파사드 카세트 프로젝트", url: "https://www.aluminas.ru/en/projects/alyuminievye_fasadnye_kassety/", page_title: "Page not found", desc: "Исследуйте проекты Ассоциации по различным секторам: авиация, машиностроение и другие. Узнайте о новинках, инициативах и последних обновлениях, а также подписывайтесь на соцсети Ассоциации."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

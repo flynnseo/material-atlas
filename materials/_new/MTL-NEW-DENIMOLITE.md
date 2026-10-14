@@ -24,7 +24,7 @@ image: "https://media.materialdistrict.com/wp-content/uploads/2025/02/denimolite
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/denimolite/"
 apply_links:
-  - {title: "COS 윈도우 데님 스톤 오브제 (Dezeen)", url: "https://www.dezeen.com/2016/03/04/cos-window-installations-de-allegri-and-fogale-recycled-fabric-objects-london-paris-milan-new-york/"}
+  - {title: "COS 윈도우 데님 스톤 오브제 (Dezeen)", url: "https://www.dezeen.com/2016/03/04/cos-window-installations-de-allegri-and-fogale-recycled-fabric-objects-london-paris-milan-new-york/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

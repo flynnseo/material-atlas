@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.kaffeeform.com
-apply_links:
-  - {title: "Kaffeeform 커피박 컵 Dezeen", url: "https://www.dezeen.com/2015/05/22/kaffeeform-recycled-ground-coffee-waste-cup-julian-lechner/amp/"}
-  - {title: "Kaffeeform 베를린 소개", url: "https://visitberlin.de/en/kaffeeform"}
 image: "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Kaffeeform_Weducer%20Cup_c_Fotograf_Luke_Marshall_Johnson_web.jpg.webp?itok=uDKl6EMX"
 image_credit: "적용 사례 사진 · visitberlin.de (원본 링크)"
 image_source: "https://visitberlin.de/en/kaffeeform"
+apply_links:
+  - {title: "Kaffeeform 커피박 컵 Dezeen", url: "https://www.dezeen.com/2015/05/22/kaffeeform-recycled-ground-coffee-waste-cup-julian-lechner/amp/", page_title: "Just a moment..."}
+  - {title: "Kaffeeform 베를린 소개", url: "https://visitberlin.de/en/kaffeeform", page_title: "Kaffeeform", desc: "The Berlin-based manufactory Kaffeeform produces reusable coffee mugs from old coffee grounds and plant-based materials.", img: "https://www.visitberlin.de/system/files/styles/visitberlin_hero_visitberlin_desktop_2x/private/image/Kaffeeform_Weducer%20Cup_c_Fotograf_Luke_Marshall_Johnson_web.jpg.webp?itok=uDKl6EMX"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

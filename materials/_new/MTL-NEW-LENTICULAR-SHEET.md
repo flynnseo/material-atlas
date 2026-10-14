@@ -22,11 +22,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Lenticular_printing
-apply_links:
-  - {title: "Elitis Rudolf 렌티큘러 월커버링", url: "https://www.cooperhewitt.org/2017/01/09/a-real-art-for-living/"}
 image: "https://www.cooperhewitt.org/wp-content/uploads/2017/01/Rudolf.jpg"
 image_credit: "적용 사례 사진 · cooperhewitt.org (원본 링크)"
 image_source: "https://www.cooperhewitt.org/2017/01/09/a-real-art-for-living/"
+apply_links:
+  - {title: "Elitis Rudolf 렌티큘러 월커버링", url: "https://www.cooperhewitt.org/2017/01/09/a-real-art-for-living/", page_title: "A Real Art for Living | Cooper Hewitt, Smithsonian Design Museum", desc: "Wallpaper offers artists and designers an opportunity to translate their designs within a domestic environment. The Rudolf (ca. 2015) wallcovering manufactured by Élitis is the first lenticular print produced for the int", img: "https://www.cooperhewitt.org/wp-content/uploads/2017/01/Rudolf.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

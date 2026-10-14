@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.ottan.co.uk/
-apply_links:
-  - {title: "Ottan 달걀·견과류 껍데기 소재 소개", url: "https://materialdistrict.com/material/ottan-materials/"}
-  - {title: "식품·농업 폐기물 인테리어 오브제", url: "https://materialdistrict.com/article/interior-objects-made-of-food-and-agricultural-waste/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2022/09/ottan-studio-ottan-materials-ona936-7.jpg?v=20240702073046"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/ottan-materials/"
+apply_links:
+  - {title: "Ottan 달걀·견과류 껍데기 소재 소개", url: "https://materialdistrict.com/material/ottan-materials/", page_title: "Ottan Materials", desc: "Each of the materials was produced by upcycling an average of 65-85% organic waste. Ottan materials, which do not contain any colourants or additives, reflect the characteristics of the waste they’re made of.", img: "https://media.materialdistrict.com/wp-content/uploads/2022/09/ottan-studio-ottan-materials-ona936-7.jpg?v=20240702073046"}
+  - {title: "식품·농업 폐기물 인테리어 오브제", url: "https://materialdistrict.com/article/interior-objects-made-of-food-and-agricultural-waste/", page_title: "Interior objects made of food and agricultural waste", desc: "Bio-tech start-up Ottan develops, designs and produces bio-composite materials by up-cycling food and agricultural waste. The materials can be used to make cladding, furniture, housewares, and more. Ottan’s founder Ayse ", img: "https://media.materialdistrict.com/wp-content/uploads/2021/06/interior-objects-made-of-food-and-agricultural-waste-materialdistrict-9.jpg?v=20210616131848"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

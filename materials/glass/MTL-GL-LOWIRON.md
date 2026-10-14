@@ -20,12 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Pilkington Optiwhite 저철분 유리 제품", url: "https://www.archdaily.com/catalog/us/products/36159/low-iron-extra-clear-glass-pilkington-optiwhite-pilkington"}
-  - {title: "Guardian UltraClear 인테리어 적용", url: "https://www.glass-international.com/news/guardian-ultraclear-low-iron-glass-helps-interior-designers-and-architects"}
 image: "https://neufert-cdn.archdaily.net/uploads/photo/image/375280/cropped_large_Optiwhite4.jpg?v=1791918046"
 image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
 image_source: "https://www.archdaily.com/catalog/us/products/36159/low-iron-extra-clear-glass-pilkington-optiwhite-pilkington"
+apply_links:
+  - {title: "Pilkington Optiwhite 저철분 유리 제품", url: "https://www.archdaily.com/catalog/us/products/36159/low-iron-extra-clear-glass-pilkington-optiwhite-pilkington", page_title: "Low Iron Extra Clear Glass - Pilkington Optiwhite™ from Pilkington", desc: "Pilkington Optiwhite™ low-iron glass: extra clear float without the green edge tint of standard glass, for façades, interiors and displays.", img: "https://neufert-cdn.archdaily.net/uploads/photo/image/375280/cropped_large_Optiwhite4.jpg?v=1791918046"}
+  - {title: "Guardian UltraClear 인테리어 적용", url: "https://www.glass-international.com/news/guardian-ultraclear-low-iron-glass-helps-interior-designers-and-architects", page_title: "Guardian UltraClear Low-Iron Glass Helps Interior Designers and…", desc: "Guardian Glass is helping interior designers and architects amplify their work with Guardian UltraClear low-iron glass.", img: "https://www.glass-international.com/content-images/news/_1200x630_crop_center-center_82_none/glass-seo.gif?mtime=1575206851"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

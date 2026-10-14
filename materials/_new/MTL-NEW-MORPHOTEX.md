@@ -20,11 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Structural_coloration
-apply_links:
-  - {title: "Morphotex 구조색 섬유 소재 소개", url: "https://transmaterial.net/morphotex"}
 image: "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/92e5d28e-07d6-4367-9421-c31b6a114771/morphotex/public"
 image_credit: "적용 사례 사진 · transmaterial.net (원본 링크)"
 image_source: "https://transmaterial.net/morphotex"
+apply_links:
+  - {title: "Morphotex 구조색 섬유 소재 소개", url: "https://transmaterial.net/morphotex", page_title: "Morphotex", img: "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/92e5d28e-07d6-4367-9421-c31b6a114771/morphotex/public"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

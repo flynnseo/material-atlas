@@ -18,12 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "암막 롤러블라인드 시공 프로젝트", url: "https://www.houzz.com/hznb/projects/blackout-roller-blinds-pj-vj~7319275"}
-  - {title: "암막 블라인드 인테리어 활용 10가지", url: "https://www.homeanddecor.com.sg/renovation/stylish-blackout-blinds-10-ways-to-make-your-interiors-look-more-interesting-with-blackout-blinds"}
 image: "https://st.hzcdn.com/fimgs/f7916b50054a9a09_8666-w1200-h627-b0-p0--.jpg"
 image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
 image_source: "https://www.houzz.com/hznb/projects/blackout-roller-blinds-pj-vj~7319275"
+apply_links:
+  - {title: "암막 롤러블라인드 시공 프로젝트", url: "https://www.houzz.com/hznb/projects/blackout-roller-blinds-pj-vj~7319275", page_title: "Blackout Roller Blinds", desc: "Roller Shades are the perfect solution for those looking to achieve excellent light control while maintaining a stylish look. With a wide array of fabrics to choose from, you can easily find the right roller shade that c", img: "https://st.hzcdn.com/fimgs/f7916b50054a9a09_8666-w1200-h627-b0-p0--.jpg"}
+  - {title: "암막 블라인드 인테리어 활용 10가지", url: "https://www.homeanddecor.com.sg/renovation/stylish-blackout-blinds-10-ways-to-make-your-interiors-look-more-interesting-with-blackout-blinds", page_title: "Stylish Blackout Blinds: 10 ways to make your interiors look more interesting with blackout blinds", img: "https://cassette.sphdigital.com.sg/image/homedecor/32613c45ab66102d938c863ce51fe11ea197448e94de51871264b46db7b7ff50"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/
-apply_links:
-  - {title: "바르셀로나 La Manso 매장 3D프린트 가구", url: "https://www.dezeen.com/?p=2100880"}
-  - {title: "Nescafé 브라질 3D프린트 생분해 매장", url: "https://www.yankodesign.com/?p=454034"}
 image: "https://www.yankodesign.com/images/design_news/2023/09/nescafe-3d-printed-store/nescafe_3d_printed_store_yanko_design_hero.jpg"
 image_credit: "적용 사례 사진 · yankodesign.com (원본 링크)"
 image_source: "https://www.yankodesign.com/?p=454034"
+apply_links:
+  - {title: "바르셀로나 La Manso 매장 3D프린트 가구", url: "https://www.dezeen.com/?p=2100880", page_title: "Just a moment..."}
+  - {title: "Nescafé 브라질 3D프린트 생분해 매장", url: "https://www.yankodesign.com/?p=454034", page_title: "Nescafé Opens Its First 3D Printed Store Built Using Biodegradable Materials In Brazil - Yanko Design", desc: "Nowadays almost everything is being 3D printed, so why should architecture be an exception? Many architectural firms have adopted 3D printing as their preferred technique for building structures. And 3D-printed architect", img: "https://www.yankodesign.com/images/design_news/2023/09/nescafe-3d-printed-store/nescafe_3d_printed_store_yanko_design_hero.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

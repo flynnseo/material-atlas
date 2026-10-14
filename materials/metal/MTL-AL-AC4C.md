@@ -20,9 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-AL-AC4C.jpg"
-image_credit: "Alchemist-hp (talk) (www.pse-mendelejew.de) · FAL · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AAluminium%20bar%20surface%20etched.jpg"
+image: "https://archello.s3.eu-central-1.amazonaws.com/images/2020/02/27/2.1582817016.7349.jpg"
+image_credit: "적용 사례 사진 · archello.com (원본 링크)"
+image_source: "https://archello.com/project/the-compton"
+apply_links:
+  - {title: "런던 Regal 주조 알루미늄 외장 건물", url: "https://alcircle.com/news/regal-london-delivers-one-of-worlds-first-cast-aluminium-clad-buildings-45795", page_title: "Regal London delivers one of world’s first cast aluminium clad-buildings", desc: "Luxury boutique developer Regal London reportedly delivers an ambitious 49-unit residential building project The Compton made with a façade created...", img: "https://assets.alcircle.com/dynamic/prod/news/20260831140924781_5c5ca7c2f_lg.webp"}
+  - {title: "쿠마 겐고 우시 아트센터 주조 알루미늄 파사드", url: "https://www.alcircle.com/news/japanese-architecture-firm-clads-art-centre-in-porous-aluminium-panels-24466", page_title: "Japanese architecture firm clads art centre in porous aluminium panels", desc: "Kengo Kuma and Associates has built an art centre with an intricate aluminium-moulded facade at a former cotton mill in China, which has been converted into a shop and office complex. Kengo Kuma's Japan-based firm conver", img: "https://www.alcircle.com/images/news/aluminium-coil.jpg"}
+  - {title: "런던 The Compton 주조 알루미늄 패널", url: "https://archello.com/project/the-compton", page_title: "The Compton | E8 Architecture | Archello", desc: "Commissioned and built by luxury developer, Regal London, in partnership with Simon Bowden Architecture, this ten-storey residential building delivers 49 apa...", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2020/02/27/2.1582817016.7349.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

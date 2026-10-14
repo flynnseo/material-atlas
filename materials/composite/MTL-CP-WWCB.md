@@ -22,13 +22,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood_wool
-apply_links:
-  - {title: "슈빌레 건축사무소 우드울 천장", url: "https://knauf.com/en-GB/case-studies/knauf-ceiling-solutions/office/schwille-architectural-firm"}
-  - {title: "육각 우드울 시멘트 타일 벽 설치", url: "https://www.architerials.com/index.html%3Fp=1696.html"}
-  - {title: "Troldtekt 우드울 건축 어워드", url: "https://www.troldtekt.com/press/2015/september_2015/"}
 image: "https://www.troldtekt.com/media/io3hdbzw/404.png?width=1080&height=566&v=1d8b17691a92bb0"
 image_credit: "적용 사례 사진 · troldtekt.com (원본 링크)"
 image_source: "https://www.troldtekt.com/press/2015/september_2015/"
+apply_links:
+  - {title: "슈빌레 건축사무소 우드울 천장", url: "https://knauf.com/en-GB/case-studies/knauf-ceiling-solutions/office/schwille-architectural-firm", page_title: "Just a moment..."}
+  - {title: "육각 우드울 시멘트 타일 벽 설치", url: "https://www.architerials.com/index.html%3Fp=1696.html", page_title: "ARCHITERIALS » Blog Archive » Form Us With Love: Hexagonal Wood Wool Cement Board Tiles"}
+  - {title: "Troldtekt 우드울 건축 어워드", url: "https://www.troldtekt.com/press/2015/september_2015/", page_title: "404", img: "https://www.troldtekt.com/media/io3hdbzw/404.png?width=1080&height=566&v=1d8b17691a92bb0"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

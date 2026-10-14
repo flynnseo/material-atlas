@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-apply_links:
-  - {title: "런던 주택 유리 비산방지 필름", url: "https://www.tintfit.com/?p=9741"}
-  - {title: "라고스 메리어트 호텔 안전필름", url: "https://madico.com/professionals/safety-security/case-studies/marriott-hotel-in-ikeja-lagos-nigeria"}
 image: "https://www.tintfit.com/wp-content/uploads/2026/04/clear-100.png"
 image_credit: "적용 사례 사진 · tintfit.com (원본 링크)"
 image_source: "https://www.tintfit.com/?p=9741"
+apply_links:
+  - {title: "런던 주택 유리 비산방지 필름", url: "https://www.tintfit.com/?p=9741", page_title: "Home Glass Protection Installation - London Project", desc: "Example of 24 m² Clear 100 Micron Safety Window Film Installation at Residential property in London. Project description", img: "https://www.tintfit.com/wp-content/uploads/2026/04/clear-100.png"}
+  - {title: "라고스 메리어트 호텔 안전필름", url: "https://madico.com/professionals/safety-security/case-studies/marriott-hotel-in-ikeja-lagos-nigeria", page_title: "404 Page Not Found"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

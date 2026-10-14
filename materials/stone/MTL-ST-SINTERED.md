@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Porcelain_tile
-image: "assets/img/MTL-ST-SINTERED.jpg"
-image_credit: "jeem from Saint Louis, United States · CC BY-SA 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Chinese_porcelain_tiles%2C_Cochin_synagogue.jpg"
+image: "https://neufert-cdn.archdaily.net/uploads/photo/image/368864/Sintered-Stone-Bianco-Crema-Facade-Lapitec-07.jpg?v=1788949311"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/catalog/us/products/35820/sintered-stone-facades-in-italian-villa-lapitec"
+apply_links:
+  - {title: "이탈리아 빌라 라피텍 소결석 파사드", url: "https://www.archdaily.com/catalog/us/products/35820/sintered-stone-facades-in-italian-villa-lapitec", page_title: "The product is no longer available.", desc: "Here are some other products that might interest you", img: "https://neufert-cdn.archdaily.net/uploads/photo/image/368864/Sintered-Stone-Bianco-Crema-Facade-Lapitec-07.jpg?v=1788949311"}
+  - {title: "라피텍 소결석 오피스 외관", url: "https://www.stoneworld.com/articles/90225-lapitec-sintered-stone-elevates-office-exterior", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,9 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_filament
-image: "assets/img/MTL-LT-LEDFIL.jpg"
-image_credit: "Henk.muller at English Wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:LED_filament_lamp.png"
+image: "https://img.buildings.com/files/base/ebm/buildings/image/2025/01/677eac5759e0ad45e6c934ae-content_dam_leds_onlinearticles_2017_03_ledsoxford.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+image_credit: "적용 사례 사진 · buildings.com (원본 링크)"
+image_source: "https://buildings.com/architecture/article/55254421/windsor-restaurant-applies-filament-led-lamps-in-architectural-lighting-design"
+apply_links:
+  - {title: "윈저 레스토랑 LED 필라멘트 조명", url: "https://buildings.com/architecture/article/55254421/windsor-restaurant-applies-filament-led-lamps-in-architectural-lighting-design", page_title: "Windsor restaurant applies filament LED lamps in architectural lighting design", desc: "The new Oxford Blue gastropub in Berkshire, UK has a chef that trained under Gordon Ramsay and architectural lighting design enabled by vintage-look filament lamps.", img: "https://img.buildings.com/files/base/ebm/buildings/image/2025/01/677eac5759e0ad45e6c934ae-content_dam_leds_onlinearticles_2017_03_ledsoxford.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"}
+  - {title: "런던 Ormer Mayfair 레스토랑 필라멘트 램프", url: "https://www.barbourproductsearch.info/bright-goods-led-lamps-illuminate-ormer-mayfair-news073968.html", page_title: "Bright Goods LED lamps illuminate Ormer Mayfair", desc: "Bright Goods LED lamps illuminate Ormer Mayfair"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

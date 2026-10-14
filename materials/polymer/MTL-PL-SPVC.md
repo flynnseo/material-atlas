@@ -22,9 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinyl_chloride
-image: "assets/img/MTL-PL-SPVC.jpg"
-image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
+image: "https://cdn11.bigcommerce.com/s-syrwtufux2/products/431/images/5592/RS6901_RSPC-FP__96496.1774285694.386.513.jpg?c=1"
+image_credit: "적용 사례 사진 · siffron.com (원본 링크)"
+image_source: "https://siffron.com/hang-clear-full-channel/"
+apply_links:
+  - {title: "리테일 선반 행잉 투명 PVC 채널", url: "https://siffron.com/hang-clear-full-channel/", page_title: "Hang Clear™ Full Channel", desc: "Display clear, professional signage with the Hang Clear™ Full Channel. Fits Data-Trax™ and 1.25\" shelf edges. Flexible, UV-stable PVC for produce sections and retail displays.", img: "https://cdn11.bigcommerce.com/s-syrwtufux2/products/431/images/5592/RS6901_RSPC-FP__96496.1774285694.386.513.jpg?c=1"}
+  - {title: "팔람 팔클리어 투명 PVC 시트", url: "https://palram.com/us/?p=124295", page_title: "PALCLEAR Water-Clear PVC Sheets", img: "https://www.palram.com/us/wp-content/uploads/sites/2/2020/05/PALCLEAR-IND-Product-Web-Page-1348x466-Server-room-1024x354.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

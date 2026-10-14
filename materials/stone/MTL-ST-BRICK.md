@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Brick
-image: "assets/img/MTL-ST-BRICK.jpg"
-image_credit: "Andrewlister · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Brick.jpg"
+image: "https://www.arch2o.com/wp-content/uploads/2018/12/Arch2O-8-interesting-brick-facades-of-stack-bond-23.jpg"
+image_credit: "적용 사례 사진 · arch2o.com (원본 링크)"
+image_source: "https://www.arch2o.com/?p=187950"
+apply_links:
+  - {title: "장식 벽돌 건축 파사드 사례 모음", url: "https://www.dezeen.com/2023/04/20/decorative-brick-buildings-roundup/amp/", page_title: "Just a moment..."}
+  - {title: "스택 본드 벽돌 파사드 8선", url: "https://www.arch2o.com/?p=187950", page_title: "8 Interesting Brick Facades of Stack Bond - Arch2O.com", desc: "Brick facade: Stack bond is a completely different story where the bricks clad buildings with an existing structural integrity giving them amazing shapes.", img: "https://www.arch2o.com/wp-content/uploads/2018/12/Arch2O-8-interesting-brick-facades-of-stack-bond-23.jpg"}
+  - {title: "벽돌 외부 파사드 프로젝트", url: "https://www.ceramicarondine.it/en/projects/external-facade-with-brick/", page_title: "External facade with Brick", desc: "In recent years, we have seen a growing trend in architecture and building design: the use of the brick effect for the facades of houses, villas and …"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Onyx
-image: "assets/img/MTL-ST-ONYX.jpg"
-image_credit: "Robert M. Lavinsky · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Agate-Quartz-49959.jpg"
+image: "https://www.dedalostone.com/wp-content/uploads/2025/02/backlit-onyx-wall.jpg"
+image_credit: "적용 사례 사진 · dedalostone.com (원본 링크)"
+image_source: "https://www.dedalostone.com/en/interior-design/marble-and-onyx-interior-design/"
+apply_links:
+  - {title: "오타와 150 엘긴 로비 백라이트 오닉스", url: "https://architizer.com/projects/150-elgin-street", page_title: "Attention Required! | Cloudflare"}
+  - {title: "오닉스 백라이트 월 인테리어", url: "https://www.dedalostone.com/en/interior-design/marble-and-onyx-interior-design/", page_title: "Marble and Onyx interior design | Dedalo Stone", desc: "A project featuring exquisite marble, backlit onyx, and artistic details, blending craftsmanship and technology for a unique ambiance.", img: "https://www.dedalostone.com/wp-content/uploads/2025/02/backlit-onyx-wall.jpg"}
+  - {title: "폼파노비치 욕실 오닉스 백라이트 벽", url: "https://lumiron.com/bathroom-backlit-wall-with-onyx-stone-in-pompano-beach/", page_title: "Bathroom backlit wall with onyx stone in Pompano Beach", desc: "In this Pompano Beach project, we created a stunning bathroom feature with a backlit wall using onyx stone.", img: "https://lumiron.com/wp-content/uploads/2025/09/Bathroom-backlit-wall-with-onyx-stone-in-Pompano-Beach-01.jpeg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

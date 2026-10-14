@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Terrazzo
-image: "assets/img/MTL-ST-TERRAZZO.jpg"
-image_credit: "Ned Hartley · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Terrazzo_entryway.jpg"
+image: "https://asset.source.thenbs.com/api/thumbnail/d03f84f1-a46b-415e-afec-bf8b27e3d24f"
+image_credit: "적용 사례 사진 · source.thenbs.com (원본 링크)"
+image_source: "https://source.thenbs.com/case-study/nike-store-leeds/oZqQHpTSUoxFFgq4wA8pTr/2c2DnvbbwuNp6Kpdb8BYGw"
+apply_links:
+  - {title: "리즈 나이키 매장 테라조 레진 바닥", url: "https://source.thenbs.com/case-study/nike-store-leeds/oZqQHpTSUoxFFgq4wA8pTr/2c2DnvbbwuNp6Kpdb8BYGw", page_title: "Nike Store – Leeds | Terrazzo Tiles | NBS Source", desc: "<p>For Nike in&nbsp;Leeds, our bespoke terrazzo resin flooring played a key role in creating a clean, cohesive store design built for heavy daily use. The sleek finish supports the brand’s sporty aesthetic while offering", img: "https://asset.source.thenbs.com/api/thumbnail/d03f84f1-a46b-415e-afec-bf8b27e3d24f"}
+  - {title: "뉴욕 조프레시 매장 백색 테라조", url: "https://www.tmsupply.com/2014/12/", page_title: "December 2014 - Terrazzo & Marble Supply"}
+  - {title: "베오그라드 BEO 쇼핑센터 테라조 바닥", url: "https://ntma.com/awards/beo-shopping-center/", page_title: "BEO Shopping Center – National Terrazzo & Mosaic Association"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

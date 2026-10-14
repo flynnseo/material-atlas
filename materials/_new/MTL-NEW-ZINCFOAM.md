@@ -20,11 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/zinc-foam/
-apply_links:
-  - {title: "아연 폼 소재 소개 Transmaterial", url: "https://transmaterial.net/zinc-foam"}
 image: "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2bfd9d31-1745-45b7-bf8b-f6621fea1220/zincfoam/public"
 image_credit: "적용 사례 사진 · transmaterial.net (원본 링크)"
 image_source: "https://transmaterial.net/zinc-foam"
+apply_links:
+  - {title: "아연 폼 소재 소개 Transmaterial", url: "https://transmaterial.net/zinc-foam", page_title: "Zinc Foam", img: "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/2bfd9d31-1745-45b7-bf8b-f6621fea1220/zincfoam/public"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

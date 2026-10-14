@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Basalt
-image: "assets/img/MTL-ST-BASALT.jpg"
-image_credit: "James St. John · CC BY 2.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Basalt_12_%2848674276333%29.jpg"
+image: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/06/archeyes-timeless-architecture-og-image.png?fit=1672%2C941&ssl=1"
+image_credit: "적용 사례 사진 · archeyes.com (원본 링크)"
+image_source: "https://archeyes.com/tag/Basalt-Stone/"
+apply_links:
+  - {title: "파리 근교 현무암 파사드 스포츠센터", url: "https://www.dezeen.com/?p=467595", page_title: "Just a moment..."}
+  - {title: "아이슬란드 란즈방키인 현무암 레인스크린", url: "https://www.fischer-international.com/en/references/22-07-20-landesbank-island", page_title: "Landsbankinn Island - fischer international"}
+  - {title: "현무암 석재 건축 사례 모음", url: "https://archeyes.com/tag/Basalt-Stone/", page_title: "Basalt Stone in Architectural Works | ArchEyes", desc: "Discover the use of basalt stone in architecture, valued for its durability, strength, and natural beauty. Learn how this volcanic rock enhances modern designs with its rugged aesthetic and thermal properties, perfect fo", img: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/06/archeyes-timeless-architecture-og-image.png?fit=1672%2C941&ssl=1"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

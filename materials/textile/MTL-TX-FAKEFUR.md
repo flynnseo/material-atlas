@@ -22,6 +22,10 @@ sources:
 image: "assets/img/MTL-TX-FAKEFUR.jpg"
 image_credit: "Twentieth Century Fox · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Anne_Baxter-YOU%27RE_MY_EVERYTHING-Promo.jpg"
+apply_links:
+  - {title: "털 소재 벽면 인테리어 5선", url: "https://www.dezeen.com/?p=1996436", page_title: "Just a moment..."}
+  - {title: "발렌시아가 마운트스트리트 퍼 매장", url: "https://www.dezeen.com/2023/11/05/furry-faux-fur-walls-interiors-lookbooks/amp/", page_title: "Just a moment..."}
+  - {title: "기예르모 산토마 소파 펠로", url: "https://www.dezeen.com/2018/12/12/furry-fuzzy-furniture-design-miami/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

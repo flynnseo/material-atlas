@@ -19,8 +19,8 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "Knoll Imago 패브릭 레진 패널", url: "https://www.bdcnetwork.com/knoll-imago-frozen-fabrics-resin-panels"}
-  - {title: "건축용 레진 패널 모음", url: "https://www.bdcnetwork.com/home/article/55146450/architectural-resin-panels"}
+  - {title: "Knoll Imago 패브릭 레진 패널", url: "https://www.bdcnetwork.com/knoll-imago-frozen-fabrics-resin-panels", page_title: "Knoll Imago Frozen Fabrics Resin Panels", desc: "Available in more than a dozen patterns and in thicknesses from 1/16 to 1/2 inch, Knoll Imago Frozen Fabrics resin-based panels are manufactured through a patented process that..."}
+  - {title: "건축용 레진 패널 모음", url: "https://www.bdcnetwork.com/home/article/55146450/architectural-resin-panels", page_title: "Architectural resin panels", desc: "Encapsulated resin architectural panels are available with integrated fabric designed by textile designer Jhane Barnes. Lumicor"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

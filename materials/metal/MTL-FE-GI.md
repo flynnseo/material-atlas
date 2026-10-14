@@ -24,6 +24,8 @@ sources: []
 image: "assets/img/MTL-FE-GI.jpg"
 image_credit: "Mojtabagholampour · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3AGalvanized-sheet.jpg"
+apply_links:
+  - {title: "마드리드 Mood 미용실 아연도금강판 내외장", url: "https://www.dezeen.com/2022/03/13/casa-antillon-mood-hair-salon-madrid-interiors/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

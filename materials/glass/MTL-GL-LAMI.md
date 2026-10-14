@@ -21,12 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "쇼르 접합유리 외장 글라스 쉬글", url: "https://stylepark.com/en/scholl-glas/gewe-safe-glass-shingles"}
-  - {title: "세키스이 접합유리 프로젝트", url: "https://trends.archiexpo.com/sekisui-s-lec/project-3363-289915.html"}
 image: "https://www.stylepark.com/assets/transformations/manufacturers/s/scholl-glas/produkte/gewe-safe-glass-shingles/_1410xAUTO_fit_center-center_90_none/gewe-safe-glass-shingles-1.jpg"
 image_credit: "적용 사례 사진 · stylepark.com (원본 링크)"
 image_source: "https://stylepark.com/en/scholl-glas/gewe-safe-glass-shingles"
+apply_links:
+  - {title: "쇼르 접합유리 외장 글라스 쉬글", url: "https://stylepark.com/en/scholl-glas/gewe-safe-glass-shingles", page_title: "GEWE-safe® glass shingles by Scholl Glas | Stylepark", desc: "GEWE-safe® glass shingles - Designer Glass facades by Scholl Glas ✓ Comprehensive product & design information ✓ Catalogs ➜ Get inspired now", img: "https://www.stylepark.com/assets/transformations/manufacturers/s/scholl-glas/produkte/gewe-safe-glass-shingles/_1410xAUTO_fit_center-center_90_none/gewe-safe-glass-shingles-1.jpg"}
+  - {title: "세키스이 접합유리 프로젝트", url: "https://trends.archiexpo.com/sekisui-s-lec/project-3363-289915.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

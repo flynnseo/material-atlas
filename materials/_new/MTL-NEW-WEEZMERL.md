@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.weezandmerl.com/
-apply_links:
-  - {title: "Unity Place 윈도 설치작 재생 LDPE", url: "https://www.ginkgoprojects.co.uk/unity-place"}
-  - {title: "Weez & Merl 재생 비닐 하우스웨어", url: "https://design-milk.com/weez-merl-turn-plastic-carrier-bags-into-housewares-surfboard-fins-more/"}
 image: "https://design-milk.com/images/2021/05/Featured-image-Weez-and-Merl.jpg"
 image_credit: "적용 사례 사진 · design-milk.com (원본 링크)"
 image_source: "https://design-milk.com/weez-merl-turn-plastic-carrier-bags-into-housewares-surfboard-fins-more/"
+apply_links:
+  - {title: "Unity Place 윈도 설치작 재생 LDPE", url: "https://www.ginkgoprojects.co.uk/unity-place", page_title: "Unity Place — Ginkgo Projects"}
+  - {title: "Weez & Merl 재생 비닐 하우스웨어", url: "https://design-milk.com/weez-merl-turn-plastic-carrier-bags-into-housewares-surfboard-fins-more/", page_title: "Weez & Merl Turn Plastic Carrier Bags Into Housewares, Surfboard Fins + More", desc: "UK-based makers Weez & Merl melt and marble plastic waste, such as carrier bags, and turn it into 100% recycled housewares.", img: "https://design-milk.com/images/2021/05/Featured-image-Weez-and-Merl.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

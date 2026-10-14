@@ -21,11 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
-apply_links:
-  - {title: "폐데님 흡음 패널 프로젝트", url: "https://trendland.com/towards-a-new-matter/"}
 image: "https://trendland.com/wp-content/uploads/2019/05/Milan_Friedrich_new_material_5.jpg"
 image_credit: "적용 사례 사진 · trendland.com (원본 링크)"
 image_source: "https://trendland.com/towards-a-new-matter/"
+apply_links:
+  - {title: "폐데님 흡음 패널 프로젝트", url: "https://trendland.com/towards-a-new-matter/", page_title: "Towards a New Matter", desc: "Towards a New Matter is a material-based research project from Milan Friedrich, in which denim fibers have been transformed through a recycling technique", img: "https://trendland.com/wp-content/uploads/2019/05/Milan_Friedrich_new_material_5.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

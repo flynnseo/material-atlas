@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Stereolithography
-image: "assets/img/MTL-PL-SLA-RESIN.jpg"
-image_credit: "Paolo Cignoni · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Schematic_representation_of_Stereolithography.png"
+image: "https://facfox.com/wp-content/uploads/2022/06/SLA-3D-Printed-Mini-Show-Room-Interior-Model_FacFox-1.jpg"
+image_credit: "적용 사례 사진 · facfox.com (원본 링크)"
+image_source: "https://facfox.com/case/architecture-case/sla-3d-printed-mini-show-room-interior-model"
+apply_links:
+  - {title: "SLA 인테리어 쇼룸 미니 모형", url: "https://facfox.com/case/architecture-case/sla-3d-printed-mini-show-room-interior-model", page_title: "SLA 3D Printed Mini Show Room Interior Model", desc: "An interior design company has designed the showroom for Lunjor Star and found us to make a small-scale prototype. All the mini furniture, plants and branches are all made with photosensitive resin. We assembled them all", img: "https://facfox.com/wp-content/uploads/2022/06/SLA-3D-Printed-Mini-Show-Room-Interior-Model_FacFox-1.jpg"}
+  - {title: "SLA 출력 인테리어 모델하우스 디스플레이", url: "https://facfox.com/case/architecture-case/sla-printed-customized-model-house-display-for-interior-design-company/", page_title: "SLA Printed Customized Model House Display for Interior Design Company", desc: "Sales manager requested custom model house display. We SLA 3D printed walls, furniture, painted and assembled into mini living room for her interior design company.", img: "https://facfox.com/wp-content/uploads/2020/01/35.jpg"}
+  - {title: "SLA 레진 비너스 책장 가구", url: "https://facfox.com/?p=202945", page_title: "SLA 3D Printed White Resin Venus Bookcase Artwork Furniture", desc: "Discover how FacFox created a stunning Venus bookcase for a client. Learn how 3D printing can help you create unique and affordable furniture.", img: "https://facfox.com/wp-content/uploads/2024/01/FDM-3D-Printed-White-PLA-Venus-Bookcase-Artwork-Furniture_FacFox-2.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

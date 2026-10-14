@@ -10,13 +10,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "잔다듬 대리석 소재 페이지", url: "https://www.dedalostone.com/en/materials/bush-hammered-marble/"}
-  - {title: "석재 마감 6종 설명", url: "https://www.salvatoriofficial.com/en/gb/stories/the-6-main-types-of-natural-stone-finishes"}
-  - {title: "대리석 질감·마감 Stonetech", url: "https://www.archdaily.com/catalog/us/products/35737/marble-textures-surface-finishes-stonetech"}
 image: "https://www.dedalostone.com/wp-content/uploads/2021/12/bush-hammered-marble.jpg"
 image_credit: "적용 사례 사진 · dedalostone.com (원본 링크)"
 image_source: "https://www.dedalostone.com/en/materials/bush-hammered-marble/"
+apply_links:
+  - {title: "잔다듬 대리석 소재 페이지", url: "https://www.dedalostone.com/en/materials/bush-hammered-marble/", page_title: "Bush Hammered Marble | Dedalo Stone", desc: "The stone bush hammered finish is a marble finish that aims at giving a rustic appearance to the surface as well as durability and resistance", img: "https://www.dedalostone.com/wp-content/uploads/2021/12/bush-hammered-marble.jpg"}
+  - {title: "석재 마감 6종 설명", url: "https://www.salvatoriofficial.com/en/gb/stories/the-6-main-types-of-natural-stone-finishes", page_title: "The 6 main types of natural stone finishes", desc: "Discover the 6 main finishes and techniques that are universally used for transforming natural stone into architectural and décor elements.", img: "https://salvatori-dam.imgix.net/uploads/2020/08/banner_Stories_D4_.jpg"}
+  - {title: "대리석 질감·마감 Stonetech", url: "https://www.archdaily.com/catalog/us/products/35737/marble-textures-surface-finishes-stonetech", page_title: "Marble Textures & Surface Finishes from Stonetech", desc: "Stonetech offers diverse finishes for their marble collection, adjustable to each project's requirements", img: "https://neufert-cdn.archdaily.net/uploads/photo/image/367391/cropped_large_01-Metamor-STONETECH.jpg?v=1754942441"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

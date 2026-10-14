@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Carrara_marble
-image: "assets/img/MTL-ST-CARRARA.jpg"
-image_credit: "L'autore sono io Utente:Carrarino · CC BY 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Carrara.PNG"
+image: "https://a.1stdibscdn.com/processed/photo/contemporary/brussels-belgium/contemporary-open-plan-brussels-belgium-by-nicolas-schuybroek-architects.jpg"
+image_credit: "적용 사례 사진 · 1stdibs.com (원본 링크)"
+image_source: "https://www.1stdibs.com/project/sonkes-brussels/5413"
+apply_links:
+  - {title: "브뤼셀 소네스 안경점 카라라 선반", url: "https://www.1stdibs.com/project/sonkes-brussels/5413", page_title: "SONKES by Nicolas Schuybroek Architects | 1stDibs", desc: "Lionel Sonkès commissioned us with the creation of a unique optician shop in Brussels. Using the available space optimally, we managed to include long tables, confortable seating areas, custom-made lightening fixtures, a", img: "https://a.1stdibscdn.com/processed/photo/contemporary/brussels-belgium/contemporary-open-plan-brussels-belgium-by-nicolas-schuybroek-architects.jpg"}
+  - {title: "리테일 매장 대리석 적용 사례", url: "https://www.specificationonline.co.uk/articles/2017-06-15/marble-sells", page_title: "Marble Sells", desc: "​The secret of selling virtually anything is the way in which the goods are presented. When it comes to the retailing of more upmarket and luxury goods, the building’s interior design and ambience are also vital consider", img: "https://d2c6s77msf04pp.cloudfront.net/uploads/thumbnails/wp-20161107-010thumb-5942736350791.jpg"}
+  - {title: "TDE 아파트 카라라 대리석", url: "https://cdkstone.com.au/?p=4383", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

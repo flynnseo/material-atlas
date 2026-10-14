@@ -20,11 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.front-materials.com/
-apply_links:
-  - {title: "Front 폐기물 벽돌 슬립 인테리어 적용 사례", url: "https://www.front-materials.com/news/sustainable-interior-design-ideas/"}
 image: "https://www.front-materials.com/app/uploads/2020/11/6-sustainable-interior-design-ideas-that-will-surprise-you-stonecycling.jpg"
 image_credit: "적용 사례 사진 · front-materials.com (원본 링크)"
 image_source: "https://www.front-materials.com/news/sustainable-interior-design-ideas/"
+apply_links:
+  - {title: "Front 폐기물 벽돌 슬립 인테리어 적용 사례", url: "https://www.front-materials.com/news/sustainable-interior-design-ideas/", page_title: "6 Sustainable Interior Design Ideas That Will Surprise You - FRONT® Materials", desc: "Hopefully we can spark your creativity and motivate you to look beyond the standard usage of the brick and brick slip!", img: "https://www.front-materials.com/app/uploads/2020/11/6-sustainable-interior-design-ideas-that-will-surprise-you-stonecycling.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

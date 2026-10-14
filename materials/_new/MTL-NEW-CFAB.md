@@ -21,11 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://branchtechnology.com/
-apply_links:
-  - {title: "Branch Technology C-Fab 패널 제작 사례", url: "https://www.3ds.com/insights/customer-stories/branch-technology-digital-fabrication"}
 image: "https://www.3ds.com/assets/invest/styles/card_og_image/public/2023-07/branch-digital-hero-image.jpg?itok=3bYBdV_m"
 image_credit: "적용 사례 사진 · 3ds.com (원본 링크)"
 image_source: "https://www.3ds.com/insights/customer-stories/branch-technology-digital-fabrication"
+apply_links:
+  - {title: "Branch Technology C-Fab 패널 제작 사례", url: "https://www.3ds.com/insights/customer-stories/branch-technology-digital-fabrication", page_title: "Branch Technology", desc: "Investigate how Branch Technology uses 3DEXPERIENCE Cloud to process complex geometries for digital fabrication. Achieve accuracy and improve efficiency.", img: "https://www.3ds.com/assets/invest/styles/card_og_image/public/2023-07/branch-digital-hero-image.jpg?itok=3bYBdV_m"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

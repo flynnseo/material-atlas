@@ -21,12 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Hydro 6063 압출 프로파일 적용 소개", url: "https://integration.hydro.com/en/global/aluminium/products/extruded-profiles/alloys-for-extruded-profiles/6063-alloy/"}
-  - {title: "6063 알루미늄 압출 프로파일 제품", url: "https://www.profall.com/en/6063-aluminum-extrusion"}
 image: "https://integration.hydro.com/contentassets/4ac44ec9fdf148658222e9a647aee839/_dsc9172.jpg"
 image_credit: "적용 사례 사진 · integration.hydro.com (원본 링크)"
 image_source: "https://integration.hydro.com/en/global/aluminium/products/extruded-profiles/alloys-for-extruded-profiles/6063-alloy/"
+apply_links:
+  - {title: "Hydro 6063 압출 프로파일 적용 소개", url: "https://integration.hydro.com/en/global/aluminium/products/extruded-profiles/alloys-for-extruded-profiles/6063-alloy/", page_title: "6063 aluminium alloy", desc: "6063 is a heat-treatable aluminium alloy widely used in extruded profiles for architectural and visible applications. Good surface finish, reliable anodizing results and a step up in strength over 6060.", img: "https://integration.hydro.com/contentassets/4ac44ec9fdf148658222e9a647aee839/_dsc9172.jpg"}
+  - {title: "6063 알루미늄 압출 프로파일 제품", url: "https://www.profall.com/en/6063-aluminum-extrusion", page_title: "6063 Aluminum Extrusion | Profall", desc: "Here are the mechanical characteristics of 6063 aluminum extrusions and the profiles in our catalog for which it is used.", img: "https://www.profall.com/hubfs/profili-alluminio-per-porte.i5441-kujiEVE-w1000-l1-n1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

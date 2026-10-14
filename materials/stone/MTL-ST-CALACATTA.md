@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Marble
-image: "assets/img/MTL-ST-CALACATTA.jpg"
-image_credit: "Zyance · CC BY-SA 2.5 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Marmo_z17.JPG"
+image: "https://minimalissimo.com/api/media/file/calacatta-residence-1-1200x630.jpg"
+image_credit: "적용 사례 사진 · minimalissimo.com (원본 링크)"
+image_source: "https://minimalissimo.com/articles/calacatta-residence"
+apply_links:
+  - {title: "사우스포트 주택 칼라카타 인테리어", url: "https://www.meiger.co.uk/projects/southport-seaside-sanctuary", page_title: "Southport Seaside Sanctuary | Luxury Interior Design | Meiger", desc: "Meiger's Luxury Architectural Interior Projects: Discover The Southport Residence, a tranquil luxury home near Cheshire featuring sculptural Calacatta marble, organic materials, and timeless interior design."}
+  - {title: "칼라카타 레지던스 대리석 벽·바닥", url: "https://minimalissimo.com/articles/calacatta-residence", page_title: "Calacatta Residence by Extravagauza | Minimalissimo", desc: "Calacatta Residence is a peaceful abode outside of London. Designed as a sanctuary for the residents, this dwelling incorporates organic materials into an impec", img: "https://minimalissimo.com/api/media/file/calacatta-residence-1-1200x630.jpg"}
+  - {title: "칼라카타 보르기니 대리석 욕실", url: "https://www.dedalostone.com/en/interior-design/calacatta-borghini-marble-bathroom/", page_title: "Luxury Calacatta Borghini Marble Bathroom | Dedalo Stone", desc: "Spacious custom bathroom in Calacatta Borghini marble by Dedalo Stone. Onda bathtub, bookmatched walls, and seamless marble installation.", img: "https://www.dedalostone.com/wp-content/uploads/2025/10/calacatta-borghini-marble-bathroom-scaled.png"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

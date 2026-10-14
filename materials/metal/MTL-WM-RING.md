@@ -21,8 +21,8 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "KriskaDECOR 금속 체인 커튼, 스위스 쇼룸", url: "https://www.dezeen.com/2014/12/10/kriskadecor-metal-chain-curtains/"}
-  - {title: "Gerriets 링메쉬 와이어 커튼", url: "https://www.gerriets.com/ae/shop/textile/wire-mesh-curtains-g-mesh/"}
+  - {title: "KriskaDECOR 금속 체인 커튼, 스위스 쇼룸", url: "https://www.dezeen.com/2014/12/10/kriskadecor-metal-chain-curtains/", page_title: "Just a moment..."}
+  - {title: "Gerriets 링메쉬 와이어 커튼", url: "https://www.gerriets.com/ae/shop/textile/wire-mesh-curtains-g-mesh/", page_title: "Wire Mesh Curtains G-MESH"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

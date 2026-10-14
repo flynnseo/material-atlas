@@ -21,11 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.sulapac.com
-apply_links:
-  - {title: "Sulapac 바이오복합재 제품 소개", url: "https://www.sulapac.com/?p=908"}
 image: "https://www.sulapac.com/app/uploads/2018/12/Blog-image-Stora-Sulapac-opt.jpg"
 image_credit: "적용 사례 사진 · sulapac.com (원본 링크)"
 image_source: "https://www.sulapac.com/?p=908"
+apply_links:
+  - {title: "Sulapac 바이오복합재 제품 소개", url: "https://www.sulapac.com/?p=908", page_title: "Stora Enso and startup Sulapac have joined forces to develop renewable and biodegradable straws", img: "https://www.sulapac.com/app/uploads/2018/12/Blog-image-Stora-Sulapac-opt.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

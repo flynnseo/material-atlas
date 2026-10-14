@@ -15,12 +15,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.steelcolor.com/
-apply_links:
-  - {title: "호주 Rundle Place 적색 착색 스테인리스 파사드", url: "https://assda.asn.au/blog/274-stainless-in-color"}
-  - {title: "일본 INCO 착색 스테인리스 적용 사례", url: "https://nickelinstitute.org/en/resources/technical-guides/application-of-inco-colored-stainless-steel-in-japan-13005/"}
 image: "https://assda.asn.au/components/com_rsblog/assets/images/blog/274.jpg"
 image_credit: "적용 사례 사진 · assda.asn.au (원본 링크)"
 image_source: "https://assda.asn.au/blog/274-stainless-in-color"
+apply_links:
+  - {title: "호주 Rundle Place 적색 착색 스테인리스 파사드", url: "https://assda.asn.au/blog/274-stainless-in-color", page_title: "Stainless in Color", desc: "A modern and innovative design using coloured and textured stainless steel has left an impressive statement on an Adelaide streetscape. South Australia’s premier shopping district Rundle Mall underwent a full makeover fr", img: "https://assda.asn.au/components/com_rsblog/assets/images/blog/274.jpg"}
+  - {title: "일본 INCO 착색 스테인리스 적용 사례", url: "https://nickelinstitute.org/en/resources/technical-guides/application-of-inco-colored-stainless-steel-in-japan-13005/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

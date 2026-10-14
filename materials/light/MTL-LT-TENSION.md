@@ -19,12 +19,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "리테일 쇼윈도용 LED 텍스타일 프레임", url: "https://www.pixlip.com/en/pages/pixlip-flat"}
-  - {title: "벽부형 텐션 패브릭 라이트박스", url: "https://colourgraphics.com/product/wall-mount-tension-fabric-lightbox/"}
 image: "http://www.pixlip.com/cdn/shop/files/SEO-Teilung-web.jpg?v=1755763154&width=2048"
 image_credit: "적용 사례 사진 · pixlip.com (원본 링크)"
 image_source: "https://www.pixlip.com/en/pages/pixlip-flat"
+apply_links:
+  - {title: "리테일 쇼윈도용 LED 텍스타일 프레임", url: "https://www.pixlip.com/en/pages/pixlip-flat", page_title: "FLAT LED light boxes for retail, interiors, and much more.", desc: "Ultra-slim LED lightboxes and fabric tension frames for retail, POS, branded spaces, and interior design. Custom sizes, brilliant illumination.", img: "http://www.pixlip.com/cdn/shop/files/SEO-Teilung-web.jpg?v=1755763154&width=2048"}
+  - {title: "벽부형 텐션 패브릭 라이트박스", url: "https://colourgraphics.com/product/wall-mount-tension-fabric-lightbox/", page_title: "Wall Mounted Tension Fabric Lightbox | Silicone Edge Lightbox Graphics", desc: "Shop custom wall-mounted tension fabric lightboxes at Colour Graphics. Low-profile 65mm aluminum LED frame with tool-free, seamless backlit SEG graphics.", img: "https://storage.googleapis.com/colour-graphics-com-prod-assets/preview/e1/wallmount-tension-fabric-lightbox-retail__preview.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

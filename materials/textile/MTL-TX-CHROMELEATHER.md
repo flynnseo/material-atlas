@@ -20,9 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Tanning_(leather)
-image: "assets/img/MTL-TX-CHROMELEATHER.jpg"
-image_credit: "Alexarosatti · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:JBS_Tannery.jpg"
+image: "https://www.wollsdorf.com/wp-content/uploads/2020/09/istock-1034870312-scaled.jpg"
+image_credit: "적용 사례 사진 · wollsdorf.com (원본 링크)"
+image_source: "https://www.wollsdorf.com/en/leather-production/stock-programme/interior/"
+apply_links:
+  - {title: "볼스도르프 가구·인테리어용 크롬프리 가죽", url: "https://www.wollsdorf.com/en/leather-production/stock-programme/interior/", page_title: "Stock programme: Leather furniture covers | Wollsdorf", desc: "Our upholstery furniture leather provides a creative basis for many new interior design ideas. Secure your personal upholstery leather now.", img: "https://www.wollsdorf.com/wp-content/uploads/2020/09/istock-1034870312-scaled.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

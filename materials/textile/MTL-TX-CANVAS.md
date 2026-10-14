@@ -23,6 +23,9 @@ sources:
 image: "assets/img/MTL-TX-CANVAS.jpg"
 image_credit: "Foto: Jonn Leffmann · CC BY 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Sj%C3%B6manss%C3%A4ck_-_1991.jpg"
+apply_links:
+  - {title: "크바드랏 캔버스 직물 19인 디자이너 전시", url: "https://www.dezeen.com/2017/09/19/19-designers-reinterpret-one-of-kvadrats-staple-fabrics-london-design-festival/amp/", page_title: "Just a moment..."}
+  - {title: "사무실 휴게공간 캔버스 천장 시공", url: "https://iaa.textiles.org/?p=5329", page_title: "Hyundai Newport Beach"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

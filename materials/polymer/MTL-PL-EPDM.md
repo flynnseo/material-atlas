@@ -27,6 +27,9 @@ sources:
 image: "assets/img/MTL-PL-EPDM.jpg"
 image_credit: "Smokefoot · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:EPDMcolorcoded.png"
+apply_links:
+  - {title: "Dinoflex EPDM 맞춤 로고 바닥", url: "https://dinoflex.com/products/custom-floor-design-and-logos"}
+  - {title: "헬스장 EPDM 바닥 라인 시공", url: "https://www.buildingdesignindex.co.uk/entry/139831/TVS-Gym-Flooring/Gym-flooring-with-custom-line-markings-Sports-Direct/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

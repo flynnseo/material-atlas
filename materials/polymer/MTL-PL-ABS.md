@@ -26,12 +26,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene
-apply_links:
-  - {title: "ABS 시트 인테리어 디자인 적용 (벽·집기·사인)", url: "https://www.acplasticsinc.com/interior-design/"}
-  - {title: "ABS 스툴 시트 적용 가구", url: "https://www.atlanticshopping.co.uk/blogs/inspiration-and-advice/abs-used-in-the-construction-of-stool-seats"}
 image: "http://www.atlanticshopping.co.uk/cdn/shop/articles/white-abs-bamboo-stool-in-kitchen_6eb78aa3-3378-49d5-ba7c-0786905b4664.jpg?v=1774023941"
 image_credit: "적용 사례 사진 · atlanticshopping.co.uk (원본 링크)"
 image_source: "https://www.atlanticshopping.co.uk/blogs/inspiration-and-advice/abs-used-in-the-construction-of-stool-seats"
+apply_links:
+  - {title: "ABS 시트 인테리어 디자인 적용 (벽·집기·사인)", url: "https://www.acplasticsinc.com/interior-design/", page_title: "Just a moment..."}
+  - {title: "ABS 스툴 시트 적용 가구", url: "https://www.atlanticshopping.co.uk/blogs/inspiration-and-advice/abs-used-in-the-construction-of-stool-seats", page_title: "ABS Used in the Construction of Stool Seats | Atlantic Shopping", desc: "One of our bestselling stool seat materials is ABS plastic, yet many of our customers ask what it stands for. A widely used plastic called Acrylonitrile Butadiene Styrene, it's characterised by its shiny waterproof surfa", img: "http://www.atlanticshopping.co.uk/cdn/shop/articles/white-abs-bamboo-stool-in-kitchen_6eb78aa3-3378-49d5-ba7c-0786905b4664.jpg?v=1774023941"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

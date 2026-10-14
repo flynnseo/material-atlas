@@ -26,6 +26,9 @@ sources:
 image: "assets/img/MTL-PL-PVC-FOAM.jpg"
 image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
+apply_links:
+  - {title: "팔람 PVC 폼보드 프로젝트 샘플", url: "https://buildon.palram.com/projectpvcsample", page_title: "ProjectPVC Sample Order Page - Palram Americas", desc: "See for yourself why Palight® ProjectPVC™ is the ideal solution for modeling, craft and maker projects, and even interior decorations"}
+  - {title: "팔람 팔보드 인테리어·디스플레이용", url: "https://go.palram.com/palboard-sample-kit", page_title: "LP PALBOARD - Sample kit", desc: "One board, so many possibilities. We’ve taken PVC to a whole new level by combining solid PVC and foam PVC into a new, multi-layered solution."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

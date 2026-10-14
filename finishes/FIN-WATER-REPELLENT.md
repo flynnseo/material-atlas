@@ -12,8 +12,8 @@ hands_on: false
 sources: []
 apply_links:
   - {title: "발수 콘크리트 REFLEX ABTF", url: "https://architectatwork.com/en/curated/innovations/reflex-abtf-water-repellent-concrete-114036"}
-  - {title: "콘크리트 파사드 코팅 Oikos", url: "https://www.archiexpo.com/prod/oikos-colore-e-materia-per-l-architettura/product-131967-1709575.html"}
-  - {title: "파사드 발수 함침 CINGARD", url: "https://cin.com/corporate/en/cin-launches-cingard-hi900-for-water-repellent-of-facades-works-of-art-and-building-structures"}
+  - {title: "콘크리트 파사드 코팅 Oikos", url: "https://www.archiexpo.com/prod/oikos-colore-e-materia-per-l-architettura/product-131967-1709575.html", page_title: "Just a moment..."}
+  - {title: "파사드 발수 함침 CINGARD", url: "https://cin.com/corporate/en/cin-launches-cingard-hi900-for-water-repellent-of-facades-works-of-art-and-building-structures", page_title: "CIN launches CINGARD® HI900 for water repellent of façades, works of art and building structures"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

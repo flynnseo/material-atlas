@@ -22,7 +22,7 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "스테인리스 430 패널 LA 사무실 칸막이", url: "https://ch-herrero.com/press/the-architects-newspaper-07-2023"}
+  - {title: "스테인리스 430 패널 LA 사무실 칸막이", url: "https://ch-herrero.com/press/the-architects-newspaper-07-2023", page_title: "Charlap Hyman & Herrero | The Architect's Newspaper 07-2023", desc: "Charlap Hyman & Herrero is an architecture and design firm based out of Los Angeles, New York, and Mexico City."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

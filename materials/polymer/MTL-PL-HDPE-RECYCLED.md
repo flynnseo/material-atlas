@@ -25,9 +25,12 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Plastic_lumber
   - https://en.wikipedia.org/wiki/High-density_polyethylene
-image: "assets/img/MTL-PL-HDPE-RECYCLED.jpg"
-image_credit: "US Fish and Wildlife Service - Recovery Act Team · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Rachel_Carson_National_Wildlife_Refuge_%285514980099%29.jpg"
+image: "https://design-milk.com/images/2026/07/ICFF_04b.jpg"
+image_credit: "적용 사례 사진 · design-milk.com (원본 링크)"
+image_source: "https://design-milk.com/lawrence-technological-university-icff-best-of-schools/"
+apply_links:
+  - {title: "재생 HDPE 가구·조명 전시(ICFF)", url: "https://design-milk.com/lawrence-technological-university-icff-best-of-schools/", page_title: "How 6 Sophomores Won ICFF’s Best of Schools", desc: "Using recycled HDPE, they created an award-winning collection", img: "https://design-milk.com/images/2026/07/ICFF_04b.jpg"}
+  - {title: "Studio POLY 재생 플라스틱 시트", url: "https://kglakademi.dk/node/5960", page_title: "404 | Det Kongelige Akademi", img: "https://kglakademi.dk/themes/b14theme/images/share/kadk_fallback.png"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

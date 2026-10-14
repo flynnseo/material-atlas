@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.vetrazzo.com/
-apply_links:
-  - {title: "Vetrazzo 재생유리 카운터 시공 사진 모음", url: "https://www.houzz.com/photos/query/vetrazzo/p/7"}
-  - {title: "재생유리 표면 적용 사례 기사", url: "https://trendsideas.com/stories/art-of-glass-4"}
 image: "https://st.hzcdn.com/fimgs/ae01fd6205f0a231_2439-w550-h550-b0-p0--customer-photo-gallery.jpg"
 image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
 image_source: "https://www.houzz.com/photos/query/vetrazzo/p/7"
+apply_links:
+  - {title: "Vetrazzo 재생유리 카운터 시공 사진 모음", url: "https://www.houzz.com/photos/query/vetrazzo/p/7", page_title: "Vetrazzo - Photos & Ideas | Houzz - Page 7", desc: "Browse photos of vetrazzo. Find inspiration and ideas for your home."}
+  - {title: "재생유리 표면 적용 사례 기사", url: "https://trendsideas.com/stories/art-of-glass-4", page_title: "Art of glass", desc: "The sparkle and translucence of recycled glass in this countertop turns the island into the kitchen's focal point", img: "https://res.cloudinary.com/trends-publishing/image/upload/ar_1.8,c_thumb,dpr_2.0,g_center,w_800/f_auto,q_auto:best/0057363.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.lgcommercialdisplay.com/product/led-signage/indoor-led/transparent-film/LTAK140-GU
-apply_links:
-  - {title: "KappAhl 플래그십 매장 쇼윈도 LED 필름", url: "https://www.sixteen-nine.net/?p=19864"}
-  - {title: "멜버른 Chadstone 쇼핑몰 유리 엘리베이터 LED 필름", url: "https://wideformatimage.com.au/?p=28176"}
 image: "https://invidis.com/wp-content/uploads/sixteen-nine/2021/08/kappahl-led-film.jpg"
 image_credit: "적용 사례 사진 · sixteen-nine.net (원본 링크)"
 image_source: "https://www.sixteen-nine.net/?p=19864"
+apply_links:
+  - {title: "KappAhl 플래그십 매장 쇼윈도 LED 필름", url: "https://www.sixteen-nine.net/?p=19864", page_title: "Nordic Retailer Makes LG’s Transparent LED Film Part Of Flagship Store’s Design | invidis", desc: "Many people, myself included, have expressed a lot of interest and enthusiasm for LG's transparent LED film, which has been shown at numerous trade shows but has not really shown up away from exhibit halls. But here's a ", img: "https://invidis.com/wp-content/uploads/sixteen-nine/2021/08/kappahl-led-film.jpg"}
+  - {title: "멜버른 Chadstone 쇼핑몰 유리 엘리베이터 LED 필름", url: "https://wideformatimage.com.au/?p=28176", page_title: "Error 403 Forbidden"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

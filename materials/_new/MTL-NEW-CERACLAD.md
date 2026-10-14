@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/article/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes
-apply_links:
-  - {title: "3D-CeraClad 3D프린트 세라믹 파사드", url: "https://materialdistrict.com/article/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes"}
-  - {title: "CeraShingle 3D프린트 세라믹 외장", url: "https://archup.net/cerashingle-digital-craftsmanship-facades/"}
 image: "https://archup.net/wp-content/uploads/2025/11/imgi_21_cerashingle-07.jpg"
 image_credit: "적용 사례 사진 · archup.net (원본 링크)"
 image_source: "https://archup.net/cerashingle-digital-craftsmanship-facades/"
+apply_links:
+  - {title: "3D-CeraClad 3D프린트 세라믹 파사드", url: "https://materialdistrict.com/article/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes", page_title: "3D-CeraClad: A 3D-Printed Ceramic Façade System For Sustainable Building Envelopes", desc: "3D-CeraClad explores 3D printed ceramic façades with integrated insulation, offering a durable and circular alternative to ETICS.", img: "https://media.materialdistrict.com/wp-content/uploads/2026/01/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes-materialdistrict-11.jpeg?v=20260127155132"}
+  - {title: "CeraShingle 3D프린트 세라믹 외장", url: "https://archup.net/cerashingle-digital-craftsmanship-facades/", page_title: "CeraShingle: Exploring the Intersection of Craft and Digital Fabrication in Architectural Façades ArchUp", desc: "The Relationship Between Craft and Technology: When a Robot Shapes Clay There is a profound sense of satisfaction in watching the potter’s wheel spin, and", img: "https://archup.net/wp-content/uploads/2025/11/imgi_21_cerashingle-07.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

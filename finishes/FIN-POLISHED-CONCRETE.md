@@ -11,13 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polished_concrete
-apply_links:
-  - {title: "첼시 디자인 스토어 연마 콘크리트 바닥", url: "https://www.ribaj.com/spec/sumptuous-showcase-for-polished-concrete/"}
-  - {title: "블루밍데일 쇼트힐스 콘크리트 바닥", url: "https://duraamen.com/blog/bloomingdales-chooses-polished-concrete-floors/"}
-  - {title: "Neighborhood Goods 연마 콘크리트 매장", url: "https://concretedecor.net/?p=28359"}
 image: "https://duraamen.com/wp-content/uploads/2021/01/Bloomingdales_Short-Hills-300x200-1.jpg"
 image_credit: "적용 사례 사진 · duraamen.com (원본 링크)"
 image_source: "https://duraamen.com/blog/bloomingdales-chooses-polished-concrete-floors/"
+apply_links:
+  - {title: "첼시 디자인 스토어 연마 콘크리트 바닥", url: "https://www.ribaj.com/spec/sumptuous-showcase-for-polished-concrete/", page_title: "Just a moment..."}
+  - {title: "블루밍데일 쇼트힐스 콘크리트 바닥", url: "https://duraamen.com/blog/bloomingdales-chooses-polished-concrete-floors/", page_title: "Concrete Floors installed in retail stores in Short Hills, NJ", desc: "Polished concrete floors was installed recently at Bloomingdales in Short Hills, NJ using a self-leveling concrete overlay and concrete micro-topping. […]", img: "https://duraamen.com/wp-content/uploads/2021/01/Bloomingdales_Short-Hills-300x200-1.jpg"}
+  - {title: "Neighborhood Goods 연마 콘크리트 매장", url: "https://concretedecor.net/?p=28359", page_title: "Polished Concrete Helps Deliver the 'Neighborhood Goods' - Concrete Decor", desc: "A new destination shopping store, Neighborhood Goods, features polished gray concrete as part of its launch of \"an experiment in retailing.\"", img: "https://www.concretedecor.net/wp-content/uploads/CD/assets/Image/archives/CD1906/310_Neighborhood_Goods_PP_1906/neighborhood-goods2.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

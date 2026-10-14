@@ -25,7 +25,7 @@ image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본
 image_source: "https://materialdistrict.com/material/hexaben-2/"
 apply_links:
   - {title: "Hexaben Large 제품 (Architonic)", url: "https://www.architonic.com/en/p/hexaben-large-1160910"}
-  - {title: "Hexaben 제품 페이지 (Archiexpo)", url: "https://www.archiexpo.com/prod/bencore/product-50184-1627218.html"}
+  - {title: "Hexaben 제품 페이지 (Archiexpo)", url: "https://www.archiexpo.com/prod/bencore/product-50184-1627218.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

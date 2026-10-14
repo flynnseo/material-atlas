@@ -21,11 +21,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "히로시마 Optical Glass House 유리블록 벽", url: "https://5osa.com/301199"}
 image: "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FuXql1%2FbtsKMNOH93y%2FAAAAAAAAAAAAAAAAAAAAABBO4lD2AnqX66AncyQ4U6nlELtFKu1P0FuMn9pI1_tt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DWej3%252FbjaqY7%252BUkm0bOs0NG%252BadfA%253D"
 image_credit: "적용 사례 사진 · 5osa.com (원본 링크)"
 image_source: "https://5osa.com/301199"
+apply_links:
+  - {title: "히로시마 Optical Glass House 유리블록 벽", url: "https://5osa.com/301199", page_title: "*유리 블록으로 빚어낸 도시 속 무릉도원 [ Hiroshi Nakamura & NAP ] Optical Glass House", desc: "\"좋은 건축은 자연과의 대화를 통해 완성된다.\" – 히로시 나카무라 유리 블록으로 빚어낸 도시 속 무릉도원 Hiroshi Nakamura & NAP-Optical Glass House 도시의 복잡함과 소음 속에서 평온을 찾는 것은 쉽지 않습니다. 하지만 히로시 나카무라 & NAP 건축사무소는 그 해답을 ‘Optical Glass House’라는 작품을 통해 제시합니다. 이 건축물은 6,000", img: "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FuXql1%2FbtsKMNOH93y%2FAAAAAAAAAAAAAAAAAAAAABBO4lD2AnqX66AncyQ4U6nlELtFKu1P0FuMn9pI1_tt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DWej3%252FbjaqY7%252BUkm0bOs0NG%252BadfA%253D"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

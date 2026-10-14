@@ -22,7 +22,7 @@ hands_on: false
 sources:
   - https://www.orafol.com/Products/Technische%20Datenbl%C3%A4tter/RowLux/EN/rowlux-seaglass-pattern-a-rowlux-illusion-film---pc10-id11392-technical-data-sheet-europe-en.pdf
 apply_links:
-  - {title: "호주 Euston Club 리조트 카페 조명 튜브", url: "https://architectureanddesign.com.au/suppliers/allplastics-engineering/allplastics-rowlux-illusion-film-used-to-create-st"}
+  - {title: "호주 Euston Club 리조트 카페 조명 튜브", url: "https://architectureanddesign.com.au/suppliers/allplastics-engineering/allplastics-rowlux-illusion-film-used-to-create-st", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

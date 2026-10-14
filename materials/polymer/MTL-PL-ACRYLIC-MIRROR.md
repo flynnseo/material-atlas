@@ -26,6 +26,8 @@ sources:
 image: "assets/img/MTL-PL-ACRYLIC-MIRROR.jpg"
 image_credit: "Cgs · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Mirror.jpg"
+apply_links:
+  - {title: "Into the Blue 전시 아크릴 미러 클래딩", url: "https://architectureanddesign.com.au/suppliers/allplastics-engineering/award-winning-into-the-blue-project-features-eurom", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

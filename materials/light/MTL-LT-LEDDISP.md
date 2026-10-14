@@ -23,6 +23,8 @@ sources:
 image: "assets/img/MTL-LT-LEDDISP.jpg"
 image_credit: "Martin Kraft · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:MK38527_LED_Display.jpg"
+apply_links:
+  - {title: "삼성 매장용 실내 LED 캐비닛", url: "https://www.touchboards.com/Samsung-IE020A"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

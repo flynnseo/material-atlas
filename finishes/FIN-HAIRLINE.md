@@ -14,13 +14,13 @@ sources:
   - https://csunitec.com/metal-surface-finishing-definitions/
   - https://www.sakysteel.com/news/mirror-vs-hairline-finish-which-stainless-steel-surface-is-right-for-you
   - https://seller.alibaba.com/blogs/2026/sea/tools-hardware/stainless-steel-polished-finish-selection-guide-alibaba
-apply_links:
-  - {title: "Aesop 돈캐스터 브러시드 스테인리스 매장", url: "https://www.aesop.com/uk/r/aesop-doncaster"}
-  - {title: "상하이 ALL SH 스테인리스 설치", url: "https://www.designboom.com/architecture/linehouse-curved-stainless-steel-installation-all-sh-store-shanghai-08-22-2017/"}
-  - {title: "금속 소재 리테일 인테리어 모음", url: "https://www.dezeen.com/2025/02/09/metallic-retail-interiors-lookbooks/amp/"}
 image: "https://www.designboom.com/twitterimages/dbsub/394725/2017-08-21/img_1_1503309124_35d84ec5ab3f013c06b3dc9a03f9676d.jpg"
 image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
 image_source: "https://www.designboom.com/architecture/linehouse-curved-stainless-steel-installation-all-sh-store-shanghai-08-22-2017/"
+apply_links:
+  - {title: "Aesop 돈캐스터 브러시드 스테인리스 매장", url: "https://www.aesop.com/uk/r/aesop-doncaster", page_title: "Just a moment..."}
+  - {title: "상하이 ALL SH 스테인리스 설치", url: "https://www.designboom.com/architecture/linehouse-curved-stainless-steel-installation-all-sh-store-shanghai-08-22-2017/", page_title: "linehouse creates a curved stainless steel installation for ALL SH store in shanghai", desc: "design practice linehouse has completed the design of the 20 sqm streetwear store ALL SH in shanghai, carving out a stainless steel installation.", img: "https://www.designboom.com/twitterimages/dbsub/394725/2017-08-21/img_1_1503309124_35d84ec5ab3f013c06b3dc9a03f9676d.jpg"}
+  - {title: "금속 소재 리테일 인테리어 모음", url: "https://www.dezeen.com/2025/02/09/metallic-retail-interiors-lookbooks/amp/", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyurethane
-image: "assets/img/MTL-PL-UCAST.jpg"
-image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
+image: "https://metropolismag.com/wp-content/uploads/2021/07/Vondom-Suave-Collection-Sofa-by-Marcel-Wanders-2.jpg"
+image_credit: "적용 사례 사진 · metropolismag.com (원본 링크)"
+image_source: "https://metropolismag.com/25381"
+apply_links:
+  - {title: "마르셀 반더스 x 본돔 수아베 PU 가구", url: "https://metropolismag.com/25381", page_title: "In Designing a New Sofa, Marcel Wanders Taps a Fabrication Technology Used by Car Manufacturers - Metropolis", desc: "The Suave collection, for Spanish outdoor furniture company Vondom, represents the first time his studio has worked with polyurethane (PU) injection molding technology", img: "https://metropolismag.com/wp-content/uploads/2021/07/Vondom-Suave-Collection-Sofa-by-Marcel-Wanders-2.jpg"}
+  - {title: "PU 소재 가구·오브제 프로젝트 모음", url: "https://coolhunting.com/design/polyurethane-projects/", page_title: "Polyurethane Projects - COOL HUNTING®", desc: "by Jack Shaw While the idea of elevating industrial materials to the level of high design isn’t new, recent creative experiments with polyurethane foam have yielded work that feels undeniably…"}
+  - {title: "토마스 슈누어 아르피니오 PU 의자", url: "https://www.homecrux.com/arfinio-chair-by-thomas-schnur/196005/amp/", page_title: "Thomas Schnur Molds Arfinio Chair From Lighter, Stronger Material", desc: "The reaction injection molded ergonomic Arfinio Chair is designed by Thomas Schnur in collaboration with Covestro.", img: "https://cdn.homecrux.com/wp-content/uploads/2023/04/ARFINIO-Chair-for-COVESTRO_5.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

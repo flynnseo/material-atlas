@@ -23,12 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/Laser_engraving
   - https://www.keyence.com/products/marker/laser-marker/resources/laser-marking-resources/3-most-common-types-of-laser-marking.jsp
   - https://www.troteclaser.com/fileadmin/content/pdf/News/us/Fiber-CO2-Guide.pdf
-apply_links:
-  - {title: "시애틀 오피스 아트리움 레이저컷 금속 패널", url: "https://mozdesigns.com/?p=20828"}
-  - {title: "뉴욕 폴 호텔 로비 레이저컷 알루미늄", url: "https://www.casestudies.com/company/moz-designs/case-study/the-paul-hotel-creates-a-dramatic-nyc-lobby-with-moz-designs-3000-square-foot-metal-paneling"}
 image: "https://mozdesigns.com/wp-content/uploads/2020/01/J3066_N34_cropped_1600x900.jpg"
 image_credit: "적용 사례 사진 · mozdesigns.com (원본 링크)"
 image_source: "https://mozdesigns.com/?p=20828"
+apply_links:
+  - {title: "시애틀 오피스 아트리움 레이저컷 금속 패널", url: "https://mozdesigns.com/?p=20828", page_title: "188 E. Blaine Atrium - Moz Designs | Architectural Products + Metals", img: "https://mozdesigns.com/wp-content/uploads/2020/01/J3066_N34_cropped_1600x900.jpg"}
+  - {title: "뉴욕 폴 호텔 로비 레이저컷 알루미늄", url: "https://www.casestudies.com/company/moz-designs/case-study/the-paul-hotel-creates-a-dramatic-nyc-lobby-with-moz-designs-3000-square-foot-metal-paneling", page_title: "Case Study: The Paul Hotel achieves a dramatic urban lobby design with Moz Designs metal wall and ceiling treatments | C", desc: "The Paul Hotel partnered with Moz Designs (Building Materials) to solve key challenges. \"The Paul Hotel creates a dramatic NYC lobby with Moz Designs’ 3,000-square-foot metal paneling\" is their real-world success story."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

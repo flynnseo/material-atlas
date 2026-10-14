@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Corduroy
-image: "assets/img/MTL-TX-CORDUROY.jpg"
-image_credit: "Ludek · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Mansestr.jpg"
+image: "https://hips.hearstapps.com/hmg-prod/images/kwangho-lee-s-hunk-lounge-chair-for-hem-upholstered-in-phlox-fabric-by-raf-simons-for-kvadrat-66dec5c3db083.jpg?crop=1.00xw:0.401xh;0,0.444xh&resize=1200:*"
+image_credit: "적용 사례 사진 · elledecoration.co.uk (원본 링크)"
+image_source: "https://www.elledecoration.co.uk/decorating/materials/a62112105/corduroy-modern-home/"
+apply_links:
+  - {title: "코듀로이 소파·인테리어 적용 사례", url: "https://www.elledecoration.co.uk/decorating/materials/a62112105/corduroy-modern-home/", page_title: "Why corduroy is having a renaissance in the home", desc: "Kassia St Clair explains how this unpretentious yet luxurious fabric, beloved in the 70s, is overdue a comeback", img: "https://hips.hearstapps.com/hmg-prod/images/kwangho-lee-s-hunk-lounge-chair-for-hem-upholstered-in-phlox-fabric-by-raf-simons-for-kvadrat-66dec5c3db083.jpg?crop=1.00xw:0.401xh;0,0.444xh&resize=1200:*"}
+  - {title: "인테리어 속 코듀로이 활용", url: "https://www.architekturaibiznes.pl/en/pdd/corduroy-in-interiors,30889.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

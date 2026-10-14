@@ -20,13 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Print Your City 재생 플라스틱 거리 가구 (Dezeen)", url: "https://www.dezeen.com/2019/02/13/print-your-city-recycled-plastic-street-furniture/"}
-  - {title: "The New Raw 프린팅 가구 작업 모음", url: "https://thenewraw.org/Work"}
-  - {title: "Print Your City 3D프린팅 (designboom)", url: "https://www.designboom.com/design/print-your-city-new-raw-3d-printing-11-15-2017/"}
 image: "http://images.squarespace-cdn.com/content/v1/697882518c68b341a7fa7f6b/1c679673-5c27-4e48-bb06-4943220d98a5/Asset+1-100.jpg?format=1500w"
 image_credit: "적용 사례 사진 · thenewraw.org (원본 링크)"
 image_source: "https://thenewraw.org/Work"
+apply_links:
+  - {title: "Print Your City 재생 플라스틱 거리 가구 (Dezeen)", url: "https://www.dezeen.com/2019/02/13/print-your-city-recycled-plastic-street-furniture/", page_title: "Just a moment..."}
+  - {title: "The New Raw 프린팅 가구 작업 모음", url: "https://thenewraw.org/Work", page_title: "The New Raw", img: "http://images.squarespace-cdn.com/content/v1/697882518c68b341a7fa7f6b/1c679673-5c27-4e48-bb06-4943220d98a5/Asset+1-100.jpg?format=1500w"}
+  - {title: "Print Your City 3D프린팅 (designboom)", url: "https://www.designboom.com/design/print-your-city-new-raw-3d-printing-11-15-2017/", page_title: "'print your city' initiative sees 3D-printed plastic bags become urban furniture", desc: "'the new raw', has introduced a new initiative called 'print your city!' that utilizes 3D printing to transform plastic waste into urban furniture.", img: "https://www.designboom.com/twitterimages/uploads/2017/11/Print-Your-City-The-New-Raw-designboom-1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

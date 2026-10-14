@@ -23,9 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/SAE_316L_stainless_steel
   - https://www.nickelinstitute.org/media/zb3dx2co/11015_stainlesssteelinabc_guidelinesforbuildingexteriors.pdf
   - https://en.wikipedia.org/wiki/SAE_304_stainless_steel
-image: "assets/img/MTL-SS-316.jpg"
-image_credit: "Webcorr · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Crevice_corrosion_of_316_stainless_steel_in_desalination.jpg"
+image: "https://assda.asn.au/components/com_rsblog/assets/images/blog/252.jpg"
+image_credit: "적용 사례 사진 · assda.asn.au (원본 링크)"
+image_source: "https://assda.asn.au/blog/252-a-stainless-facelift-for-surfers-paradise"
+apply_links:
+  - {title: "서퍼스 파라다이스 316L 난간 시공", url: "https://assda.asn.au/blog/252-a-stainless-facelift-for-surfers-paradise", page_title: "A Stainless Facelift for Surfers Paradise", desc: "Stainless is a key feature in the urban design and revamp of one of the Gold Coast's most iconic and vibrant tourist destinations. The $25 million Surfers Foreshore Project was commissioned by the Gold Coast City Council", img: "https://assda.asn.au/components/com_rsblog/assets/images/blog/252.jpg"}
+  - {title: "해안 건축 316 스테인리스 설계·시방", url: "https://assda.asn.au/blog/38-outstanding-design-and-specification", page_title: "Outstanding Design and Specification", desc: "Sunshine coast stainless shines 18 months later An impressive span of stainless steel balustrade at Bulcock Beach, Caloundra on Queensland’s Sunshine Coast is demonstrating that good design and specification achieves stu", img: "https://assda.asn.au/components/com_rsblog/assets/images/blog/38.jpg"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

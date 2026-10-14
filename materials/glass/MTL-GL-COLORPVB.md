@@ -22,7 +22,7 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "Vanceva 컬러 PVB 적용 프로젝트 (ArchDaily)", url: "https://www.archdaily.com/catalog/en/companies/4018/vanceva"}
+  - {title: "Vanceva 컬러 PVB 적용 프로젝트 (ArchDaily)", url: "https://www.archdaily.com/catalog/en/companies/4018/vanceva", page_title: "Vanceva catalog | ArchDaily", desc: "Vanceva® Color PVB interlayers enhances the style of laminated safety glass like never before—combining color and white interlayers to produce more than 69,0..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

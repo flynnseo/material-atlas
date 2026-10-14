@@ -22,6 +22,10 @@ sources:
 image: "assets/img/MTL-ST-QUARTZ.jpg"
 image_credit: "Wtshymanski (talk) · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Engineered_stone_countertop.jpg"
+apply_links:
+  - {title: "테크니스톤 상업공간 쿼츠 적용 사례", url: "https://www.technistone.com/usage/commercial-projects"}
+  - {title: "테크니스톤 이색 쿼츠 프로젝트", url: "https://www.technistone.com/usage/atypical-projects"}
+  - {title: "미국 아파트 단지 백색 쿼츠 주방", url: "https://www.panmin.com/?p=23878", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -24,6 +24,10 @@ sources: []
 image: "assets/img/MTL-CU-C1100.jpg"
 image_credit: "Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)\"\nderivative work: Mate · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3ANatCopper.jpg"
+apply_links:
+  - {title: "멕시코시티 Colima 162 재활용 구리 부티크", url: "https://www.dezeen.com/2026/05/16/recycled-copper-elements-accent-purist-interior-design-of-mexico-city-fashion-boutique/amp/", page_title: "Just a moment..."}
+  - {title: "Aesop 샌프란시스코 구리 선반 매장", url: "https://www.dezeen.com/2017/03/08/aesop-jackson-square-san-francisco-tacklebox-copper-shelving-sinks-whiskey-warehouse/amp/", page_title: "Just a moment..."}
+  - {title: "Kloke 매장 구리 파이프 행거", url: "https://www.dezeen.com/2013/12/10/kloke-shop-interior-features-copper-clothes-rails-and-wooden-display-units-by-sibling/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

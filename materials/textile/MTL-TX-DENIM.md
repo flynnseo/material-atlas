@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Denim
-image: "assets/img/MTL-TX-DENIM.jpg"
-image_credit: "Nikodem Nijaki · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Denim_texture_03.jpg"
+image: "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/0"
+image_credit: "적용 사례 사진 · apartmenttherapy.com (원본 링크)"
+image_source: "https://www.apartmenttherapy.com/denim-interior-design-photos-251823"
+apply_links:
+  - {title: "모빌리어스 데님 소파 가구", url: "https://www.textileworld.com/textile-world/2025/06/denim-reimagined-for-home-mobilious-brings-jeans-to-your-living-room/", page_title: "Denim Reimagined For Home, Mobilious Brings Jeans To Your Living Room | Textile World", img: "https://wordpress.textileworld.com/wp-content/uploads/2025/06/Mobilious_dedicated_crafting_world_s_finest_denim_sofas.jpg"}
+  - {title: "데님 인테리어 적용 사진", url: "https://www.apartmenttherapy.com/denim-interior-design-photos-251823", page_title: "This Hardworking Material Looks Just as Good In Your Home as It Does on Your Tush", desc: "This hardworking material looks great on your bottom... but what about on your couch, too?", img: "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/0"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

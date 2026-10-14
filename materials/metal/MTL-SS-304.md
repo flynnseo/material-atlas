@@ -23,9 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/SAE_304_stainless_steel
   - https://www.nickelinstitute.org/media/zb3dx2co/11015_stainlesssteelinabc_guidelinesforbuildingexteriors.pdf
   - https://assda.asn.au/blog/133-no-4-the-workhorse-finish
-image: "assets/img/MTL-SS-304.jpg"
-image_credit: "Libowei111 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:304_STAINLESS_STEEL_PIPE.png"
+image: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/06/01-fadior-foshan-showroom-304-stainless-steel-kitchen.jpg?fit=2000%2C1333&ssl=1"
+image_credit: "적용 사례 사진 · archeyes.com (원본 링크)"
+image_source: "https://archeyes.com/inside-fadior-homes-foshan-showroom-for-304-stainless-steel-whole-home-interiors/"
+apply_links:
+  - {title: "포산 Fadior 304 스테인리스 쇼룸", url: "https://archeyes.com/inside-fadior-homes-foshan-showroom-for-304-stainless-steel-whole-home-interiors/", page_title: "Inside Fadior Home's Foshan Showroom for 304 Stainless Steel Whole-Home Interiors | ArchEyes", desc: "Fadior Home's Foshan showroom shows how 304 food-grade stainless steel becomes a warm, durable cabinet material for kitchens and whole-home interiors.", img: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/06/01-fadior-foshan-showroom-304-stainless-steel-kitchen.jpg?fit=2000%2C1333&ssl=1"}
+  - {title: "스테인리스 바 인테리어 시공 사례", url: "https://www.assda.asn.au/blog/180-stainless-delivers-the-wow-factor", page_title: "Stainless delivers the wow factor", desc: "A decor has to be unique to stand out among the trendy cafes and nightclubs in Park Road, Milton, one of Brisbane’s most fashionable locations, and it certainly has to possess the wow factor to compete with the multitude", img: "https://www.assda.asn.au/components/com_rsblog/assets/images/blog/180.jpg"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

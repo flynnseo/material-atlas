@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyurethane
-image: "assets/img/MTL-PL-RPUF.jpg"
-image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
+image: "https://www.sprayfoammagazine.com/photos/news/main/be4303e83f888d6f16eda8b996239e228e72cd37.jpg"
+image_credit: "적용 사례 사진 · sprayfoam.com (원본 링크)"
+image_source: "https://www.sprayfoam.com/foam-news/the-wonderful-wizard/3894"
+apply_links:
+  - {title: "피슐리&바이스 테이트 PU폼 설치작품", url: "https://www.artfund.org/our-purpose/art-funded-by-you/untitled-tate", page_title: "Untitled (Tate)", img: "https://dw4k6npnyoqvk.cloudfront.net/what-we-do/art-weve-helped-buy/artwork/2007/2007100_C.jpg"}
+  - {title: "스프레이폼으로 만든 거대 위저드 조형", url: "https://www.sprayfoam.com/foam-news/the-wonderful-wizard/3894", page_title: "The Wonderful Wizard | SprayFoam Magazine News - SprayFoamMagazine.com", desc: "SprayFoamMagazine.com", img: "https://www.sprayfoammagazine.com/photos/news/main/be4303e83f888d6f16eda8b996239e228e72cd37.jpg"}
+  - {title: "안젤리카 만조 PU폼 야외 조각 커미션", url: "https://www.angelicamanzo.com/portfolio/commissions", page_title: "VISUAL ARTS", img: "https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72s_LP5q5fU-PQLh15lgyPZlae3c-3D3AGDAElyi2AluIEh5zE7HsMUDS14RSSuU7gB2qfJVxBoVrfCiIAFK9i4SM7pct24S8cGrLOvVhtuxGdKLzx2zVE8B8TNVQPyKvaMZn81Ak8kefOf_axlHOah6cXKiGfNbc9-Y_lJDsw5lhSZw_i9eHVciJJi1qBQ=w16383"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,11 +22,11 @@ hands_on: false
 sources:
   - https://www.osti.gov/biblio/1046707
   - https://en.wikipedia.org/wiki/Electrochromism
-apply_links:
-  - {title: "DecoChrom 인쇄 전기변색 건축·인테리어 프로토타입", url: "https://cordis.europa.eu/article/id/442484-bringing-life-to-printed-objects"}
 image: "https://cordis.europa.eu/docs/results/images/2022-11/442484.jpg"
 image_credit: "적용 사례 사진 · cordis.europa.eu (원본 링크)"
 image_source: "https://cordis.europa.eu/article/id/442484-bringing-life-to-printed-objects"
+apply_links:
+  - {title: "DecoChrom 인쇄 전기변색 건축·인테리어 프로토타입", url: "https://cordis.europa.eu/article/id/442484-bringing-life-to-printed-objects", page_title: "Bringing life to printed objects", desc: "Printed materials from posters to wallpapers are all around us. How can we make these graphic products interactive? An EU-funded project...", img: "https://cordis.europa.eu/docs/results/images/2022-11/442484.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

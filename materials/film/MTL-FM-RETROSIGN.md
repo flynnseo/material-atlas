@@ -19,11 +19,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Retroreflector
-apply_links:
-  - {title: "아른험 게이트하우스 재귀반사 파사드", url: "https://materialdistrict.com/article/retro-reflective-facade/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2013/07/retro-reflective-facade-4.jpg?v=20130805122724"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/article/retro-reflective-facade/"
+apply_links:
+  - {title: "아른험 게이트하우스 재귀반사 파사드", url: "https://materialdistrict.com/article/retro-reflective-facade/", page_title: "Retro-reflective façade", desc: "A small reception building on an unremarkable industrial estate has a visual surprise up its sleeve. Its upper storey is covered with a so-called retro-reflective foil, that looks black from all directions except from th", img: "https://media.materialdistrict.com/wp-content/uploads/2013/07/retro-reflective-facade-4.jpg?v=20130805122724"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

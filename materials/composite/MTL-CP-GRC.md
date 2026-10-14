@@ -23,12 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Glass_fiber_reinforced_concrete
-apply_links:
-  - {title: "호주 National Precast GRC 포트폴리오", url: "https://nationalprecast.com.au/portfolio_page/glass-reinforced-concrete/"}
-  - {title: "GRC 파사드 건축 적용 기사", url: "https://wfmmedia.com/grc-facades-a-modern-solution-for-architecture/"}
 image: "https://wfmmedia.com/wp-content/uploads/2025/12/GRC-Facades-A-Modern-Solution-For-Architecture.webp"
 image_credit: "적용 사례 사진 · wfmmedia.com (원본 링크)"
 image_source: "https://wfmmedia.com/grc-facades-a-modern-solution-for-architecture/"
+apply_links:
+  - {title: "호주 National Precast GRC 포트폴리오", url: "https://nationalprecast.com.au/portfolio_page/glass-reinforced-concrete/", page_title: "National Precast Concrete Association Australia | Glass Reinforced Concrete (GRC)"}
+  - {title: "GRC 파사드 건축 적용 기사", url: "https://wfmmedia.com/grc-facades-a-modern-solution-for-architecture/", page_title: "GRC Façades: A Modern Solution For Architecture - WFM Media", desc: "Glass Fibre Reinforced Concrete (GRC): Versatile, lightweight, and durable façade material. Explore its strength, design flexibility, and eco-friendly benefits for modern architecture.", img: "https://wfmmedia.com/wp-content/uploads/2025/12/GRC-Facades-A-Modern-Solution-For-Architecture.webp"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

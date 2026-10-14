@@ -18,12 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "조 프레시 플래그십 고무 바닥", url: "https://commercial.regupol.com/projects/project/joe-fresh-flagship-store/"}
-  - {title: "멜버른 공항 달수플 고무타일 벽", url: "https://architectureanddesign.com.au/suppliers/irubber-pty-ltd/dalsouple-rubber-tiles-used-for-walling-in-iconic"}
 image: "https://commercial.regupol.com/fileadmin/_processed_/d/8/csm_regupol-header-joe_ef05805f48.jpg"
 image_credit: "적용 사례 사진 · commercial.regupol.com (원본 링크)"
 image_source: "https://commercial.regupol.com/projects/project/joe-fresh-flagship-store/"
+apply_links:
+  - {title: "조 프레시 플래그십 고무 바닥", url: "https://commercial.regupol.com/projects/project/joe-fresh-flagship-store/", page_title: "Joe Fresh Flagship Store | REGUPOL Commercial", desc: "Inside Joe Fresh’s flagship store, the energy is absolute. Carefully designed by Burdifilek, the 6,400 sqft of retail space blends high gloss and matte&hellip;", img: "https://commercial.regupol.com/fileadmin/_processed_/d/8/csm_regupol-header-joe_ef05805f48.jpg"}
+  - {title: "멜버른 공항 달수플 고무타일 벽", url: "https://architectureanddesign.com.au/suppliers/irubber-pty-ltd/dalsouple-rubber-tiles-used-for-walling-in-iconic", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

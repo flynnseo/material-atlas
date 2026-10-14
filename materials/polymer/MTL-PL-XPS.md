@@ -22,12 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polystyrene
-apply_links:
-  - {title: "XPS 실내 벽 단열재 제품", url: "https://adammateriaux.be/en/isolants-xps-murs-interieurs"}
-  - {title: "XPS 지속가능 건축 적용 가이드", url: "https://www.architectureanddesign.com.au/editorial/framework-for-sustainability-a-guide"}
 image: "https://assets.architectureanddesign.com.au/Foamex-Whitepaper-Main-Image.jpg"
 image_credit: "적용 사례 사진 · architectureanddesign.com.au (원본 링크)"
 image_source: "https://www.architectureanddesign.com.au/editorial/framework-for-sustainability-a-guide"
+apply_links:
+  - {title: "XPS 실내 벽 단열재 제품", url: "https://adammateriaux.be/en/isolants-xps-murs-interieurs", page_title: "XPS insulation for interior walls", desc: "XPS (extruded polystyrene) insulation is a rigid insulation material that can be used for many insulation applications. This category offers you a wide selection..."}
+  - {title: "XPS 지속가능 건축 적용 가이드", url: "https://www.architectureanddesign.com.au/editorial/framework-for-sustainability-a-guide", page_title: "Framework for Sustainability: A Guide to Extruded Polystyrene in Energy-Efficient Building Design | Architecture & Desig", desc: "Good quality, long-term insulation performance in the building envelope is required to save energy and reduce the carbon footprint of the built environment. There is a growing selection of innovative products that can he", img: "https://assets.architectureanddesign.com.au/Foamex-Whitepaper-Main-Image.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

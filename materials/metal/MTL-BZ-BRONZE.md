@@ -21,9 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-BZ-BRONZE.jpg"
-image_credit: "Jebulon · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AAugustus%20Bronze%20X23322%20NAMAthens.jpg"
+image: "https://azahner.com/wp-content/uploads/2025/11/bowdoin-college-c-jernigan-zahner-0806.jpg"
+image_credit: "적용 사례 사진 · azahner.com (원본 링크)"
+image_source: "https://www.azahner.com/materials/bronze"
+apply_links:
+  - {title: "A. Zahner 건축용 청동 적용", url: "https://www.azahner.com/materials/bronze", page_title: "Bronze Architecture | Bronze Panels | Zahner", desc: "Click here to learn about the manufacture of bronze, its use in architecture, and to see Zahner projects featuring bronze.", img: "https://azahner.com/wp-content/uploads/2025/11/bowdoin-college-c-jernigan-zahner-0806.jpg"}
+  - {title: "Tecur 청동 외장재 제품", url: "https://archello.com/product/tecur-bronze", page_title: "TECU® Bronze by KME Germany GmbH & Co. KG | Archello", desc: "Bronze – an alloy of copper and tin and a synonym for metallic works of art. While artists have long made use of bronze, architects are now also able to make optimum use of the material – for more refinement in fa...", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2018/04/06/-c--KME-TECU-Bronze-1.1.1523002084.778.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

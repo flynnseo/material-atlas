@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Zellige
-image: "assets/img/MTL-ST-GLAZEDTILE.jpg"
-image_credit: "إيان · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:%D9%86%D8%B8%D8%B1%D8%A9_%D9%85%D9%82%D8%B1%D8%A8%D8%A9_%D9%84%D9%84%D8%B2%D9%84%D9%8A%D8%AC_%D9%81%D9%8A_%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D8%A8%D9%86_%D9%8A%D9%88%D8%B3%D9%81.jpeg"
+image: "https://www.goldtrezzini.ru/storage/uploads/2023/04/Notes_бар1.jpg"
+image_credit: "적용 사례 사진 · goldtrezzini.ru (원본 링크)"
+image_source: "https://www.goldtrezzini.ru/en/nominees/notes/"
+apply_links:
+  - {title: "바쿠 노트 레스토랑 수제 유약 타일", url: "https://www.goldtrezzini.ru/en/nominees/notes/", page_title: "The Golden Trezzini / Handmade ceramic panels for Notes Gastronomy & Bar (Azerbaijan)", desc: "Handmade ceramic panels for Notes Gastronomy & Bar (Azerbaijan)", img: "https://www.goldtrezzini.ru/storage/uploads/2023/04/Notes_бар1.jpg"}
+  - {title: "클레이스퀘어드 공작새 파우더룸 타일", url: "https://claysquared.com/tile/projects/bathroom/peacock-powder-room/", page_title: "Peacock Powder Room", img: "https://claysquared.com/wp-content/uploads/2026/02/social-share-02-675.jpg"}
+  - {title: "모타위 수제 타일 프로젝트", url: "https://www.projects.motawi.com/home-1", page_title: "home v2 — Motawi Tileworks", img: "http://static1.squarespace.com/static/663ba938f4e8a77eb53cf823/t/6a8c54837118cb592a9602d5/1728916105280/Arts+and+Crafts+Fireplace_horizontal.jpg?format=1500w"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

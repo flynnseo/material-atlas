@@ -20,13 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Linoleum
-apply_links:
-  - {title: "포르보 리놀륨 학생 챌린지 가구", url: "https://www.forbo.com/flooring/en-gl/inspiration-references/student-challenges/student-challenge-willem-de-kooning/pa2yyy"}
-  - {title: "밀라노 리놀륨 스툴·벤치 전시", url: "https://www.alcova.xyz/exhibitions/milano-2023/linoleum"}
-  - {title: "HFT 슈투트가르트 포르보 리노 연출", url: "https://hft-stuttgart.com/studies/fields-of-study/architecture-and-design/projects/imiad-staging-lino"}
 image: "https://alcova-directus.luigigorlero.com/assets/75337c08-0e64-4be3-8fdf-f8769b9ddf41"
 image_credit: "적용 사례 사진 · alcova.xyz (원본 링크)"
 image_source: "https://www.alcova.xyz/exhibitions/milano-2023/linoleum"
+apply_links:
+  - {title: "포르보 리놀륨 학생 챌린지 가구", url: "https://www.forbo.com/flooring/en-gl/inspiration-references/student-challenges/student-challenge-willem-de-kooning/pa2yyy", page_title: "Student Challenge | Forbo x Willem de Kooning Academy", desc: "In this collaboration, 27 third-year design students of the Willem de Kooning Academy in Rotterdam were challenged to explore and experiment with our Flexible Furniture linoleum.", img: "https://forbo.azureedge.net/forboimages/1148148/Carousel%20beeld%201a%20.webp"}
+  - {title: "밀라노 리놀륨 스툴·벤치 전시", url: "https://www.alcova.xyz/exhibitions/milano-2023/linoleum", page_title: "LINOLEUM · Alcova", desc: "We’ve walked on it in schools, hospitals, airports and flats: linoleum. The recipe for it, entirely renewable resources, hasn’t changed in over a hundred years. With this project, Lina Chi invites …", img: "https://alcova-directus.luigigorlero.com/assets/75337c08-0e64-4be3-8fdf-f8769b9ddf41"}
+  - {title: "HFT 슈투트가르트 포르보 리노 연출", url: "https://hft-stuttgart.com/studies/fields-of-study/architecture-and-design/projects/imiad-staging-lino", page_title: "IMIAD | Staging Lino | HFT Stuttgart"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

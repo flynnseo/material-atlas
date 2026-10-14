@@ -24,13 +24,13 @@ sources:
   - https://buildingconservation.com/articles/gilding/gilding.htm
   - https://rct.uk/collection/conservation/gilding
   - https://www.mfa.org/collections/conservation/conservation-in-action/benjamin-west-frame/march-2015
-apply_links:
-  - {title: "샌프란시스코 오페라하우스 등 금박 복원", url: "https://johncanningco.com/art-and-process-of-gilding/"}
-  - {title: "인테리어 금박 적용 아이디어", url: "https://stonehouses.co.uk/blog/pure-gold-leaf-top-interior-design-ideas-and-tips"}
-  - {title: "파리 Stella Cadente 전면 금박 매장", url: "https://www.dezeen.com/2012/05/12/stella-cadente-paris-by-atelier-du-pont/amp/"}
 image: "http://stonehouses.co.uk/cdn/shop/files/10371482_641539995931541_5593741452111543346_n.png?v=1753439232"
 image_credit: "적용 사례 사진 · stonehouses.co.uk (원본 링크)"
 image_source: "https://stonehouses.co.uk/blog/pure-gold-leaf-top-interior-design-ideas-and-tips"
+apply_links:
+  - {title: "샌프란시스코 오페라하우스 등 금박 복원", url: "https://johncanningco.com/art-and-process-of-gilding/", page_title: "Your access to this site has been limited by the site owner"}
+  - {title: "인테리어 금박 적용 아이디어", url: "https://stonehouses.co.uk/blog/pure-gold-leaf-top-interior-design-ideas-and-tips", page_title: "404 Not Found", desc: "Royal Warrant Holders, Est 1840, UK’s oldest Gold Leaf Manufacturer and Supplier. 24ct to 6ct Gold Leaf, Gilding and Signwriting Materials.Next Delivery available.", img: "http://stonehouses.co.uk/cdn/shop/files/10371482_641539995931541_5593741452111543346_n.png?v=1753439232"}
+  - {title: "파리 Stella Cadente 전면 금박 매장", url: "https://www.dezeen.com/2012/05/12/stella-cadente-paris-by-atelier-du-pont/amp/", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

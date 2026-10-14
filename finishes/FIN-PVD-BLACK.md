@@ -12,12 +12,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
-apply_links:
-  - {title: "블랙 PVD 난간·아르데코 인테리어", url: "https://direct.source.thenbs.com/case-study/-/rdhYSwzyxgRozhmEusA5uJ/bqmrBcVxLJzmgRzqYwfDca"}
-  - {title: "매트 블랙 PVD 스테인리스 수전", url: "https://www.mynewsdesk.com/uk/villeroy-boch/pressreleases/matt-black-strong-new-colour-finish-for-high-quality-stainless-steel-taps-3209576"}
 image: "https://asset.source.thenbs.com/api/thumbnail/e0fc01d8-d3ed-4029-99cc-6861d1043094"
 image_credit: "적용 사례 사진 · direct.source.thenbs.com (원본 링크)"
 image_source: "https://direct.source.thenbs.com/case-study/-/rdhYSwzyxgRozhmEusA5uJ/bqmrBcVxLJzmgRzqYwfDca"
+apply_links:
+  - {title: "블랙 PVD 난간·아르데코 인테리어", url: "https://direct.source.thenbs.com/case-study/-/rdhYSwzyxgRozhmEusA5uJ/bqmrBcVxLJzmgRzqYwfDca", page_title: "Art Deco Escalator Hall for Knightsbridge store | John Desmond Ltd | NBS Source", desc: "<p>An in-depth look at the design ethos and specialist metal finishes used in the refurbishment of the stairs and escalators in this historic and world-famous London shopping destination and landmark building.</p><p></p>", img: "https://asset.source.thenbs.com/api/thumbnail/e0fc01d8-d3ed-4029-99cc-6861d1043094"}
+  - {title: "매트 블랙 PVD 스테인리스 수전", url: "https://www.mynewsdesk.com/uk/villeroy-boch/pressreleases/matt-black-strong-new-colour-finish-for-high-quality-stainless-steel-taps-3209576", page_title: "Matt Black: Strong new colour finish for high-quality stainless steel taps", desc: "With Matt Black, Villeroy & Boch is further expanding its selection of taps to open up new, individual design options for modern kitchens.", img: "https://mnd-assets.mynewsdesk.com/image/upload/b_auto,c_pad,f_jpeg,h_630,q_auto:good,w_1200/c9zdzsgiq3lfdrb8ptrz"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

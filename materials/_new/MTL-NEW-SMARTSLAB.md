@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/smart-slab/
-apply_links:
-  - {title: "ETH Smart Slab 3D프린트 거푸집 천장 슬래브", url: "https://dbt.arch.ethz.ch/project/smart-slab/"}
-  - {title: "DFAB House Smart Slab (NEST)", url: "https://dfabhouse.ch/smart-slab/"}
-  - {title: "모래 3D프린트 거푸집 Smart Slab (All3DP)", url: "https://all3dp.com/4/eth-zurich-researchers-use-3d-sand-printed-formwork-build-concrete-smart-slab/"}
 image: "https://dbt.arch.ethz.ch/wp-content/uploads/2018/07/12_NoScaffolding_DBT_ETH_NEST_Smart_Slab_Mike_Lyrenmann_DSC_0558.jpg"
 image_credit: "적용 사례 사진 · dbt.arch.ethz.ch (원본 링크)"
 image_source: "https://dbt.arch.ethz.ch/project/smart-slab/"
+apply_links:
+  - {title: "ETH Smart Slab 3D프린트 거푸집 천장 슬래브", url: "https://dbt.arch.ethz.ch/project/smart-slab/", page_title: "The Smart Slab - 3D-printed formwork for a radical new concrete aesthetic", desc: "A fully functional prestressed concrete slab with unique geometric features; prefabricated using 180 distinct 3D-printed formwork parts.", img: "https://dbt.arch.ethz.ch/wp-content/uploads/2018/07/12_NoScaffolding_DBT_ETH_NEST_Smart_Slab_Mike_Lyrenmann_DSC_0558.jpg"}
+  - {title: "DFAB House Smart Slab (NEST)", url: "https://dfabhouse.ch/smart-slab/", page_title: "SMART SLAB – DFAB HOUSE"}
+  - {title: "모래 3D프린트 거푸집 Smart Slab (All3DP)", url: "https://all3dp.com/4/eth-zurich-researchers-use-3d-sand-printed-formwork-build-concrete-smart-slab/", page_title: "Attention Required! | Cloudflare"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

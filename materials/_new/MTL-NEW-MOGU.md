@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://mogu.bio
-apply_links:
-  - {title: "버밍엄 Three Chamberlain Sq. 균사체 흡음패널", url: "https://materialdistrict.com/article/designing-workplace-acoustics-with-mycelium-panels/"}
-  - {title: "뉴캐슬 Ape 야키토리 바 Mogu 패널", url: "https://mogu.bio/project/ape-yakitori-bar/"}
 image: "https://mogu.bio/wp-content/uploads/2023/06/Ape-Yakitori-Bar_Mogu-Acoustic-Panels6-1.jpg"
 image_credit: "적용 사례 사진 · mogu.bio (원본 링크)"
 image_source: "https://mogu.bio/project/ape-yakitori-bar/"
+apply_links:
+  - {title: "버밍엄 Three Chamberlain Sq. 균사체 흡음패널", url: "https://materialdistrict.com/article/designing-workplace-acoustics-with-mycelium-panels/", page_title: "Designing Workplace Acoustics with Mycelium Panels", desc: "Discover how mycelium acoustic panels improve comfort and add a bio-based finish to the interiors of Three Chamberlain Square in Birmingham.", img: "https://media.materialdistrict.com/wp-content/uploads/2026/07/designing-workplace-acoustics-with-mycelium-panels-materialdistrict-9.jpg?v=20260713122952"}
+  - {title: "뉴캐슬 Ape 야키토리 바 Mogu 패널", url: "https://mogu.bio/project/ape-yakitori-bar/", page_title: "APE YAKITORI - mogu", desc: "Ape Yakitori Bar with Mogu natural Acoustic Panels which was created thanks to mycelium technology and using agro-industrial residues.", img: "https://mogu.bio/wp-content/uploads/2023/06/Ape-Yakitori-Bar_Mogu-Acoustic-Panels6-1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

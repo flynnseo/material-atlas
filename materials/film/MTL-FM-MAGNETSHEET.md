@@ -19,7 +19,7 @@ status: draft
 hands_on: false
 sources: []
 apply_links:
-  - {title: "주방 수납장 문에 자성 시트 시공", url: "https://www.first4magnets.com/us/blog/creating-a-ferrous-surface-on-your-kitchen-cupboards/"}
+  - {title: "주방 수납장 문에 자성 시트 시공", url: "https://www.first4magnets.com/us/blog/creating-a-ferrous-surface-on-your-kitchen-cupboards/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

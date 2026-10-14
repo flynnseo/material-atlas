@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://thespaces.com/londons-monc-champions-sustainable-design-with-its-mountain-inspired-interiors/
-apply_links:
-  - {title: "Big Beauty 하크니 매장 균사체 기둥 (Dezeen)", url: "https://www.dezeen.com/?p=1939279"}
-  - {title: "Big. store 균사체 작품 (Material Source)", url: "https://www.materialsource.co.uk/9-georgie-gerrard-mycelium-pieces-for-big-store-by-ninaco"}
 image: "https://www.materialsource.co.uk/uploads/articles/17/17797889d5630d90342f664e1ac548643d0bf34b_800.jpg"
 image_credit: "적용 사례 사진 · materialsource.co.uk (원본 링크)"
 image_source: "https://www.materialsource.co.uk/9-georgie-gerrard-mycelium-pieces-for-big-store-by-ninaco"
+apply_links:
+  - {title: "Big Beauty 하크니 매장 균사체 기둥 (Dezeen)", url: "https://www.dezeen.com/?p=1939279", page_title: "Just a moment..."}
+  - {title: "Big. store 균사체 작품 (Material Source)", url: "https://www.materialsource.co.uk/9-georgie-gerrard-mycelium-pieces-for-big-store-by-ninaco", page_title: "9. Georgie Gerrard - Mycelium pieces for big. store by Nina+Co.", desc: "Georgie Gerrard is a creator of sculptural objects made from mycelium. For her most recent project, she crafted pieces for the bio-based interiors of London's big. store by Nina+Co. The mycelium p...", img: "https://www.materialsource.co.uk/uploads/articles/17/17797889d5630d90342f664e1ac548643d0bf34b_800.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -24,8 +24,8 @@ image: "https://i2.wp.com/dbt.arch.ethz.ch/wp-content/uploads/2017/03/imprimer-l
 image_credit: "출처 페이지 대표 이미지 · dbt.arch.ethz.ch (원본 링크)"
 image_source: "https://dbt.arch.ethz.ch/project/digital-grotesque-at-centre-pompidou/"
 apply_links:
-  - {title: "Digital Grotesque 3D프린트 사암 방 (Dezeen)", url: "https://www.dezeen.com/2013/06/26/digital-grotesque-the-worlds-first-3d-printed-room/amp/"}
-  - {title: "스위스 건축가 3D프린트 방 (New Atlas)", url: "https://newatlas.com/swiss-architects-3dprint-a-room/29299"}
+  - {title: "Digital Grotesque 3D프린트 사암 방 (Dezeen)", url: "https://www.dezeen.com/2013/06/26/digital-grotesque-the-worlds-first-3d-printed-room/amp/", page_title: "Just a moment..."}
+  - {title: "스위스 건축가 3D프린트 방 (New Atlas)", url: "https://newatlas.com/swiss-architects-3dprint-a-room/29299", page_title: "The room with 260 million surfaces: 3D printed architecture is here", desc: "Thinking big is apparently no challenge for architects Michael Hansmeyer and Benjamin Dillenburger. They've created a 3D printed room using algorithms to design its intricate cathedral-like interior. Assembled from 64 ma"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

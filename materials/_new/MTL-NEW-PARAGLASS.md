@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/paraglass/
-apply_links:
-  - {title: "Paraglass 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/paraglass/"}
-  - {title: "Parabeam 3D 직조 글라스 (Transmaterial)", url: "https://transmaterial.net/parabeam"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2004/04/GLA043-1.jpg?v=20130830130945"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/paraglass/"
+apply_links:
+  - {title: "Paraglass 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/paraglass/", page_title: "Paraglass", desc: "Panels of woven E-Glass", img: "https://media.materialdistrict.com/wp-content/uploads/2004/04/GLA043-1.jpg?v=20130830130945"}
+  - {title: "Parabeam 3D 직조 글라스 (Transmaterial)", url: "https://transmaterial.net/parabeam", page_title: "Parabeam", img: "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/420dca3b-4470-491f-a298-8e7ce68c1910/parabeam/public"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,12 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "열연강판 스튜디오 문·창 마감 사례", url: "https://pinkysirondoors.com/pages/studio-steel-hot-rolled-steel"}
-  - {title: "열연강판 주택 인테리어 적용", url: "https://mststeel.com/industry-news-blog/how-cold-rolled-steel-elevates-home-design/"}
 image: "http://pinkysirondoors.com/cdn/shop/files/Pinkys_Iron_Doors_02162024_0187_V1-b_1_82c7fc28-4598-4d81-9d1b-7e09e4374581.jpg?v=1773375247"
 image_credit: "적용 사례 사진 · pinkysirondoors.com (원본 링크)"
 image_source: "https://pinkysirondoors.com/pages/studio-steel-hot-rolled-steel"
+apply_links:
+  - {title: "열연강판 스튜디오 문·창 마감 사례", url: "https://pinkysirondoors.com/pages/studio-steel-hot-rolled-steel", page_title: "Ottostumm FerroFinestra W40 Steel Windows & Doors | PINKYS", desc: "PINKYS offers custom Studio Steel doors and windows with the Ottostumm FerroFinestra W40, the hot-rolled system built for large openings and heavier glazing.", img: "http://pinkysirondoors.com/cdn/shop/files/Pinkys_Iron_Doors_02162024_0187_V1-b_1_82c7fc28-4598-4d81-9d1b-7e09e4374581.jpg?v=1773375247"}
+  - {title: "열연강판 주택 인테리어 적용", url: "https://mststeel.com/industry-news-blog/how-cold-rolled-steel-elevates-home-design/", page_title: "How Cold Rolled Steel Elevates Home Design", desc: "Learn how cold rolled steel adds strength, style, and durability to modern home design and interior decor.", img: "https://mststeel.com/wp-content/uploads/2026/01/mst4depositphotos_265006266-stock-photo.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

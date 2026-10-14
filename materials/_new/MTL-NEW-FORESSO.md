@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://lowcarbonindustrial.com/
-apply_links:
-  - {title: "Foresso 목재 테라조 Dezeen", url: "https://www.dezeen.com/2020/01/26/foresso-timber-terrazzo-design/"}
-  - {title: "하쿠바 Evo Hotel 주방 아일랜드", url: "https://www.remodelista.com/posts/terrazzo-made-from-wood-waste/"}
-  - {title: "Foresso 마감재 Yellowtrace", url: "https://www.yellowtrace.com.au/foresso-timber-terrazzo-made-from-recycled-materials-finishes/"}
 image: "https://assets.yellowtrace.com.au/wp-content/uploads/2020/03/04162330/Timber-Terrazzo-Made-from-Recycled-Materials-by-Foresso-Yellowtrace.jpg"
 image_credit: "적용 사례 사진 · yellowtrace.com.au (원본 링크)"
 image_source: "https://www.yellowtrace.com.au/foresso-timber-terrazzo-made-from-recycled-materials-finishes/"
+apply_links:
+  - {title: "Foresso 목재 테라조 Dezeen", url: "https://www.dezeen.com/2020/01/26/foresso-timber-terrazzo-design/", page_title: "Just a moment..."}
+  - {title: "하쿠바 Evo Hotel 주방 아일랜드", url: "https://www.remodelista.com/posts/terrazzo-made-from-wood-waste/", page_title: "Eco-Friendly Terrazzo Made from Wood Waste for Counters, Floors, and More", desc: "Terrazzo, the age-old, indestructible flooring material made from stone chips and cement, has an eco-friendly spinoff: timber terrazzo made from scrap wood.", img: "https://www.remodelista.com/wp-content/uploads/2026/04/foresso-timber-terrazzo.jpg"}
+  - {title: "Foresso 마감재 Yellowtrace", url: "https://www.yellowtrace.com.au/foresso-timber-terrazzo-made-from-recycled-materials-finishes/", page_title: "Timber 'Terrazzo' Made from Recycled Materials by Foresso.", desc: "Birmingham-based brand Foresso utilize offcut timber and waste plaster to form an innovative composite material that resembles terrazzo stone.", img: "https://assets.yellowtrace.com.au/wp-content/uploads/2020/03/04162330/Timber-Terrazzo-Made-from-Recycled-Materials-by-Foresso-Yellowtrace.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

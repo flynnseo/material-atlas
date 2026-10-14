@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.ecovative.com
-apply_links:
-  - {title: "Hush Rooms 균사체 흡음 타일 회의실", url: "https://healthymaterialslab.org/projects/hush-rooms-healthy-acoustic-office-spaces-in-university"}
-  - {title: "스미스소니언 x Ecovative 균사체 건축", url: "https://shop.ecovative.com/blogs/blog/smithsonian-x-ecovative-welcome-to-the-future-building-with-mushrooms"}
 image: "https://s3.us-east-2.amazonaws.com/prod-hml/resources/_1200x630_crop_center-center_82_none/062.jpg?mtime=1772132390"
 image_credit: "적용 사례 사진 · healthymaterialslab.org (원본 링크)"
 image_source: "https://healthymaterialslab.org/projects/hush-rooms-healthy-acoustic-office-spaces-in-university"
+apply_links:
+  - {title: "Hush Rooms 균사체 흡음 타일 회의실", url: "https://healthymaterialslab.org/projects/hush-rooms-healthy-acoustic-office-spaces-in-university", page_title: "Healthy Materials Lab | Hush Rooms: Healthy Acoustic Spaces in University Offices", desc: "Hush Rooms is a prototype intervention by Healthy Materials Lab to improve the acoustic quality and material health of three small meeting rooms.", img: "https://s3.us-east-2.amazonaws.com/prod-hml/resources/_1200x630_crop_center-center_82_none/062.jpg?mtime=1772132390"}
+  - {title: "스미스소니언 x Ecovative 균사체 건축", url: "https://shop.ecovative.com/blogs/blog/smithsonian-x-ecovative-welcome-to-the-future-building-with-mushrooms", page_title: "Smithsonian x Ecovative: Welcome to the future— building with mushrooms", desc: "We Interrupt Your Regularly Scheduled Panel: Future of Food featured Elliot Grant, Danielle Nierenberg, Eben Bayer, Taeryn Kim, and Ashley Mincey at Smithsonian Arts + Industries Building. If you attend or livestream the", img: "http://shop.ecovative.com/cdn/shop/articles/IMG_0219.jpg?v=1650924129"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,12 +22,12 @@ hands_on: false
 sources:
   - https://www.finewoodworking.com/project-guides/finishing/texture-wood-to-highlight-the-grain
   - https://indbrush.com/wood-finishing/
-apply_links:
-  - {title: "와이어브러시 오크 바닥·천장 인테리어 사진", url: "https://www.houzz.com/photos/query/wire-brushed"}
-  - {title: "와이어브러시 목재 플랭크 벽·천장재", url: "https://www.barrondesigns.com/wire-brushed-wood-plank"}
 image: "https://st.hzcdn.com/fimgs/pictures/bathrooms/bathroom-vanity-custom-wire-brushed-white-oak-cc-furniture-and-cabinetry-img~bc11c84b0df296b5_9904-1-1c6b75c-w550-h550-b0-p0.jpg"
 image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
 image_source: "https://www.houzz.com/photos/query/wire-brushed"
+apply_links:
+  - {title: "와이어브러시 오크 바닥·천장 인테리어 사진", url: "https://www.houzz.com/photos/query/wire-brushed", page_title: "Wire Brushed - Photos & Ideas | Houzz", desc: "Browse photos of wire-brushed. Find inspiration and ideas for your home."}
+  - {title: "와이어브러시 목재 플랭크 벽·천장재", url: "https://www.barrondesigns.com/wire-brushed-wood-plank", page_title: "Wire Brushed Wood Plank", desc: "Handcrafted in America from cedar wood, shop for durable, beautiful, and easy-to-install wire-brushed wood planks at Barron Designs. Samples are available.", img: "https://cdn11.bigcommerce.com/s-y7zjaeumjx/products/311/images/28601/bacplrnnn__53411.1667582726.386.513.jpg?c=1"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

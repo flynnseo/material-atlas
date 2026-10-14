@@ -23,12 +23,12 @@ hands_on: false
 sources:
   - https://www.rockwestcomposites.com/
   - https://en.wikipedia.org/wiki/Carbon-fiber-reinforced_polymer
-apply_links:
-  - {title: "싱가포르 레스토랑 CFRP 조명 오브제", url: "https://agb.co.jp/works/detail/?id=425"}
-  - {title: "Gerber Möbel CFRP 몰 좌석", url: "https://ifgroup.org/en/project/gerber-moebel"}
 image: "https://www.agb.co.jp/assets/image/common/og_img.jpg"
 image_credit: "적용 사례 사진 · agb.co.jp (원본 링크)"
 image_source: "https://agb.co.jp/works/detail/?id=425"
+apply_links:
+  - {title: "싱가포르 레스토랑 CFRP 조명 오브제", url: "https://agb.co.jp/works/detail/?id=425", page_title: "│ 作品実績 │ AGB", desc: "AGB(旭ビルウォール)は“建物の顔”とも言うべきファサードを、技術力によって実現する“ファサードエンジニアリング”を展開しています。", img: "https://www.agb.co.jp/assets/image/common/og_img.jpg"}
+  - {title: "Gerber Möbel CFRP 몰 좌석", url: "https://ifgroup.org/en/project/gerber-moebel", page_title: "Carbon Seating for the GERBER | Ippolito Fleitz Group", desc: "Product Design & Material Lab | Product Design: As an integral part of the GERBER’s interior architecture, seating islands were designed for the public areas to serve as places of rest and relaxation amongst the bustle o", img: "https://ifgroupt3-bucket.s3.amazonaws.com/projects/68/68302/ifgroup-68302-9519-5d55693205161.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

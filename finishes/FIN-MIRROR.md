@@ -16,12 +16,12 @@ hands_on: false
 sources:
   - https://www.worldstainless.org/about-stainless/process-and-production/surface-treatment/
   - https://en.wikipedia.org/wiki/Polishing_(metalworking)
-apply_links:
-  - {title: "애플스토어 미러 스테인리스 적용", url: "https://michaelsteeber.com/glossary/materials/mirrored-stainless-steel"}
-  - {title: "미러 스테인리스 건축·인테리어 적용", url: "https://www.sakysteel.com/news/applications-of-mirror-stainless-steel-sheet-in-modern-architecture-and-interior-design"}
 image: "https://michaelsteeber.com/glossary/images/mirrored_stainless_steel.jpg"
 image_credit: "적용 사례 사진 · michaelsteeber.com (원본 링크)"
 image_source: "https://michaelsteeber.com/glossary/materials/mirrored-stainless-steel"
+apply_links:
+  - {title: "애플스토어 미러 스테인리스 적용", url: "https://michaelsteeber.com/glossary/materials/mirrored-stainless-steel", page_title: "Mirror-Polished Stainless Steel", desc: "Stainless steel with a mirror-polished finish has become a popular architectural flourish in the latest New Store Design stores.", img: "https://michaelsteeber.com/glossary/images/mirrored_stainless_steel.jpg"}
+  - {title: "미러 스테인리스 건축·인테리어 적용", url: "https://www.sakysteel.com/news/applications-of-mirror-stainless-steel-sheet-in-modern-architecture-and-interior-design", page_title: "Applications of Mirror Stainless Steel Sheet in Modern Architecture and Interior Design", desc: "In the realm of modern architecture and interior design, materials play a critical role in defining the visual identity and functionality of a space. Among these materials, mirror stainless steel sheet has gained remarka"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

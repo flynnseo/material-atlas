@@ -16,11 +16,11 @@ hands_on: false
 sources:
   - https://www.worldstainless.org/about-stainless/process-and-production/surface-treatment/
   - https://assda.asn.au/blog/133-no-4-the-workhorse-finish
-apply_links:
-  - {title: "건축용 새틴 스테인리스 적용", url: "https://cocometalcraft.com/?p=1809"}
 image: "https://cocometalcraft.com/wp-content/uploads/2025/05/Satin-Stainless-Steel-for-Architectural-Design.png"
 image_credit: "적용 사례 사진 · cocometalcraft.com (원본 링크)"
 image_source: "https://cocometalcraft.com/?p=1809"
+apply_links:
+  - {title: "건축용 새틴 스테인리스 적용", url: "https://cocometalcraft.com/?p=1809", page_title: "Satin Stainless Steel for Architectural Design | Coco Architectural Grilles", desc: "A satin metal finish, also known as No. 4 in industry terms, is an all-purpose, polished finish that gives the metal a smooth, unidirectional appearance.", img: "https://cocometalcraft.com/wp-content/uploads/2025/05/Satin-Stainless-Steel-for-Architectural-Design.png"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

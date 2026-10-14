@@ -26,7 +26,7 @@ image: "assets/img/FIN-CHROME.jpg"
 image_credit: "Atoma · CC BY 2.5 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Motorcycle_Reflections_bw_edit.jpg"
 apply_links:
-  - {title: "뭄바이 Nezo 쇼룸 크롬 가구·행거", url: "https://www.dezeen.com/2025/02/09/metallic-retail-interiors-lookbooks/amp/"}
+  - {title: "뭄바이 Nezo 쇼룸 크롬 가구·행거", url: "https://www.dezeen.com/2025/02/09/metallic-retail-interiors-lookbooks/amp/", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

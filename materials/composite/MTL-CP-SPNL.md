@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sandwich-structured_composite
-apply_links:
-  - {title: "본도 EPS 건축 외벽 패널", url: "https://www.architectureanddesign.com.au/suppliers/bondor/introducing-the-equitilt-range-of-eps-architectura"}
-  - {title: "BASF PU 샌드위치 패널 주택", url: "https://plastics-rubber.basf.com/emea/en/performance_polymers/industries/pp_construction/stories-in-construction/house_with_PU_sandwich_panels"}
 image: "https://plastics-rubber.basf.com/api/imaging/focalarea/16x9/4096x/dam/jcr%3A0cf2e711-8435-33f1-98c6-a1286a573427/construction_stories_Buttenwiesen_outerview_01.jpg"
 image_credit: "적용 사례 사진 · plastics-rubber.basf.com (원본 링크)"
 image_source: "https://plastics-rubber.basf.com/emea/en/performance_polymers/industries/pp_construction/stories-in-construction/house_with_PU_sandwich_panels"
+apply_links:
+  - {title: "본도 EPS 건축 외벽 패널", url: "https://www.architectureanddesign.com.au/suppliers/bondor/introducing-the-equitilt-range-of-eps-architectura", page_title: "Architecture & Design: Australian Architectural Design | Architecture & Design", desc: "Welcome to the leading hub for the professionals creating Australia’s buildings. Architecture & Design showcases new building and architectural products to architects, designers, specifiers, engineers and builders. For m"}
+  - {title: "BASF PU 샌드위치 패널 주택", url: "https://plastics-rubber.basf.com/emea/en/performance_polymers/industries/pp_construction/stories-in-construction/house_with_PU_sandwich_panels", page_title: "Rethinking insulation: Innovative mix of materials in private buildings", desc: "Sandwich panels made of PU rigid foam have been in use on warehouses and industrial buildings for decades. Now we have an exciting new example for its use in residential buildings: A solid wooden house with a complete sh", img: "https://plastics-rubber.basf.com/api/imaging/focalarea/16x9/4096x/dam/jcr%3A0cf2e711-8435-33f1-98c6-a1286a573427/construction_stories_Buttenwiesen_outerview_01.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

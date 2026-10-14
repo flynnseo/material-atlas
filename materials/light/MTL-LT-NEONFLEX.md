@@ -21,9 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Neon_lighting
-image: "assets/img/MTL-LT-NEONFLEX.jpg"
-image_credit: "Amin · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Neon_lights_art_installation.jpg"
+image: "https://cdn.enttec.com/website/products/73060-neon-flex/73060-neon-flex-thumbnail.jpg"
+image_credit: "적용 사례 사진 · enttec.com (원본 링크)"
+image_source: "https://www.enttec.com/product/led-pixel-strip/neon-flex-led-strip/"
+apply_links:
+  - {title: "ENTTEC 네온 플렉스 제조사 제품 페이지", url: "https://www.enttec.com/product/led-pixel-strip/neon-flex-led-strip/", page_title: "NEON FLEX", desc: "With its rich, color-changing LEDs housed within a bendable silicone strip, our Neon Flex is one of the most versatile light fixtures imaginable.", img: "https://cdn.enttec.com/website/products/73060-neon-flex/73060-neon-flex-thumbnail.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

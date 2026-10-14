@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Ceramic
-image: "assets/img/MTL-ST-CERAMICCLAY.jpg"
-image_credit: "Pauloleong2002 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ACeramic%20art%20in%20Macau.jpg"
+image: "https://designbuild.ku.edu/libraries/ku-web-styleguide/images/cms_metatemplate_twitter.png"
+image_credit: "적용 사례 사진 · designbuild.ku.edu (원본 링크)"
+image_source: "https://designbuild.ku.edu/interdisciplinary-ceramic-research-center-icrc-facade-installation"
+apply_links:
+  - {title: "KU 도자연구센터 테라코타 타일 파사드", url: "https://designbuild.ku.edu/interdisciplinary-ceramic-research-center-icrc-facade-installation", page_title: "Interdisciplinary Ceramic Research Center (ICRC) Facade Installation", img: "https://designbuild.ku.edu/libraries/ku-web-styleguide/images/cms_metatemplate_twitter.png"}
+  - {title: "푸오리살로네 클레이 설치 Silvae", url: "https://fuorisalone.it/en/magazine/discover/article/102/clay-journeys-silvae-1", page_title: "Clay Journeys: Silvae", desc: "p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Georgia} span.s1 {text-decoration: underline ; color: #00000a} A sculptural installation that takes you on a creative journey of discovery -&nbsp;Clay Journeys&nbsp;by&", img: "https://assets.fuorisalone.it/uploads/fuorisalone/attachments/magazine_discover/magazine_discover_m/102/images/interna/250/discovery_def.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

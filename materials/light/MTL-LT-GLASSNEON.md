@@ -23,9 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Neon_lighting
-image: "assets/img/MTL-LT-GLASSNEON.jpg"
-image_credit: "Amin · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Neon_lights_art_installation.jpg"
+image: "https://www.stylepark.com/assets/transformations/manufacturers/H/Hem/Produkte/Globos%20Neon/_1410xAUTO_fit_center-center_90_none/20260308-124502_landscapeleft-3x2crop-x-josefin8.jpg"
+image_credit: "적용 사례 사진 · stylepark.com (원본 링크)"
+image_source: "https://www.stylepark.com/en/hem/globos-neon"
+apply_links:
+  - {title: "디자인 사무실용 수작업 네온 램프 제작 사례", url: "https://michigansignshops.thinkcreative.com/?p=14054"}
+  - {title: "Hem Globos Neon 수작업 유리 네온 조명", url: "https://www.stylepark.com/en/hem/globos-neon", page_title: "Globos Neon by Hem | Stylepark", desc: "Globos Neon - Designer Wall mounted lights by Hem ✓ Comprehensive product & design information ✓ Catalogs ➜ Get inspired now", img: "https://www.stylepark.com/assets/transformations/manufacturers/H/Hem/Produkte/Globos%20Neon/_1410xAUTO_fit_center-center_90_none/20260308-124502_landscapeleft-3x2crop-x-josefin8.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

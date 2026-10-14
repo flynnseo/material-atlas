@@ -11,12 +11,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinylidene_fluoride
-apply_links:
-  - {title: "PVDF 도장 금속 건축 프로젝트", url: "https://industrial.sherwin-williams.com/na/us/en/coil-extrusion/media-center/articles/PVDF-coatings-metal-architecture-projects.html"}
-  - {title: "PVDF 파사드 복원 사례", url: "https://kynaraquatec.arkema.com/en/resources/post/hpp/kynar-aquatec/pvdf-based-coating-system-makes-tough-facade-restoration-easier/"}
 image: "https://s7d2.scene7.com/is/image/sherwinwilliams/smithsoniannationalmuseumofafricanamericanhistoryandculture?wid=1200&hei=630&fit=fit"
 image_credit: "적용 사례 사진 · industrial.sherwin-williams.com (원본 링크)"
 image_source: "https://industrial.sherwin-williams.com/na/us/en/coil-extrusion/media-center/articles/PVDF-coatings-metal-architecture-projects.html"
+apply_links:
+  - {title: "PVDF 도장 금속 건축 프로젝트", url: "https://industrial.sherwin-williams.com/na/us/en/coil-extrusion/media-center/articles/PVDF-coatings-metal-architecture-projects.html", page_title: "How PVDF Coatings Make Architecture Monumental | Sherwin-Williams", desc: "These monumental architecture projects use PVDF coatings to protect their metal exterior building products and create award-winning facade design.", img: "https://s7d2.scene7.com/is/image/sherwinwilliams/smithsoniannationalmuseumofafricanamericanhistoryandculture?wid=1200&hei=630&fit=fit"}
+  - {title: "PVDF 파사드 복원 사례", url: "https://kynaraquatec.arkema.com/en/resources/post/hpp/kynar-aquatec/pvdf-based-coating-system-makes-tough-facade-restoration-easier/", page_title: "Up for the challenge: PVDF-based coating system makes tough facade restoration job easier | Arkema Kynaraquatec®", desc: "To help restore the building to its original factory fresh-looking finish, the building’s owners turned to MLD Architects of Tallahassee, Florida, Childers Construction Company (also of Tallahassee), and All Trades Histo", img: "https://kynaraquatec.arkema.com/files/live/sites/shared_arkema/files/images/products/HPP/4-Markets/ma-construction-images/facade%20restoration%20procoess%202_resized.png"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

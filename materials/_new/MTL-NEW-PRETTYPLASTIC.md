@@ -25,7 +25,7 @@ image: "http://static1.squarespace.com/static/632c323fac03bd68c2ed4707/t/633ae68
 image_credit: "출처 페이지 대표 이미지 · prettyplastic.nl (원본 링크)"
 image_source: "https://www.prettyplastic.nl/"
 apply_links:
-  - {title: "Plus Ultra III 재생 PVC 타일 외장 (Dezeen)", url: "https://www.dezeen.com/2026/01/18/pretty-plastic-plus-ultra-iii/"}
+  - {title: "Plus Ultra III 재생 PVC 타일 외장 (Dezeen)", url: "https://www.dezeen.com/2026/01/18/pretty-plastic-plus-ultra-iii/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,11 +20,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "제과점 곡선형 강화유리 쇼케이스 교체 후기", url: "https://blog.hansungshowcase.kr/78089"}
 image: "https://image.inblog.dev/?url=https%3A%2F%2Fsource.inblog.dev%2Ffeatured_image%2F2025-11-05T04%3A00%3A57.095Z-ed2866b0-663e-4ab3-b4f7-99d0017d3507&w=1200&q=85&format=jpg&v=2025-11-05T04%3A01%3A02.270Z"
 image_credit: "적용 사례 사진 · blog.hansungshowcase.kr (원본 링크)"
 image_source: "https://blog.hansungshowcase.kr/78089"
+apply_links:
+  - {title: "제과점 곡선형 강화유리 쇼케이스 교체 후기", url: "https://blog.hansungshowcase.kr/78089", page_title: "인테리어 '제과 쇼케이스' 하나로 완료 매출상승은 덤 ^^입니다! - 한성쇼케이스 블로그 | 냉장쇼케이스·정육·꽃·제과 쇼케이스 선택 가이드", desc: "고객 사용 후기", img: "https://image.inblog.dev/?url=https%3A%2F%2Fsource.inblog.dev%2Ffeatured_image%2F2025-11-05T04%3A00%3A57.095Z-ed2866b0-663e-4ab3-b4f7-99d0017d3507&w=1200&q=85&format=jpg&v=2025-11-05T04%3A01%3A02.270Z"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

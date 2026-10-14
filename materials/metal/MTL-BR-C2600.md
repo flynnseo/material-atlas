@@ -20,9 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-BR-C2600.jpg"
-image_credit: "Splarka · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ABrass.jpg"
+image: "https://designclarity.net/files/design-clarity_running-bare-chatswood_fashion-retail_australia-running-bare-sydney-westfield_13432-767x474.jpg"
+image_credit: "적용 사례 사진 · designclarity.net (원본 링크)"
+image_source: "https://designclarity.net/projects/running-bare-2/service-counter-and-brass-detailing"
+apply_links:
+  - {title: "Running Bare 매장 황동 카운터·아치 디테일", url: "https://designclarity.net/projects/running-bare-2/service-counter-and-brass-detailing", page_title: "Service Counter and Brass Detailing - Design Clarity | Design Clarity", img: "https://designclarity.net/files/design-clarity_running-bare-chatswood_fashion-retail_australia-running-bare-sydney-westfield_13432-767x474.jpg"}
+  - {title: "파리 Nuun 주얼리 매장 황동 디테일", url: "https://www.dezeen.com/2017/01/21/soft-hued-jewellery-shop-java-architecture-gold-pink-interiors-retail-paris-france/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

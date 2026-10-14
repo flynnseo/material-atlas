@@ -23,12 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fiberglass
-apply_links:
-  - {title: "BFG 건축 랜드마크 FRP 파사드 사례", url: "https://www.bfgarchitecture.com/landmarks-in-architecture"}
-  - {title: "Plastic dreams: 네덜란드 건축의 FRP", url: "https://bulletin.knob.nl/index.php/knob/en/article/view/808"}
 image: "http://www.bfgarchitecture.com/uploads/1/1/5/5/115551207/published/heydar-aliyev-center-zaha-hadid-architects.jpg?1514922308"
 image_credit: "적용 사례 사진 · bfgarchitecture.com (원본 링크)"
 image_source: "https://www.bfgarchitecture.com/landmarks-in-architecture"
+apply_links:
+  - {title: "BFG 건축 랜드마크 FRP 파사드 사례", url: "https://www.bfgarchitecture.com/landmarks-in-architecture", page_title: "Landmarks in Architecture", desc: "Essential Materials & The Architects that love them", img: "http://www.bfgarchitecture.com/uploads/1/1/5/5/115551207/published/heydar-aliyev-center-zaha-hadid-architects.jpg?1514922308"}
+  - {title: "Plastic dreams: 네덜란드 건축의 FRP", url: "https://bulletin.knob.nl/index.php/knob/en/article/view/808", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

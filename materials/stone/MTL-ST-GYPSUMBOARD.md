@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Drywall
-image: "assets/img/MTL-ST-GYPSUMBOARD.jpg"
-image_credit: "Timothyjosephwood · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Drywall_and_tools.jpg"
+image: "https://media.designcafe.com/wp-content/uploads/2023/05/03102102/gypsum-ceiling-design-ideas.jpg"
+image_credit: "적용 사례 사진 · designcafe.com (원본 링크)"
+image_source: "https://www.designcafe.com/blog/home-interiors/gypsum-ceiling-design-ideas/"
+apply_links:
+  - {title: "크나우프 곡면 석고보드 천장", url: "https://knauf.com/en-VN/applications/ceilings/gypsum-ceiling/curved-ceiling", page_title: "Just a moment..."}
+  - {title: "석고보드 천장 디자인 사례 모음", url: "https://www.designcafe.com/blog/home-interiors/gypsum-ceiling-design-ideas/", page_title: "Gypsum False Ceiling Designs For Your Home | DesignCafe", desc: "Gypsum false ceiling designs have been trending in the home interiors market. Check out why they are the popular choice for home design solutions.", img: "https://media.designcafe.com/wp-content/uploads/2023/05/03102102/gypsum-ceiling-design-ideas.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -24,9 +24,9 @@ image: "assets/img/MTL-FM-LVT.jpg"
 image_credit: "Phillip Pessar · CC BY 2.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Vintage_Vinyl_Tile_Flooring_South_Beach_%2845568707481%29.jpg"
 apply_links:
-  - {title: "왓포드 스포츠다이렉트 LVT 바닥", url: "https://www.ivc-commercial.com/en/cases/sports-direct"}
-  - {title: "흐로닝언 신발 매장 빈티지 LVT", url: "https://www.ivc-commercial.com/en/cases/shoe-store-schoenenzaken"}
-  - {title: "로어몬트 인터스포트 매장 LVT", url: "https://www.ivc-commercial.com/en/cases/Intersport"}
+  - {title: "왓포드 스포츠다이렉트 LVT 바닥", url: "https://www.ivc-commercial.com/en/cases/sports-direct", page_title: "404 | IVC Commercial sheet vinyl", desc: "Page not found. Explore IVC Commercial sheet vinyl flooring collections or return to the homepage to find the right solution for your project.", img: "https://cdn2.unilin.com/-/media/sites/sheetvinyl/ivccommercial/home/hero/ivc-sheet-vinyl-optimise70-olympus33-sand54-65-brown-school-hallway-floor-1200x640.ashx?h=640&iar=0&w=1200&rev=9eae3244ccb64851be232c478b50d325&hash=6726F2E8267FAAE8324ECE7F22C3D001"}
+  - {title: "흐로닝언 신발 매장 빈티지 LVT", url: "https://www.ivc-commercial.com/en/cases/shoe-store-schoenenzaken", page_title: "404 | IVC Commercial sheet vinyl", desc: "Page not found. Explore IVC Commercial sheet vinyl flooring collections or return to the homepage to find the right solution for your project.", img: "https://cdn2.unilin.com/-/media/sites/sheetvinyl/ivccommercial/home/hero/ivc-sheet-vinyl-optimise70-olympus33-sand54-65-brown-school-hallway-floor-1200x640.ashx?h=640&iar=0&w=1200&rev=9eae3244ccb64851be232c478b50d325&hash=6726F2E8267FAAE8324ECE7F22C3D001"}
+  - {title: "로어몬트 인터스포트 매장 LVT", url: "https://www.ivc-commercial.com/en/cases/Intersport", page_title: "404 | IVC Commercial sheet vinyl", desc: "Page not found. Explore IVC Commercial sheet vinyl flooring collections or return to the homepage to find the right solution for your project.", img: "https://cdn2.unilin.com/-/media/sites/sheetvinyl/ivccommercial/home/hero/ivc-sheet-vinyl-optimise70-olympus33-sand54-65-brown-school-hallway-floor-1200x640.ashx?h=640&iar=0&w=1200&rev=9eae3244ccb64851be232c478b50d325&hash=6726F2E8267FAAE8324ECE7F22C3D001"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

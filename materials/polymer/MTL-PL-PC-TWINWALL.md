@@ -28,9 +28,13 @@ sources:
   - https://stratco.com.au/siteassets/pdfs/laserlite-multiwall-data-sheet.pdf
   - https://www.roofgiant.com/resources/files/pds-017-pc10-10mm-twinwall-polycarbonate.pdf
   - https://en.wikipedia.org/wiki/Polycarbonate
-image: "assets/img/MTL-PL-PC-TWINWALL.jpg"
-image_credit: "MaterialScience100 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ATwinwall%20Polycarbonate%20Sheet.jpg"
+image: "https://st.hzcdn.com/fimgs/32a19fb902d02883_1192-w1200-h627-b0-p0--.jpg"
+image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
+image_source: "https://www.houzz.com/hznb/projects/multiwall-polycarbonate-and-architectural-design-pj-vj~6972663"
+apply_links:
+  - {title: "중공 폴리카보네이트 건축 적용 사례", url: "https://acplasticsinc.com/pages/multiwall-polycarbonate-in-action", page_title: "Just a moment..."}
+  - {title: "멀티월 PC와 건축 디자인", url: "https://www.houzz.com/hznb/projects/multiwall-polycarbonate-and-architectural-design-pj-vj~6972663", page_title: "Multiwall Polycarbonate and Architectural Design", desc: "<span forbidden_style=\"font-weight: 400;\">Multi-wall roofing technology is one of the construction industry's most emerging and exciting technologies. In fact, </span><strong><a href=\"https://ff.sabic.eu/en/product/lexan", img: "https://st.hzcdn.com/fimgs/32a19fb902d02883_1192-w1200-h627-b0-p0--.jpg"}
+  - {title: "Palram SUNPAL 멀티월 천창·외장 시스템", url: "https://www.specifiedby.com/palram/sunpal-multiwall-polycarbonate-sheet-architectural-system-sheet-rooflights", page_title: "Just a moment..."}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

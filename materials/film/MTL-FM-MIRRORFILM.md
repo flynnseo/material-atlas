@@ -20,12 +20,12 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
   - https://en.wikipedia.org/wiki/BoPET
-apply_links:
-  - {title: "도쿄 거울 반사면 매장 인테리어", url: "https://worldarchitecture.org/architecture-news/fzffm/mirrored-boxes-and-reflective-surfaces-create-multifaceted-perspectives-in-a-tokyo-shop"}
-  - {title: "베이징 거울 부티크 Mirror Garden", url: "https://www.ignant.com/2019/08/09/this-mirror-lined-designer-boutique-in-beijing-is-filled-with-greenery/"}
 image: "https://www.ignant.com/wp-content/uploads/2019/07/ignant-architecture-mirror-garden-004.jpg"
 image_credit: "적용 사례 사진 · ignant.com (원본 링크)"
 image_source: "https://www.ignant.com/2019/08/09/this-mirror-lined-designer-boutique-in-beijing-is-filled-with-greenery/"
+apply_links:
+  - {title: "도쿄 거울 반사면 매장 인테리어", url: "https://worldarchitecture.org/architecture-news/fzffm/mirrored-boxes-and-reflective-surfaces-create-multifaceted-perspectives-in-a-tokyo-shop", page_title: "Mirrored Boxes And Reflective Surfaces Create Multifaceted Perspectives In A Tokyo Shop", desc: "World Architecture Community News - Mirrored Boxes And Reflective Surfaces Create Multifaceted Perspectives In A Tokyo Shop", img: "https://worldarchitecture.org/cdnimgfiles/extuploadc/ura_facade_upper-1--2-.JPG"}
+  - {title: "베이징 거울 부티크 Mirror Garden", url: "https://www.ignant.com/2019/08/09/this-mirror-lined-designer-boutique-in-beijing-is-filled-with-greenery/", page_title: "This Mirror-Lined Designer Boutique In Beijing Is Filled With Greenery - IGNANT", desc: "Beijing-based practice Archstudio has designed ‘Mirror Garden’: the transformation of a historic building into a multi-brand boutique with a mirrored interior in Beijing, China.", img: "https://www.ignant.com/wp-content/uploads/2019/07/ignant-architecture-mirror-garden-004.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

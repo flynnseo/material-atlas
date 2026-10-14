@@ -21,8 +21,8 @@ hands_on: false
 sources:
   - https://www.casestudies.com/company/ai-build/case-study/bottletop-customer-case-study
 apply_links:
-  - {title: "런던 Bottletop 플래그십 3D프린트 인테리어", url: "https://www.casestudies.com/company/ai-build/case-study/bottletop-customer-case-study"}
-  - {title: "런던 최초 3D프린트 매장 Bottletop", url: "https://www.fabbaloo.com/blog/2017/12/11/design-of-the-week-3d-printed-store"}
+  - {title: "런던 Bottletop 플래그십 3D프린트 인테리어", url: "https://www.casestudies.com/company/ai-build/case-study/bottletop-customer-case-study", page_title: "Case Study: Bottletop creates a zero-waste 3D-printed flagship store with Ai Build | CaseStudies.com", desc: "Bottletop (Apparel & Fashion) partnered with Ai Build (Industrial Automation) to solve key challenges. \"Bottletop - Customer Case Study\" is their real-world success story."}
+  - {title: "런던 최초 3D프린트 매장 Bottletop", url: "https://www.fabbaloo.com/blog/2017/12/11/design-of-the-week-3d-printed-store", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,12 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinyl_chloride
-apply_links:
-  - {title: "세포라 매장 월 그래픽 Drytac 시공", url: "https://imagereportsmag.co.uk/case-study-from-drytac-10/"}
-  - {title: "콜드스톤 매장 출력 그래픽 리뉴얼", url: "https://bigpicturemag.com/a-tasteful-new-look-cold-stone-creamery"}
 image: "https://imagereportsmag.co.uk/wp-content/uploads/2020/04/E-163906-d35.jpg"
 image_credit: "적용 사례 사진 · imagereportsmag.co.uk (원본 링크)"
 image_source: "https://imagereportsmag.co.uk/case-study-from-drytac-10/"
+apply_links:
+  - {title: "세포라 매장 월 그래픽 Drytac 시공", url: "https://imagereportsmag.co.uk/case-study-from-drytac-10/", page_title: "Case study from Drytac - Image Reports", desc: "Warwick Printing has installed a huge storefront wall graphic using Drytac ReTac, building excitement for a new beauty store.", img: "https://imagereportsmag.co.uk/wp-content/uploads/2020/04/E-163906-d35.jpg"}
+  - {title: "콜드스톤 매장 출력 그래픽 리뉴얼", url: "https://bigpicturemag.com/a-tasteful-new-look-cold-stone-creamery", page_title: "A Tasteful New Look at Cold Stone Creamery", desc: "Interior wall graphics provide inviting backdrop for sales", img: "https://bigpicturemag.com/wp-content/uploads/2003/04/1670-1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

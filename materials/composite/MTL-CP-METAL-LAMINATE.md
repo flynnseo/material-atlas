@@ -31,11 +31,11 @@ sources:
   - https://source.thenbs.com/en/product/homapal-metal-laminates-gestures/riBnQWxn8RQY3DEsn1QQ5E/8dLoc6gLxoKtPTF4sBTzXB
   - https://source.thenbs.com/en/product/homapal-metal-laminates-perspectives-depths-geometries-industrials/fFietX1phQSyiWn2Df5oYG/iSx2wbsSPhRPJSsuK1WBLD
   - https://cabinetmakerwarehouse.com/collections/metal
-apply_links:
-  - {title: "Arpa HPL 리테일 매장 적용", url: "https://arpaindustriale.com/en/applications/retail"}
 image: "https://res.cloudinary.com/dozlb75sf/image/upload/c_fill,w_800,h_420/q_auto/v1/_Arpa/Inspirations/Application/Retail/Retail_WN25-26_3544_Marmo_Arabescato_TUET_3532_Galea_Green_1_rgh4hw?_a=BAAAV6Bs"
 image_credit: "적용 사례 사진 · arpaindustriale.com (원본 링크)"
 image_source: "https://arpaindustriale.com/en/applications/retail"
+apply_links:
+  - {title: "Arpa HPL 리테일 매장 적용", url: "https://arpaindustriale.com/en/applications/retail", page_title: "Retail | Arpa for interiors", desc: "Wall coverings, furnishings, display shelves and more: every element of the store can be enhanced with the use of high-quality surfaces from Arpa Industriale.", img: "https://res.cloudinary.com/dozlb75sf/image/upload/c_fill,w_800,h_420/q_auto/v1/_Arpa/Inspirations/Application/Retail/Retail_WN25-26_3544_Marmo_Arabescato_TUET_3532_Galea_Green_1_rgh4hw?_a=BAAAV6Bs"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

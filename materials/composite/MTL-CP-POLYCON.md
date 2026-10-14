@@ -21,11 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polymer_concrete
-apply_links:
-  - {title: "상파울루 쇼핑몰 폴리머콘크리트 파사드", url: "https://www.ulmaarchitectural.com/en/facade-cladding/projects/jardin-pamplona-shopping-complex-in-sao-paulo-bult-with-ulma-s-ventilated-facade"}
 image: "https://www.ulmaarchitectural.com/en/facade-cladding/projects/jardin-pamplona-shopping-complex-in-sao-paulo-bult-with-ulma-s-ventilated-facade/@@images/image-1200-025ccd4a2b68b34d350cef1176f74df0.jpeg"
 image_credit: "적용 사례 사진 · ulmaarchitectural.com (원본 링크)"
 image_source: "https://www.ulmaarchitectural.com/en/facade-cladding/projects/jardin-pamplona-shopping-complex-in-sao-paulo-bult-with-ulma-s-ventilated-facade"
+apply_links:
+  - {title: "상파울루 쇼핑몰 폴리머콘크리트 파사드", url: "https://www.ulmaarchitectural.com/en/facade-cladding/projects/jardin-pamplona-shopping-complex-in-sao-paulo-bult-with-ulma-s-ventilated-facade", page_title: "Shopping complex in Sao Paulo, built with ULMA&#x27;s ventilated facade", desc: "We interview Fabio Aurichio, of L35 Arquitectos, the architect in charge of the project.", img: "https://www.ulmaarchitectural.com/en/facade-cladding/projects/jardin-pamplona-shopping-complex-in-sao-paulo-bult-with-ulma-s-ventilated-facade/@@images/image-1200-025ccd4a2b68b34d350cef1176f74df0.jpeg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

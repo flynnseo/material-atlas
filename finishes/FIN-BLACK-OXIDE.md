@@ -23,13 +23,13 @@ sources:
   - https://en.wikipedia.org/wiki/Black_oxide
   - https://finishingandcoating.com/index.php/conversion/503-a-review-of-functional-and-decorative-black-oxide-coatings
   - https://engineersedge.com/black_oxide.htm
-apply_links:
-  - {title: "Zahner Oscura 실내용 흑색 강판", url: "https://www.azahner.com/materials/blackened-steel"}
-  - {title: "윌로우램프 블랙 옥사이드 조명 마감", url: "https://sadecor.co.za/interior-design-blog/lighting/introducing-willowlamps-new-black-oxide-finish/"}
-  - {title: "건축용 흑색 강판 계단·벽난로 적용", url: "https://www.cocometalcraft.com/blackened-steel-for-architectural-design"}
 image: "https://azahner.com/wp-content/uploads/2025/11/Zahner-Oscura-Oscura_0054278-1920x1439.jpg"
 image_credit: "적용 사례 사진 · azahner.com (원본 링크)"
 image_source: "https://www.azahner.com/materials/blackened-steel"
+apply_links:
+  - {title: "Zahner Oscura 실내용 흑색 강판", url: "https://www.azahner.com/materials/blackened-steel", page_title: "Oscura Blackened Steel | Zahner Surfaces", desc: "Oscura is Zahner's blackened steel patina for interiors, with a mottled, one-of-a-kind finish sealed against rust and scratches for feature walls and lobbies.", img: "https://azahner.com/wp-content/uploads/2025/11/Zahner-Oscura-Oscura_0054278-1920x1439.jpg"}
+  - {title: "윌로우램프 블랙 옥사이드 조명 마감", url: "https://sadecor.co.za/interior-design-blog/lighting/introducing-willowlamps-new-black-oxide-finish/", page_title: "Introducing willowlamp’s New Black Oxide Finish", desc: "The willowlamp team constantly evolves designs to push the boundaries of what is possible with light and metal. Their latest innovation, the Black Oxide The willowlamp team constantly evolves designs to push the boundari", img: "https://storage.googleapis.com/stateless-www-sadecor-co-za/2024/11/1d7b1b96-picture-1.png"}
+  - {title: "건축용 흑색 강판 계단·벽난로 적용", url: "https://www.cocometalcraft.com/blackened-steel-for-architectural-design", page_title: "Blackened Steel for Architectural Design | Coco Architectural Grilles", desc: "Coco Architectural Grilles & Metalcraft offers a variety of finish options including blackened finishes.", img: "https://cocometalcraft.com/wp-content/uploads/2025/05/Blackened-Steel-for-Architectural-Design.jpg"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

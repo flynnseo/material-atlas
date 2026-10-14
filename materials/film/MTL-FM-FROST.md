@@ -19,12 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-apply_links:
-  - {title: "뉴캐슬 사무실 프로스트 필름 시공", url: "https://www.tintfit.com/case-study/office-privacy-installation-newcastle"}
-  - {title: "런던 사무실 프라이버시 필름 그래픽", url: "https://buildingcentre.co.uk/news/articles/office-privacy-london"}
 image: "https://www.tintfit.com/wp-content/uploads/2026/03/White-Frost_Newcastle-1.jpeg"
 image_credit: "적용 사례 사진 · tintfit.com (원본 링크)"
 image_source: "https://www.tintfit.com/case-study/office-privacy-installation-newcastle"
+apply_links:
+  - {title: "뉴캐슬 사무실 프로스트 필름 시공", url: "https://www.tintfit.com/case-study/office-privacy-installation-newcastle", page_title: "Office Privacy Installation - Newcastle", desc: "Example of 20 m² White Frost Privacy Window Film Installation at Office building in Newcastle. Project description", img: "https://www.tintfit.com/wp-content/uploads/2026/03/White-Frost_Newcastle-1.jpeg"}
+  - {title: "런던 사무실 프라이버시 필름 그래픽", url: "https://buildingcentre.co.uk/news/articles/office-privacy-london", page_title: "Office Privacy, London", desc: "Privacy is required in a number of different situations, for a variety of reasons and The Window Film Company offers a range of dedicated privacy window films. By using top quality film, state of the art printers and cut"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

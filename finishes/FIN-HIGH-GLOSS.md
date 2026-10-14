@@ -12,11 +12,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyurethane
-apply_links:
-  - {title: "하이글로스 도장 바·벽 인테리어 활용", url: "https://mainehomedesign.com/?p=36714"}
 image: "https://d3qyu496o2hwvq.cloudfront.net/wp-content/uploads/2023/03/2022-05-16-Leandra-Cumberland-Foreside-PRINT-%C2%A9-Jeff-Roberts-Imaging-2.jpg"
 image_credit: "적용 사례 사진 · mainehomedesign.com (원본 링크)"
 image_source: "https://mainehomedesign.com/?p=36714"
+apply_links:
+  - {title: "하이글로스 도장 바·벽 인테리어 활용", url: "https://mainehomedesign.com/?p=36714", page_title: "High Shine - Maine Home + Design", desc: "What is the difference between high gloss and lacquer, if there is one? There are two major differences between high gloss and lacquer: sheen and process. While both are glossy, reflective sheens, lacquer portrays an alm", img: "https://d3qyu496o2hwvq.cloudfront.net/wp-content/uploads/2023/03/2022-05-16-Leandra-Cumberland-Foreside-PRINT-%C2%A9-Jeff-Roberts-Imaging-2.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

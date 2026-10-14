@@ -19,13 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Bamboo
-apply_links:
-  - {title: "Plyboo 대나무 합판, 워털루대 적용", url: "https://www.plyboo.com/?p=3214"}
-  - {title: "대나무 합판 인테리어 활용 영감", url: "https://ambientbp.com/blog/interior-design-inspiration-with-bamboo-plywood"}
-  - {title: "구조·건축용 대나무 인테리어 패널", url: "https://www.arcat.com/product/bamboo-interior-panels-146120"}
 image: "https://www.ambientbp.com/blog/wp-content/uploads/2024/02/Interior-design-inspiration-using-bamboo-plywood-1.jpg"
 image_credit: "적용 사례 사진 · ambientbp.com (원본 링크)"
 image_source: "https://ambientbp.com/blog/interior-design-inspiration-with-bamboo-plywood"
+apply_links:
+  - {title: "Plyboo 대나무 합판, 워털루대 적용", url: "https://www.plyboo.com/?p=3214", page_title: "Bamboo Plywood & Veneer - Plyboo® by Smith & Fong", desc: "Bamboo plywood products by Plyboo® provide a beautiful and clean look and are made from 100% rapidly renewable bamboo."}
+  - {title: "대나무 합판 인테리어 활용 영감", url: "https://ambientbp.com/blog/interior-design-inspiration-with-bamboo-plywood", page_title: "Interior Design Inspiration with Bamboo Plywood", desc: "Look no further for interior design inspiration than to bamboo plywood - Versatile, eco-friendly and super stylish. You found it.", img: "https://www.ambientbp.com/blog/wp-content/uploads/2024/02/Interior-design-inspiration-using-bamboo-plywood-1.jpg"}
+  - {title: "구조·건축용 대나무 인테리어 패널", url: "https://www.arcat.com/product/bamboo-interior-panels-146120", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

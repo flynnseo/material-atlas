@@ -24,9 +24,9 @@ image: "assets/img/MTL-GL-FUSED.jpg"
 image_credit: "Balon Greyjoy · CC0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3A20190202%20Nagsaki%20fused%20glass.jpg"
 apply_links:
-  - {title: "두바이몰 돔 퓨징 유리 새 설치", url: "https://www.architecturelab.net/glass-installation-by-edyta-baranska-suspended-in-the-district-dome-at-dubai-mall/"}
-  - {title: "워싱턴 로비 퓨징 유리 타일 벽", url: "https://architizer.com/projects/solar-passage/"}
-  - {title: "포틀랜드 안과 클리닉 정원 퓨징 유리", url: "https://architizer.com/projects/elks-childrens-eye-clinic-sensory-garden/"}
+  - {title: "두바이몰 돔 퓨징 유리 새 설치", url: "https://www.architecturelab.net/glass-installation-by-edyta-baranska-suspended-in-the-district-dome-at-dubai-mall/", page_title: "Just a moment..."}
+  - {title: "워싱턴 로비 퓨징 유리 타일 벽", url: "https://architizer.com/projects/solar-passage/", page_title: "Attention Required! | Cloudflare"}
+  - {title: "포틀랜드 안과 클리닉 정원 퓨징 유리", url: "https://architizer.com/projects/elks-childrens-eye-clinic-sensory-garden/", page_title: "Attention Required! | Cloudflare"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

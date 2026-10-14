@@ -18,11 +18,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-apply_links:
-  - {title: "Richlite 브랜드 프로젝트 모음 (Archello)", url: "https://archello.com/brand/richlite"}
 image: "https://archello.s3.eu-central-1.amazonaws.com/images/2014/08/25/untitled-1-copy-1601.1505995824.5245.jpg"
 image_credit: "적용 사례 사진 · archello.com (원본 링크)"
 image_source: "https://archello.com/brand/richlite"
+apply_links:
+  - {title: "Richlite 브랜드 프로젝트 모음 (Archello)", url: "https://archello.com/brand/richlite", page_title: "Richlite products, catalogues and more | Archello", desc: "Welcome to Richlite solid paper composite surfaces. Richlite is an incredibly durable material made from paper, ideal for a variety of uses. Developed over 70 years ago for industrial tooling, Richlite is made to last, e", img: "https://archello.s3.eu-central-1.amazonaws.com/images/2014/08/25/untitled-1-copy-1601.1505995824.5245.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

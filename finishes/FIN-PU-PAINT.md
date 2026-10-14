@@ -15,7 +15,7 @@ image: "assets/img/FIN-PU-PAINT.jpg"
 image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
 apply_links:
-  - {title: "두바이몰 구찌 매장 2액형 PU 마감", url: "https://www.mapei.com/au/en/projects/detail/gucci---the-dubai-mall"}
+  - {title: "두바이몰 구찌 매장 2액형 PU 마감", url: "https://www.mapei.com/au/en/projects/detail/gucci---the-dubai-mall", page_title: "Attention Required! | Cloudflare"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

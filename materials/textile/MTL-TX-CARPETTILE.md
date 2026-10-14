@@ -19,9 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Carpet
-image: "assets/img/MTL-TX-CARPETTILE.jpg"
-image_credit: "Ryj · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Wollteppich_1.jpg"
+image: "https://www.onofficemagazine.com/wp-content/uploads/2018/07/c2bdd64aa20e9bee2cb8c6fcc5ab0c05.jpg"
+image_credit: "적용 사례 사진 · onofficemagazine.com (원본 링크)"
+image_source: "https://www.onofficemagazine.com/interiors/desso-dale-office-tarket"
+apply_links:
+  - {title: "데소 타일카펫 델 오피스 쇼룸", url: "https://www.onofficemagazine.com/interiors/desso-dale-office-tarket", page_title: "Playing with textures and patterns to create dynamic flooring", desc: "Workspace experts, Dale Office Interiors, build bespoke, high-performance spaces that enhance business performance, so when it came to refurbishing their own office they knew exactly what to do. They turned to Tarkett to", img: "https://www.onofficemagazine.com/wp-content/uploads/2018/07/c2bdd64aa20e9bee2cb8c6fcc5ab0c05.jpg"}
+  - {title: "TUI 하노버 사무실 타일카펫", url: "https://www.domotex.de/en/news/news-articles/gunnar-seel-designs-offices-with-a-variety-of-new-ways-9664", page_title: "COVER NEW GROUND: Gunnar Seel designs offices with a variety of new ways", desc: "Office facilities are going vacant and being used in a variety of new ways, meaning that their interiors need to be adapted accordingly. Mindfulness, naturalness and well-being can be positively influenced by the appropr", img: "https://www.domotex.de/files/files/assets/v8.0.2/assets/static/domotex/meta/og-domotex.jpg"}
+  - {title: "포르보 ENGIE 사무실 타일카펫", url: "https://www.forbo.com/flooring/en-gl/inspiration-references/references/engie/rjz2r9", page_title: "References | Forbo Flooring Systems", desc: "Need inspiration? Take a look at our worldwide references to get an impression of the possibilities with our floors.", img: "https://forbo.azureedge.net/forboimages/386729/Engie%20Corridor.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

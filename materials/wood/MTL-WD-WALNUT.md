@@ -19,13 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Juglans_nigra
-apply_links:
-  - {title: "월넛 주방·와인룸 주택 리노베이션", url: "https://www.houzz.com/hznb/projects/luxurious-transitional-walnut-kitchen-and-home-renovation-pj-vj~7368519"}
-  - {title: "시카고 랜치 하우스 월넛 가구", url: "https://www.domino.com/content/chicago-mid-century-modern-house/"}
-  - {title: "상파울루 아파트 월넛 마감 거실", url: "https://www.dezeen.com/2021/08/28/ten-welcoming-living-rooms-wooden-elements-lookbook/amp/"}
 image: "https://st.hzcdn.com/fimgs/2a91402905b52927_5812-w1200-h627-b0-p0--.jpg"
 image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
 image_source: "https://www.houzz.com/hznb/projects/luxurious-transitional-walnut-kitchen-and-home-renovation-pj-vj~7368519"
+apply_links:
+  - {title: "월넛 주방·와인룸 주택 리노베이션", url: "https://www.houzz.com/hznb/projects/luxurious-transitional-walnut-kitchen-and-home-renovation-pj-vj~7368519", page_title: "Luxurious Transitional Walnut Kitchen & Home Renovation", desc: "Embark on a captivating design journey in this collaborative project with Interior Design partner, Elizabeth Metcalfe Design, and Home Builder Partner, Will-o Homes. From the grandeur of the kitchen to the opulence of th", img: "https://st.hzcdn.com/fimgs/2a91402905b52927_5812-w1200-h627-b0-p0--.jpg"}
+  - {title: "시카고 랜치 하우스 월넛 가구", url: "https://www.domino.com/content/chicago-mid-century-modern-house/", page_title: "Why This Designer Loves Walnut Furniture—So Much So It’s in Every Room of This Chicago Ranch", desc: "The main source of inspiration for this couple’s mid-century home was a set of four walnut Norman Cherner stools.", img: "https://www.domino.com/wp-content/uploads/2021/08/18/midcentury-modern-walnut-home-domino-2.jpg?w=1200"}
+  - {title: "상파울루 아파트 월넛 마감 거실", url: "https://www.dezeen.com/2021/08/28/ten-welcoming-living-rooms-wooden-elements-lookbook/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

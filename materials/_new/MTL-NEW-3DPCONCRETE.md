@@ -21,13 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.xtreee.com/
-apply_links:
-  - {title: "Studio 7.5·XtreeE 3D프린팅 콘크리트 벤치", url: "https://www.dezeen.com/2018/08/27/3d-printing-woven-concrete-benches-xtreee-studio-75-design/amp/"}
-  - {title: "3D프린팅 거푸집 복합 콘크리트 기둥 (ArchDaily)", url: "https://www.archdaily.com/806230/whatsapp:/send"}
-  - {title: "XtreeE 3D 콘크리트 프린팅 프로젝트 개요", url: "https://designingbuildings.co.uk/wiki/XtreeE 3D concrete printing"}
 image: "https://images.adsttc.com/media/images/58b4/7923/e58e/ced7/8400/0045/large_jpg/XtreeE_Poteau_Aix_%C2%A9_Lisa_Ricciotti_W_11.jpg?1488222463"
 image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
 image_source: "https://www.archdaily.com/806230/whatsapp:/send"
+apply_links:
+  - {title: "Studio 7.5·XtreeE 3D프린팅 콘크리트 벤치", url: "https://www.dezeen.com/2018/08/27/3d-printing-woven-concrete-benches-xtreee-studio-75-design/amp/", page_title: "Just a moment..."}
+  - {title: "3D프린팅 거푸집 복합 콘크리트 기둥 (ArchDaily)", url: "https://www.archdaily.com/806230/whatsapp:/send", page_title: "This Complex Concrete Column Was Made Using 3D-Printed Formwork", desc: "While large-scale 3D printing for architecture continues to be a busy area of research, France-based company XtreeE has been using 3D printed...", img: "https://images.adsttc.com/media/images/58b4/7923/e58e/ced7/8400/0045/large_jpg/XtreeE_Poteau_Aix_%C2%A9_Lisa_Ricciotti_W_11.jpg?1488222463"}
+  - {title: "XtreeE 3D 콘크리트 프린팅 프로젝트 개요", url: "https://designingbuildings.co.uk/wiki/XtreeE 3D concrete printing"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

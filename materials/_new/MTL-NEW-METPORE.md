@@ -19,11 +19,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/metpore-metal-foam/
-apply_links:
-  - {title: "오픈셀 금속 폼 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/?p=1596"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2007/10/MET109-1.jpg?v=20130830123900"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/?p=1596"
+apply_links:
+  - {title: "오픈셀 금속 폼 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/?p=1596", page_title: "Metpore Metal Foam", desc: "Metpore Metal Foam with open cellular structures. Available in; nickel-steel, titanium, copper-silver, copper, brass and stainless steel", img: "https://media.materialdistrict.com/wp-content/uploads/2007/10/MET109-1.jpg?v=20130830123900"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

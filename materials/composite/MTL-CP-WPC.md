@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood-plastic_composite
-apply_links:
-  - {title: "HIFIVENT WPC 환기형 파사드 시스템", url: "https://cordis.europa.eu/article/id/170325-environmentfriendly-building-faades-for-optimised-performance-and-fire-resistance"}
-  - {title: "Einwood WPC 파사드 제품", url: "https://www.archiexpo.com/prod/einwood/product-149879-1761133.html"}
 image: "https://cordis.europa.eu/docs/results/images/2017-03/170325.jpg"
 image_credit: "적용 사례 사진 · cordis.europa.eu (원본 링크)"
 image_source: "https://cordis.europa.eu/article/id/170325-environmentfriendly-building-faades-for-optimised-performance-and-fire-resistance"
+apply_links:
+  - {title: "HIFIVENT WPC 환기형 파사드 시스템", url: "https://cordis.europa.eu/article/id/170325-environmentfriendly-building-faades-for-optimised-performance-and-fire-resistance", page_title: "Environment-friendly building façades for optimised performance and fire resistance", desc: "Composite materials made of wood and plastic have many advantages over real wood as a building material, but they are not without their...", img: "https://cordis.europa.eu/docs/results/images/2017-03/170325.jpg"}
+  - {title: "Einwood WPC 파사드 제품", url: "https://www.archiexpo.com/prod/einwood/product-149879-1761133.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

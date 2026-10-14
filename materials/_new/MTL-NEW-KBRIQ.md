@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.kenoteq.com/
-apply_links:
-  - {title: "K-BRIQ 건설폐기물 벽돌 Dezeen", url: "https://www.dezeen.com/?p=1459517"}
-  - {title: "K-Briq 인증 기사", url: "https://www.theconstructionindex.co.uk/news/view/k-briq-clears-the-final-hurdle"}
 image: "https://www.theconstructionindex.co.uk/assets/news_articles/2025/07/1753277444_pic-c-kenoteq.jpg"
 image_credit: "적용 사례 사진 · theconstructionindex.co.uk (원본 링크)"
 image_source: "https://www.theconstructionindex.co.uk/news/view/k-briq-clears-the-final-hurdle"
+apply_links:
+  - {title: "K-BRIQ 건설폐기물 벽돌 Dezeen", url: "https://www.dezeen.com/?p=1459517", page_title: "Just a moment..."}
+  - {title: "K-Briq 인증 기사", url: "https://www.theconstructionindex.co.uk/news/view/k-briq-clears-the-final-hurdle", page_title: "K-Briq clears the final hurdle", desc: "After years of testing and evaluation, Kenoteq’s revolutionary low-carbon K-briq is in full commercial production. David Taylor reports", img: "https://www.theconstructionindex.co.uk/assets/news_articles/2025/07/1753277444_pic-c-kenoteq.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

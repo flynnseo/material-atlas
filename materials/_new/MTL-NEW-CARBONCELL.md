@@ -24,8 +24,8 @@ image: "https://media.materialdistrict.com/wp-content/uploads/2026/02/carbon-cel
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/carbon-cell-foam/"
 apply_links:
-  - {title: "Carbon Cell 바이오차 폼 (Dezeen)", url: "https://www.dezeen.com/2025/11/25/carbon-cell-plastic-free-polystyrene/"}
-  - {title: "Carbon Cell DDW 2025 전시", url: "https://ddw.nl/en/programme/archive/2025/carbon-cell"}
+  - {title: "Carbon Cell 바이오차 폼 (Dezeen)", url: "https://www.dezeen.com/2025/11/25/carbon-cell-plastic-free-polystyrene/", page_title: "Just a moment..."}
+  - {title: "Carbon Cell DDW 2025 전시", url: "https://ddw.nl/en/programme/archive/2025/carbon-cell", page_title: "Carbon Cell | Dutch Design Week"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

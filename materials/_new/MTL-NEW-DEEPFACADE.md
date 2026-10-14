@@ -21,12 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/
-apply_links:
-  - {title: "ETH 3D프린트 주형 주조 금속 파사드", url: "https://www.dezeen.com/2018/06/22/eth-zurich-metal-facade-3d-printing-mould-technology/"}
-  - {title: "Digital Metal: Deep Facade 프로젝트", url: "https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/"}
 image: "https://i0.wp.com/dbt.arch.ethz.ch/wp-content/uploads/2018/09/digitalMetal_0100.jpg?fit=2000%2C1125&ssl=1"
 image_credit: "적용 사례 사진 · dbt.arch.ethz.ch (원본 링크)"
 image_source: "https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/"
+apply_links:
+  - {title: "ETH 3D프린트 주형 주조 금속 파사드", url: "https://www.dezeen.com/2018/06/22/eth-zurich-metal-facade-3d-printing-mould-technology/", page_title: "Just a moment..."}
+  - {title: "Digital Metal: Deep Facade 프로젝트", url: "https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/", page_title: "Digital Metal: Deep Facade - dbt", desc: "Project Date: 2017/2018 Deep Facade explores the unique potential of 3D printing sand mould and casting metal for architecture. We combine these two fabrication methods to make the production of custom and complex struct", img: "https://i0.wp.com/dbt.arch.ethz.ch/wp-content/uploads/2018/09/digitalMetal_0100.jpg?fit=2000%2C1125&ssl=1"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

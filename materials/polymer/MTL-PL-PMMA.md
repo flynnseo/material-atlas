@@ -29,6 +29,9 @@ sources:
 image: "assets/img/MTL-PL-PMMA.jpg"
 image_credit: "Alchemist-hp (pse-mendelejew.de) · CC BY-SA 3.0 de · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3ABromine%20vial%20in%20acrylic%20cube.jpg"
+apply_links:
+  - {title: "EuroShop 2023 PLEXIGLAS 매장 디자인", url: "https://www.roehm.com/zh/detail/plexiglas-r-at-euroshop-2023-sustainable-materials-and-inspiration-for-contemporary-shop-design", page_title: "PLEXIGLAS® at EuroShop 2023: Sustainable materials and inspiration for contemporary shop design - Röhm", desc: "Brand acrylic glass from Röhm inspires extraordinary shop design with light and color PLEXIGLAS® proTerra product line made from recycled acrylic glass saves resources Climate-neutral PLEXIGLAS® products reduce CO2 footp"}
+  - {title: "리테일 디자인 속 아크릴(Perspex) 활용", url: "https://www.simplyplastics.com/blog/how-is-perspex-used-in-retail-design", page_title: "404 - Simply Plastics"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

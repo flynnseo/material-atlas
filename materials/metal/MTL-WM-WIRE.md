@@ -23,6 +23,9 @@ sources: []
 image: "assets/img/MTL-WM-WIRE.jpg"
 image_credit: "Robinson Wire Cloth Ltd. · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3AWoven%20wire%20mesh.png"
+apply_links:
+  - {title: "Cambridge 직조 와이어 메쉬 파사드 커튼", url: "https://www.arcat.com/product/facades-195548", page_title: "Just a moment..."}
+  - {title: "Locker 스테인리스 직조 와이어 패브릭", url: "https://www.archiexpo.com/prod/locker-group/product-5732-1302955.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

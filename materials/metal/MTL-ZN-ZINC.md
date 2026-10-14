@@ -23,8 +23,8 @@ hands_on: false
 sources: []
 apply_links:
   - {title: "코펜하겐 샬롯하벤 타워 징크 카세트", url: "https://www.rheinzink.com/reference-projects/charlottehaven-the-tower-copenhagen/download/"}
-  - {title: "파르마 다비네스 빌리지 징크 파사드", url: "https://www.archiexpo.com/prod/zintek/product-60529-2107195.html"}
-  - {title: "비첸차 중앙 유가공장 징크 환기 파사드", url: "https://archiexpo.com/prod/zintek/product-60529-2349457.html"}
+  - {title: "파르마 다비네스 빌리지 징크 파사드", url: "https://www.archiexpo.com/prod/zintek/product-60529-2107195.html", page_title: "Just a moment..."}
+  - {title: "비첸차 중앙 유가공장 징크 환기 파사드", url: "https://archiexpo.com/prod/zintek/product-60529-2349457.html", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

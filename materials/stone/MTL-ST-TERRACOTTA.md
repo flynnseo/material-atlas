@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Terracotta
-image: "assets/img/MTL-ST-TERRACOTTA.jpg"
-image_credit: "anonymous · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Bust_of_the_Virgin_MET_DP124049_%28cropped%29.jpg"
+image: "https://blog.architizer.com/wp-content/uploads/2017/10/1487770048834R_Hjortshoj_-_Forfatterhuset_WEB-26-819x1024.jpg"
+image_credit: "적용 사례 사진 · architizer.com (원본 링크)"
+image_source: "https://architizer.com/blog/inspiration/collections/terracotta-louvers/"
+apply_links:
+  - {title: "노보텔 크라이스트처치 테라코타 파사드", url: "https://terreal.com/en/article/terracotta-architectural-facades", page_title: "Terracotta architectural façades | Terreal"}
+  - {title: "테라코타 루버 스크린 건물 5선", url: "https://architizer.com/blog/inspiration/collections/terracotta-louvers/", page_title: "Fired Up: 5 Textured Buildings With Terracotta Screens - Architizer Journal", desc: "These hollow extrusions are perfect for creating resilient rain screens and brise soleils.", img: "https://blog.architizer.com/wp-content/uploads/2017/10/1487770048834R_Hjortshoj_-_Forfatterhuset_WEB-26-819x1024.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

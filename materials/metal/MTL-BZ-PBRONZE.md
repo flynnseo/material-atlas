@@ -20,9 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-BZ-PBRONZE.jpg"
-image_credit: "Badagnani · CC BY 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3APhosphorbronzeguitarstring.jpg"
+image: "https://www.oag.uk.com/wp-content/uploads/2023/04/1-Knightsbridge-OAG-Architectural-Glass-Entrances-01.jpg"
+image_credit: "적용 사례 사진 · oag.uk.com (원본 링크)"
+image_source: "https://www.oag.uk.com/project/1-knightsbridge/"
+apply_links:
+  - {title: "런던 1 Knightsbridge 인청동 캐노피·문", url: "https://www.oag.uk.com/project/1-knightsbridge/", page_title: "1 Knightsbridge - OAG", desc: "Distinctive phosphor bronze canopy, brass windows and doors and internal glazing at Hyde Park Corner", img: "https://www.oag.uk.com/wp-content/uploads/2023/04/1-Knightsbridge-OAG-Architectural-Glass-Entrances-01.jpg"}
+  - {title: "Shaun Leane 청동 잎 파사드 Arbour", url: "https://shaunleane.com/pages/young-street", page_title: "Young Street", desc: "Shaun Leane launches major bronze artwork, Arbour, with the opening of the 21 Young Street building façade in Kensington. In recognition of the ground-breaking nature of the project, the metalwork will also be on permane"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

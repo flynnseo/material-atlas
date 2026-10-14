@@ -22,6 +22,8 @@ sources:
 image: "assets/img/MTL-ST-CALSILICATE.jpg"
 image_credit: "Achim Hering · CC BY 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3ACalcium%20silicate%20cladding%201of2.jpg"
+apply_links:
+  - {title: "프로맷 규산칼슘보드 내부 벽 마감", url: "https://www.promat.com/-/contenthub/en/product/pi11919/52525", page_title: "Masterclima", desc: "White calcium silicate insulation board, thermal conductivity: 0,053 W/mK, fiber reinforced, impervious to moisture."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

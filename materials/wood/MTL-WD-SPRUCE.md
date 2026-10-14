@@ -19,13 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Spruce
-apply_links:
-  - {title: "베드르지호프 모델하우스 스프루스 인테리어", url: "https://www.archiweb.cz/en/b/interier-vzoroveho-domu-v-bedrichove"}
-  - {title: "오스트리아 스프루스 하우스 내부 마감", url: "https://divisare.com/projects/443439-mwarchitekten-adolf-bereuter-house-made-of-spruce"}
-  - {title: "런던 스프루스 하우스 CLT 목조 주택", url: "https://www.dezeen.com/2023/05/15/ao-ft-timber-clad-spruce-house-london-terrace/amp/"}
 image: "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1623081767/o0lp2v2ujfg8hiyjfl29.jpg"
 image_credit: "적용 사례 사진 · divisare.com (원본 링크)"
 image_source: "https://divisare.com/projects/443439-mwarchitekten-adolf-bereuter-house-made-of-spruce"
+apply_links:
+  - {title: "베드르지호프 모델하우스 스프루스 인테리어", url: "https://www.archiweb.cz/en/b/interier-vzoroveho-domu-v-bedrichove", page_title: "Archiweb - Interior of the show house in Bedřichov", desc: "Sample House with a Pattern At the end of 2020, we were approached by our long-time client and developer with a project for the interior of a sample mountain house in Bedřichov. By that time, the houses were already unde"}
+  - {title: "오스트리아 스프루스 하우스 내부 마감", url: "https://divisare.com/projects/443439-mwarchitekten-adolf-bereuter-house-made-of-spruce", page_title: "MWArchitekten, Adolf Bereuter · House made of Spruce", desc: "The house made of spruce is a renovation with a partial replacement building. The original house was built in two stages. The basement was built before the Second World War. It was, in corresponding prosperity, designed ", img: "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1623081767/o0lp2v2ujfg8hiyjfl29.jpg"}
+  - {title: "런던 스프루스 하우스 CLT 목조 주택", url: "https://www.dezeen.com/2023/05/15/ao-ft-timber-clad-spruce-house-london-terrace/amp/", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

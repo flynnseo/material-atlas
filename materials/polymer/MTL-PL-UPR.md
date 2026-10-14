@@ -23,9 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyester_resin
-image: "assets/img/MTL-PL-UPR.jpg"
-image_credit: "DeStrickland · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AUnsaturated%20polyester.jpg"
+image: "https://eot-production.s3.eu-west-1.amazonaws.com/56c742f4372ccfd4382484615886b80f.jpg"
+image_credit: "적용 사례 사진 · eyesontalents.com (원본 링크)"
+image_source: "https://www.eyesontalents.com/fr/profiles/30659/projects/45556-sandorin-chair"
+apply_links:
+  - {title: "산도린 체어 파이버글라스·폴리에스터 의자", url: "https://www.eyesontalents.com/fr/profiles/30659/projects/45556-sandorin-chair", page_title: "Sandorin Chair – Jean-Paul Brković – Eyes on Talents", desc: "This is a chair that merges a perfectly artistic mindset with functionality. For me, the highest goal in design is to combine two sides of a spectrum and start a dialogue between the use and arts. It started all out as a", img: "https://eot-production.s3.eu-west-1.amazonaws.com/56c742f4372ccfd4382484615886b80f.jpg"}
+  - {title: "폴리에스터 레진 이임스풍 의자 제작기", url: "https://fabacademy.org/2014/students/garcia.daniel/pages/week11.html", page_title: "Daniel García"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

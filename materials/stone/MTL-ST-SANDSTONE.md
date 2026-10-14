@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sandstone
-image: "assets/img/MTL-ST-SANDSTONE.jpg"
-image_credit: "작자 미상 · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:USDA_Mineral_Sandstone_93c3955.jpg"
+image: "https://www.stylepark.com/assets/transformations/manufacturers/d/delightfull/produkte/a/acerbis/produkte/d/delightfull/produkte/h/hofmann-naturstein/produkte/ig-metall-frankfurt/_1410xAUTO_fit_center-center_90_none/ig-metall-frankfurt-1.jpg"
+image_credit: "적용 사례 사진 · stylepark.com (원본 링크)"
+image_source: "https://www.stylepark.com/en/hofmann-naturstein/ig-metall-frankfurt"
+apply_links:
+  - {title: "프랑크푸르트 IG메탈 붉은 사암 파사드", url: "https://www.stylepark.com/en/hofmann-naturstein/ig-metall-frankfurt", page_title: "IG Metall Frankfurt by Hofmann Naturstein | Stylepark", desc: "IG Metall Frankfurt - Designer Natural stone facades by Hofmann Naturstein ✓ Comprehensive product & design information ✓ Catalogs ➜ Get inspired now", img: "https://www.stylepark.com/assets/transformations/manufacturers/d/delightfull/produkte/a/acerbis/produkte/d/delightfull/produkte/h/hofmann-naturstein/produkte/ig-metall-frankfurt/_1410xAUTO_fit_center-center_90_none/ig-metall-frankfurt-1.jpg"}
+  - {title: "UNLV 그린스펀 홀 사암 캠퍼스", url: "https://www.stoneworld.com/articles/85667-sandstone-unifies-campus-design-at-unlv", page_title: "Just a moment..."}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

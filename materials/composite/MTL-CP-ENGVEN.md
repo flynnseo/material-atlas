@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Engineered_wood
-apply_links:
-  - {title: "Alpilignum 엔지니어드 베니어 컬렉션", url: "https://materialdistrict.com/material/alpilignum-design-collection/"}
-  - {title: "DIRTT 재구성 베니어 마감", url: "https://www.dirtt.com/finishes-and-materials/veneer/reconstituted"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2013/08/WOO227-1.jpg?v=20130829144129"
 image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/alpilignum-design-collection/"
+apply_links:
+  - {title: "Alpilignum 엔지니어드 베니어 컬렉션", url: "https://materialdistrict.com/material/alpilignum-design-collection/", page_title: "Alpilignum – Design Collection", desc: "coloured wood veneers", img: "https://media.materialdistrict.com/wp-content/uploads/2013/08/WOO227-1.jpg?v=20130829144129"}
+  - {title: "DIRTT 재구성 베니어 마감", url: "https://www.dirtt.com/finishes-and-materials/veneer/reconstituted", page_title: "DIRTT Environmental Solutions", desc: "DIRTT is more than modular walls. This personalized interior system uses virtual reality filled with data to build the perfect space. Yep. It's a big deal.", img: "https://www.dirtt.com/open-graph.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

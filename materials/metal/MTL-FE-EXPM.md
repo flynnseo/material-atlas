@@ -20,9 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-FE-EXPM.jpg"
-image_credit: "Ildar Sagdejev (Specious) · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3A2008-08-28%20Metal%20mesh.jpg"
+image: "https://amicoarchitectural.com/wp-content/uploads/2024/01/A-2175parkplace-phf07-bc-lrg1.jpg"
+image_credit: "적용 사례 사진 · amicoarchitectural.com (원본 링크)"
+image_source: "https://amicoarchitectural.com/projects/2175-park-place-expanded-mesh-facade/"
+apply_links:
+  - {title: "오타와 아트갤러리 익스팬디드 메탈 파사드", url: "https://www.archpaper.com/2018/06/the-ottawa-art-gallery-hovers-above-ground-in-an-expanded-metal-box/?amp=1", page_title: "One moment | The Architect’s Newspaper"}
+  - {title: "Expanded Metal Co 건축 외장 사례", url: "https://www.expandedmetalcompany.com/spotlights/index/view/id/18", page_title: "The Expanded Metal Company", desc: "The Expanded Metal Company is a leader and innovator in the development and manufacture of expanded metal mesh products, combining more than a century of industrial experience with cutting edge technical capabilities and"}
+  - {title: "AMICO 익스팬디드 메쉬 사무실 파사드", url: "https://amicoarchitectural.com/projects/2175-park-place-expanded-mesh-facade/", page_title: "2175 Expanded Mesh Facade", desc: "Explore AMICO's expanded mesh facade at 2175 Park Place. See how EYRC Architects transformed a warehouse into a modern office with architectural metal accents. Project details and product info.", img: "https://amicoarchitectural.com/wp-content/uploads/2024/01/A-2175parkplace-phf07-bc-lrg1.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

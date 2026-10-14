@@ -20,12 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-apply_links:
-  - {title: "건축 창호 필름 인쇄 적용 사례", url: "https://digitaloutput.net/fashionable-functional-windows"}
-  - {title: "휴스턴 JLL 본사 윈도 필름", url: "https://www.windowfilmdepot.com/blog/why-building-window-tinting-makes-sense-for-modern-properties/"}
 image: "https://www.windowfilmdepot.com/wp-content/uploads/2026/03/One-waty-Tint-3.jpg"
 image_credit: "적용 사례 사진 · windowfilmdepot.com (원본 링크)"
 image_source: "https://www.windowfilmdepot.com/blog/why-building-window-tinting-makes-sense-for-modern-properties/"
+apply_links:
+  - {title: "건축 창호 필름 인쇄 적용 사례", url: "https://digitaloutput.net/fashionable-functional-windows", page_title: "Fashionable, Functional Windows: Architectural Window Films | Digital Output Magazine", desc: "Windows are essential to a building’s architecture, providing ventilation and light. To help control these elements, films are utilized to perform a number of functions..."}
+  - {title: "휴스턴 JLL 본사 윈도 필름", url: "https://www.windowfilmdepot.com/blog/why-building-window-tinting-makes-sense-for-modern-properties/", page_title: "Why Building Window Tinting Makes Sense for Modern Properties | Window Film Depot", desc: "Want to cut cooling costs? Window tinting for your building can quickly boost comfort and energy efficiency.", img: "https://www.windowfilmdepot.com/wp-content/uploads/2026/03/One-waty-Tint-3.jpg"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의
