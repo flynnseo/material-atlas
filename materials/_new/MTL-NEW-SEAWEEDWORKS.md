@@ -1,0 +1,42 @@
+---
+id: MTL-NEW-SEAWEEDWORKS
+name_ko: 건조 해조류 텍스타일 SEAWEEDWORKS
+name_en: SEAWEEDWORKS dried seaweed textile
+aliases: [씨위드웍스, SEAWEEDWORKS, Seaweedworks, 건조 해조류, 해조류 텍스타일, Tanguy Mélinand, Drífa Líftóra, seaweed textile, 다시마 직물, 해초 패브릭, algae fashion]
+family: textile
+subfamily: seaweed
+form: [sheet]
+properties: {}
+look: [textured]
+processes: []
+uses: [object, installation]
+finishes: []
+cases: [CASE-SEAWEEDWORKS-REYKJAVIK-EDITION]
+novelty: emerging
+why_space: "해조류 직물로 만든 의류·오브제 전시."
+discovered_via: "https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/"
+confidence: C
+status: draft
+hands_on: false
+sources:
+  - https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/
+updated: 2026-10-14
+---
+## 한 줄 정의
+아이슬란드 해조류를 건조해 재단·봉제한 의류/텍스타일(SEAWEEDWORKS 프로젝트; Tanguy Mélinand, Drífa Líftóra).
+
+## 특성
+- Reykjavik EDITION 호텔 DesignMarch 2023 전시: 재킷·스커트·핸드백 등 (designboom)
+- 출처 1곳; 내구성·방수 등 물성 미확인
+
+## 가공·마감 메모
+-
+
+## 공간/오브제 사용 사례
+- Reykjavik EDITION 전시(2023) — 건조 해조류 텍스타일 (표 근거) — https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/
+
+## 업체·단가 메모
+-
+
+## 직접 해본 것
+-

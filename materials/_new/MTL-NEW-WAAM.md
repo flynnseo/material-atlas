@@ -1,0 +1,45 @@
+---
+id: MTL-NEW-WAAM
+name_ko: WAAM 금속 (MX3D)
+name_en: MX3D WAAM
+aliases: [MX3D, 엠엑스쓰리디, WAAM, 와암, 와이어 아크 적층, wire arc additive manufacturing, 금속 용접 적층, MX3D 다리, metal 3D printing arc, WAAM 금속, 에이엠엑스]
+family: metal
+subfamily: steel
+form: [profile]
+properties: {}
+look: [metallic, textured]
+processes: [3d-print, welding]
+uses: [object, installation, kinetic]
+finishes: []
+cases: []
+novelty: emerging
+maturity: commercial
+why_space: "용접 비드 결이 보이는 대형 금속 오브제(추정)"
+discovered_via: "https://mx3d.com"
+confidence: C
+status: draft
+hands_on: false
+sources:
+  - https://mx3d.com
+updated: 2026-10-14
+---
+## 한 줄 정의
+와이어를 아크로 녹여 쌓는 금속 적층 방식.
+
+## 특성
+- 제조사: MX3D(암스테르담, 2014~). 로봇 WAAM 시스템 판매 + 주문 출력(최대 20,000kg 부품, 제조사 주장). DNV AMC3 인증 시설 발표(2026-09-30, 제조사 뉴스). 다리 프로젝트는 이 페이지에 없음
+
+## 가공·마감 메모
+-
+
+## 공간/오브제 사용 사례
+-
+
+## 주의점
+- 가용성·단가·내구 수치는 미검증(추정) — verifier 확인 필요
+
+## 업체·단가 메모
+-
+
+## 직접 해본 것
+-

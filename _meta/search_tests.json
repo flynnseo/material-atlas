@@ -3100,5 +3100,675 @@
     "q": "쇄석",
     "expect": "MTL-ST-GRAVEL",
     "note": "파쇄석 줄임말"
+  },
+  {
+    "q": "모구",
+    "expect": "MTL-NEW-MOGU",
+    "note": "브랜드 음차 검색"
+  },
+  {
+    "q": "에코베이티브",
+    "expect": "MTL-NEW-ECOVATIVE",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "그로운바이오",
+    "expect": "MTL-NEW-GROWN",
+    "note": "음차"
+  },
+  {
+    "q": "데세르토",
+    "expect": "MTL-NEW-DESSERTO",
+    "note": "음차"
+  },
+  {
+    "q": "피냐텍스",
+    "expect": "MTL-NEW-PINATEX",
+    "note": "표기 변형"
+  },
+  {
+    "q": "베게아",
+    "expect": "MTL-NEW-VEGEA",
+    "note": "음차"
+  },
+  {
+    "q": "미룸",
+    "expect": "MTL-NEW-MIRUM",
+    "note": "음차/오타"
+  },
+  {
+    "q": "카페폼",
+    "expect": "MTL-NEW-KAFFEEFORM",
+    "note": "음차"
+  },
+  {
+    "q": "오탄",
+    "expect": "MTL-NEW-OTTAN",
+    "note": "음차"
+  },
+  {
+    "q": "포레소",
+    "expect": "MTL-NEW-FORESSO",
+    "note": "음차"
+  },
+  {
+    "q": "그린폭",
+    "expect": "MTL-NEW-GREENPOXY",
+    "note": "오타"
+  },
+  {
+    "q": "고바이오 에폭시",
+    "expect": "MTL-NEW-ECOPOXY",
+    "note": "음차"
+  },
+  {
+    "q": "슈퍼샙",
+    "expect": "MTL-NEW-SUPERSAP",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "아르보",
+    "expect": "MTL-NEW-ARBOFORM",
+    "note": "오타"
+  },
+  {
+    "q": "술라",
+    "expect": "MTL-NEW-SULAPAC",
+    "note": "오타"
+  },
+  {
+    "q": "바이오메이",
+    "expect": "MTL-NEW-BIOMASON",
+    "note": "오타"
+  },
+  {
+    "q": "프로제",
+    "expect": "MTL-NEW-PROZERO",
+    "note": "오타"
+  },
+  {
+    "q": "메이드오브에",
+    "expect": "MTL-NEW-BIOCHARBOARD",
+    "note": "오타"
+  },
+  {
+    "q": "Smile Plastics 재생 패널",
+    "expect": "MTL-NEW-SMILEPLASTICS",
+    "note": "오타/음차"
+  },
+  {
+    "q": "스마일파이버",
+    "expect": "MTL-NEW-SMILEFIBRES",
+    "note": "오타"
+  },
+  {
+    "q": "스마일미네랄",
+    "expect": "MTL-NEW-SMILEMINERALS",
+    "note": "오타"
+  },
+  {
+    "q": "플라스티시",
+    "expect": "MTL-NEW-PLASTICIET",
+    "note": "오타"
+  },
+  {
+    "q": "위즈앤",
+    "expect": "MTL-NEW-WEEZMERL",
+    "note": "오타"
+  },
+  {
+    "q": "프리티플라스",
+    "expect": "MTL-NEW-PRETTYPLASTIC",
+    "note": "오타"
+  },
+  {
+    "q": "듀라트",
+    "expect": "MTL-NEW-DURAT",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "마그나 유리",
+    "expect": "MTL-NEW-MAGNA",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "베트라",
+    "expect": "MTL-NEW-VETRAZZO",
+    "note": "오타"
+  },
+  {
+    "q": "바이오글라",
+    "expect": "MTL-NEW-BIOGLASS",
+    "note": "오타"
+  },
+  {
+    "q": "더굿플로",
+    "expect": "MTL-NEW-GOODFLOOR",
+    "note": "오타"
+  },
+  {
+    "q": "후겟 테라조",
+    "expect": "MTL-NEW-HUGUET",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "알루시",
+    "expect": "MTL-NEW-ALUSID",
+    "note": "오타"
+  },
+  {
+    "q": "프론트머티리얼",
+    "expect": "MTL-NEW-FRONT",
+    "note": "오타"
+  },
+  {
+    "q": "케노",
+    "expect": "MTL-NEW-KBRIQ",
+    "note": "오타"
+  },
+  {
+    "q": "크바드랏 리얼",
+    "expect": "MTL-NEW-KVADRATREALLY",
+    "note": "오타"
+  },
+  {
+    "q": "가르멘",
+    "expect": "MTL-NEW-GARMENTO",
+    "note": "오타"
+  },
+  {
+    "q": "데니몰라이",
+    "expect": "MTL-NEW-DENIMOLITE",
+    "note": "오타"
+  },
+  {
+    "q": "오이스터플",
+    "expect": "MTL-NEW-OESTERPLAT",
+    "note": "오타"
+  },
+  {
+    "q": "콤펜사티스",
+    "expect": "MTL-NEW-COMPENSATIE",
+    "note": "오타"
+  },
+  {
+    "q": "알루전",
+    "expect": "MTL-NEW-ALUSION",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "징크",
+    "expect": "MTL-NEW-ZINCFOAM",
+    "note": "오타"
+  },
+  {
+    "q": "메트포",
+    "expect": "MTL-NEW-METPORE",
+    "note": "오타"
+  },
+  {
+    "q": "석재 허니",
+    "expect": "MTL-NEW-STONEHONEY",
+    "note": "오타"
+  },
+  {
+    "q": "헥사",
+    "expect": "MTL-NEW-HEXABEN",
+    "note": "오타"
+  },
+  {
+    "q": "알루미늄 허니",
+    "expect": "MTL-NEW-ALHONEY",
+    "note": "오타"
+  },
+  {
+    "q": "에코벤",
+    "expect": "MTL-NEW-ECOBEN",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "에콘코",
+    "expect": "MTL-NEW-ECONCORE",
+    "note": "오타"
+  },
+  {
+    "q": "탄소섬유 튜",
+    "expect": "MTL-NEW-CFRPTUBE",
+    "note": "오타"
+  },
+  {
+    "q": "엘리트",
+    "expect": "MTL-NEW-ELYTRA",
+    "note": "오타"
+  },
+  {
+    "q": "현무암 섬",
+    "expect": "MTL-NEW-BASALTEX",
+    "note": "오타"
+  },
+  {
+    "q": "아이메",
+    "expect": "MTL-NEW-IMESH",
+    "note": "오타"
+  },
+  {
+    "q": "앰플리텍",
+    "expect": "MTL-NEW-AMPLITEX",
+    "note": "오타"
+  },
+  {
+    "q": "히엔",
+    "expect": "MTL-NEW-HIENDL",
+    "note": "오타"
+  },
+  {
+    "q": "헴프셰이",
+    "expect": "MTL-NEW-HEMPSHADE",
+    "note": "오타"
+  },
+  {
+    "q": "파라글라",
+    "expect": "MTL-NEW-PARAGLASS",
+    "note": "오타"
+  },
+  {
+    "q": "나노",
+    "expect": "MTL-NEW-NANOGEL",
+    "note": "오타"
+  },
+  {
+    "q": "에어로젤 블랭",
+    "expect": "MTL-NEW-ASPENAERO",
+    "note": "오타"
+  },
+  {
+    "q": "텐소",
+    "expect": "MTL-NEW-TENSOTHERM",
+    "note": "오타"
+  },
+  {
+    "q": "지텍",
+    "expect": "MTL-NEW-AEROCONC",
+    "note": "오타"
+  },
+  {
+    "q": "솔리디",
+    "expect": "MTL-NEW-CARBONTEX",
+    "note": "오타"
+  },
+  {
+    "q": "다이니",
+    "expect": "MTL-NEW-DYNEEMA",
+    "note": "오타"
+  },
+  {
+    "q": "카본셀",
+    "expect": "MTL-NEW-CARBONCELL",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "폼글라",
+    "expect": "MTL-NEW-FOAMGLAS",
+    "note": "오타"
+  },
+  {
+    "q": "뉴로",
+    "expect": "MTL-NEW-NEWRAW",
+    "note": "오타"
+  },
+  {
+    "q": "나가",
+    "expect": "MTL-NEW-NAGAMI",
+    "note": "오타"
+  },
+  {
+    "q": "포러스",
+    "expect": "MTL-NEW-FORUST",
+    "note": "오타"
+  },
+  {
+    "q": "와스",
+    "expect": "MTL-NEW-WASPCLAY",
+    "note": "오타"
+  },
+  {
+    "q": "올리비에 반 헤르프",
+    "expect": "MTL-NEW-VANHERPT",
+    "note": "오타"
+  },
+  {
+    "q": "세라클래",
+    "expect": "MTL-NEW-CERACLAD",
+    "note": "오타"
+  },
+  {
+    "q": "로봇 흙 벽",
+    "expect": "MTL-NEW-EARTHBRICK",
+    "note": "오타"
+  },
+  {
+    "q": "3D 프린팅 콘크리",
+    "expect": "MTL-NEW-3DPCONCRETE",
+    "note": "오타"
+  },
+  {
+    "q": "씨팹",
+    "expect": "MTL-NEW-CFAB",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "MX3",
+    "expect": "MTL-NEW-WAAM",
+    "note": "오타"
+  },
+  {
+    "q": "바인더",
+    "expect": "MTL-NEW-BINDERJET",
+    "note": "오타"
+  },
+  {
+    "q": "SLM 금속프린팅",
+    "expect": "MTL-NEW-SLM",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "디지털 그로테스",
+    "expect": "MTL-NEW-GROTESQUE",
+    "note": "오타"
+  },
+  {
+    "q": "스마트 슬래",
+    "expect": "MTL-NEW-SMARTSLAB",
+    "note": "오타"
+  },
+  {
+    "q": "디지털 메",
+    "expect": "MTL-NEW-DEEPFACADE",
+    "note": "오타"
+  },
+  {
+    "q": "폼워",
+    "expect": "MTL-NEW-FOAMWORK",
+    "note": "오타"
+  },
+  {
+    "q": "마키나랩",
+    "expect": "MTL-NEW-MACHINA",
+    "note": "오타"
+  },
+  {
+    "q": "PEO 피막",
+    "expect": "FIN-PEO",
+    "note": "질감 검색"
+  },
+  {
+    "q": "티타늄 아노다이징",
+    "expect": "FIN-TI-ANODIZE-IRIS",
+    "note": "오타"
+  },
+  {
+    "q": "컬러 스테인리스 INCO",
+    "expect": "FIN-SS-COLOR",
+    "note": "오타"
+  },
+  {
+    "q": "레이저 컬러",
+    "expect": "FIN-LASER-COLOR",
+    "note": "오타"
+  },
+  {
+    "q": "아우루비스",
+    "expect": "FIN-SUNPATINA-CU",
+    "note": "음차"
+  },
+  {
+    "q": "파티나",
+    "expect": "FIN-PATINA-CHEM",
+    "note": "오타"
+  },
+  {
+    "q": "템퍼 컬러",
+    "expect": "FIN-TEMPER-COLOR",
+    "note": "오타"
+  },
+  {
+    "q": "무전해 니켈",
+    "expect": "FIN-ENP",
+    "note": "오타"
+  },
+  {
+    "q": "디엘씨 코팅",
+    "expect": "FIN-DLC",
+    "note": "한글 표기"
+  },
+  {
+    "q": "솔겔 코팅",
+    "expect": "FIN-SOLGEL",
+    "note": "표기 변형"
+  },
+  {
+    "q": "콜드 스프레이",
+    "expect": "FIN-COLDSPRAY",
+    "note": "표기 변형"
+  },
+  {
+    "q": "리빙잉크",
+    "expect": "FIN-ALGAE-INK",
+    "note": "음차"
+  },
+  {
+    "q": "세이지글래스",
+    "expect": "MTL-NEW-EC-GLASS",
+    "note": "브랜드 한글 음차"
+  },
+  {
+    "q": "윈비저블 필름",
+    "expect": "MTL-NEW-EC-PRINT-FILM",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "스마트 필름 가우지",
+    "expect": "MTL-NEW-PDLC-FILM",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "에스피디 스마트글라스",
+    "expect": "MTL-NEW-SPD-GLASS",
+    "note": "약어 음차"
+  },
+  {
+    "q": "시온 안료",
+    "expect": "MTL-NEW-THERMOCHROMIC-PIGMENT",
+    "note": "한국 현장어"
+  },
+  {
+    "q": "브이오투 코팅",
+    "expect": "MTL-NEW-VO2-COATING",
+    "note": "약어 음차"
+  },
+  {
+    "q": "플렉시놀 와이어",
+    "expect": "MTL-NEW-FLEXINOL",
+    "note": "철자 오류"
+  },
+  {
+    "q": "형상 기억 합금판",
+    "expect": "MTL-NEW-SMA-PARTS",
+    "note": "띄어쓰기 변형"
+  },
+  {
+    "q": "형상기억 폴리머",
+    "expect": "MTL-NEW-SMP",
+    "note": "표기 변형"
+  },
+  {
+    "q": "슈퍼루미노바",
+    "expect": "MTL-NEW-SRAL-GLOW",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "페로 플루이드",
+    "expect": "MTL-NEW-FERROFLUID",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "하젤 액추에이터",
+    "expect": "MTL-NEW-HASEL",
+    "note": "음차"
+  },
+  {
+    "q": "루셈 콘크리트",
+    "expect": "MTL-NEW-LUCEM",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "리트라콘",
+    "expect": "MTL-NEW-LITRACON",
+    "note": "음차"
+  },
+  {
+    "q": "투명 우드",
+    "expect": "MTL-NEW-TRANSPARENT-WOOD",
+    "note": "외래어 혼용"
+  },
+  {
+    "q": "투명 엘이디 필름",
+    "expect": "MTL-NEW-TRANSPARENT-LED-FILM",
+    "note": "음차"
+  },
+  {
+    "q": "모포텍스",
+    "expect": "MTL-NEW-MORPHOTEX",
+    "note": "음차 오류"
+  },
+  {
+    "q": "로우락스 필름",
+    "expect": "MTL-NEW-ROWLUX",
+    "note": "음차 오류"
+  },
+  {
+    "q": "렌티큘라 시트",
+    "expect": "MTL-NEW-LENTICULAR-SHEET",
+    "note": "철자 변형"
+  },
+  {
+    "q": "쓰리엠 채광필름",
+    "expect": "MTL-NEW-DAYLIGHT-FILM",
+    "note": "음차"
+  },
+  {
+    "q": "래디언트 필름",
+    "expect": "MTL-NEW-RADIANT-LIGHT-FILM",
+    "note": "약칭"
+  },
+  {
+    "q": "루미넥스 원단",
+    "expect": "MTL-NEW-LUMINEX",
+    "note": "음차"
+  },
+  {
+    "q": "앰버로머",
+    "expect": "MTL-NEW-AMBEROMER",
+    "note": "음차"
+  },
+  {
+    "q": "마노하란 안료",
+    "expect": "MTL-NEW-PHOTONIC-PIGMENT-HARVARD",
+    "note": "인명 음차"
+  },
+  {
+    "q": "비뇰리니 안료",
+    "expect": "MTL-NEW-CAMBRIDGE-PIGMENT",
+    "note": "인명 음차"
+  },
+  {
+    "q": "에이아이 빌드",
+    "expect": "MTL-NEW-AIBUILD-PET",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "엑스터널 레퍼런스",
+    "expect": "MTL-NEW-CELLULOSE-PRINT",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "마이셀리움 플린스",
+    "expect": "MTL-NEW-MYCELIUM-PLINTH",
+    "note": "외래어"
+  },
+  {
+    "q": "콘스타치 폼",
+    "expect": "MTL-NEW-CORNSTARCH-FOAM-CEILING",
+    "note": "음차"
+  },
+  {
+    "q": "빅 뷰티 런던",
+    "expect": "MTL-NEW-MYCO-TEXTILE-PANEL",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "엠브이알디브이 유리핀",
+    "expect": "MTL-NEW-MVRDV-GLASS-FIN",
+    "note": "약어 음차"
+  },
+  {
+    "q": "불가리 상하이 유리",
+    "expect": "MTL-NEW-MVRDV-BOTTLE-GLASS",
+    "note": "브랜드 음차"
+  },
+  {
+    "q": "씨위드웍스",
+    "expect": "MTL-NEW-SEAWEEDWORKS",
+    "note": "음차"
+  },
+  {
+    "q": "제임스플럼 이솝",
+    "expect": "MTL-NEW-HEMP-CATTAIL",
+    "note": "음차"
+  },
+  {
+    "q": "에코알프 매장",
+    "expect": "CASE-ECOALF-LAS-ROZAS",
+    "note": "브랜드"
+  },
+  {
+    "q": "보틀탑 매장",
+    "expect": "CASE-BOTTLETOP-REGENT-ST",
+    "note": "음차"
+  },
+  {
+    "q": "라만소 바르셀로나",
+    "expect": "CASE-LA-MANSO-BARCELONA",
+    "note": "음차"
+  },
+  {
+    "q": "몽크 런던",
+    "expect": "CASE-MONC-LONDON",
+    "note": "음차"
+  },
+  {
+    "q": "빅뷰티 매장",
+    "expect": "CASE-BIG-BEAUTY-LONDON",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "티파니 베이징",
+    "expect": "CASE-TIFFANY-BEIJING",
+    "note": "음차"
+  },
+  {
+    "q": "불가리 상하이 파사드",
+    "expect": "CASE-BULGARI-SHANGHAI",
+    "note": "음차"
+  },
+  {
+    "q": "씨위드웍스 에디션",
+    "expect": "CASE-SEAWEEDWORKS-REYKJAVIK-EDITION",
+    "note": "음차"
+  },
+  {
+    "q": "이솝 케임브리지",
+    "expect": "CASE-AESOP-CAMBRIDGE",
+    "note": "음차"
   }
 ]

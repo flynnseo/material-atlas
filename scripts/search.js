@@ -189,6 +189,7 @@
       if (matched < tokens.length) score *= 0.6; // 소프트 AND
       if (d.status === 'deep') score *= 1.05;
       if (d.status === 'verified') score *= 1.02;
+      if (d.novelty === 'emerging') score *= 0.95; // 일반어 질의에선 표준 소재가 먼저, 신소재는 바로 아래
       if (score >= 0.22) hits.push({ id: d.id, score: score, why: why });
     });
     hits.sort(function (a, b) { return b.score - a.score; });

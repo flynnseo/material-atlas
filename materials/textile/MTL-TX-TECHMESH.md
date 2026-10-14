@@ -2,7 +2,7 @@
 id: MTL-TX-TECHMESH
 name_ko: 테크니컬 메쉬 원단
 name_en: Technical Mesh Fabric
-aliases: [메쉬, 메쉬 원단, 매쉬, mesh fabric, mesh, 에어메쉬, air mesh, 망사, 그물 원단, PVC 메쉬, 메쉬 천, 폴리 메쉬, 펜스 메쉬, 건축 메쉬, tech mesh, 사인용 메쉬]
+aliases: [메쉬, 메쉬 원단, 매쉬, mesh fabric, mesh, 에어메쉬, air mesh, 망사, 그물 원단, PVC 메쉬, 메쉬 천, 폴리 메쉬, 펜스 메쉬, 건축 메쉬, tech mesh, 사인용 메쉬, 메시 천]
 family: textile
 subfamily: mesh
 form: [sheet]
