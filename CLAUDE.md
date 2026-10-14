@@ -7,6 +7,8 @@
 - `materials/<family>/MTL-*.md` 소재 · `finishes/FIN-*.md` 마감 · `cases/CASE-*.md` 사례 · `lab/LAB-*.md` 직접 실험
 - `materials/_new/` 분류가 애매한 신소재 (`novelty: emerging`). 신소재는 `maturity`·`availability_kr`(확인된 것만, 모르면 비움)·`why_space`·`kinetic_fit`·`discovered_via` 를 채운다 → 화면 RADAR 탭
 - `_meta/schema.yaml` 필드 정의 · `_meta/vocab.yaml` 통제 태그+동의어 · `_meta/backlog.md` 조사 대기열 · `_meta/search_tests.json` 검색 회귀 테스트
+- `_inbox/` 태건이 아무렇게나 던지는 메모·사진 → `/ingest-memo` 가 카드의 `## 태건 메모` 에 원문 그대로 붙이고 `_inbox/done/` 으로 옮김
+- `.claude/agents/` material-scout(신소재 후보 정찰) · material-verifier(출처 재대조·등급 조정)
 - `_templates/` 카드 템플릿 · `scripts/build.py` 검사·빌드 · `scripts/search.js` 검색 엔진 · `scripts/atlas_template.html` 화면
 - `site/` 는 빌드 결과물(커밋 안 함). GitHub Actions가 push마다 빌드해서 Pages로 배포.
 
@@ -23,7 +25,7 @@
 9. 이미지·사진은 `assets/<카드id>-01.jpg` 식으로. 저작권 있는 이미지를 대량 복제하지 말고 출처 링크를 우선.
 
 ## 명령
-`/add-material` `/batch` `/case` `/audit` `/compare` `/search-tune` `/build`
+`/add-material` `/batch` `/case` `/audit` `/compare` `/search-tune` `/build` `/ingest-memo`
 
 ## 실행 환경
 Windows 데스크탑과 맥북 양쪽에서 같은 레포를 쓴다. 경로는 항상 `/` 와 상대경로, Python은 `python`(Windows) / `python3`(mac) 둘 다 동작하게.
