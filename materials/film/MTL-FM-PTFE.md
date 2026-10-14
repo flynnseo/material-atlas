@@ -21,6 +21,13 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polytetrafluoroethylene
   - https://en.wikipedia.org/wiki/Tensile_structure
+apply_links:
+  - {title: "플로리다 Doral Central Park PTFE 야외극장 지붕", url: "https://www.structuremag.org/news-post/ptfe-tensile-membrane-amphitheater-unveiled-at-doral-central-park-in-florida/"}
+  - {title: "Hightex 방콕 공항 등 막구조 프로젝트", url: "https://www.designbuild-network.com/contractors/building-products/hightex/"}
+  - {title: "브루나이 Jerudong Park PTFE 캐노피", url: "https://bdir.com/projects/ptfe-pvdf-membrane-gazeboos-canopies-for-jerudong-park-the-largest-amusement-park-in-brunei"}
+image: "https://www.worldconstructionnetwork.com/wp-content/uploads/sites/26/2017/10/1-soccer-city.jpg"
+image_credit: "적용 사례 사진 · designbuild-network.com (원본 링크)"
+image_source: "https://www.designbuild-network.com/contractors/building-products/hightex/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

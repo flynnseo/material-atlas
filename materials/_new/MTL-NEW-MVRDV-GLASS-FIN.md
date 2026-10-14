@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/mvrdv-tiffany-beijing-flagship-rippling-facade-translucent-glass-fins-01-13-2026/
-image: "https://www.designboom.com/twitterimages/uploads/2026/01/MVRDV-tiffany-beijing-china-facade-designboom-FB.jpg"
-image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
-image_source: "https://www.designboom.com/architecture/mvrdv-tiffany-beijing-flagship-rippling-facade-translucent-glass-fins-01-13-2026/"
+apply_links:
+  - {title: "MVRDV 베이징 티파니 유리 핀 파사드", url: "https://mvrdv.com/news/4829/mvrdv-designs-facade-of-glass-fins-with-fluid-curves-for-tiffany--co-flagship-store-in-beijing"}
+  - {title: "티파니 베이징 파사드 (ArchEyes)", url: "https://archeyes.com/mvrdv-designs-tiffany-co-flagship-facade-with-curved-glass-fins-in-beijing/"}
+  - {title: "티파니 베이징 유리 핀 (Mix Interiors)", url: "https://www.mixinteriors.com/project/mvrdv-creates-an-ethereal-glass-fin-facade-for-tiffany-beijing/"}
+image: "https://i0.wp.com/archeyes.com/wp-content/uploads/2026/01/04_MVRDV_Tiffany-Beijing_%E2%95%95Tiffany-Co.jpg?fit=2000%2C1500&ssl=1"
+image_credit: "적용 사례 사진 · archeyes.com (원본 링크)"
+image_source: "https://archeyes.com/mvrdv-designs-tiffany-co-flagship-facade-with-curved-glass-fins-in-beijing/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

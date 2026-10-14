@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.biomason.com
+apply_links:
+  - {title: "덴마크 Helix Lab 바이오시멘트 바닥 타일", url: "https://www.front-materials.com/projects/helix-lab-denmark/"}
+  - {title: "Biomason 고객 설치 사례 모음", url: "https://biomason.com/customer-installations"}
+image: "https://www.front-materials.com/app/uploads/2022/05/stonecycling-biomason-biobasedtiles-helix-house-denmark-1-1.jpg"
+image_credit: "적용 사례 사진 · front-materials.com (원본 링크)"
+image_source: "https://www.front-materials.com/projects/helix-lab-denmark/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

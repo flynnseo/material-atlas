@@ -21,6 +21,10 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "시게루 반, 트라이베카 주철 파사드 건물 개조", url: "https://www.dezeen.com/?p=1121787"}
+  - {title: "Magis BRUT 주철 가구 컬렉션", url: "https://ifdesign.com/en/winner-ranking/project/brut/255126"}
+  - {title: "주철 벽난로 스펙 가이드", url: "https://archipro.co.nz/article/the-specifiers-style-guide-to-cast-iron-fireplaces-sculpt-fireplace-collection"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

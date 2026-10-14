@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.plascore.com/
-image: "http://plascore.com/wp-content/uploads/2025/09/Aluminum-MIL-Honeycomb_0014_header-scaled.jpg"
-image_credit: "출처 페이지 대표 이미지 · plascore.com (원본 링크)"
-image_source: "https://www.plascore.com/"
+apply_links:
+  - {title: "알루미늄 허니콤 철도 객실 인테리어", url: "https://railway-news.com/aluminium-honeycomb-uses-in-train-interior-design/"}
+  - {title: "Encocam 허니콤 인테리어·가구 패널", url: "https://www.encocam.com/?p=55"}
+  - {title: "Aludecor 허니콤 건축 패널", url: "https://www.alcircle.com/news/aludecors-latest-aluminium-honeycomb-panels-usher-in-a-new-age-architectural-design-97581"}
+image: "https://railway-news.com/wp-content/uploads/2022/08/Corex-Honeycomb-InnoTrans-2022.jpeg"
+image_credit: "적용 사례 사진 · railway-news.com (원본 링크)"
+image_source: "https://railway-news.com/aluminium-honeycomb-uses-in-train-interior-design/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

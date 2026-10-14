@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/bio-glass/
-image: "https://media.materialdistrict.com/wp-content/uploads/2010/02/GLA168-1.jpg?v=20130830120313"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
-image_source: "https://materialdistrict.com/material/bio-glass/"
+apply_links:
+  - {title: "Bio-Glass 재활용 유리 벽·카운터 제품", url: "https://archello.com/product/bio-glass"}
+  - {title: "Coverings ETC Urban Fossil Glacier Shards 표면", url: "https://hospitalitydesign.com/?p=96534"}
+image: "https://archello.s3.eu-central-1.amazonaws.com/images/2015/12/08/BioGlass-Spa-bath.1506060877.4117.jpg"
+image_credit: "적용 사례 사진 · archello.com (원본 링크)"
+image_source: "https://archello.com/product/bio-glass"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

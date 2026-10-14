@@ -21,6 +21,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "초투명 리브드 유리 바 카운터 시공", url: "https://www.vsomglass.com/ultra-clear-reeded-glass-for-a-stunning-bar/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

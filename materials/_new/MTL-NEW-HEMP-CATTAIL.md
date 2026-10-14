@@ -20,6 +20,8 @@ status: draft
 hands_on: false
 sources:
   - https://designwanted.com/sustainable-retail-design-8-stores-give-glimpse-green-future/
+apply_links:
+  - {title: "케임브리지 Aesop 매장 골풀·대마 선반 (JamesPlumb)", url: "https://www.dezeen.com/?p=1878572"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

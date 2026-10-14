@@ -25,6 +25,8 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/5052_aluminium_alloy
   - https://www.hobartbrothers.com/resources/technical-guides/aluminum-welding-guide/base-metal-heat-treatable-and-non-heat-treatable-alloys/
+apply_links:
+  - {title: "타공 알루미늄 파사드·사인 사례", url: "https://www.hendrickcorp.com/node/2976/"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

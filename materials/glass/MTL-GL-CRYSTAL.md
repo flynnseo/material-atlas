@@ -20,6 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "스와로브스키 트렌드 어플리케이션 센터", url: "https://archello.com/project/swarovski-trend-application-centre"}
+  - {title: "스와로브스키 신규 매장 쇼케이스", url: "https://www.degreefurniture.com/swarovski-cooperate-with-dg-display-showcase-to-develop-their-new-store-image.html"}
+image: "https://archello.s3.eu-central-1.amazonaws.com/images/2011/06/20/6-745.1506065338.4007.jpg"
+image_credit: "적용 사례 사진 · archello.com (원본 링크)"
+image_source: "https://archello.com/project/swarovski-trend-application-centre"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

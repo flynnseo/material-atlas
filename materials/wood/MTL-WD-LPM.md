@@ -19,6 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Melamine
+apply_links:
+  - {title: "HPL vs LPM 인테리어 적용 가이드", url: "https://hvgbuilding.com.au/understanding-hpl-vs-lpm-in-interior-design"}
+  - {title: "Wilsonart LPM 멜라민 보드 제품", url: "https://mainstage.architectureanddesign.com.au/product/wilsonart-lpm"}
+image: "https://hvgbuilding.com.au/wp-content/uploads/2024/03/flagstaffhill_by_livingchoice_wilsonart_blackhewn-13-1024x683.jpg"
+image_credit: "적용 사례 사진 · hvgbuilding.com.au (원본 링크)"
+image_source: "https://hvgbuilding.com.au/understanding-hpl-vs-lpm-in-interior-design"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.madeofair.com
-image: "http://static1.squarespace.com/static/61488a227e99c5752872f551/t/69383bb53df7ad1e137cb41a/1634211037972/Made-of-air_social_sharing.png?format=1500w"
-image_credit: "출처 페이지 대표 이미지 · madeofair.com (원본 링크)"
-image_source: "https://www.madeofair.com"
+apply_links:
+  - {title: "HexAudi 아우디 딜러십 탄소음성 파사드", url: "https://urbannext.net/the-hexaudi-project/"}
+  - {title: "Audi 딜러십 지속가능 파사드 (LAUFS)", url: "https://laufsed.com/audi-ags-sustainable-concept-dealership-facade/"}
+  - {title: "탄소음성 파사드 패널 (Architect)", url: "https://www.architectmagazine.com/technology/this-week-in-tech-a-carbon-negative-facade-panel-that-absorbs-co2_o"}
+image: "https://laufsed.com/wp-content/uploads/2021/04/audiAG-03.png"
+image_credit: "적용 사례 사진 · laufsed.com (원본 링크)"
+image_source: "https://laufsed.com/audi-ags-sustainable-concept-dealership-facade/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

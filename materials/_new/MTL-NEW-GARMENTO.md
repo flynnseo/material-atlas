@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/garmento-boards/
-image: "https://media.materialdistrict.com/wp-content/uploads/2010/03/ONA215-1.jpg?v=20130830125037"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
-image_source: "https://materialdistrict.com/material/garmento-boards/"
+apply_links:
+  - {title: "Jeans Loop 재활용 데님 보드 매장 (Dezeen)", url: "https://www.dezeen.com/?p=2244669"}
+  - {title: "TorZo 데님 패널", url: "https://www.woodworkersjournal.com/denim-panels-torzo-surfaces/"}
+image: "https://www.woodworkersjournal.com/wp-content/uploads/367WSDenimPanel.jpg"
+image_credit: "적용 사례 사진 · woodworkersjournal.com (원본 링크)"
+image_source: "https://www.woodworkersjournal.com/denim-panels-torzo-surfaces/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

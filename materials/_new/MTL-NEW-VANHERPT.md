@@ -20,6 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://oliviervanherpt.com
+apply_links:
+  - {title: "두바이 디자인위크 3D 프린팅 도자 전시", url: "https://www.designboom.com/design/studio-mieke-meijer-olivier-van-herpt-dubai-design-week-10-12-2017/"}
+  - {title: "COS 협업 3D 프린팅 점토 화병", url: "https://www.dezeen.com/?p=1080869"}
+image: "https://www.designboom.com/twitterimages/uploads/2017/10/studio-mieke-meijer-olivier-van-herpt-dubai-design-week-2017-designboom01.jpg"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/design/studio-mieke-meijer-olivier-van-herpt-dubai-design-week-10-12-2017/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

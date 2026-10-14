@@ -19,6 +19,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "티그마우스 Making Waves 거리 조명 설치", url: "https://publicartonline.org.uk/casestudies/lighting/making_waves/techrelease.php.html"}
+  - {title: "사이드글로우 광섬유 제품 페이지", url: "https://evandesigns.com/products/side-glow-fiber-optics"}
+image: "http://evandesigns.com/cdn/shop/products/sideglowfiberopticsquare.jpg?v=1670449846"
+image_credit: "적용 사례 사진 · evandesigns.com (원본 링크)"
+image_source: "https://evandesigns.com/products/side-glow-fiber-optics"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,6 +23,9 @@ sources:
 image: "https://media.materialdistrict.com/wp-content/uploads/2010/06/PLA534-1.jpg?v=20130830113736"
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/econcore-honeycomb/"
+apply_links:
+  - {title: "항공기 내장 모듈 EconCore x Diehl", url: "https://www.airframer.com/news/release/38788"}
+  - {title: "자동차 내장 허니콤 패널 (CompositesWorld)", url: "https://compositesworld.com/products/jec-world-2020-preview-econcore"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

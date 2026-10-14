@@ -20,8 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/ultra-lightweight-concrete/
+apply_links:
+  - {title: "초경량 콘크리트 소재 제품 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ultra-lightweight-concrete/"}
+  - {title: "에어로젤 경량콘크리트 벽·천장·파사드 요소 연구", url: "https://tu-dresden.de/bu/der-bereich/news/forschungsprojekt-aerogel-leichtbeton-elemente"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2014/10/G.tecz-Lightweight-Concrete-CON111-13.jpg?v=20161013084008"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/ultra-lightweight-concrete/"
 updated: 2026-10-14
 ---

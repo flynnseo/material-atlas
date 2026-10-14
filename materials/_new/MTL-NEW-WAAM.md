@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://mx3d.com
+apply_links:
+  - {title: "Schindler 3D 프린팅 엘리베이터 카", url: "https://group.schindler.com/en/media/stories/when-engineering-meets-arts.html"}
+  - {title: "Nike 본사 MX3D Oregon Dragon 벤치", url: "https://www.3dnatives.com/en/oregon-dragon-bench-3d-printed-bench-120420224/"}
+image: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2022/04/bench_cover.jpg"
+image_credit: "적용 사례 사진 · 3dnatives.com (원본 링크)"
+image_source: "https://www.3dnatives.com/en/oregon-dragon-bench-3d-printed-bench-120420224/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

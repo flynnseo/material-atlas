@@ -20,8 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/
+apply_links:
+  - {title: "레이캬비크 에디션 호텔 해조류 전시 (Designboom)", url: "https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/"}
+  - {title: "SEAWEEDWORKS 해조류 패션 (Disegno)", url: "https://disegnojournal.com/newsfeed/seaweedworks-seaweed-fashion-designmarch"}
 image: "https://www.designboom.com/twitterimages/uploads/2023/05/seaweedworks-tanguy-melinand-the-reykjavik-EDITION-designboom-fb.jpg"
-image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
 image_source: "https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/"
 updated: 2026-10-14
 ---

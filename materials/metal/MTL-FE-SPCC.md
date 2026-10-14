@@ -21,6 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "스토어 집기용 냉연강판 적용 예", url: "https://metalmaster2.lovable.app/industries/store-fixtures"}
+  - {title: "냉연강판 가구 구조 적용 (Tata Steel)", url: "https://digeca.tatasteel.com/blogs/cold-rolled-steel-for-furniture-structures"}
+image: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/88f889af-6f27-43f4-9071-0dbe4429fa8d/id-preview-40e8a14e--2a412018-4b38-42e8-b7e2-7502f3b5064a.lovable.app-1781189957659.png"
+image_credit: "적용 사례 사진 · metalmaster2.lovable.app (원본 링크)"
+image_source: "https://metalmaster2.lovable.app/industries/store-fixtures"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

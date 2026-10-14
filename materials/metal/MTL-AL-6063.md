@@ -21,6 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "Hydro 6063 압출 프로파일 적용 소개", url: "https://integration.hydro.com/en/global/aluminium/products/extruded-profiles/alloys-for-extruded-profiles/6063-alloy/"}
+  - {title: "6063 알루미늄 압출 프로파일 제품", url: "https://www.profall.com/en/6063-aluminum-extrusion"}
+image: "https://integration.hydro.com/contentassets/4ac44ec9fdf148658222e9a647aee839/_dsc9172.jpg"
+image_credit: "적용 사례 사진 · integration.hydro.com (원본 링크)"
+image_source: "https://integration.hydro.com/en/global/aluminium/products/extruded-profiles/alloys-for-extruded-profiles/6063-alloy/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

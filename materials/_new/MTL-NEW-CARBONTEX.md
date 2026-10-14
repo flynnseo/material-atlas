@@ -21,6 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.solidian-kelteks.com/
+apply_links:
+  - {title: "Schiefer Erlebnis 공원 텍스타일 콘크리트 패널", url: "https://bft-international.com/en/artikel/bft_The_Schiefer_Erlebnis_park_features_textile-reinforced_concrete-2250139.html"}
+image: "https://www.bft-international.com/imgs/79740373_f7b7b7903a.jpg"
+image_credit: "적용 사례 사진 · bft-international.com (원본 링크)"
+image_source: "https://bft-international.com/en/artikel/bft_The_Schiefer_Erlebnis_park_features_textile-reinforced_concrete-2250139.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

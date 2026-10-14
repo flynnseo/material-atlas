@@ -22,9 +22,11 @@ hands_on: false
 sources:
   - https://www.osti.gov/biblio/1046707
   - https://en.wikipedia.org/wiki/Electrochromism
-image: "assets/img/MTL-NEW-EC-PRINT-FILM.jpg"
-image_credit: "Smokefoot · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:MVredox.png"
+apply_links:
+  - {title: "DecoChrom 인쇄 전기변색 건축·인테리어 프로토타입", url: "https://cordis.europa.eu/article/id/442484-bringing-life-to-printed-objects"}
+image: "https://cordis.europa.eu/docs/results/images/2022-11/442484.jpg"
+image_credit: "적용 사례 사진 · cordis.europa.eu (원본 링크)"
+image_source: "https://cordis.europa.eu/article/id/442484-bringing-life-to-printed-objects"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

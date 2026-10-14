@@ -20,6 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Acoustic_foam
+apply_links:
+  - {title: "PET 펠트 천장 시스템 GRAFFLE", url: "https://www.archdaily.com/catalog/us/products/35559/pet-felt-ceiling-system-graffle-material-logiq"}
+  - {title: "PET 펠트 음각 흡음 패널 VEE", url: "https://www.archdaily.com/catalog/us/products/37743/pet-felt-engraved-acoustic-panel-vee-material-logiq"}
+image: "https://neufert-cdn.archdaily.net/uploads/photo/image/364755/cropped_large_PET-Felt-Ceiling-System-Graffle-Material-LOGIQ-1.jpg?v=1748295709"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/catalog/us/products/35559/pet-felt-ceiling-system-graffle-material-logiq"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

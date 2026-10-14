@@ -21,6 +21,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "히로시마 Optical Glass House 유리블록 벽", url: "https://5osa.com/301199"}
+image: "https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FuXql1%2FbtsKMNOH93y%2FAAAAAAAAAAAAAAAAAAAAABBO4lD2AnqX66AncyQ4U6nlELtFKu1P0FuMn9pI1_tt%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1793458799%26allow_ip%3D%26allow_referer%3D%26signature%3DWej3%252FbjaqY7%252BUkm0bOs0NG%252BadfA%253D"
+image_credit: "적용 사례 사진 · 5osa.com (원본 링크)"
+image_source: "https://5osa.com/301199"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

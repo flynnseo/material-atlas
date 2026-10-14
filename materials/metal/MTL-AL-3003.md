@@ -20,6 +20,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "3003 알루미늄 파사드 카세트 프로젝트", url: "https://www.aluminas.ru/en/projects/alyuminievye_fasadnye_kassety/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

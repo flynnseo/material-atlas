@@ -21,6 +21,8 @@ status: draft
 hands_on: false
 sources:
   - https://www.orafol.com/Products/Technische%20Datenbl%C3%A4tter/RowLux/EN/rowlux-seaglass-pattern-a-rowlux-illusion-film---pc10-id11392-technical-data-sheet-europe-en.pdf
+apply_links:
+  - {title: "호주 Euston Club 리조트 카페 조명 튜브", url: "https://architectureanddesign.com.au/suppliers/allplastics-engineering/allplastics-rowlux-illusion-film-used-to-create-st"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

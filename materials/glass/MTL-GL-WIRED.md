@@ -20,6 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "뉴욕 본드스트리트 로프트 망입유리 파티션", url: "https://bendheim.com/?p=95032"}
+  - {title: "스카이라크 라운지 망입유리 벽·파티션", url: "https://bendheim.com/?p=3386"}
+  - {title: "포틀랜드 주택 와이어드 글라스 어닝", url: "https://studio.bullseyeglass.com/projects/chevron-wired-panels-condor-awning/"}
+image: "https://bendheim.com/wp-content/uploads/2021/12/bond-st-bendheim-textured-glass-bathroom-doors.jpg"
+image_credit: "적용 사례 사진 · bendheim.com (원본 링크)"
+image_source: "https://bendheim.com/?p=95032"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

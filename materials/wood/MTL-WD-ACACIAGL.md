@@ -19,6 +19,8 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Acacia
+apply_links:
+  - {title: "아카시아 집성 카운터·계단재 제품", url: "https://www.ipros.com/en/cg2/Acacia Laminated Wood/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,8 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/hiendl-nfc/
+apply_links:
+  - {title: "Hiendl NFC 소재 페이지", url: "https://materialdistrict.com/material/hiendl-nfc/"}
+  - {title: "Hiendl MP 마운팅 프로파일 디자인 어워드", url: "https://renewable-carbon.eu/news/?p=15237"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2011/11/PLA652-1.jpg?v=20130830114923"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/hiendl-nfc/"
 updated: 2026-10-14
 ---

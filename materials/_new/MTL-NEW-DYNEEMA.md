@@ -23,6 +23,9 @@ hands_on: false
 sources:
   - https://www.dyneema.com/
   - https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene
+apply_links:
+  - {title: "국립건축박물관 Dyneema 설치 The Wave", url: "https://www.dyneema.com/latest-news/floating-structure-of-strength-and-lightness-debuts-at-the-national-building-museum"}
+  - {title: "Avient 대형 건축 설치 Dyneema 섬유", url: "https://www.specialchem.com/polymer-additives/news/avient-showcases-ultra-high-strength-fibers-in-large-scale-architectural-installation"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

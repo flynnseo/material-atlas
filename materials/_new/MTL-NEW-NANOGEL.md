@@ -23,6 +23,10 @@ sources:
 image: "https://media.materialdistrict.com/wp-content/uploads/2004/12/GLA046-1.jpg?v=20130830125750"
 image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/nanogel-translucent-aerogel-2/"
+apply_links:
+  - {title: "Kalwall 나노겔 채광 스카이라이트·벽 패널", url: "https://cabotog.gcs-web.com/node/8236"}
+  - {title: "독일 에너지효율센터 에어로젤 채광 패널", url: "https://cabotog.gcs-web.com/node/9861"}
+  - {title: "Nanogel 지붕 적용 (The Engineer)", url: "https://theengineer.co.uk/content/news/nanogel-roofs"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.casestudies.com/company/ai-build/case-study/bottletop-customer-case-study
+apply_links:
+  - {title: "런던 Bottletop 플래그십 3D프린트 인테리어", url: "https://www.casestudies.com/company/ai-build/case-study/bottletop-customer-case-study"}
+  - {title: "런던 최초 3D프린트 매장 Bottletop", url: "https://www.fabbaloo.com/blog/2017/12/11/design-of-the-week-3d-printed-store"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

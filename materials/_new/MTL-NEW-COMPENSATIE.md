@@ -20,8 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/compensatiesteen/
+apply_links:
+  - {title: "Compensatiesteen 제품 페이지", url: "https://materialdistrict.com/material/compensatiesteen/"}
+  - {title: "압축 준설토 파사드 블록 (EGM)", url: "https://egm.nl/en/expertise/innovations/facade-blocks-made-of-compressed-dredging-sludge/9"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2017/06/ruwbouw-groep-compensatiesteen-con145-3.jpg?v=20170609084544"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/compensatiesteen/"
 updated: 2026-10-14
 ---

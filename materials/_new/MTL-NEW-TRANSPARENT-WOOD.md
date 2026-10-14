@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Transparent_wood_composite
-image: "assets/img/MTL-NEW-TRANSPARENT-WOOD.jpg"
-image_credit: "Digital Naturalism Laboratories · CC BY 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Example_of_Transparent_Wood_and_Light_diffusion.webm"
+apply_links:
+  - {title: "투명 목재 창호 대체 가능성 (Architizer)", url: "https://architizer.com/blog/practice/materials/material-lab-windows-clear-wood/"}
+  - {title: "투명 목재 건축 (CNN Style)", url: "https://edition.cnn.com/style/article/clear-wood-architecture"}
+image: "https://images.architizer.com/media/mediadata/uploads/15023112132071502290442084160523141457-clear-wood-tease-super-169.jpg?width=1140&quality=60&height=569"
+image_credit: "적용 사례 사진 · architizer.com (원본 링크)"
+image_source: "https://architizer.com/blog/practice/materials/material-lab-windows-clear-wood/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

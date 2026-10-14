@@ -19,6 +19,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "엔드글로우 광섬유 제품 페이지", url: "https://wiedamark.com/pcat/fiberopticlighting/fiberopticcable/fiberopticendglow"}
+  - {title: "실내 광섬유 조명 별천장 시공 가이드", url: "https://engineerfix.com/how-to-install-interior-fiber-optic-lighting/"}
+image: "https://www.wiedamark.com/wp-content/uploads/2024/11/3-1.png"
+image_credit: "적용 사례 사진 · wiedamark.com (원본 링크)"
+image_source: "https://wiedamark.com/pcat/fiberopticlighting/fiberopticcable/fiberopticendglow"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

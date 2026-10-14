@@ -18,6 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "베이징 China View 전시공간 Luminex (Boeri)", url: "https://www.stefanoboeriarchitetti.net/en/project/china-view/"}
+  - {title: "Rockwell Group 광섬유 직물 설치", url: "https://metropolismag.com/programs/let-it-glow/"}
+image: "https://www.stefanoboeriarchitetti.net/wp-content/uploads/2018/02/4DEF.jpg"
+image_credit: "적용 사례 사진 · stefanoboeriarchitetti.net (원본 링크)"
+image_source: "https://www.stefanoboeriarchitetti.net/en/project/china-view/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

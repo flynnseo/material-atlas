@@ -18,6 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "암막 롤러블라인드 시공 프로젝트", url: "https://www.houzz.com/hznb/projects/blackout-roller-blinds-pj-vj~7319275"}
+  - {title: "암막 블라인드 인테리어 활용 10가지", url: "https://www.homeanddecor.com.sg/renovation/stylish-blackout-blinds-10-ways-to-make-your-interiors-look-more-interesting-with-blackout-blinds"}
+image: "https://st.hzcdn.com/fimgs/f7916b50054a9a09_8666-w1200-h627-b0-p0--.jpg"
+image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
+image_source: "https://www.houzz.com/hznb/projects/blackout-roller-blinds-pj-vj~7319275"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

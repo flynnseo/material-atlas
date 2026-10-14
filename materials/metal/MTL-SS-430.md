@@ -21,6 +21,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "스테인리스 430 패널 LA 사무실 칸막이", url: "https://ch-herrero.com/press/the-architects-newspaper-07-2023"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

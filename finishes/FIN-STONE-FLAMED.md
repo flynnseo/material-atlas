@@ -10,6 +10,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "세키가하라 스톤 오사카 쇼룸 석재 벽면", url: "https://haveagood-holiday.com/ko/articles/sekigahara-stone-osaka-showroom-opening"}
+image: "https://assets.hldycdn.com/60f22744-3469-4c64-9d71-a8cf2ab77a70.jpeg"
+image_credit: "적용 사례 사진 · haveagood-holiday.com (원본 링크)"
+image_source: "https://haveagood-holiday.com/ko/articles/sekigahara-stone-osaka-showroom-opening"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

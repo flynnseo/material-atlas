@@ -21,6 +21,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "Vanceva 컬러 PVB 적용 프로젝트 (ArchDaily)", url: "https://www.archdaily.com/catalog/en/companies/4018/vanceva"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

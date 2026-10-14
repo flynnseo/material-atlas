@@ -22,6 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polystyrene
+apply_links:
+  - {title: "HIPS 시트 POP·리테일 디스플레이 용도", url: "https://transcendia.com/node/2299"}
+  - {title: "HIPS 소재 활용 제품 7가지", url: "https://europlas.com.vn/en-US/blog-1/seven-important-items-made-from-hips-plastic-material"}
+image: "https://europlas.com.vn/Data/Sites/1/News/5911/4.jpg"
+image_credit: "적용 사례 사진 · europlas.com.vn (원본 링크)"
+image_source: "https://europlas.com.vn/en-US/blog-1/seven-important-items-made-from-hips-plastic-material"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

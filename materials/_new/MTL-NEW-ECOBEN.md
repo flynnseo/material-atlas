@@ -20,8 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/ecoben/
+apply_links:
+  - {title: "Ecoben 소재 페이지 (MaterialDistrict)", url: "https://materialdistrict.com/material/ecoben/"}
+  - {title: "Bencore 프로젝트 (Archiexpo)", url: "https://trends.archiexpo.com/bencore/project-50184-213744.html"}
+  - {title: "Bencore 패널 인테리어 (Interni)", url: "https://www.internimagazine.com/features/stories/bencore/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2011/12/PLA659-1.jpg?v=20130830124950"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/ecoben/"
 updated: 2026-10-14
 ---

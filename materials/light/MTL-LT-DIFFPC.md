@@ -18,6 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "실내 폴리카보네이트 반투명 건축 8선", url: "https://www.archdaily.com/948075"}
+  - {title: "Brett Martin 폴리카보네이트 프로젝트", url: "https://trends.archiexpo.com/brett-martin-ltd/project-71898-226913.html"}
+image: "https://images.adsttc.com/media/images/5f67/b34c/63c0/17fe/ca00/0001/large_jpg/jonathan_leijonhufvud_3.jpg?1600631623"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/948075"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

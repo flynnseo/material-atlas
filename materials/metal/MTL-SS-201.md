@@ -20,6 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "인테리어 속 스테인리스 스틸 적용 사례", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"}
+  - {title: "스테인리스 201 난간 파이프 제품", url: "https://www.pipingmart.com/product/stainless-steel-201-railing-pipes"}
+image: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

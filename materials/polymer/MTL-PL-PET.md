@@ -27,6 +27,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
+apply_links:
+  - {title: "Dezeen 플라스틱 건축·인테리어 가이드(재활용 PET)", url: "https://www.dezeen.com/2021/09/22/dezeen-guide-plastic-architecture-design-interiors/amp/"}
+  - {title: "한솔 PET 인테리어 필름 개발", url: "https://biz.heraldcorp.com/article/10791014"}
+  - {title: "PET 섬유 러그·쿠션 소재", url: "https://kavehome.com/gb/en/magazine/what-pet-and-why-do-we-love-it-so-much"}
+image: "https://wimg.heraldcorp.com/news/cms/2026/06/29/news-p.v1.20260629.be60b165bdae409d97432598ec90f2b0_P1.png"
+image_credit: "적용 사례 사진 · biz.heraldcorp.com (원본 링크)"
+image_source: "https://biz.heraldcorp.com/article/10791014"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

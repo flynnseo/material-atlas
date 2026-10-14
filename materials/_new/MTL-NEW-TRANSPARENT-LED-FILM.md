@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.lgcommercialdisplay.com/product/led-signage/indoor-led/transparent-film/LTAK140-GU
+apply_links:
+  - {title: "KappAhl 플래그십 매장 쇼윈도 LED 필름", url: "https://www.sixteen-nine.net/?p=19864"}
+  - {title: "멜버른 Chadstone 쇼핑몰 유리 엘리베이터 LED 필름", url: "https://wideformatimage.com.au/?p=28176"}
+image: "https://invidis.com/wp-content/uploads/sixteen-nine/2021/08/kappahl-led-film.jpg"
+image_credit: "적용 사례 사진 · sixteen-nine.net (원본 링크)"
+image_source: "https://www.sixteen-nine.net/?p=19864"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

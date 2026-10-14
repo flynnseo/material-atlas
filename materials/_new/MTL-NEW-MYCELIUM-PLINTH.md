@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://thespaces.com/londons-monc-champions-sustainable-design-with-its-mountain-inspired-interiors/
-image: "https://cdn.thespaces.com/wp-content/uploads/2022/05/Monc_store-interior_LR-01-hero.jpg"
-image_credit: "출처 페이지 대표 이미지 · thespaces.com (원본 링크)"
-image_source: "https://thespaces.com/londons-monc-champions-sustainable-design-with-its-mountain-inspired-interiors/"
+apply_links:
+  - {title: "Big Beauty 하크니 매장 균사체 기둥 (Dezeen)", url: "https://www.dezeen.com/?p=1939279"}
+  - {title: "Big. store 균사체 작품 (Material Source)", url: "https://www.materialsource.co.uk/9-georgie-gerrard-mycelium-pieces-for-big-store-by-ninaco"}
+image: "https://www.materialsource.co.uk/uploads/articles/17/17797889d5630d90342f664e1ac548643d0bf34b_800.jpg"
+image_credit: "적용 사례 사진 · materialsource.co.uk (원본 링크)"
+image_source: "https://www.materialsource.co.uk/9-georgie-gerrard-mycelium-pieces-for-big-store-by-ninaco"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

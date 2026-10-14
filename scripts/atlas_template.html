@@ -271,6 +271,7 @@ function show(id){
       (d.hands_on?'<span class="b hand">직접 해봄</span>':'')+(d.sample?'<span class="b">예시카드</span>':'')+(d.novelty==='emerging'?'<span class="b hand">신소재</span>':'')+'</div>'+
     (d.image?'<figure class="hero"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(d.image)+'" alt="'+esc(d.name_ko)+'" onerror="this.parentNode.remove()"><figcaption class="cr">'+esc(d.image_credit)+(d.image_source?' · <a href="'+esc(d.image_source)+'" target="_blank" rel="noopener">원본</a>':'')+'</figcaption></figure>':'')+
     (d.why_space?'<div class="why-space">'+esc(d.why_space)+'</div>':'')+
+    ((d.apply_links||[]).length?'<div class="conn"><div><h4>실제 적용 사례</h4>'+d.apply_links.map(function(x){return '<a class="lk" href="'+esc(x.url)+'" target="_blank" rel="noopener">↗ '+esc(x.title||x.url.replace(/^https?:\/\//,'').slice(0,40))+'</a>'}).join('')+'</div></div>':'')+
     (kv?'<dl class="kv">'+kv+'</dl>':'')+
     (tags?'<div class="tagrow">'+tags+'</div>':'')+
     (conn?'<div class="conn">'+conn+'</div>':'')+

@@ -20,8 +20,11 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/oesterplat/
+apply_links:
+  - {title: "Oesterplat 굴껍데기 타일 소재 페이지", url: "https://materialdistrict.com/material/oesterplat/"}
+  - {title: "리스본 굴껍데기·해초 타일 키친 설치", url: "https://www.designboom.com/design/biomaterial-tiles-fahrenheit-180-lisbon-azulejos-oyster-shells-seaweed-08-28-2025/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2018/10/d-werkplaats-oesterplat-nst109-9.jpg?v=20181015101219"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/oesterplat/"
 updated: 2026-10-14
 ---

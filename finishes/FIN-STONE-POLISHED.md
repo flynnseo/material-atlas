@@ -10,6 +10,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "학동 석재 브랜드 ST01 플래그십 스토어", url: "https://design.co.kr/article/160819/"}
+image: "https://design-plus.storage.googleapis.com/wp-content/uploads/2026/04/30155633/20260430065632-ST01_3.jpg"
+image_credit: "적용 사례 사진 · design.co.kr (원본 링크)"
+image_source: "https://design.co.kr/article/160819/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

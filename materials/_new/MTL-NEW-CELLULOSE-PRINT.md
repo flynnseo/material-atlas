@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/
-image: "https://www.designboom.com/twitterimages/uploads/2024/01/la-manso-external-reference-designboom-1200.jpg"
-image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
-image_source: "https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/"
+apply_links:
+  - {title: "바르셀로나 La Manso 매장 3D프린트 가구", url: "https://www.dezeen.com/?p=2100880"}
+  - {title: "Nescafé 브라질 3D프린트 생분해 매장", url: "https://www.yankodesign.com/?p=454034"}
+image: "https://www.yankodesign.com/images/design_news/2023/09/nescafe-3d-printed-store/nescafe_3d_printed_store_yanko_design_hero.jpg"
+image_credit: "적용 사례 사진 · yankodesign.com (원본 링크)"
+image_source: "https://www.yankodesign.com/?p=454034"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

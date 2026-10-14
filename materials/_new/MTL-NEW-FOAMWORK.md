@@ -21,8 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/foamwork/
+apply_links:
+  - {title: "ETH FoamWork 3D프린트 폼 거푸집 슬래브", url: "https://dbt.arch.ethz.ch/project/foamwork/"}
+  - {title: "ETH 폼 거푸집 콘크리트 절감 (Dezeen)", url: "https://www.dezeen.com/?p=1748877"}
+  - {title: "3D프린트 폼 거푸집 (Designboom)", url: "https://www.designboom.com/technology/eth-zurich-foam-3d-printing-unique-recyclable-formwork-concrete-casting-12-14-2021/"}
 image: "https://dbt.arch.ethz.ch/wp-content/uploads/2021/12/Img_slab03_b.jpg"
-image_credit: "출처 페이지 대표 이미지 · dbt.arch.ethz.ch (원본 링크)"
+image_credit: "적용 사례 사진 · dbt.arch.ethz.ch (원본 링크)"
 image_source: "https://dbt.arch.ethz.ch/project/foamwork/"
 updated: 2026-10-14
 ---

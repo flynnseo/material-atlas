@@ -21,6 +21,8 @@ status: draft
 hands_on: false
 sources:
   - https://www.magna-glaskeramik.com/
+apply_links:
+  - {title: "MAGNA 재생유리 글라스세라믹 파사드 사례", url: "https://kup.id/en/up/magna-stunning-facades-made-from-recycled-glass"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

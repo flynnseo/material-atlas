@@ -28,6 +28,9 @@ sources:
   - https://en.wikipedia.org/wiki/Silicone_rubber
   - https://www.smooth-on.com/products/mold-star-15-slow/
   - https://www.smooth-on.com/products/oomoo-30/
+apply_links:
+  - {title: "RTV 실리콘 몰드로 조각상 캐스팅 과정", url: "https://www.westdean.ac.uk/blog/the-thinker-casting-using-rtv-silicone-mould"}
+  - {title: "RTV 실리콘 몰드 제작 가이드", url: "https://www.fslplymouth.co.uk/blog/news/how-to-make-an-rtv-silicone-mould/"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

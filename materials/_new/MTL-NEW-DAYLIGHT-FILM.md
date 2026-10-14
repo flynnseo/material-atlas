@@ -18,9 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-NEW-DAYLIGHT-FILM.jpg"
-image_credit: "Daylighting01 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ADaylight%20Redirecting%20Film.jpg"
+apply_links:
+  - {title: "Santa Ana 카운티 오피스 시공", url: "https://americanwindowfilm.com/en/3m-daylight-redirecting-film-santa-ana-california"}
+  - {title: "3M 데이라이팅 솔루션 페이지", url: "https://3m.com.sg/3M/en_SG/building-window-solutions-sg/solutions/daylighting"}
+image: "https://americanwindowfilm.com/hubfs/3M-Daylight-Redirecting-Film-Santa-Ana-California.jpg"
+image_credit: "적용 사례 사진 · americanwindowfilm.com (원본 링크)"
+image_source: "https://americanwindowfilm.com/en/3m-daylight-redirecting-film-santa-ana-california"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

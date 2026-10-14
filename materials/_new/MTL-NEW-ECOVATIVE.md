@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.ecovative.com
+apply_links:
+  - {title: "Hush Rooms 균사체 흡음 타일 회의실", url: "https://healthymaterialslab.org/projects/hush-rooms-healthy-acoustic-office-spaces-in-university"}
+  - {title: "스미스소니언 x Ecovative 균사체 건축", url: "https://shop.ecovative.com/blogs/blog/smithsonian-x-ecovative-welcome-to-the-future-building-with-mushrooms"}
+image: "https://s3.us-east-2.amazonaws.com/prod-hml/resources/_1200x630_crop_center-center_82_none/062.jpg?mtime=1772132390"
+image_credit: "적용 사례 사진 · healthymaterialslab.org (원본 링크)"
+image_source: "https://healthymaterialslab.org/projects/hush-rooms-healthy-acoustic-office-spaces-in-university"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

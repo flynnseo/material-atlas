@@ -20,6 +20,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "샌드블라스트 유리 작가 Antonia MacGregor 작업", url: "https://www.houzz.co.uk/pro/antmacgregor/antonia-macgregor-designs-in-glass"}
+image: "https://st.hzcdn.com/simgs/8463973a06090f57_3-4332/_.jpg"
+image_credit: "적용 사례 사진 · houzz.co.uk (원본 링크)"
+image_source: "https://www.houzz.co.uk/pro/antmacgregor/antonia-macgregor-designs-in-glass"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

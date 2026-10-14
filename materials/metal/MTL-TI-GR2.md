@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "건축용 티타늄 외장·내장 클래딩", url: "https://materialdistrict.com/material/architectural-titanium/"}
+  - {title: "건축용 티타늄 자재 목록", url: "https://archipro.com.au/products/building-hardware/material-titanium"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Spruce
+apply_links:
+  - {title: "베드르지호프 모델하우스 스프루스 인테리어", url: "https://www.archiweb.cz/en/b/interier-vzoroveho-domu-v-bedrichove"}
+  - {title: "오스트리아 스프루스 하우스 내부 마감", url: "https://divisare.com/projects/443439-mwarchitekten-adolf-bereuter-house-made-of-spruce"}
+  - {title: "런던 스프루스 하우스 CLT 목조 주택", url: "https://www.dezeen.com/2023/05/15/ao-ft-timber-clad-spruce-house-london-terrace/amp/"}
+image: "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1623081767/o0lp2v2ujfg8hiyjfl29.jpg"
+image_credit: "적용 사례 사진 · divisare.com (원본 링크)"
+image_source: "https://divisare.com/projects/443439-mwarchitekten-adolf-bereuter-house-made-of-spruce"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

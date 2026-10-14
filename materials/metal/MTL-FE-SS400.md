@@ -20,6 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "몰디브 미리안두 리조트 연강 스틸워크", url: "https://www.me.com.sg/project/miriandhoo-resort-steelwork"}
+  - {title: "스틸 활용 건축·인테리어 프로젝트", url: "https://www.mgsarchitecture.in/architecture-design/projects/designing-with-steel.html"}
+image: "https://www.mgsarchitecture.in/images/Projects/3046-SSAB.jpg"
+image_credit: "적용 사례 사진 · mgsarchitecture.in (원본 링크)"
+image_source: "https://www.mgsarchitecture.in/architecture-design/projects/designing-with-steel.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

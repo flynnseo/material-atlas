@@ -20,6 +20,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "제과점 곡선형 강화유리 쇼케이스 교체 후기", url: "https://blog.hansungshowcase.kr/78089"}
+image: "https://image.inblog.dev/?url=https%3A%2F%2Fsource.inblog.dev%2Ffeatured_image%2F2025-11-05T04%3A00%3A57.095Z-ed2866b0-663e-4ab3-b4f7-99d0017d3507&w=1200&q=85&format=jpg&v=2025-11-05T04%3A01%3A02.270Z"
+image_credit: "적용 사례 사진 · blog.hansungshowcase.kr (원본 링크)"
+image_source: "https://blog.hansungshowcase.kr/78089"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

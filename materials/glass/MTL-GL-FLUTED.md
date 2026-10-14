@@ -20,6 +20,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "런던 Flint Wines 사무실 플루티드 유리 복도", url: "https://www.dezeen.com/2025/08/18/flint-wines-office-interior-mowat-and-company-london/amp/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

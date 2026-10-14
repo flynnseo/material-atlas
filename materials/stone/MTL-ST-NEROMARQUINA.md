@@ -19,6 +19,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Nero_Marquina
+apply_links:
+  - {title: "런던 윔블던 주택 마블 인테리어 쇼케이스", url: "https://capietra.com/journal/marble-showcase"}
+  - {title: "네로 마르키나 벽난로 적용", url: "https://chesneys.co.uk/nero-marquina-marble-bold-elegance-for-contemporary-fireplaces"}
+  - {title: "네로 마르키나 슬랩 바닥재", url: "https://drylayout.com/en/slabs/marble-for-flooring-nero-marquina-43011-234994"}
+image: "http://capietra.com/cdn/shop/articles/journal-marble-showcase-marble-showcase-list-image.jpg?v=1788048844"
+image_credit: "적용 사례 사진 · capietra.com (원본 링크)"
+image_source: "https://capietra.com/journal/marble-showcase"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

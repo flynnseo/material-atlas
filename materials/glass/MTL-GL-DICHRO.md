@@ -20,6 +20,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "시애틀 Eye Eye 안경점 디크로익 유리 칸막이", url: "https://www.dezeen.com/?p=1911276"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,6 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polystyrene
+apply_links:
+  - {title: "EPS 성형+몰타르 럭셔리 매장 인테리어", url: "https://amusementlogic.com/company-news/eps-and-technical-mortar-solution-for-luxury-commercial-interiors/"}
+  - {title: "발레로 본사 EPS 장식 건축 요소", url: "https://www.bdcnetwork.com/home/news/55155476/remember-the-alamo"}
+image: "https://amusementlogic.com/wp-content/uploads/2025/02/EPS-017.jpg"
+image_credit: "적용 사례 사진 · amusementlogic.com (원본 링크)"
+image_source: "https://amusementlogic.com/company-news/eps-and-technical-mortar-solution-for-luxury-commercial-interiors/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

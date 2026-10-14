@@ -220,6 +220,7 @@ def build_index(cards, schema, vocab):
             "image": c.get("image", "") or "",
             "image_credit": c.get("image_credit", "") or "",
             "image_source": c.get("image_source", "") or "",
+            "apply_links": [a for a in as_list(c.get("apply_links")) if isinstance(a, dict) and a.get("url")],
             "cost_tier": c.get("cost_tier"),
             "lead_time": c.get("lead_time", ""),
             "props": props if isinstance(props, dict) else {},

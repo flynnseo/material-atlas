@@ -21,8 +21,10 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/magnesium-hemp-composite/
+apply_links:
+  - {title: "Hempshade 마그네슘-대마 복합재 조명 소재 페이지", url: "https://materialdistrict.com/material/magnesium-hemp-composite/"}
 image: "https://media.materialdistrict.com/wp-content/uploads/2026/02/IMG_0052.jpg?v=20260303101049"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
 image_source: "https://materialdistrict.com/material/magnesium-hemp-composite/"
 updated: 2026-10-14
 ---

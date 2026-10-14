@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/mvrdv-bulgari-shanghai-facade-china-recycled-green-glass-champagne-bottles-12-12-2021/
-image: "https://www.designboom.com/twitterimages/uploads/2021/12/MVRDV-bulgari-shanghai-china-facade-reused-recycled-champagne-bottles-designboom-FB.jpg"
-image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
-image_source: "https://www.designboom.com/architecture/mvrdv-bulgari-shanghai-facade-china-recycled-green-glass-champagne-bottles-12-12-2021/"
+apply_links:
+  - {title: "MVRDV 불가리 상하이 재활용 병 유리 파사드", url: "https://mvrdv.com/news/4039/bulgari-shanghai-jad-facade-recycled-bottles"}
+  - {title: "불가리 상하이 파사드 (Dezeen)", url: "https://www.dezeen.com/?p=1747875"}
+  - {title: "불가리 상하이 파사드 제작 (Designboom)", url: "https://www.designboom.com/architecture/mvrdv-bulgari-shanghai-facade-china-recycled-green-glass-champagne-bottles-12-12-2021/"}
+image: "https://mvrdv.com/media/uploads/CRS67295.jpg"
+image_credit: "적용 사례 사진 · mvrdv.com (원본 링크)"
+image_source: "https://mvrdv.com/news/4039/bulgari-shanghai-jad-facade-recycled-bottles"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

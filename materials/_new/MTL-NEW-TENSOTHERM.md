@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/tensotherm-nanogel/
+apply_links:
+  - {title: "Hanover Park 커뮤니티센터 Tensotherm 지붕", url: "https://www.birdair.com/birdair-tips-off-new-chapter-at-hanover-park-community-center-with-innovative-tensotherm-roofing-system/"}
+  - {title: "대학 체육시설 Dillon Field House 막지붕", url: "https://www.birdair.com/birdairs-tensotherm-product-chosen-for-university-athletic-facility"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

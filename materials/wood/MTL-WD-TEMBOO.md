@@ -18,6 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "플루티드 우드 패널 벽·천장 적용", url: "https://andorwillow.com/en-ca/products/fluted-wood-panels-for-walls-ceilings-more"}
+  - {title: "플루티드 패널 주택 디테일 적용", url: "https://www.tollbrothers.com/blog/?p=2395488"}
+image: "http://andorwillow.com/cdn/shop/files/fluted-oak-wood-panels-andor-willow-watermarked.jpg?v=1732822667"
+image_credit: "적용 사례 사진 · andorwillow.com (원본 링크)"
+image_source: "https://andorwillow.com/en-ca/products/fluted-wood-panels-for-walls-ceilings-more"
 updated: 2026-10-14
 ---
 ## 한 줄 정의
