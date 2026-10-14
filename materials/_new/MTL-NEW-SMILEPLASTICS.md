@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
-image: "https://smile-materials.com/wp-content/uploads/2025/09/Smile-Plastics-Material-Shoot-4-Web-2-of-53.jpg"
-image_credit: "출처 페이지 대표 이미지 · smile-materials.com (원본 링크)"
-image_source: "https://smile-materials.com/"
+apply_links:
+  - {title: "Smile Plastics 패널 리테일 인테리어 (Dezeen)", url: "https://www.dezeen.com/2024/06/18/we-have-a-duty-to-honour-plastics-says-smile-plastics-co-founder-rosalie-mcmillan/amp/"}
+  - {title: "재생 소재 쇼핑 매장 시공(Euroshop)", url: "https://www.euroshop-tradefair.com/en/media-news/euroshopmag/shopfitting-store-design/shopfitting-with-recycled-materials-in-retail"}
+  - {title: "요거트 용기로 만든 테라조풍 패널", url: "https://design-milk.com/smile-plastics-turns-yogurt-pots-into-terrazzo-like-surface-panels/"}
+image: "https://www.euroshop.de/cache/pica/5/5/4/0/4/7/7483381733222409/tala-recycled-plastics-store-design-s.jpg"
+image_credit: "적용 사례 사진 · euroshop-tradefair.com (원본 링크)"
+image_source: "https://www.euroshop-tradefair.com/en/media-news/euroshopmag/shopfitting-store-design/shopfitting-with-recycled-materials-in-retail"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

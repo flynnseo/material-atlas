@@ -22,9 +22,12 @@ hands_on: false
 sources:
   - https://www.gauzy.com/
   - https://en.wikipedia.org/wiki/Smart_glass
-image: "assets/img/MTL-NEW-PDLC-FILM.jpg"
-image_credit: "Shtiever · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Shtiever_1.jpg"
+apply_links:
+  - {title: "사무실 유리 파티션 PDLC 필름 시공", url: "https://designbuybuild.co.uk/sonte-uk-smart-glass-film/"}
+  - {title: "Gauzy PDLC 스마트 필름 제품", url: "https://www.gauzy.com/pdlc-smart-film/"}
+image: "https://i0.wp.com/designbuybuild.co.uk/wp-content/uploads/2017/02/window_room-2.jpg?fit=1200%2C952&ssl=1"
+image_credit: "적용 사례 사진 · designbuybuild.co.uk (원본 링크)"
+image_source: "https://designbuybuild.co.uk/sonte-uk-smart-glass-film/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

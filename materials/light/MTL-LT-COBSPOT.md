@@ -25,6 +25,8 @@ sources:
 image: "assets/img/MTL-LT-COBSPOT.jpg"
 image_credit: "Serych at Czech Wikipedia · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Integrovan%C3%BD-obvod-asfalt-.jpg"
+apply_links:
+  - {title: "ERCO 핀홀 COB 스포트 리테일 조명", url: "https://press.erco.com/en/press-release/products/light-accents-efficient-discreet-and-to-the-point-erco-quintessence-pinhole-directional-spotlights_2747.rtf"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

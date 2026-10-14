@@ -23,9 +23,13 @@ sources:
   - https://www.sageglass.com/en
   - https://en.wikipedia.org/wiki/Electrochromism
   - https://en.wikipedia.org/wiki/Smart_glass
-image: "assets/img/MTL-NEW-EC-GLASS.jpg"
-image_credit: "Smokefoot · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:MVredox.png"
+apply_links:
+  - {title: "스웨덴 Boverket 본사 곡면 전기변색 유리", url: "https://www.glassonline.com/?p=120051"}
+  - {title: "바젤대 생의학관 전기변색 유리 파사드", url: "https://biomedizin.unibas.ch/en/newsdetails/smart-facade-for-basels-new-biomedicine-building/"}
+  - {title: "보위주립대 자연과학관 스마트 글라스", url: "https://www.bdcnetwork.com/smart-glass-maximizes-comfort-bowie-state-university"}
+image: "https://biomedizin.unibas.ch/fileadmin/_processed_/0/0/csm_News_Neubau_Fassade_03_83765be69d.jpg"
+image_credit: "적용 사례 사진 · biomedizin.unibas.ch (원본 링크)"
+image_source: "https://biomedizin.unibas.ch/en/newsdetails/smart-facade-for-basels-new-biomedicine-building/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

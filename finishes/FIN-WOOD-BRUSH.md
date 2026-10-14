@@ -22,9 +22,12 @@ hands_on: false
 sources:
   - https://www.finewoodworking.com/project-guides/finishing/texture-wood-to-highlight-the-grain
   - https://indbrush.com/wood-finishing/
-image: "https://s3.amazonaws.com/finewoodworking.s3.tauntoncloud.com/app/uploads/2013/04/24181841/011233084-main-thumb-16x9.jpg"
-image_credit: "출처 페이지 대표 이미지 · finewoodworking.com (원본 링크)"
-image_source: "https://www.finewoodworking.com/project-guides/finishing/texture-wood-to-highlight-the-grain"
+apply_links:
+  - {title: "와이어브러시 오크 바닥·천장 인테리어 사진", url: "https://www.houzz.com/photos/query/wire-brushed"}
+  - {title: "와이어브러시 목재 플랭크 벽·천장재", url: "https://www.barrondesigns.com/wire-brushed-wood-plank"}
+image: "https://st.hzcdn.com/fimgs/pictures/bathrooms/bathroom-vanity-custom-wire-brushed-white-oak-cc-furniture-and-cabinetry-img~bc11c84b0df296b5_9904-1-1c6b75c-w550-h550-b0-p0.jpg"
+image_credit: "적용 사례 사진 · houzz.com (원본 링크)"
+image_source: "https://www.houzz.com/photos/query/wire-brushed"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -22,6 +22,8 @@ sources:
 image: "assets/img/MTL-FM-HOLOGRAM.jpg"
 image_credit: "Holo-Mouse.jpg: Georg-Johann Lay\nderivative work: Epzcaw (talk) · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Holomouse2.jpg"
+apply_links:
+  - {title: "슈투트가르트 BW 라운지 홀로 스크린", url: "https://tamschick.com/project/bw-lounge"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

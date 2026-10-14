@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-image: "assets/img/MTL-FM-SAFETYFILM.jpg"
-image_credit: "W.carter · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gull_on_glass_ceiling%2C_Kampenhof_bus_terminal%2C_Uddevalla.jpg"
+apply_links:
+  - {title: "런던 주택 유리 비산방지 필름", url: "https://www.tintfit.com/?p=9741"}
+  - {title: "라고스 메리어트 호텔 안전필름", url: "https://madico.com/professionals/safety-security/case-studies/marriott-hotel-in-ikeja-lagos-nigeria"}
+image: "https://www.tintfit.com/wp-content/uploads/2026/04/clear-100.png"
+image_credit: "적용 사례 사진 · tintfit.com (원본 링크)"
+image_source: "https://www.tintfit.com/?p=9741"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

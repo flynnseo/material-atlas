@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.ottan.co.uk/
-image: "https://static.wixstatic.com/media/7c1251_9461e13113f44ff4a2b4e0675cfa08b8%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/7c1251_9461e13113f44ff4a2b4e0675cfa08b8%7Emv2.jpeg"
-image_credit: "출처 페이지 대표 이미지 · ottan.co.uk (원본 링크)"
-image_source: "https://www.ottan.co.uk/"
+apply_links:
+  - {title: "Ottan 달걀·견과류 껍데기 소재 소개", url: "https://materialdistrict.com/material/ottan-materials/"}
+  - {title: "식품·농업 폐기물 인테리어 오브제", url: "https://materialdistrict.com/article/interior-objects-made-of-food-and-agricultural-waste/"}
+image: "https://media.materialdistrict.com/wp-content/uploads/2022/09/ottan-studio-ottan-materials-ona936-7.jpg?v=20240702073046"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/ottan-materials/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

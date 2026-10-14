@@ -23,9 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fiberglass
-image: "assets/img/MTL-CP-FRP.jpg"
-image_credit: "Retired electrician · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AMoscow%2C%20fiberglass%20half-shell%20of%20a%20lamppost%2C%20Sept%202026%2001.jpg"
+apply_links:
+  - {title: "BFG 건축 랜드마크 FRP 파사드 사례", url: "https://www.bfgarchitecture.com/landmarks-in-architecture"}
+  - {title: "Plastic dreams: 네덜란드 건축의 FRP", url: "https://bulletin.knob.nl/index.php/knob/en/article/view/808"}
+image: "http://www.bfgarchitecture.com/uploads/1/1/5/5/115551207/published/heydar-aliyev-center-zaha-hadid-architects.jpg?1514922308"
+image_credit: "적용 사례 사진 · bfgarchitecture.com (원본 링크)"
+image_source: "https://www.bfgarchitecture.com/landmarks-in-architecture"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,9 +22,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Lenticular_printing
-image: "assets/img/MTL-NEW-LENTICULAR-SHEET.jpg"
-image_credit: "World Imaging · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Close_up_of_the_surface_of_a_lenticular_print.jpg"
+apply_links:
+  - {title: "Elitis Rudolf 렌티큘러 월커버링", url: "https://www.cooperhewitt.org/2017/01/09/a-real-art-for-living/"}
+image: "https://www.cooperhewitt.org/wp-content/uploads/2017/01/Rudolf.jpg"
+image_credit: "적용 사례 사진 · cooperhewitt.org (원본 링크)"
+image_source: "https://www.cooperhewitt.org/2017/01/09/a-real-art-for-living/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-image: "assets/img/MTL-FM-FROST.jpg"
-image_credit: "W.carter · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gull_on_glass_ceiling%2C_Kampenhof_bus_terminal%2C_Uddevalla.jpg"
+apply_links:
+  - {title: "뉴캐슬 사무실 프로스트 필름 시공", url: "https://www.tintfit.com/case-study/office-privacy-installation-newcastle"}
+  - {title: "런던 사무실 프라이버시 필름 그래픽", url: "https://buildingcentre.co.uk/news/articles/office-privacy-london"}
+image: "https://www.tintfit.com/wp-content/uploads/2026/03/White-Frost_Newcastle-1.jpeg"
+image_credit: "적용 사례 사진 · tintfit.com (원본 링크)"
+image_source: "https://www.tintfit.com/case-study/office-privacy-installation-newcastle"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

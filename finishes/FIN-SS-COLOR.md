@@ -15,9 +15,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.steelcolor.com/
-image: "https://www.steelcolor.com/wp-content/uploads/2018/01/Architecture.jpg"
-image_credit: "출처 페이지 대표 이미지 · steelcolor.com (원본 링크)"
-image_source: "https://www.steelcolor.com/"
+apply_links:
+  - {title: "호주 Rundle Place 적색 착색 스테인리스 파사드", url: "https://assda.asn.au/blog/274-stainless-in-color"}
+  - {title: "일본 INCO 착색 스테인리스 적용 사례", url: "https://nickelinstitute.org/en/resources/technical-guides/application-of-inco-colored-stainless-steel-in-japan-13005/"}
+image: "https://assda.asn.au/components/com_rsblog/assets/images/blog/274.jpg"
+image_credit: "적용 사례 사진 · assda.asn.au (원본 링크)"
+image_source: "https://assda.asn.au/blog/274-stainless-in-color"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

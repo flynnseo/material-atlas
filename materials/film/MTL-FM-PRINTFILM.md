@@ -19,9 +19,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinyl_chloride
-image: "assets/img/MTL-FM-PRINTFILM.jpg"
-image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
+apply_links:
+  - {title: "세포라 매장 월 그래픽 Drytac 시공", url: "https://imagereportsmag.co.uk/case-study-from-drytac-10/"}
+  - {title: "콜드스톤 매장 출력 그래픽 리뉴얼", url: "https://bigpicturemag.com/a-tasteful-new-look-cold-stone-creamery"}
+image: "https://imagereportsmag.co.uk/wp-content/uploads/2020/04/E-163906-d35.jpg"
+image_credit: "적용 사례 사진 · imagereportsmag.co.uk (원본 링크)"
+image_source: "https://imagereportsmag.co.uk/case-study-from-drytac-10/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

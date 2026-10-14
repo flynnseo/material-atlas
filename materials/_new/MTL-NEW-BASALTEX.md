@@ -23,9 +23,12 @@ sources:
   - https://www.basaltex.com/
   - https://materialdistrict.com/material/basalt-woven-textile/
   - https://en.wikipedia.org/wiki/Basalt_fiber
-image: "assets/img/MTL-NEW-BASALTEX.jpg"
-image_credit: "Nils Austa · CC BY 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Basalt_fibre_and_glass_fibre.jpg"
+apply_links:
+  - {title: "가르다 호수 빌라 외부 현무암 직물 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda"}
+  - {title: "Stone Web 현무암 필라멘트 공간 시스템", url: "https://rapp-unger.com/stone-web-expanding-space/"}
+image: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/66a77de6651e58c375094ce1_____669f8956304229f4bec794b3_0_COPERTINA.webp"
+image_credit: "적용 사례 사진 · i-mesh.eu (원본 링크)"
+image_source: "https://www.i-mesh.eu/projects/villa-v-lake-garda"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

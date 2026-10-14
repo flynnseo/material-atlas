@@ -21,9 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://ecopoxy.com
-image: "https://www.ecopoxy.com/cdn/shop/files/ecopoxy_product_family_Blonde2_july_2025_small_7a566522-7979-40c7-9054-adda64bd1b2c_1350x630.png?v=1767801945"
-image_credit: "출처 페이지 대표 이미지 · ecopoxy.com (원본 링크)"
-image_source: "https://ecopoxy.com"
+apply_links:
+  - {title: "EcoPoxy 리버테이블 레진 제품", url: "https://www.windsorplywood.com/products/ecopoxy-epoxy-resin-kits"}
+image: "http://www.windsorplywood.com/cdn/shop/files/EcoPoxy-UVPoxy-kit-Part-A-and-B.jpg?v=1744082187"
+image_credit: "적용 사례 사진 · windsorplywood.com (원본 링크)"
+image_source: "https://www.windsorplywood.com/products/ecopoxy-epoxy-resin-kits"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

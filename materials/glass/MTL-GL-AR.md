@@ -21,9 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-GL-AR.jpg"
-image_credit: "Maximilian Schönherr · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AReflective%20and%20anti-reflective%20lens.jpg"
+apply_links:
+  - {title: "런던 나이츠브리지 저반사 유리 상가", url: "https://source.thenbs.com/en/case-study/55-91-knightsbridge-london/dsYLZ3MGAPwCwgj592Fm61/tAjWNp9WMjhbaCCfhTsgde"}
+  - {title: "그로글라스 박물관·매장 AR 유리 레퍼런스", url: "https://www.groglass.com/about/references/"}
+image: "https://www.groglass.com/themes/groglass/assets/images/share_new.jpg"
+image_credit: "적용 사례 사진 · groglass.com (원본 링크)"
+image_source: "https://www.groglass.com/about/references/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

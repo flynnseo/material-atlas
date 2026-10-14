@@ -22,9 +22,13 @@ hands_on: false
 sources:
   - https://www.alusion.com/
   - https://materialdistrict.com/material/alusion-large-small-cells/
-image: "https://media.materialdistrict.com/wp-content/uploads/2010/04/MET183-1.jpg?v=20180726071702"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
-image_source: "https://materialdistrict.com/material/alusion-large-small-cells/"
+apply_links:
+  - {title: "암스테르담 Steltloper 발포알루미늄 파사드", url: "https://www.archdaily.com/catalog/en/products/13892/steltloper-ertskade-stabilized-aluminum-foam-cymat-technologies-ltd"}
+  - {title: "세비야 CaixaForum 알루지온 외장", url: "https://www.archdaily.com/catalog/en/products/11677/alusion-stabilized-aluminum-foam-in-caixa-forum-sevilla-cymat-technologies-ltd"}
+  - {title: "칠레 San Vicente 성당 종탑 알루지온", url: "https://www.archdaily.com/catalog/en/products/10996/alusion-stabilized-aluminum-foam-in-parroquia-san-vicente-de-paul-chile-cymat-technologies-ltd"}
+image: "https://neufert-cdn.archdaily.net/uploads/photo/image/177525/cropped_large_18408-05.jpg?v=1721856435"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/catalog/en/products/13892/steltloper-ertskade-stabilized-aluminum-foam-cymat-technologies-ltd"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

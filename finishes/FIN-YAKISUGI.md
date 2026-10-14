@@ -22,9 +22,13 @@ hands_on: false
 sources:
   - https://www.mdpi.com/1999-4907/12/9/1262/htm
   - https://www.livingetc.com/features/what-is-shou-sugi-ban
-image: "assets/img/FIN-YAKISUGI.jpg"
-image_credit: "Xicodaponte · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AShou-Sugi-Ban--Yakisugi.jpg"
+apply_links:
+  - {title: "요기스 캐빈 탄화목 외장 (Dezeen)", url: "https://www.dezeen.com/?p=2367688"}
+  - {title: "야키스기 건축 외장 사례 모음", url: "https://www.constructionspecifier.com/yakisugi-architectural-comeback/"}
+  - {title: "전 세계 쇼스기반 파사드", url: "https://plainmagazine.com/?p=60331"}
+image: "https://www.constructionspecifier.com/wp-content/uploads/2025/11/Photo-by-Nakamoto-Forestry_Gladys-Valley-Marine-Sciences-Building_Gendai-Acrylic-Black-and-Pika-Pika-Silver_1.jpg"
+image_credit: "적용 사례 사진 · constructionspecifier.com (원본 링크)"
+image_source: "https://www.constructionspecifier.com/yakisugi-architectural-comeback/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

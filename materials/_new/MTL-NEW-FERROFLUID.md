@@ -23,9 +23,12 @@ hands_on: false
 sources:
   - https://ferrofluid.ferrotec.com/
   - https://en.wikipedia.org/wiki/Ferrofluid
-image: "assets/img/MTL-NEW-FERROFLUID.jpg"
-image_credit: "Gregory F. Maxwell <gmaxwell@gmail.com> PGP:0xB0413BFA · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Ferrofluid_Magnet_under_glass_edit.jpg"
+apply_links:
+  - {title: "Morpho Towers 페로플루이드 설치작품", url: "https://digitalartarchive.at/database/work/2230"}
+  - {title: "Sam Lewitt 'Fluid Employment' 휘트니 비엔날레", url: "https://vernissage.tv/2012/08/17/sam-lewitt-fluid-employment-2012/"}
+image: "https://digitalartarchive.at/typo3conf/ext/va_style/Resources/Public/Images/v2/wide.webp?1690888931"
+image_credit: "적용 사례 사진 · digitalartarchive.at (원본 링크)"
+image_source: "https://digitalartarchive.at/database/work/2230"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

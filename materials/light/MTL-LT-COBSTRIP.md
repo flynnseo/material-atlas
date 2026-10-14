@@ -21,9 +21,12 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Chip_on_board
   - https://en.wikipedia.org/wiki/LED_strip_light
-image: "assets/img/MTL-LT-COBSTRIP.jpg"
-image_credit: "Serych at Czech Wikipedia · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Integrovan%C3%BD-obvod-asfalt-.jpg"
+apply_links:
+  - {title: "헤펠레 COB LED 가구·선반 조명", url: "https://www.ribaj.com/spec/hafele-loox-led-chip-on-board-lighting/"}
+  - {title: "COB LED 스트립 인테리어 적용법", url: "https://netnewsledger.com/?p=164843"}
+image: "https://www.netnewsledger.com/wp-content/uploads/2023/05/COB-Light.jpg"
+image_credit: "적용 사례 사진 · netnewsledger.com (원본 링크)"
+image_source: "https://netnewsledger.com/?p=164843"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

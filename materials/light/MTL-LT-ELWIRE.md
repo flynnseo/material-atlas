@@ -22,9 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electroluminescent_wire
-image: "assets/img/MTL-LT-ELWIRE.jpg"
-image_credit: "Allyn · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Elwire.jpg"
+apply_links:
+  - {title: "EL와이어 야외 공간 아트 설치", url: "https://ellumiglow.com/blogs/blog-page/spring-installations-el-wire-art-for-outdoor-spaces"}
+  - {title: "EL와이어 설치 전시 (Rhizome DC)", url: "https://www.rhizomedc.org/new-events/2017/3/8/d617o1t5l2qqqpm1ne850hw8xuf2i0"}
+image: "https://ellumiglow.com/cdn/shop/articles/el_wire_garden.png?v=1766002249&width=1200"
+image_credit: "적용 사례 사진 · ellumiglow.com (원본 링크)"
+image_source: "https://ellumiglow.com/blogs/blog-page/spring-installations-el-wire-art-for-outdoor-spaces"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

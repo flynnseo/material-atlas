@@ -23,6 +23,10 @@ sources:
 image: "assets/img/MTL-FM-LVT.jpg"
 image_credit: "Phillip Pessar · CC BY 2.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Vintage_Vinyl_Tile_Flooring_South_Beach_%2845568707481%29.jpg"
+apply_links:
+  - {title: "왓포드 스포츠다이렉트 LVT 바닥", url: "https://www.ivc-commercial.com/en/cases/sports-direct"}
+  - {title: "흐로닝언 신발 매장 빈티지 LVT", url: "https://www.ivc-commercial.com/en/cases/shoe-store-schoenenzaken"}
+  - {title: "로어몬트 인터스포트 매장 LVT", url: "https://www.ivc-commercial.com/en/cases/Intersport"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

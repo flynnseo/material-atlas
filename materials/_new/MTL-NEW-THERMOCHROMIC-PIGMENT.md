@@ -22,9 +22,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Thermochromism
-image: "assets/img/MTL-NEW-THERMOCHROMIC-PIGMENT.jpg"
-image_credit: "Bilovitskiy · CC BY 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Liquid_crystals.webm"
+apply_links:
+  - {title: "Lennox 열변색 도료 LA 벽화 전시", url: "https://www.contractingbusiness.com/residential-hvac/article/20868526/lennox-joins-art-project-to-bring-murals-to-life"}
+  - {title: "123KLAN 열변색 벽화 작업", url: "https://www.123klan.com/blogs/news/lennox-art-project-lennox-project-artistique"}
+  - {title: "Cubo Chrome 열변색 설치 작품", url: "https://lina.community/projects/ea523810-cafb-4f2a-bf42-bfba8860bc0d"}
+image: "https://cdn.shopify.com/s/files/1/1074/9018/files/header-good_5cbda491-21c6-414f-af98-dfb40386c777.jpg?height=628&pad_color=fff&v=1613530062&width=1200"
+image_credit: "적용 사례 사진 · 123klan.com (원본 링크)"
+image_source: "https://www.123klan.com/blogs/news/lennox-art-project-lennox-project-artistique"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

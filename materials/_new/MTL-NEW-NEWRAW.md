@@ -20,9 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "http://static1.squarespace.com/static/697882518c68b341a7fa7f6b/t/6a05eecd3061f67e1db7b84a/1778773709298/Asset+1-100.jpg?format=1500w"
-image_credit: "출처 페이지 대표 이미지 · thenewraw.org (원본 링크)"
-image_source: "https://thenewraw.org"
+apply_links:
+  - {title: "Print Your City 재생 플라스틱 거리 가구 (Dezeen)", url: "https://www.dezeen.com/2019/02/13/print-your-city-recycled-plastic-street-furniture/"}
+  - {title: "The New Raw 프린팅 가구 작업 모음", url: "https://thenewraw.org/Work"}
+  - {title: "Print Your City 3D프린팅 (designboom)", url: "https://www.designboom.com/design/print-your-city-new-raw-3d-printing-11-15-2017/"}
+image: "http://images.squarespace-cdn.com/content/v1/697882518c68b341a7fa7f6b/1c679673-5c27-4e48-bb06-4943220d98a5/Asset+1-100.jpg?format=1500w"
+image_credit: "적용 사례 사진 · thenewraw.org (원본 링크)"
+image_source: "https://thenewraw.org/Work"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

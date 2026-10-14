@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://www.nagami.design
-image: "http://nagami.design/cdn/shop/files/nagami-instalaciones-03.jpg?v=1746238893"
-image_credit: "출처 페이지 대표 이미지 · nagami.design (원본 링크)"
-image_source: "https://www.nagami.design"
+apply_links:
+  - {title: "Ecoalf 라스로사스 매장 3D프린팅 인테리어", url: "https://www.dezeen.com/?p=1896598"}
+  - {title: "Nagami Ecoalf 플래그십 스토어", url: "https://www.stirworld.com/see-features-nagami-sculpts-the-ecoalf-flagship-store-as-a-contemplative-space"}
+  - {title: "Hassell×Nagami 3D프린팅 공공 파빌리온", url: "https://www.designboom.com/architecture/hassell-nagami-toorg-3d-printed-public-pavilion-prototype-03-14-2023/"}
+image: "https://www.stirworld.com/images/article_gallery/ecoalf-store-in-madrid-ecoalf-nagami-stirworld-230306043332.jpg"
+image_credit: "적용 사례 사진 · stirworld.com (원본 링크)"
+image_source: "https://www.stirworld.com/see-features-nagami-sculpts-the-ecoalf-flagship-store-as-a-contemplative-space"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

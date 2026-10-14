@@ -19,9 +19,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Retroreflector
-image: "assets/img/MTL-FM-RETROSIGN.jpg"
-image_credit: "Kkmurray · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Corner-Cube.jpg"
+apply_links:
+  - {title: "아른험 게이트하우스 재귀반사 파사드", url: "https://materialdistrict.com/article/retro-reflective-facade/"}
+image: "https://media.materialdistrict.com/wp-content/uploads/2013/07/retro-reflective-facade-4.jpg?v=20130805122724"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/article/retro-reflective-facade/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -32,9 +32,12 @@ sources:
   - https://en.wikipedia.org/wiki/Decorative_laminate
   - https://din.de/en/wdc-beuth:din21:238898758
   - https://www.nationalbimlibrary.com/kronospan-ltd/kronodesign-compact-interior-laminates?lo=en
-image: "assets/img/MTL-CP-HPL-COMPACT.jpg"
-image_credit: "Андрей Перцев 1967 · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Decorative_laminate_07827.jpg"
+apply_links:
+  - {title: "플라이데러 HPL 파사드·파라펫 적용", url: "https://pfleiderer.com/au-en/solutions/exterior-use/facades-parapets"}
+  - {title: "그린램 외장 HPL 파사드 사례", url: "https://wfmmedia.com/elevating-building-facades-with-greenlam-exterior-clads-style-durability-and-sustainability/"}
+image: "https://wfmmedia.com/wp-content/uploads/2025/04/Elevating-Building-Facades-With-Greenlam-Exterior-Clads-Style-Durability-And-Sustainability.webp"
+image_credit: "적용 사례 사진 · wfmmedia.com (원본 링크)"
+image_source: "https://wfmmedia.com/elevating-building-facades-with-greenlam-exterior-clads-style-durability-and-sustainability/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

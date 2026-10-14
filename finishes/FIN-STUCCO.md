@@ -23,9 +23,12 @@ sources:
   - https://en.wikipedia.org/wiki/Polished_plaster
   - https://en.wikipedia.org/wiki/Lime_plaster
   - https://www.dulux.com.au/specifier/products/venetian-plaster/venetian-plaster-marmorino-naturale/
-image: "assets/img/FIN-STUCCO.jpg"
-image_credit: "Heinz-Josef Lücking · CC BY-SA 3.0 de · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Plaster_-_Putz_in_Pompeji.JPG"
+apply_links:
+  - {title: "루이비통 히드로 T3 매장 베네치안 플라스터", url: "https://www.sbid.org/marmo-surface-finishes-install-venetian-plaster-finishes-for-a-retail-space/"}
+  - {title: "파리 Ports 1961 부티크 플라스터 벽", url: "https://archi-tectonics.com/work/ports-1961-paris"}
+image: "https://www.sbid.org/wp-content/uploads/2024/03/5-7.jpg"
+image_credit: "적용 사례 사진 · sbid.org (원본 링크)"
+image_source: "https://www.sbid.org/marmo-surface-finishes-install-venetian-plaster-finishes-for-a-retail-space/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

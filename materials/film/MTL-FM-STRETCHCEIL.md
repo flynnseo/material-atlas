@@ -22,6 +22,10 @@ sources:
 image: "assets/img/MTL-FM-STRETCHCEIL.jpg"
 image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
+apply_links:
+  - {title: "바리솔 x 로스 러브그로브 설치", url: "https://barrisol.com/au/exceptional-projects/barrisol-lovegrove"}
+  - {title: "퀘벡 플레이스 곡면 스트레치 천장", url: "https://barrisol.com/en-ca/canadian-projects/place-quebec"}
+  - {title: "르 프레벵 레스토랑 반투명 천장", url: "https://barrisol.com/en-ca/canadian-projects/restaurant-le-preben"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

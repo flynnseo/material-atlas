@@ -18,9 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-FM-RUBBERFLOOR.jpg"
-image_credit: "Shree Adinath Enterprises · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ARubber%20tiles.jpg"
+apply_links:
+  - {title: "조 프레시 플래그십 고무 바닥", url: "https://commercial.regupol.com/projects/project/joe-fresh-flagship-store/"}
+  - {title: "멜버른 공항 달수플 고무타일 벽", url: "https://architectureanddesign.com.au/suppliers/irubber-pty-ltd/dalsouple-rubber-tiles-used-for-walling-in-iconic"}
+image: "https://commercial.regupol.com/fileadmin/_processed_/d/8/csm_regupol-header-joe_ef05805f48.jpg"
+image_credit: "적용 사례 사진 · commercial.regupol.com (원본 링크)"
+image_source: "https://commercial.regupol.com/projects/project/joe-fresh-flagship-store/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

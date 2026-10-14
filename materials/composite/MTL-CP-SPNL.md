@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sandwich-structured_composite
-image: "assets/img/MTL-CP-SPNL.jpg"
-image_credit: "Acheolg · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Composites_sandwich_panel.jpg"
+apply_links:
+  - {title: "본도 EPS 건축 외벽 패널", url: "https://www.architectureanddesign.com.au/suppliers/bondor/introducing-the-equitilt-range-of-eps-architectura"}
+  - {title: "BASF PU 샌드위치 패널 주택", url: "https://plastics-rubber.basf.com/emea/en/performance_polymers/industries/pp_construction/stories-in-construction/house_with_PU_sandwich_panels"}
+image: "https://plastics-rubber.basf.com/api/imaging/focalarea/16x9/4096x/dam/jcr%3A0cf2e711-8435-33f1-98c6-a1286a573427/construction_stories_Buttenwiesen_outerview_01.jpg"
+image_credit: "적용 사례 사진 · plastics-rubber.basf.com (원본 링크)"
+image_source: "https://plastics-rubber.basf.com/emea/en/performance_polymers/industries/pp_construction/stories-in-construction/house_with_PU_sandwich_panels"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

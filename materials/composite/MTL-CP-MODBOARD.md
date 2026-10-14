@@ -22,6 +22,9 @@ sources:
 image: "assets/img/MTL-CP-MODBOARD.jpg"
 image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
+apply_links:
+  - {title: "Base Materials 모델링·스타일링 보드", url: "https://base-materials.com/?p=624"}
+  - {title: "PU 중밀도 모델보드 제품", url: "https://www.easycomposites.co.uk/pu-medium-density-model-board"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

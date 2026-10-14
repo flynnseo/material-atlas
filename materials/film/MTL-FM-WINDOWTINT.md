@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
-image: "assets/img/MTL-FM-WINDOWTINT.jpg"
-image_credit: "W.carter · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gull_on_glass_ceiling%2C_Kampenhof_bus_terminal%2C_Uddevalla.jpg"
+apply_links:
+  - {title: "건축 창호 필름 인쇄 적용 사례", url: "https://digitaloutput.net/fashionable-functional-windows"}
+  - {title: "휴스턴 JLL 본사 윈도 필름", url: "https://www.windowfilmdepot.com/blog/why-building-window-tinting-makes-sense-for-modern-properties/"}
+image: "https://www.windowfilmdepot.com/wp-content/uploads/2026/03/One-waty-Tint-3.jpg"
+image_credit: "적용 사례 사진 · windowfilmdepot.com (원본 링크)"
+image_source: "https://www.windowfilmdepot.com/blog/why-building-window-tinting-makes-sense-for-modern-properties/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

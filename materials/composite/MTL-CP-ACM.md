@@ -33,9 +33,13 @@ sources:
   - https://alucobond.com.sg/products/alucobond-plus-composite-panels/processing-plus/routing-folding-plus/
   - https://theconversation.com/fact-check-is-the-type-of-cladding-used-on-grenfell-tower-actually-banned-in-britain-79803
   - https://www.designingbuildings.co.uk/wiki/Aluminium_composite_panels
-image: "assets/img/MTL-CP-ACM.jpg"
-image_credit: "Phoenix7777 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Aluminium_composite_material.png"
+apply_links:
+  - {title: "뉴욕 바카라 호텔 ACM 파사드", url: "https://www.constructionspecifier.com/acm-panels-glam-up-baccarat-hotel/"}
+  - {title: "샌프란시스코 Olume Alucobond 외장", url: "https://designandbuildwithmetal.com/featured-projects/olume"}
+  - {title: "외장재로 쓰이는 소재 개요 (ArchDaily)", url: "https://www.archdaily.com/979639/what-materials-can-be-used-for-facade-cladding"}
+image: "https://www.constructionspecifier.com/wp-content/uploads/2016/02/Baccarat_7350.jpg"
+image_credit: "적용 사례 사진 · constructionspecifier.com (원본 링크)"
+image_source: "https://www.constructionspecifier.com/acm-panels-glam-up-baccarat-hotel/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

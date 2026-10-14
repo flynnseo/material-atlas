@@ -20,9 +20,12 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
   - https://en.wikipedia.org/wiki/BoPET
-image: "assets/img/MTL-FM-MIRRORFILM.jpg"
-image_credit: "W.carter · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gull_on_glass_ceiling%2C_Kampenhof_bus_terminal%2C_Uddevalla.jpg"
+apply_links:
+  - {title: "도쿄 거울 반사면 매장 인테리어", url: "https://worldarchitecture.org/architecture-news/fzffm/mirrored-boxes-and-reflective-surfaces-create-multifaceted-perspectives-in-a-tokyo-shop"}
+  - {title: "베이징 거울 부티크 Mirror Garden", url: "https://www.ignant.com/2019/08/09/this-mirror-lined-designer-boutique-in-beijing-is-filled-with-greenery/"}
+image: "https://www.ignant.com/wp-content/uploads/2019/07/ignant-architecture-mirror-garden-004.jpg"
+image_credit: "적용 사례 사진 · ignant.com (원본 링크)"
+image_source: "https://www.ignant.com/2019/08/09/this-mirror-lined-designer-boutique-in-beijing-is-filled-with-greenery/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

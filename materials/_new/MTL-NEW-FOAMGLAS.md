@@ -22,9 +22,12 @@ hands_on: false
 sources:
   - https://www.foamglas.com/
   - https://en.wikipedia.org/wiki/Foam_glass
-image: "assets/img/MTL-NEW-FOAMGLAS.jpg"
-image_credit: "Original uploader was Radomil at pl.wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Foamed_glass_block.jpg"
+apply_links:
+  - {title: "콜체스터 Firstsite 시각예술센터 지붕·외장", url: "https://www.foamglas.com/en/references/united-kingdom/firstsite-visual-arts-centre-roof"}
+  - {title: "신규 갤러리 셀룰러 글라스 단열 적용", url: "https://www.specificationonline.co.uk/articles/2016-03-22/new-gallery-opts-for-cellular-glass-insulation"}
+image: "https://d2c6s77msf04pp.cloudfront.net/uploads/thumbnails/turner-contemporary-image9ca1d09fjpg"
+image_credit: "적용 사례 사진 · specificationonline.co.uk (원본 링크)"
+image_source: "https://www.specificationonline.co.uk/articles/2016-03-22/new-gallery-opts-for-cellular-glass-insulation"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

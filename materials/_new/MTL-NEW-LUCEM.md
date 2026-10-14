@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://lucem.com/translucent-concrete/
-image: "https://lucem.com/wp-content/uploads/2021/10/Lucem_Kueche-AC-4.jpg"
-image_credit: "출처 페이지 대표 이미지 · lucem.com (원본 링크)"
-image_source: "https://lucem.com/translucent-concrete/"
+apply_links:
+  - {title: "암만 Capital Bank 투광 콘크리트 계단실", url: "https://mail.e-architect.com/jordan/capital-bank-in-amman"}
+  - {title: "베를린 LUCEM 투광 콘크리트 파사드", url: "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/964-02/unique-lucem-light-transmitting-concrete-facade-in-berlin"}
+  - {title: "LUCEM 출입구 투광 콘크리트 사례(BAU 2023)", url: "https://lucem.com/?p=4079"}
+image: "https://cloudfront.v2com-newswire.com/data/press_kit/vignette/858/low_964-02.jpg"
+image_credit: "적용 사례 사진 · v2com-newswire.com (원본 링크)"
+image_source: "https://www.v2com-newswire.com/en/newsroom/categories/lighting-design/press-kits/964-02/unique-lucem-light-transmitting-concrete-facade-in-berlin"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

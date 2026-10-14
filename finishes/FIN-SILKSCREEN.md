@@ -25,6 +25,9 @@ sources:
 image: "assets/img/FIN-SILKSCREEN.jpg"
 image_credit: "Meul (Meul) · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:TeeshirtCopyleft_cadre.jpg"
+apply_links:
+  - {title: "건축·출입문용 실크스크린 인쇄 유리", url: "https://glasswerks.com/?p=174"}
+  - {title: "실크스크린 유리 인테리어 적용", url: "https://www.glassonline.com/?p=86701"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

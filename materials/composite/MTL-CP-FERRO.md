@@ -24,6 +24,9 @@ sources:
 image: "assets/img/MTL-CP-FERRO.jpg"
 image_credit: "Myrabella · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Arromanches-les-Bains_port_artificiel_Mulberry.jpg"
+apply_links:
+  - {title: "Anupama Kundoo 페로시멘트 Full Fill Homes", url: "https://www.dezeen.com/2016/06/07/anupama-kundoo-full-fill-homes-ferrocement-house-model-arsenale-venice-architecture-biennale-2016/amp/"}
+  - {title: "페로시멘트 모듈러 주택 (Architect)", url: "https://www.architectmagazine.com/?p=336537"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

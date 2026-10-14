@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.bcomp.com/
-image: "https://www.bcomp.com/wp-content/uploads/2023/12/be208642271eeee00f98890924466c06.jpg"
-image_credit: "출처 페이지 대표 이미지 · bcomp.com (원본 링크)"
-image_source: "https://www.bcomp.com/"
+apply_links:
+  - {title: "마르세유 국제학교 아마 복합재 차양 클래딩", url: "https://www.textileworld.com/textile-world/2024/12/bcomps-flax-composite-used-by-temca-to-create-cladding-for-shading-an-international-school-building/"}
+  - {title: "Cité Scolaire Internationale 리치오티 설계", url: "https://www.architecturelab.net/cite-scolaire-internationale-de-jacques-chirac-rudy-ricciotti-roland-carta/"}
+image: "https://wordpress.textileworld.com/wp-content/uploads/2024/12/Bcomp-photo.jpg"
+image_credit: "적용 사례 사진 · textileworld.com (원본 링크)"
+image_source: "https://www.textileworld.com/textile-world/2024/12/bcomps-flax-composite-used-by-temca-to-create-cladding-for-shading-an-international-school-building/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

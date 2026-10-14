@@ -15,9 +15,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.aurubis.com/en/nordic-copper/
-image: "https://www.aurubis.com/en/nordic-copper/ogimage"
-image_credit: "출처 페이지 대표 이미지 · aurubis.com (원본 링크)"
-image_source: "https://www.aurubis.com/en/nordic-copper/"
+apply_links:
+  - {title: "Aurubis 선패티나 Nordic Green 동판 제품", url: "https://www.aurubis.com/nordic-copper/nordic-copper-products/nordic-green"}
+  - {title: "Nordic Green 외벽·지붕 클래딩 사례", url: "https://www.buildingdesignindex.co.uk/entry/169701/VM-Building-Solutions-Ltd-UK/Nordic-Green-prepatinated-copper-wall-cladding/"}
+image: "https://www.aurubis.com/nordic-copper/nordic-copper-products/ogimage"
+image_credit: "적용 사례 사진 · aurubis.com (원본 링크)"
+image_source: "https://www.aurubis.com/nordic-copper/nordic-copper-products/nordic-green"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,9 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-GL-CAST.jpg"
-image_credit: "Kaiwhakahaere · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AKiln%20cast%20glass%20sculpture.jpg"
+apply_links:
+  - {title: "BermanGlass 킬른 캐스트 글라스 Levels", url: "https://www.architectmagazine.com/?p=350227"}
+  - {title: "불스아이 Betweenness 킬른글라스 스크린", url: "https://studio.bullseyeglass.com/a-look-at-betweenness/"}
+image: "https://studio.bullseyeglass.com/wp-content/uploads/2003/07/38740_01.jpg"
+image_credit: "적용 사례 사진 · studio.bullseyeglass.com (원본 링크)"
+image_source: "https://studio.bullseyeglass.com/a-look-at-betweenness/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,6 +22,9 @@ sources:
 image: "assets/img/MTL-FM-CUTSHEET.jpg"
 image_credit: "जाधव प्रियांका · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Vinyl_Cutter.jpg"
+apply_links:
+  - {title: "FASTSIGNS 매장 윈도 컷팅 시트", url: "https://www.fastsigns.com/manhattan-penn-station-ny/about-us/news-press/2023/december/elevating-brand-visibility-fastsigns-of-manhatta/"}
+  - {title: "윈도 그래픽 시공 사례", url: "https://blogs.alphagraphics.com/blog/westlake-ohio-us649/2017/07/13/window-graphics/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

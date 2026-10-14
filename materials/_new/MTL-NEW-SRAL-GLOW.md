@@ -21,9 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Strontium_aluminate
-image: "assets/img/MTL-NEW-SRAL-GLOW.jpg"
-image_credit: "Splarka at English Wikipedia · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Phosphorescent.jpg"
+apply_links:
+  - {title: "CORE Glow 축광 보행로·패티오 제품", url: "https://shop.coregravel.ca/pages/learn-more-core-glow"}
+image: "http://shop.coregravel.ca/cdn/shop/files/Untitled_design_5_1214d718-6486-4992-9d70-e93ada7a7d81.png?v=1612894005&width=2048"
+image_credit: "적용 사례 사진 · shop.coregravel.ca (원본 링크)"
+image_source: "https://shop.coregravel.ca/pages/learn-more-core-glow"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

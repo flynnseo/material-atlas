@@ -23,9 +23,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Kevlar
-image: "assets/img/MTL-CP-ARAMID.jpg"
-image_credit: "Industriemuseum Gent · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AStaal%20van%20aramidevezel%20van%20het%20merk%20Kevlar.jpg"
+apply_links:
+  - {title: "서울 Kolon One & Only Tower 아라미드 외장", url: "https://www.architectmagazine.com/?p=190502"}
+  - {title: "MOCA Textile Room 아라미드 파빌리온", url: "https://archello.com/project/textile-room"}
+image: "https://archello.s3.eu-central-1.amazonaws.com/images/2023/09/08/p-a-t-t-e-r-n-s-textile-room-exhibitions-archello.1694124307.8484.jpg"
+image_credit: "적용 사례 사진 · archello.com (원본 링크)"
+image_source: "https://archello.com/project/textile-room"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

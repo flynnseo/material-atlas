@@ -20,9 +20,13 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/MTL-GL-MOSAIC.jpg"
-image_credit: "Hakatai · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3AHakatai%20mosaic%20glass%20tile%20mural.jpg"
+apply_links:
+  - {title: "미니애폴리스 Masa 레스토랑 유리 모자이크", url: "https://www.stoneworld.com/articles/86329-glass-mosaics-create-a-festive-spirit-for-dining"}
+  - {title: "뉴욕 욕실 수련 유리 모자이크 벽화", url: "https://mecartworks.com/?p=21611"}
+  - {title: "에자리 유리 모자이크 인테리어", url: "https://www.ezarri.com/en/interior-design"}
+image: "https://mecartworks.com/wp-content/uploads/2019/09/FOLHA.jpg"
+image_credit: "적용 사례 사진 · mecartworks.com (원본 링크)"
+image_source: "https://mecartworks.com/?p=21611"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

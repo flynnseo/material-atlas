@@ -10,9 +10,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
-image: "assets/img/FIN-TEXTURE-PAINT.jpg"
-image_credit: "Nikodem Nijaki · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ATexture%20old%20wall.jpg"
+apply_links:
+  - {title: "스프레이 텍스처 제품·질감 예시(CertainTeed)", url: "https://www.certainteed.com/products/drywall-products/spray-texture"}
+image: "https://www.certainteed.com/sites/drupalvm.dev/themes/certainteed/ct_bootstrap/images/CTOGImage1_1200x630.jpg"
+image_credit: "적용 사례 사진 · certainteed.com (원본 링크)"
+image_source: "https://www.certainteed.com/products/drywall-products/spray-texture"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

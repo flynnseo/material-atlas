@@ -32,9 +32,13 @@ sources:
   - https://en.wikipedia.org/wiki/Decorative_laminate
   - https://dinmedia.de/en/standard/din-en-438-1/238898874
   - https://icdli.com/TL 150729 Manufacturing of HPL.pdf
-image: "assets/img/MTL-CP-HPL.jpg"
-image_credit: "Андрей Перцев 1967 · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Decorative_laminate_07827.jpg"
+apply_links:
+  - {title: "유닐린 HPL 인테리어 패널링 사례", url: "https://www.designboom.com/design/unilin-panels-hpl-interior-designs-material-11-16-2021/"}
+  - {title: "HPL 고성능 라미네이트 디자인 활용", url: "https://frameweb.com/article/why-this-brands-high-performance-laminate-is-a-top-design-asset"}
+  - {title: "포르미카 HPL 케이스 스터디", url: "https://source.thenbs.com/en/manufacturer/formica-group/kAUzfnG5oGQSpgStPVTpwp/case-studies"}
+image: "https://www.designboom.com/twitterimages/uploads/2020/11/unilin-panels-hpl-interior-designs-material-designboom-facebook.jpg"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/design/unilin-panels-hpl-interior-designs-material-11-16-2021/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

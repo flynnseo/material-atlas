@@ -34,6 +34,10 @@ sources:
 image: "assets/img/MTL-CP-HPL-COLORCORE.jpg"
 image_credit: "Андрей Перцев 1967 · CC0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Decorative_laminate_07827.jpg"
+apply_links:
+  - {title: "폴리레이 모노크롬 컬러코어 HPL 주방", url: "https://en.polyrey.com/products-monochrom-vibration-hpl"}
+  - {title: "폴리레이 주거 공간 HPL 적용", url: "https://en.polyrey.com/residential"}
+  - {title: "레조팔 스루컬러 코어 HPL", url: "https://www.resopal.de/products/hpl-special-products/through-color-core-en"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

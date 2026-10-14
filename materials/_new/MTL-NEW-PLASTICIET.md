@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://plasticiet.com/
-image: "http://static1.squarespace.com/static/68c4009502c091522cfba509/t/68cfd0ad0f573d445008e04b/1758449837220/plasticiet.png?format=1500w"
-image_credit: "출처 페이지 대표 이미지 · plasticiet.com (원본 링크)"
-image_source: "https://plasticiet.com/"
+apply_links:
+  - {title: "Plasticiet Mother of Pearl 재생 PC 가구 (Dezeen)", url: "https://www.dezeen.com/2020/03/20/plasticiet-mother-of-pearl-furniture/"}
+  - {title: "재생 폴리카보네이트 가구", url: "https://materialdistrict.com/article/furniture-recycled-polycarbonate-waste/"}
+image: "https://media.materialdistrict.com/wp-content/uploads/2020/04/furniture-recycled-polycarbonate-waste-materialdistrict-7-scaled.jpg?v=20200416123932"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/article/furniture-recycled-polycarbonate-waste/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

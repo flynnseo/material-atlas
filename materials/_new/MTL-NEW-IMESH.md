@@ -21,9 +21,13 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/i-mesh/
-image: "https://media.materialdistrict.com/wp-content/uploads/2017/04/i-mesh-pla1051-10.jpg?v=20191126122831"
-image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
-image_source: "https://materialdistrict.com/material/i-mesh/"
+apply_links:
+  - {title: "베니스 건축 비엔날레 i-Mesh 설치", url: "https://www.i-mesh.eu/projects/biennale-di-architettura-di-venezia"}
+  - {title: "가르다 호수 빌라 i-Mesh 외부 패널", url: "https://www.i-mesh.eu/projects/villa-v-lake-garda"}
+  - {title: "살로네 델 모빌레 i-Mesh 임시 설치", url: "https://i-mesh.eu/applications/temporary-outdoor"}
+image: "https://cdn.prod.website-files.com/664f62b85ca025b5519d3ac0/669a310c40913a09aba75117_0_COPERTINA.webp"
+image_credit: "적용 사례 사진 · i-mesh.eu (원본 링크)"
+image_source: "https://www.i-mesh.eu/projects/biennale-di-architettura-di-venezia"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

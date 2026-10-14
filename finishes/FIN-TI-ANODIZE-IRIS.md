@@ -16,9 +16,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Anodizing
   - https://www.nipponsteel.com/en/product/trantixxii/
-image: "assets/img/FIN-TI-ANODIZE-IRIS.jpg"
-image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
+apply_links:
+  - {title: "TiColor 티타늄 양극산화 건축·디자인 소재", url: "https://cms.materialdistrict.com/material/ticolor/"}
+image: "https://media.materialdistrict.com/wp-content/uploads/2010/02/COA065-1.jpg?v=20130830131124"
+image_credit: "적용 사례 사진 · cms.materialdistrict.com (원본 링크)"
+image_source: "https://cms.materialdistrict.com/material/ticolor/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.weezandmerl.com/
-image: "https://static.wixstatic.com/media/e255f8_d00f14cf392e4acead8ca65a014a5e54~mv2.jpg/v1/fill/w_2500,h_1250,al_c/e255f8_d00f14cf392e4acead8ca65a014a5e54~mv2.jpg"
-image_credit: "출처 페이지 대표 이미지 · weezandmerl.com (원본 링크)"
-image_source: "https://www.weezandmerl.com/"
+apply_links:
+  - {title: "Unity Place 윈도 설치작 재생 LDPE", url: "https://www.ginkgoprojects.co.uk/unity-place"}
+  - {title: "Weez & Merl 재생 비닐 하우스웨어", url: "https://design-milk.com/weez-merl-turn-plastic-carrier-bags-into-housewares-surfboard-fins-more/"}
+image: "https://design-milk.com/images/2021/05/Featured-image-Weez-and-Merl.jpg"
+image_credit: "적용 사례 사진 · design-milk.com (원본 링크)"
+image_source: "https://design-milk.com/weez-merl-turn-plastic-carrier-bags-into-housewares-surfboard-fins-more/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

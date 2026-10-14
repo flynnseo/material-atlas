@@ -20,9 +20,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Linoleum
-image: "assets/img/MTL-FM-LINOLEUM.jpg"
-image_credit: "Concord · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Linoleum_003.jpg"
+apply_links:
+  - {title: "포르보 리놀륨 학생 챌린지 가구", url: "https://www.forbo.com/flooring/en-gl/inspiration-references/student-challenges/student-challenge-willem-de-kooning/pa2yyy"}
+  - {title: "밀라노 리놀륨 스툴·벤치 전시", url: "https://www.alcova.xyz/exhibitions/milano-2023/linoleum"}
+  - {title: "HFT 슈투트가르트 포르보 리노 연출", url: "https://hft-stuttgart.com/studies/fields-of-study/architecture-and-design/projects/imiad-staging-lino"}
+image: "https://alcova-directus.luigigorlero.com/assets/75337c08-0e64-4be3-8fdf-f8769b9ddf41"
+image_credit: "적용 사례 사진 · alcova.xyz (원본 링크)"
+image_source: "https://www.alcova.xyz/exhibitions/milano-2023/linoleum"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

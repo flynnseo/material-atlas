@@ -22,9 +22,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
   - https://en.wikipedia.org/wiki/BoPET
-image: "assets/img/MTL-FM-PET.jpg"
-image_credit: "Anton · CC BY-SA 2.5 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Myla32rp.jpg"
+apply_links:
+  - {title: "세르주페라리 본사 rPET 대형 파사드", url: "https://www.archify.com/au/product/serge-ferrari-au/updates/detail/50-years-of-commitment-a-monumental-facade-printed-in-the-serge-ferrari-group-colors"}
+image: "https://image-apac.archify.com/catalog/supplier_updates/s/m2st2s3x.jpg"
+image_credit: "적용 사례 사진 · archify.com (원본 링크)"
+image_source: "https://www.archify.com/au/product/serge-ferrari-au/updates/detail/50-years-of-commitment-a-monumental-facade-printed-in-the-serge-ferrari-group-colors"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

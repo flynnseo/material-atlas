@@ -25,6 +25,8 @@ sources:
 image: "assets/img/MTL-CP-FFPLY.jpg"
 image_credit: "Bystander · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Spruce_plywood.JPG"
+apply_links:
+  - {title: "필름 코팅 자작합판 제품(질감 샘플)", url: "https://www.penn-elcom.com/us/3-8-film-faced-high-quality-birch-with-blue-textured-phenolic-m846209"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

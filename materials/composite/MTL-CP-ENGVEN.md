@@ -20,9 +20,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Engineered_wood
-image: "assets/img/MTL-CP-ENGVEN.jpg"
-image_credit: "Daniel Christensen (talk) · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ARCA%20Dimensia%20wood%20grain%20veneer%20cabinet.JPG"
+apply_links:
+  - {title: "Alpilignum 엔지니어드 베니어 컬렉션", url: "https://materialdistrict.com/material/alpilignum-design-collection/"}
+  - {title: "DIRTT 재구성 베니어 마감", url: "https://www.dirtt.com/finishes-and-materials/veneer/reconstituted"}
+image: "https://media.materialdistrict.com/wp-content/uploads/2013/08/WOO227-1.jpg?v=20130829144129"
+image_credit: "적용 사례 사진 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/alpilignum-design-collection/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

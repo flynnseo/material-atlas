@@ -23,6 +23,9 @@ sources:
 image: "assets/img/MTL-FM-INTFILM.jpg"
 image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
+apply_links:
+  - {title: "3M 건축 마감 필름 영감 갤러리", url: "https://www.3m.co.uk/3M/en_GB/architectural-design-UK/resources/inspiration-gallery/"}
+  - {title: "3M DI-NOC 건축 필름 제품", url: "https://eaa.3m.com/3M/en_US/architectural-design-us/m/dinoc/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

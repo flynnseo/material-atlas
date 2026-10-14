@@ -23,9 +23,11 @@ sources:
   - https://en.wikipedia.org/wiki/Wood_finishing
   - https://www.canadianwoodworking.com/tipstechniques/hardwax-oil
   - https://greenbuildingnews.com/2012/03/21/natural-hard-wax-oil-finish/
-image: "assets/img/FIN-WOOD-OIL.jpg"
-image_credit: "Vermont Timber Works Inc. · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Worker_Applying_a_Wood_Finish.jpg"
+apply_links:
+  - {title: "Osmo 하드왁스 오일 마감 제품 소개", url: "https://www.woodcraft.com/blogs/sanding-finishing/osmo-has-a-hardwax-oil-finish-for-all-of-your-projects"}
+image: "http://www.woodcraft.com/cdn/shop/articles/1a5b8463122a6013a04f0ca53ac21027_65b18aec-8029-428e-ac7d-f95723f3c62b.png?v=1773318069"
+image_credit: "적용 사례 사진 · woodcraft.com (원본 링크)"
+image_source: "https://www.woodcraft.com/blogs/sanding-finishing/osmo-has-a-hardwax-oil-finish-for-all-of-your-projects"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

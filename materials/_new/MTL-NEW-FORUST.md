@@ -21,9 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.forust.com
-image: "https://prod.forust.com/uploads/_seoThumbnail310x310/Forust_About_01.png"
-image_credit: "출처 페이지 대표 이미지 · forust.com (원본 링크)"
-image_source: "https://www.forust.com"
+apply_links:
+  - {title: "이브 베하르×Forust 3D프린팅 우드 홈웨어 (Dezeen)", url: "https://www.dezeen.com/2021/05/13/yves-behar-3d-prints-forust-homeware-from-reclaimed-wood-waste/amp/"}
+  - {title: "Forust 3D프린팅 목재 인테리어 제작", url: "https://www.3dnatives.com/en/forust-3d-interview-270820206/amp/"}
+image: "https://www.3dnatives.com/en/wp-content/uploads/sites/2/2020/08/Untitled-5.jpg"
+image_credit: "적용 사례 사진 · 3dnatives.com (원본 링크)"
+image_source: "https://www.3dnatives.com/en/forust-3d-interview-270820206/amp/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

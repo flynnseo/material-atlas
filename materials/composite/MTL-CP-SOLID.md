@@ -22,9 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Corian
-image: "assets/img/MTL-CP-SOLID.jpg"
-image_credit: "Ggrrdll · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File%3ASolid%20Surface%20Top%20Seamless%20Integral%20Kitchen%20Sink.JPG"
+apply_links:
+  - {title: "코리안 리테일 매장 디자인 적용", url: "https://indesignlive.com/products/dupont-corian-retail-design"}
+  - {title: "크리온 상업공간 솔리드서피스", url: "https://www.krion.com/uk/sectors/commercial-business-premises"}
+image: "https://cdn.indesignlive.com/wp-content/uploads/2013/10/jacobs-and-co.jpg"
+image_credit: "적용 사례 사진 · indesignlive.com (원본 링크)"
+image_source: "https://indesignlive.com/products/dupont-corian-retail-design"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

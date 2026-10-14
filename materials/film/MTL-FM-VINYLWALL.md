@@ -22,6 +22,10 @@ sources:
 image: "assets/img/MTL-FM-VINYLWALL.jpg"
 image_credit: "Rawpixel · CC BY-SA 4.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00015.jpg"
+apply_links:
+  - {title: "로스토크 래디슨 블루 비닐 벽지", url: "https://vescom.com/en/project/vinyl-wallcovering-for-the-radisson-blu-hotel"}
+  - {title: "호텔 더 플로렌틴 비닐 벽지", url: "https://vescom.com/en/inspiration/projects/hotel-the-florentine"}
+  - {title: "브레다 호텔 나사우 벽지", url: "https://vescom.com/en/hotel-nassau-breda-holland"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

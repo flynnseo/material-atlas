@@ -24,6 +24,10 @@ sources: []
 image: "assets/img/MTL-GL-TEMPER.jpg"
 image_credit: "Ox1997cow · CC BY-SA 3.0 · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File%3ATempered%20Glass%20broken%20by%20itself.jpg"
+apply_links:
+  - {title: "브리즈번 글래스하우스 곡면 강화유리 파사드", url: "https://www.dezeen.com/?p=2342105"}
+  - {title: "환기형 유리 파사드 (RIBA)", url: "https://www.ribaj.com/spec/sophisticated-ventilated-glass-facades/"}
+  - {title: "쇼이텐 유리 파사드 시공 사례", url: "https://scheuten.com/en/scheuten-projects/applications/facade-construction"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의
