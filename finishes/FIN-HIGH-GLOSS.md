@@ -12,9 +12,11 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyurethane
-image: "assets/img/FIN-HIGH-GLOSS.jpg"
-image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
+apply_links:
+  - {title: "하이글로스 도장 바·벽 인테리어 활용", url: "https://mainehomedesign.com/?p=36714"}
+image: "https://d3qyu496o2hwvq.cloudfront.net/wp-content/uploads/2023/03/2022-05-16-Leandra-Cumberland-Foreside-PRINT-%C2%A9-Jeff-Roberts-Imaging-2.jpg"
+image_credit: "적용 사례 사진 · mainehomedesign.com (원본 링크)"
+image_source: "https://mainehomedesign.com/?p=36714"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

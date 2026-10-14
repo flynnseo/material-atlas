@@ -11,9 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Powder_coating
-image: "assets/img/FIN-POWDER-COAT.jpg"
-image_credit: "Speedoflight1 · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:UV_Cured_Powder_Coating_on_Carbon_Fiber_.jpg"
+apply_links:
+  - {title: "DSV 본사 진주광 분체도장 파사드", url: "https://www.teknos.com/industrial-coatings/showroom/dsv/"}
+  - {title: "멜버른 A'Beckett Tower 분체도장 스크린", url: "https://architectureanddesign.com.au/suppliers/aaf-australian-aluminium-finishing/a-beckett-tower-completed-with-australian-alum-1"}
+  - {title: "게이츠헤드 주차장 분체도장 알루미늄 패널", url: "https://source.thenbs.com/case-study/gateshead-mscp-continuum-aluminium-panel-facade-system-and-aspect-rainscreen-cladding/bSABzNCpAENEfKyzQptLwz/iuhkWTNhxogh6EsxM7sfGf"}
+image: "https://www.teknos.com/globalassets/teknos.com/industrial-coatings/showroom/steel--aluminium/dsv_1920x1080.jpg"
+image_credit: "적용 사례 사진 · teknos.com (원본 링크)"
+image_source: "https://www.teknos.com/industrial-coatings/showroom/dsv/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

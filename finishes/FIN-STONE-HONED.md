@@ -10,6 +10,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "인터컨티넨탈 크레타 대리석 석공사", url: "https://www.archdaily.com/catalog/us/products/38226/marble-stonework-at-intercontinental-crete-stonetech"}
+  - {title: "혼드 석회암 소재 페이지", url: "https://materialsassemble.com/materials-library/marble-stones/natural-stones/limestone/honed-finish-limestone-effe-natural-stone"}
+image: "https://neufert-cdn.archdaily.net/uploads/photo/image/408353/cropped_large_Didimon-Ribbed-Desks-Honed-Floors-Intercontinental-Crete-Stonetech.jpg?v=1754929450"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/catalog/us/products/38226/marble-stonework-at-intercontinental-crete-stonetech"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

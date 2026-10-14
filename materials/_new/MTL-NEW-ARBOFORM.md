@@ -21,6 +21,8 @@ status: draft
 hands_on: false
 sources:
   - https://www.tecnaro.de/en/
+apply_links:
+  - {title: "Arboform 액체 목재 소재 소개", url: "https://spotmaterial.com/article/arboform-liquid-wood/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

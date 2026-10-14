@@ -24,6 +24,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sheet_moulding_compound
+apply_links:
+  - {title: "SMC 패널 이벤트 파빌리온", url: "https://www.compositesworld.com/articles/event-pavilion-smc-panels-ensure-architectural-authenticity"}
+  - {title: "BFG SMC 건축 랜드마크", url: "https://www.bfgarchitecture.com/landmarks-in-architecture"}
+image: "http://www.bfgarchitecture.com/uploads/1/1/5/5/115551207/published/heydar-aliyev-center-zaha-hadid-architects.jpg?1514922308"
+image_credit: "적용 사례 사진 · bfgarchitecture.com (원본 링크)"
+image_source: "https://www.bfgarchitecture.com/landmarks-in-architecture"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

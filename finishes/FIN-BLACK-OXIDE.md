@@ -23,9 +23,13 @@ sources:
   - https://en.wikipedia.org/wiki/Black_oxide
   - https://finishingandcoating.com/index.php/conversion/503-a-review-of-functional-and-decorative-black-oxide-coatings
   - https://engineersedge.com/black_oxide.htm
-image: "assets/img/FIN-BLACK-OXIDE.jpg"
-image_credit: "Andrew Pertsev · CC0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Screw_Head_-_Slotted-Phillips_%28pan_head%2C_black_oxide%29.jpg"
+apply_links:
+  - {title: "Zahner Oscura 실내용 흑색 강판", url: "https://www.azahner.com/materials/blackened-steel"}
+  - {title: "윌로우램프 블랙 옥사이드 조명 마감", url: "https://sadecor.co.za/interior-design-blog/lighting/introducing-willowlamps-new-black-oxide-finish/"}
+  - {title: "건축용 흑색 강판 계단·벽난로 적용", url: "https://www.cocometalcraft.com/blackened-steel-for-architectural-design"}
+image: "https://azahner.com/wp-content/uploads/2025/11/Zahner-Oscura-Oscura_0054278-1920x1439.jpg"
+image_credit: "적용 사례 사진 · azahner.com (원본 링크)"
+image_source: "https://www.azahner.com/materials/blackened-steel"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

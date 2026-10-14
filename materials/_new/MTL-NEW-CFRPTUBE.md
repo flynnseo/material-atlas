@@ -23,6 +23,12 @@ hands_on: false
 sources:
   - https://www.rockwestcomposites.com/
   - https://en.wikipedia.org/wiki/Carbon-fiber-reinforced_polymer
+apply_links:
+  - {title: "싱가포르 레스토랑 CFRP 조명 오브제", url: "https://agb.co.jp/works/detail/?id=425"}
+  - {title: "Gerber Möbel CFRP 몰 좌석", url: "https://ifgroup.org/en/project/gerber-moebel"}
+image: "https://www.agb.co.jp/assets/image/common/og_img.jpg"
+image_credit: "적용 사례 사진 · agb.co.jp (원본 링크)"
+image_source: "https://agb.co.jp/works/detail/?id=425"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

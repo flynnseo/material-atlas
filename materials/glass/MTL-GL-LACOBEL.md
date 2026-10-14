@@ -21,6 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "백페인트 유리 인테리어 적용(프라하 호텔 등)", url: "https://interiordesign.net/designwire/back-painted-glass-is-the-sleek-solution-for-inspiring-spaces/"}
+  - {title: "백페인트 유리 럭셔리 스페이스 적용", url: "https://www.architectmagazine.com/design/achieve-luxury-by-specifying-back-painted-glass/"}
+image: "https://interiordesign.net/wp-content/uploads/2021/06/idphoto_AGC.jpg"
+image_credit: "적용 사례 사진 · interiordesign.net (원본 링크)"
+image_source: "https://interiordesign.net/designwire/back-painted-glass-is-the-sleek-solution-for-inspiring-spaces/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

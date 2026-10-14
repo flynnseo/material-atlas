@@ -16,9 +16,12 @@ hands_on: false
 sources:
   - https://www.worldstainless.org/about-stainless/process-and-production/surface-treatment/
   - https://en.wikipedia.org/wiki/Polishing_(metalworking)
-image: "assets/img/FIN-MIRROR.jpg"
-image_credit: "Mgeurts · CC BY 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Unpolished_and_polished_silver_artwork_pieces.jpg"
+apply_links:
+  - {title: "애플스토어 미러 스테인리스 적용", url: "https://michaelsteeber.com/glossary/materials/mirrored-stainless-steel"}
+  - {title: "미러 스테인리스 건축·인테리어 적용", url: "https://www.sakysteel.com/news/applications-of-mirror-stainless-steel-sheet-in-modern-architecture-and-interior-design"}
+image: "https://michaelsteeber.com/glossary/images/mirrored_stainless_steel.jpg"
+image_credit: "적용 사례 사진 · michaelsteeber.com (원본 링크)"
+image_source: "https://michaelsteeber.com/glossary/materials/mirrored-stainless-steel"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "Knoll Imago 패브릭 레진 패널", url: "https://www.bdcnetwork.com/knoll-imago-frozen-fabrics-resin-panels"}
+  - {title: "건축용 레진 패널 모음", url: "https://www.bdcnetwork.com/home/article/55146450/architectural-resin-panels"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

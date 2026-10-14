@@ -11,9 +11,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Vitreous_enamel
-image: "assets/img/FIN-ENAMEL.jpg"
-image_credit: "Jean-Pol GRANDMONT · CC BY 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:0_Reliquaire_grandmontain_-_MR_2648_-_Louvre_%281%29.JPG"
+apply_links:
+  - {title: "법랑 강판 클래딩 건축 사양", url: "https://www.ribaj.com/spec/specified-cladding-feb-nov-2013/"}
+  - {title: "VitraNamel 법랑 클래딩 패널", url: "https://source.thenbs.com/product/vitranamel-cladding/cyqa5hjo9vDdHbkGbio3Ad/ihAwCX5JjHCYtY4LwzH63W"}
+image: "https://asset.source.thenbs.com/api/thumbnail/db5defcd-1f2e-451b-b91f-e2711029b95b"
+image_credit: "적용 사례 사진 · source.thenbs.com (원본 링크)"
+image_source: "https://source.thenbs.com/product/vitranamel-cladding/cyqa5hjo9vDdHbkGbio3Ad/ihAwCX5JjHCYtY4LwzH63W"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

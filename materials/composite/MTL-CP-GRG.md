@@ -18,6 +18,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "두바이 시티워크 살롱 GRG 시공", url: "https://gulfconstructiononline.com/ArticleTA/266363/The-Fitout-creates-inspiring-interiors-for-salon-at-City-Walk"}
+  - {title: "GFRG 인테리어 소재 페이지", url: "https://advancedarchitecturalstone.com/materials/gfrg/"}
+image: "https://gulfconstructiononline.com//source/2022/08/29/fit3.jpg"
+image_credit: "적용 사례 사진 · gulfconstructiononline.com (원본 링크)"
+image_source: "https://gulfconstructiononline.com/ArticleTA/266363/The-Fitout-creates-inspiring-interiors-for-salon-at-City-Walk"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

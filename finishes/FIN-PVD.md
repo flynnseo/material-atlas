@@ -17,6 +17,9 @@ sources:
 image: "assets/img/FIN-PVD.jpg"
 image_credit: "NASA/Marvin G. Smith (Wyle Information Systems LLC) · Public domain · Wikimedia Commons"
 image_source: "https://commons.wikimedia.org/wiki/File:Plasma_Spray-Physical_Vapor_Deposition.jpg"
+apply_links:
+  - {title: "상하이 번드 문화센터 로즈골드 PVD 파사드", url: "https://www.doublestonesteel.com/case-studies/case-study-shanghai-bund-financial-centre/attachment/shanghai-bund-financial-centre-02-17-lrg/"}
+  - {title: "PVD 스테인리스 V그루빙 사무동 입구", url: "https://www.thefabricator.com/thefabricator/product/finishing/v-grooving-of-pvd-coated-stainless-gives-architectural-metal-fabricator-a-durable-alternative"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

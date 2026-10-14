@@ -20,6 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "Pilkington Optiwhite 저철분 유리 제품", url: "https://www.archdaily.com/catalog/us/products/36159/low-iron-extra-clear-glass-pilkington-optiwhite-pilkington"}
+  - {title: "Guardian UltraClear 인테리어 적용", url: "https://www.glass-international.com/news/guardian-ultraclear-low-iron-glass-helps-interior-designers-and-architects"}
+image: "https://neufert-cdn.archdaily.net/uploads/photo/image/375280/cropped_large_Optiwhite4.jpg?v=1791918046"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/catalog/us/products/36159/low-iron-extra-clear-glass-pilkington-optiwhite-pilkington"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

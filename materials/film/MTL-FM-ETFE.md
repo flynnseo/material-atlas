@@ -22,6 +22,13 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Ethylene_tetrafluoroethylene
   - https://en.wikipedia.org/wiki/Tensile_structure
+apply_links:
+  - {title: "함부르크 하버시티 사무동 ETFE 파사드", url: "https://www.euroshop-tradefair.com/en/Home/Archive/Plenty_of_light_for_a_modern_working_environmentFacade_of_3M_Dyneon_ETFE_in_the_Hamburg_Harbor_City"}
+  - {title: "캉 연구소 ETFE 쿠션 파사드", url: "https://buitink-technology.com/architecture/etfe-cushion-roof/etfe-air-cushion-systems-facade-caen/"}
+  - {title: "Koch Membranen ETFE 파사드 사례", url: "https://www.architonic.com/en/p/facades-1435872"}
+image: "https://www.buitink-technology.com/media/mffj2ein/etfe-facade-caen_10.jpg"
+image_credit: "적용 사례 사진 · buitink-technology.com (원본 링크)"
+image_source: "https://buitink-technology.com/architecture/etfe-cushion-roof/etfe-air-cushion-systems-facade-caen/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

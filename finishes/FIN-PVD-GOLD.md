@@ -12,9 +12,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
-image: "assets/img/FIN-PVD-GOLD.jpg"
-image_credit: "NASA/Marvin G. Smith (Wyle Information Systems LLC) · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Plasma_Spray-Physical_Vapor_Deposition.jpg"
+apply_links:
+  - {title: "쿠웨이트 할베이니콜스 골드 PVD 파사드", url: "https://www.doublestonesteel.com/case-studies/harvey-nichols/"}
+  - {title: "런던 나이츠브리지 백화점 에스컬레이터홀", url: "https://www.johndesmond.com/case-studies/returning-a-knightsbridge-stores-escalator-hall-to-a-former-glory/"}
+image: "https://www.dssel.com/wp-content/uploads/2017/06/caseStudy-harrods-01.jpg"
+image_credit: "적용 사례 사진 · johndesmond.com (원본 링크)"
+image_source: "https://www.johndesmond.com/case-studies/returning-a-knightsbridge-stores-escalator-hall-to-a-former-glory/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

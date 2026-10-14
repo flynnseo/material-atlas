@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "Re.Wrap 패브릭 랩 흡음 시스템", url: "https://www.dezeen.com/2023/05/19/rewrap-acoustic-panels-the-collective-agency-dezeen-showroom/"}
+  - {title: "고교 강당 패브릭 패널 시공", url: "https://commercial-acoustics.com/case-studies/auditorium-sound-treatment-fabric-panels-prchs"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

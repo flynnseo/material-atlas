@@ -22,9 +22,11 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Gold_plating
   - https://pfonline.com/articles/thin-gold
-image: "assets/img/FIN-GOLD-PLATE.jpg"
-image_credit: "NASA/JPL · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg"
+apply_links:
+  - {title: "홍콩 스키아파렐리 브러시드 골드 파사드", url: "https://www.designboom.com/architecture/hong-kong-schiaparelli-gold-boutique-halleroed/"}
+image: "https://www.designboom.com/twitterimages/uploads/2026/01/schiaparelli-hong-kong-halleroed-daniel-roseberry-designboom-FB.jpg"
+image_credit: "적용 사례 사진 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/architecture/hong-kong-schiaparelli-gold-boutique-halleroed/"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

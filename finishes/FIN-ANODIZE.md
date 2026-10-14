@@ -13,9 +13,12 @@ hands_on: false
 sources:
   - https://www.anodizing.org/page/military-spec-anodic-coatings
   - https://en.wikipedia.org/wiki/Anodizing
-image: "assets/img/FIN-ANODIZE.jpg"
-image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
+apply_links:
+  - {title: "뉴욕 몽클레르 매장 골드 아노다이징 설치물", url: "https://www.alcircle.com/news/anodized-aluminium-and-led-light-installation-draws-visitors-to-moncler-store-at-manhattan-26939"}
+  - {title: "멕시코시티 Troquer 골드 알루미늄 바 인테리어", url: "https://domusweb.it/en/news/2016/07/14/zeller_and_moye_troquer_fashion_house.html"}
+image: "https://www.domusweb.it/content/dam/domusweb/en/news/2016/07/14/zeller_and_moye_troquer_fashion_house/domus_00_fashion-house.jpg.foto.rbig.jpg"
+image_credit: "적용 사례 사진 · domusweb.it (원본 링크)"
+image_source: "https://domusweb.it/en/news/2016/07/14/zeller_and_moye_troquer_fashion_house.html"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -11,9 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Epoxy
-image: "assets/img/FIN-EPOXY-FLOOR.jpg"
-image_credit: "Acheolg · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Aerospace_epoxy_resin.jpg"
+apply_links:
+  - {title: "코블렌츠 마트 컬러 에폭시 바닥 안내 시스템", url: "https://www.remmers.co.uk/en_GB/references/edeka-goerzen-koblenz-germany/detail/1032"}
+  - {title: "의류 매장 하이빌드 에폭시 바닥", url: "https://duraamen.com/blog/high-build-epoxy-coatings/"}
+  - {title: "텍사스 매장 메탈릭 에폭시 바닥", url: "https://duraamen.com/blog/metallic-epoxy-coatings-in-a-nutrition-store-in-texas"}
+image: "https://duraamen.com/wp-content/uploads/2021/01/IMG_2476-1-scaled.jpg"
+image_credit: "적용 사례 사진 · duraamen.com (원본 링크)"
+image_source: "https://duraamen.com/blog/metallic-epoxy-coatings-in-a-nutrition-store-in-texas"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

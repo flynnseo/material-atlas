@@ -16,9 +16,12 @@ hands_on: false
 sources:
   - https://www.sculptnouveau.com/
   - https://en.wikipedia.org/wiki/Patina
-image: "assets/img/FIN-PATINA-CHEM.jpg"
-image_credit: "w:User:Micahmn · CC BY 2.5 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall.jpg"
+apply_links:
+  - {title: "황동 화학 파티나 내부 파사드 사례", url: "https://trendsideas.com/stories/brass-tacks"}
+  - {title: "Aurubis 프리패티나 구리·황동 파사드", url: "https://materialbank.eu/en/nordic-copper-nordic-brass-weathered-2312220"}
+image: "https://res.cloudinary.com/trends-publishing/image/upload/ar_1.8,c_thumb,dpr_2.0,g_center,w_800/f_auto,q_auto:best/0099400.jpg"
+image_credit: "적용 사례 사진 · trendsideas.com (원본 링크)"
+image_source: "https://trendsideas.com/stories/brass-tacks"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

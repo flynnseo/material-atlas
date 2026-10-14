@@ -21,6 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
+apply_links:
+  - {title: "폐데님 흡음 패널 프로젝트", url: "https://trendland.com/towards-a-new-matter/"}
+image: "https://trendland.com/wp-content/uploads/2019/05/Milan_Friedrich_new_material_5.jpg"
+image_credit: "적용 사례 사진 · trendland.com (원본 링크)"
+image_source: "https://trendland.com/towards-a-new-matter/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

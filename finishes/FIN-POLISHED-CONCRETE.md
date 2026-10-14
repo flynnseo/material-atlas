@@ -11,9 +11,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polished_concrete
-image: "assets/img/FIN-POLISHED-CONCRETE.jpg"
-image_credit: "Intellicents · CC BY-SA 4.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Polished_Concrete_Floor.jpg"
+apply_links:
+  - {title: "첼시 디자인 스토어 연마 콘크리트 바닥", url: "https://www.ribaj.com/spec/sumptuous-showcase-for-polished-concrete/"}
+  - {title: "블루밍데일 쇼트힐스 콘크리트 바닥", url: "https://duraamen.com/blog/bloomingdales-chooses-polished-concrete-floors/"}
+  - {title: "Neighborhood Goods 연마 콘크리트 매장", url: "https://concretedecor.net/?p=28359"}
+image: "https://duraamen.com/wp-content/uploads/2021/01/Bloomingdales_Short-Hills-300x200-1.jpg"
+image_credit: "적용 사례 사진 · duraamen.com (원본 링크)"
+image_source: "https://duraamen.com/blog/bloomingdales-chooses-polished-concrete-floors/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

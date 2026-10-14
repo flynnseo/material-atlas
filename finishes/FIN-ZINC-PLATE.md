@@ -23,6 +23,8 @@ sources:
   - https://en.wikipedia.org/wiki/Electrogalvanization
   - https://www.specialtybolt.com/wp-content/uploads/2026/03/Plating-and-Coating-sbs.pdf
   - https://glecoplating.com/electroplating-company/electroplating-zinc/
+apply_links:
+  - {title: "킹스크로스 Fenman House 아연도 몰딩", url: "https://www.johndesmond.com/eshots/04/"}
 updated: 2026-10-13
 ---
 ## 한 줄 정의

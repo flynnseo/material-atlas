@@ -11,6 +11,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinylidene_fluoride
+apply_links:
+  - {title: "PVDF 도장 금속 건축 프로젝트", url: "https://industrial.sherwin-williams.com/na/us/en/coil-extrusion/media-center/articles/PVDF-coatings-metal-architecture-projects.html"}
+  - {title: "PVDF 파사드 복원 사례", url: "https://kynaraquatec.arkema.com/en/resources/post/hpp/kynar-aquatec/pvdf-based-coating-system-makes-tough-facade-restoration-easier/"}
+image: "https://s7d2.scene7.com/is/image/sherwinwilliams/smithsoniannationalmuseumofafricanamericanhistoryandculture?wid=1200&hei=630&fit=fit"
+image_credit: "적용 사례 사진 · industrial.sherwin-williams.com (원본 링크)"
+image_source: "https://industrial.sherwin-williams.com/na/us/en/coil-extrusion/media-center/articles/PVDF-coatings-metal-architecture-projects.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

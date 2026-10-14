@@ -12,9 +12,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
-image: "assets/img/FIN-PVD-BLACK.jpg"
-image_credit: "NASA/Marvin G. Smith (Wyle Information Systems LLC) · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Plasma_Spray-Physical_Vapor_Deposition.jpg"
+apply_links:
+  - {title: "블랙 PVD 난간·아르데코 인테리어", url: "https://direct.source.thenbs.com/case-study/-/rdhYSwzyxgRozhmEusA5uJ/bqmrBcVxLJzmgRzqYwfDca"}
+  - {title: "매트 블랙 PVD 스테인리스 수전", url: "https://www.mynewsdesk.com/uk/villeroy-boch/pressreleases/matt-black-strong-new-colour-finish-for-high-quality-stainless-steel-taps-3209576"}
+image: "https://asset.source.thenbs.com/api/thumbnail/e0fc01d8-d3ed-4029-99cc-6861d1043094"
+image_credit: "적용 사례 사진 · direct.source.thenbs.com (원본 링크)"
+image_source: "https://direct.source.thenbs.com/case-study/-/rdhYSwzyxgRozhmEusA5uJ/bqmrBcVxLJzmgRzqYwfDca"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

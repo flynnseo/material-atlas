@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.sicomin.com/products/epoxy-systems/bio-based-epoxy
+apply_links:
+  - {title: "GreenPoxy 바이오 에폭시 스키 제작", url: "https://www.compositesworld.com/kc/sustainability/articles/80-bio-based-epoxy-moves-ski-manufacturing-toward-zero-impact-goals"}
+  - {title: "GreenPoxy 보드스포츠 적용", url: "https://www.boardsportsource.com/?p=90958"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -11,6 +11,10 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Photochemical_machining
+apply_links:
+  - {title: "Eco-Etch 엘리베이터 에칭 패턴", url: "https://forms-surfaces.com/news/new-eco-etch-patterns-play-light-dimension"}
+  - {title: "Mosun 에칭 스테인리스 포트폴리오", url: "https://mosun.com/portfolio/details.php?pid=23"}
+  - {title: "GKD 에칭 스테인리스 메쉬", url: "https://www.gkd-group.com/en/?p=94510"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

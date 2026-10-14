@@ -21,6 +21,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "곡면 유리 파사드(엘프필하모니 등)", url: "https://wfmmedia.com/shaping-glass-facades-in-age-of-parametric-design/"}
+image: "https://wfmmedia.com/wp-content/uploads/2020/04/Shaping-Glass-Facades-in-Age-of-Parametric-Design-1.webp"
+image_credit: "적용 사례 사진 · wfmmedia.com (원본 링크)"
+image_source: "https://wfmmedia.com/shaping-glass-facades-in-age-of-parametric-design/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

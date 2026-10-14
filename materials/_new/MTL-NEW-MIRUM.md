@@ -21,6 +21,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.nfw.earth/
+apply_links:
+  - {title: "MIRUM 자동차 인테리어 Sage 협업", url: "https://vegconomist.com/non-food/leather-alternatives/nfw-sage-automotive-interiors-revolutionize-cars-plant-based-leather/"}
+image: "https://vegconomist.com/wp-content/uploads/sites/3/Sage-car-interiors-e1699976809890.jpg"
+image_credit: "적용 사례 사진 · vegconomist.com (원본 링크)"
+image_source: "https://vegconomist.com/non-food/leather-alternatives/nfw-sage-automotive-interiors-revolutionize-cars-plant-based-leather/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

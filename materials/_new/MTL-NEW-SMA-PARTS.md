@@ -22,6 +22,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Shape-memory_alloy
+apply_links:
+  - {title: "Reef 형상기억합금 설치작품 뉴욕", url: "https://www.domusweb.it/en/news/2009/07/27/reef-at-storefront-new-york.amp.html"}
+  - {title: "건축 SMA 액추에이터 연구", url: "https://hpbc.arch.vt.edu/design-research/design/Shape-Memory-Alloy-Actuators.html"}
+image: "https://hpbc.arch.vt.edu/content/hpbc_arch_vt_edu/en/design-research/design/Shape-Memory-Alloy-Actuators/_jcr_content/article-image.transform/l-medium/image.jpg"
+image_credit: "적용 사례 사진 · hpbc.arch.vt.edu (원본 링크)"
+image_source: "https://hpbc.arch.vt.edu/design-research/design/Shape-Memory-Alloy-Actuators.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

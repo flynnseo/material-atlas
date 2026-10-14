@@ -24,9 +24,13 @@ sources:
   - https://buildingconservation.com/articles/gilding/gilding.htm
   - https://rct.uk/collection/conservation/gilding
   - https://www.mfa.org/collections/conservation/conservation-in-action/benjamin-west-frame/march-2015
-image: "assets/img/FIN-GILDING.jpg"
-image_credit: "Juangonzalez64 at English Wikipedia · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Gilded_frame_being_burnished_with_agate_tool.jpg"
+apply_links:
+  - {title: "샌프란시스코 오페라하우스 등 금박 복원", url: "https://johncanningco.com/art-and-process-of-gilding/"}
+  - {title: "인테리어 금박 적용 아이디어", url: "https://stonehouses.co.uk/blog/pure-gold-leaf-top-interior-design-ideas-and-tips"}
+  - {title: "파리 Stella Cadente 전면 금박 매장", url: "https://www.dezeen.com/2012/05/12/stella-cadente-paris-by-atelier-du-pont/amp/"}
+image: "http://stonehouses.co.uk/cdn/shop/files/10371482_641539995931541_5593741452111543346_n.png?v=1753439232"
+image_credit: "적용 사례 사진 · stonehouses.co.uk (원본 링크)"
+image_source: "https://stonehouses.co.uk/blog/pure-gold-leaf-top-interior-design-ideas-and-tips"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -15,9 +15,11 @@ status: draft
 hands_on: false
 sources:
   - https://www.livingink.co/
-image: "http://static1.squarespace.com/static/65662abc8bc75834d74f34c2/t/673cd312b414ac2a24a82a3b/1790879517663/P%2BC-Living+Ink-316.jpg?format=1500w"
-image_credit: "출처 페이지 대표 이미지 · livingink.co (원본 링크)"
-image_source: "https://www.livingink.co/"
+apply_links:
+  - {title: "Waiākea 라벨에 적용된 조류 블랙 잉크", url: "https://www.packaginginsights.com/news/actega-living-ink-algae-black-printing.html"}
+image: "https://article-cns.cnsmedia.com/articleimgs/resized_rect_newsimages/jpg/6391013393512821292026_act_kv_algaeblack_1u26x1_l.jpg"
+image_credit: "적용 사례 사진 · packaginginsights.com (원본 링크)"
+image_source: "https://www.packaginginsights.com/news/actega-living-ink-algae-black-printing.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

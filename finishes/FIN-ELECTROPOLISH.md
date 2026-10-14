@@ -11,9 +11,12 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electropolishing
-image: "assets/img/FIN-ELECTROPOLISH.jpg"
-image_credit: "LaurensvanLieshout · CC BY-SA 3.0 · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Electropolishing_principle.png"
+apply_links:
+  - {title: "스테인리스 인테리어 적용 흐름", url: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"}
+  - {title: "전해연마 스테인리스 스트리트퍼니처", url: "https://streetfurniture.com/new-premium-electropolishing-for-high-end-and-coastal-projects"}
+image: "https://images.adsttc.com/media/images/677b/9b8d/8774/0101/87cd/3e0b/large_jpg/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance_21.jpg?1736154005"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/1025349/stainless-steel-in-interior-design-transforming-spaces-with-industrial-elegance"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

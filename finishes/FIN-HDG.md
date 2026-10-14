@@ -23,9 +23,13 @@ sources:
   - https://en.wikipedia.org/wiki/Hot-dip_galvanization
   - https://galvanizeit.org/knowledgebase/article/astm-a123-a123m
   - https://galvanizeit.org/knowledgebase/article/measuring-zinc-coating-thickness-of-hot-dip-galvanized-steel
-image: "assets/img/FIN-HDG.jpg"
-image_credit: "TMg · CC BY-SA 3.0 de · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Feuerverzinktes_Gel%C3%A4nder.jpg"
+apply_links:
+  - {title: "브루클린 Maujer St 아연도금 파사드", url: "https://hotdipgalvanizing.com/projects/maujer-street-facade"}
+  - {title: "오클라호마시티 주차장 아연도금 루버", url: "https://galvanizeit.org/project-gallery/123-parking-facade"}
+  - {title: "용융아연도금 건축 파사드 사례", url: "https://galvanizing.ie/facades/"}
+image: "https://cdn.prod.website-files.com/681a1b6bd64e167e801649e2/6a8da401758b45026564e201_6861a58fe9ff0ac9d2fb3a92_vs-hot-dip-galvanizing_projects_maujer-street-facade_thumbnail.jpeg"
+image_credit: "적용 사례 사진 · hotdipgalvanizing.com (원본 링크)"
+image_source: "https://hotdipgalvanizing.com/projects/maujer-street-facade"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

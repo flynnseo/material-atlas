@@ -20,6 +20,8 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "무늬유리 질감과 적용 예시", url: "https://www.vsomglass.com/textured-glass-around-our-life/"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

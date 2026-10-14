@@ -21,6 +21,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "AGC 밀라노 Amorphous 박판유리 설치", url: "https://www.agc.com/design/article/1199157_4226.html"}
+  - {title: "드래곤트레일 밀라노 디자인위크 전시", url: "https://www.glassonline.com/agc-asahi-glass-to-exhibit-dragontrail-at-milan-design-week/"}
+image: "https://www.agc.com/design/article/__icsFiles/afieldfile/2019/04/24/AGC_Amorphous0001_S.jpg"
+image_credit: "적용 사례 사진 · agc.com (원본 링크)"
+image_source: "https://www.agc.com/design/article/1199157_4226.html"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

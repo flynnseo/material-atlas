@@ -21,6 +21,11 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "프레임리스 복층유리 파사드 사례", url: "https://www.archdaily.com/1004544/seamless-transitions-and-superior-insulation-through-frameless-glass-facades/"}
+image: "https://images.adsttc.com/media/images/64cb/aa0e/4b88/3f34/2c35/c559/large_jpg/pt-seamless-transitions-and-superior-insulation-through-frameless-glass-facade_11.jpg?1691068954"
+image_credit: "적용 사례 사진 · archdaily.com (원본 링크)"
+image_source: "https://www.archdaily.com/1004544/seamless-transitions-and-superior-insulation-through-frameless-glass-facades/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

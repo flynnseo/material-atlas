@@ -20,6 +20,12 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "뉴욕 샤넬 플래그십 반강화 라미 유리", url: "https://agnora.com/projects/chanel-new-york-city-flagship/"}
+  - {title: "Centene 오피스 리클래드 파사드", url: "https://theljc.com/projects/centene-reclad"}
+image: "https://e1.nmcdn.io/theljc/wp-content/uploads/2022/06/CenteneReclad_05-scaled.jpg/v:1-width:1200-height:630-fit:cover/CenteneReclad_05-scaled.webp?signature=14d9559d"
+image_credit: "적용 사례 사진 · theljc.com (원본 링크)"
+image_source: "https://theljc.com/projects/centene-reclad"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

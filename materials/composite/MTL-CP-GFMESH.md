@@ -20,6 +20,8 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fiberglass
+apply_links:
+  - {title: "유리섬유 보강 메쉬 제품 Dakota", url: "https://archiexpo.com/prod/dakota/product-150519-2147369.html"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

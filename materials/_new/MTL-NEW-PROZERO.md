@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://prometheusmaterials.com
+apply_links:
+  - {title: "뉴욕 기후거래소 ProZERO 포장", url: "https://www.som.com/?p=161203"}
+  - {title: "SOM 시카고 비엔날레 조류 벽돌", url: "https://www.dezeen.com/2023/09/27/som-algae-bricks-chicago-architecture-biennial/"}
+image: "https://www.som.com/wp-content/uploads/2026/03/221482_002_The_New_York_Climate_Exchange_N21_med-1772550241.jpg"
+image_credit: "적용 사례 사진 · som.com (원본 링크)"
+image_source: "https://www.som.com/?p=161203"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

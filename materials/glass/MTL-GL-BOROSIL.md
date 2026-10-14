@@ -21,6 +21,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+apply_links:
+  - {title: "코닝유리박물관 카페 붕규산 유리 스크린벽", url: "https://oldblog.cmog.org/?p=4490"}
+  - {title: "포르투갈어박물관 붕규산 글라스 시리즈", url: "https://joaquimportelaarquitetos.com/en/works/b012004-silo-series-glass"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

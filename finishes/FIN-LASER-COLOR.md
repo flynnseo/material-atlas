@@ -15,6 +15,8 @@ status: draft
 hands_on: false
 sources:
   - https://www.trumpf.com/en_INT/applications/laser-marking/
+apply_links:
+  - {title: "파이버 레이저 스테인리스 컬러 마킹", url: "https://www.thefabricator.com/thefabricator/product/shopmanagement/fiber-laser-marks-in-color-on-stainless-steel"}
 updated: 2026-10-14
 ---
 ## 한 줄 정의

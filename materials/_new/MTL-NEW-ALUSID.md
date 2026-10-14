@@ -21,6 +21,12 @@ status: draft
 hands_on: false
 sources:
   - https://www.alusid.co.uk/
+apply_links:
+  - {title: "Alusid Sequel 재활용 타일 상업용", url: "https://interiordesign.net/designwire/alusid-launches-a-recycled-commercial-tile-line-named-sequel/"}
+  - {title: "Alusid 회사 프로필", url: "https://stonespecialist.com/news/profile-alusid"}
+image: "https://interiordesign.net/wp-content/uploads/2021/06/IDPHOTOInterior-Design-Alusid-idx191001_kbmarket29_2-10.19.jpg"
+image_credit: "적용 사례 사진 · interiordesign.net (원본 링크)"
+image_source: "https://interiordesign.net/designwire/alusid-launches-a-recycled-commercial-tile-line-named-sequel/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

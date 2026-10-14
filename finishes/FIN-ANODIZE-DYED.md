@@ -12,9 +12,13 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Anodizing
-image: "assets/img/FIN-ANODIZE-DYED.jpg"
-image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
-image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
+apply_links:
+  - {title: "파리 HEKLA 타워 컬러 아노다이징 구조재", url: "https://www.dezeen.com/2022/02/03/sandalor-coloured-aluminium-cladding/"}
+  - {title: "워링턴 Time Square 아노다이징 피라미드 파사드", url: "https://nes-solutions.co.uk/node/218"}
+  - {title: "건축용 아노다이징 알루미늄 적용 사례", url: "https://pcimag.com/articles/109632-stunning-architectural-applications-shine-a-light-on-the-potential-of-anodizing-aluminum"}
+image: "https://cms.nes-solutions.co.uk/app/uploads/2025/09/resource-4.png"
+image_credit: "적용 사례 사진 · nes-solutions.co.uk (원본 링크)"
+image_source: "https://nes-solutions.co.uk/node/218"
 updated: 2026-10-14
 ---
 ## 한 줄 정의
