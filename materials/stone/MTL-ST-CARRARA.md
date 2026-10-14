@@ -11,7 +11,7 @@ look: [glossy, mirror]
 processes: [cnc, waterjet, polishing, bonding]
 uses: [wall, floor, fixture, object, indoor]
 finishes: [FIN-STONE-POLISHED, FIN-STONE-HONED]
-cases: []
+cases: [CASE-SONKES-BRUSSELS]
 novelty: standard
 kinetic_fit: "대리석 슬랩은 받침·베이스 소재로 적합(추정)."
 confidence: C

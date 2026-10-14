@@ -11,7 +11,7 @@ look: [matte, textured]
 processes: [plastering]
 uses: [wall, floor, fixture, indoor]
 finishes: [FIN-LIME-PLASTER, FIN-POLISHED-CONCRETE, FIN-CLEAR-LACQUER]
-cases: []
+cases: [CASE-TERRA-BEAN-TO-BAR-TAIPEI, CASE-CARHARTT-WIP-COVENT-GARDEN]
 novelty: standard
 kinetic_fit: "키네틱과 관련은 낮음; 대형 오브제 표면 마감."
 confidence: C

@@ -15,7 +15,7 @@ look: [warm, transparent]
 processes: []
 uses: [lighting, indoor, fixture]
 finishes: []
-cases: []
+cases: [CASE-OXFORD-BLUE-BERKSHIRE]
 novelty: standard
 kinetic_fit: "백열 느낌의 연출."
 confidence: C

@@ -14,7 +14,7 @@ look: [transparent, glossy]
 processes: [thermoforming, molding, laser-cut, cnc, 3d-print, bending]
 uses: [fixture, object, signage]
 finishes: [FIN-UV-PRINT, FIN-SILKSCREEN]
-cases: []
+cases: [CASE-LONGCHAMP-NEW-YORK]
 combos: []
 novelty: standard
 cost_tier:

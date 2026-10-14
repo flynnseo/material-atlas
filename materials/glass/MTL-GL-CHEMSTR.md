@@ -14,7 +14,7 @@ look: [transparent, glossy]
 processes: [molding, engraving]
 uses: [fixture, object, wall, indoor]
 finishes: []
-cases: []
+cases: [CASE-AGC-AMORPHOUS-MILAN]
 novelty: standard
 kinetic_fit: "터치형·광학 인터랙티브 패널."
 confidence: C

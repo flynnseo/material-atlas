@@ -11,7 +11,7 @@ look: [textured]
 processes: [cnc, thermoforming]
 uses: [fixture, wall, indoor]
 finishes: []
-cases: []
+cases: [CASE-DURAT-ALCOVA-MILAN]
 novelty: emerging
 maturity: commercial
 why_space: "테라조 패턴의 곡면 가능 카운터·집기(추정)"

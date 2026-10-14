@@ -11,7 +11,7 @@ look: [textured, warm]
 processes: [3d-print]
 uses: [fixture, indoor]
 finishes: []
-cases: [CASE-LA-MANSO-BARCELONA]
+cases: [CASE-LA-MANSO-BARCELONA, CASE-NESCAFE-3D-PRINTED-STORE-BRAZIL]
 novelty: emerging
 why_space: "유기적 형태의 진열 집기를 생분해 소재로 출력."
 discovered_via: "https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/"

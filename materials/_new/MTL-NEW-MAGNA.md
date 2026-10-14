@@ -23,6 +23,9 @@ sources:
   - https://www.magna-glaskeramik.com/
 apply_links:
   - {title: "MAGNA 재생유리 글라스세라믹 파사드 사례", url: "https://kup.id/en/up/magna-stunning-facades-made-from-recycled-glass", page_title: "MAGNA - stunning facades made from recycled glass"}
+image: "https://magna-glaskeramik.com/fileadmin/_processed_/c/e/csm_Recyclingkreislauf_7feca32ad2.webp"
+image_credit: "출처 페이지 대표 이미지 · magna-glaskeramik.com (원본 링크)"
+image_source: "https://www.magna-glaskeramik.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

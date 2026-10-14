@@ -14,7 +14,7 @@ look: [metallic, matte, glossy, mirror]
 processes: [cnc, bending, bonding]
 uses: [facade, signage, wall, ceiling, outdoor, fixture]
 finishes: [FIN-PVDF]
-cases: []
+cases: [CASE-BACCARAT-HOTEL-NEW-YORK]
 combos: []
 novelty: standard
 maturity:

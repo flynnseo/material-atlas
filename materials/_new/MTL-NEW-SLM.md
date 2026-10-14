@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.eos.info
+image: "https://www.eos.info/layout/mobile_image_767x500.jpg"
+image_credit: "출처 페이지 대표 이미지 · eos.info (원본 링크)"
+image_source: "https://www.eos.info"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

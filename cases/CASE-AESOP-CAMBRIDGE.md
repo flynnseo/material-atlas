@@ -15,6 +15,9 @@ confidence: C
 status: draft
 sources:
   - https://designwanted.com/sustainable-retail-design-8-stores-give-glimpse-green-future/
+image: "http://designwanted.com/wp-content/uploads/2023/06/Nagami-for-Ecoalf-_-sustainable-retail-design-cover.jpg"
+image_credit: "출처 페이지 대표 이미지 · designwanted.com (원본 링크)"
+image_source: "https://designwanted.com/sustainable-retail-design-8-stores-give-glimpse-green-future/"
 updated: 2026-10-14
 ---
 ## 공간 한 줄

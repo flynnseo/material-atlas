@@ -3770,5 +3770,180 @@
     "q": "이솝 케임브리지",
     "expect": "CASE-AESOP-CAMBRIDGE",
     "note": "음차"
+  },
+  {
+    "q": "조프레시 매장 바닥",
+    "expect": "CASE-JOE-FRESH-FLAGSHIP",
+    "note": "조 프레시 플래그십 스토어"
+  },
+  {
+    "q": "거울 박스 매장 도쿄",
+    "expect": "CASE-MIRRORED-SHOP-TOKYO",
+    "note": "도쿄 거울 박스 매장"
+  },
+  {
+    "q": "미러 가든 베이징",
+    "expect": "CASE-MIRROR-GARDEN-BEIJING",
+    "note": "미러 가든 베이징"
+  },
+  {
+    "q": "스타프로비전스 로프",
+    "expect": "CASE-STAR-PROVISIONS-ATLANTA",
+    "note": "스타 프로비전스 애틀랜타"
+  },
+  {
+    "q": "데소 카펫타일 오피스",
+    "expect": "CASE-DALE-OFFICE-INTERIORS-OFFICE",
+    "note": "데일 오피스 인테리어 자사 오피스"
+  },
+  {
+    "q": "익스팬디드 메시 파사드 오피스",
+    "expect": "CASE-2175-PARK-PLACE-EL-SEGUNDO",
+    "note": "2175 파크 플레이스"
+  },
+  {
+    "q": "파디오 스테인리스 쇼룸",
+    "expect": "CASE-FADIOR-HOME-FOSHAN",
+    "note": "파디오 홈 포산 쇼룸"
+  },
+  {
+    "q": "쿠마 켄고 알루미늄 파사드",
+    "expect": "CASE-KENGO-KUMA-ART-CENTRE-CHINA",
+    "note": "구마 겐고 다공 알루미늄 아트센터"
+  },
+  {
+    "q": "롱샴 뉴욕 매장",
+    "expect": "CASE-LONGCHAMP-NEW-YORK",
+    "note": "롱샴 뉴욕 스토어"
+  },
+  {
+    "q": "알코바 두라트",
+    "expect": "CASE-DURAT-ALCOVA-MILAN",
+    "note": "두라트 알코바 밀라노 2024"
+  },
+  {
+    "q": "네스카페 3D프린트 매장",
+    "expect": "CASE-NESCAFE-3D-PRINTED-STORE-BRAZIL",
+    "note": "네스카페 3D 프린팅 매장 브라질"
+  },
+  {
+    "q": "베니스 비엔날레 아이메쉬",
+    "expect": "CASE-WEAVING-ARCHITECTURE-VENICE",
+    "note": "위빙 아키텍처 베니스 비엔날레"
+  },
+  {
+    "q": "힐튼 뱅크사이드 아고라",
+    "expect": "CASE-HILTON-BANKSIDE-AGORA-LONDON",
+    "note": "힐튼 뱅크사이드 아고라"
+  },
+  {
+    "q": "엑스포 미국관 스마트글라스",
+    "expect": "CASE-USA-PAVILION-WORLDS-FAIR",
+    "note": "엑스포 미국관 스마트글라스 지붕"
+  },
+  {
+    "q": "바카라 호텔 ACM",
+    "expect": "CASE-BACCARAT-HOTEL-NEW-YORK",
+    "note": "바카라 호텔 뉴욕"
+  },
+  {
+    "q": "텍스타일 룸 전시",
+    "expect": "CASE-TEXTILE-ROOM-PATTERNS-2",
+    "note": "텍스타일 룸 패턴 2"
+  },
+  {
+    "q": "AGC 아모르포스 설치",
+    "expect": "CASE-AGC-AMORPHOUS-MILAN",
+    "note": "AGC 아모르포스 밀라노 디자인 위크"
+  },
+  {
+    "q": "칼하트 코벤트가든 바닥",
+    "expect": "CASE-CARHARTT-WIP-COVENT-GARDEN",
+    "note": "칼하트 WIP 코벤트가든"
+  },
+  {
+    "q": "테라 빈투바 마이크로시멘트",
+    "expect": "CASE-TERRA-BEAN-TO-BAR-TAIPEI",
+    "note": "테라 빈투바 타이베이"
+  },
+  {
+    "q": "손케스 안경원",
+    "expect": "CASE-SONKES-BRUSSELS",
+    "note": "손케스 브뤼셀"
+  },
+  {
+    "q": "나이키 리즈 테라조",
+    "expect": "CASE-NIKE-LEEDS",
+    "note": "나이키 리즈"
+  },
+  {
+    "q": "유니클로 도쿄 플래그십",
+    "expect": "CASE-UNIQLO-TOKYO-HERZOG",
+    "note": "유니클로 도쿄 헤르조그 앤 드 뫼롱"
+  },
+  {
+    "q": "포르셀라노사 맨해튼",
+    "expect": "CASE-PORCELANOSA-NEW-YORK",
+    "note": "포르셀라노사 뉴욕 플래그십"
+  },
+  {
+    "q": "리버아일랜드 뉴캐슬",
+    "expect": "CASE-RIVER-ISLAND-NEWCASTLE",
+    "note": "리버 아일랜드 뉴캐슬"
+  },
+  {
+    "q": "옥스퍼드 블루 필라멘트 조명",
+    "expect": "CASE-OXFORD-BLUE-BERKSHIRE",
+    "note": "옥스퍼드 블루 버크셔"
+  },
+  {
+    "q": "올에스에이치 스테인리스",
+    "expect": "CASE-ALL-SH-SHANGHAI",
+    "note": "올 에스에이치 상하이"
+  },
+  {
+    "q": "나이츠브리지 에스컬레이터 PVD",
+    "expect": "CASE-KNIGHTSBRIDGE-ESCALATOR-HALL-LONDON",
+    "note": "나이츠브리지 에스컬레이터 홀"
+  },
+  {
+    "q": "몽클레르 솔라리스",
+    "expect": "CASE-MONCLER-MADISON-NEW-YORK",
+    "note": "몽클레르 매디슨 애비뉴"
+  },
+  {
+    "q": "트로케르 알루미늄 격자",
+    "expect": "CASE-TROQUER-MEXICO-CITY",
+    "note": "트로케르 멕시코시티"
+  },
+  {
+    "q": "루이비통 히드로 플라스터",
+    "expect": "CASE-LOUIS-VUITTON-HEATHROW-T3",
+    "note": "루이비통 히드로 T3"
+  },
+  {
+    "q": "스키아파렐리 홍콩 금",
+    "expect": "CASE-SCHIAPARELLI-HONG-KONG",
+    "note": "스키아파렐리 홍콩"
+  },
+  {
+    "q": "블루밍데일스 콘크리트 바닥",
+    "expect": "CASE-BLOOMINGDALES-SHORT-HILLS",
+    "note": "블루밍데일스 쇼트힐스"
+  },
+  {
+    "q": "에데카 코블렌츠 바닥",
+    "expect": "CASE-EDEKA-GOERZEN-KOBLENZ",
+    "note": "에데카 괴르첸 코블렌츠"
+  },
+  {
+    "q": "조스진스 에폭시 바닥",
+    "expect": "CASE-JOES-JEANS-LOS-ANGELES",
+    "note": "조스 진스 로스앤젤레스"
+  },
+  {
+    "q": "더 폴 호텔 로비",
+    "expect": "CASE-THE-PAUL-HOTEL-NEW-YORK",
+    "note": "더 폴 호텔 뉴욕"
   }
 ]

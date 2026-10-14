@@ -22,6 +22,9 @@ sources:
   - https://zenopa.com/?p=333465
 apply_links:
   - {title: "3M 라디언트 필름 셀프리지스 디스플레이", url: "https://britglass.org.uk/knowledge-base/digital-library-and-information-services/3m-sees-colour-new-light", page_title: "3M Sees Colour In A New Light | British Glass", desc: "A new, patented range of Radiant Light films from 3M exploit multi-layer technology to alter the colour of reflected light depending on angle of view and illumination. 3M Radiant Light films change colour smoothly over t"}
+image: "https://zenopa.com/wp-content/uploads/2024/04/Zenopa-TDCF.jpg"
+image_credit: "출처 페이지 대표 이미지 · zenopa.com (원본 링크)"
+image_source: "https://zenopa.com/?p=333465"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

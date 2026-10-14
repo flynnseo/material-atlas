@@ -13,7 +13,7 @@ look: [metallic, matte, textured]
 processes: [casting, cnc, molding, polishing]
 uses: [fixture, object, wall, outdoor]
 finishes: [FIN-ANODIZE, FIN-POWDER-COAT, FIN-SANDBLAST, FIN-CLEAR-LACQUER]
-cases: []
+cases: [CASE-KENGO-KUMA-ART-CENTRE-CHINA]
 novelty: standard
 kinetic_fit: "복잡한 링크·기어 하우징을 일체로 만들 수 있어 키네틱 하우징에 유리."
 confidence: C

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://entropyresins.com
+image: "https://entropyresins.com/app/uploads/hero__surfer_black_wetsuit.jpg"
+image_credit: "출처 페이지 대표 이미지 · entropyresins.com (원본 링크)"
+image_source: "https://entropyresins.com"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

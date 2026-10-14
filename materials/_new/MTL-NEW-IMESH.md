@@ -11,7 +11,7 @@ look: [metallic, translucent]
 processes: [cnc]
 uses: [wall, ceiling, facade, indoor]
 finishes: []
-cases: []
+cases: [CASE-WEAVING-ARCHITECTURE-VENICE]
 novelty: emerging
 maturity: commercial
 why_space: "투광·불연 섬유 패널 — 천장·벽·사이니지(추정)"

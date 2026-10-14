@@ -11,7 +11,7 @@ look: [matte, textured]
 processes: [bonding, cnc]
 uses: [floor]
 finishes: []
-cases: []
+cases: [CASE-JOE-FRESH-FLAGSHIP]
 novelty: standard
 kinetic_fit: "바닥 충격 흡수(추정)"
 confidence: C

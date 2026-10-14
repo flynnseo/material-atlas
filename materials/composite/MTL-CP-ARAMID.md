@@ -15,7 +15,7 @@ look: [matte]
 processes: [bonding, molding]
 uses: [kinetic, installation, object]
 finishes: []
-cases: []
+cases: [CASE-TEXTILE-ROOM-PATTERNS-2]
 novelty: standard
 kinetic_fit: "고강도 경량 와이어/로프로 키네틱 구동에 유용."
 confidence: C

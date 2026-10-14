@@ -11,7 +11,7 @@ look: [glossy, textured]
 processes: [casting, polishing, molding]
 uses: [floor, wall, fixture, indoor]
 finishes: [FIN-STONE-POLISHED, FIN-STONE-HONED, FIN-POLISHED-CONCRETE]
-cases: []
+cases: [CASE-NIKE-LEEDS]
 novelty: standard
 kinetic_fit: "주조 몰드로 형태 자유로운 정적 오브제에 적합(추정)."
 confidence: C

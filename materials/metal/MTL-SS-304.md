@@ -14,7 +14,7 @@ look: [metallic, cool, mirror, brushed]
 processes: [laser-cut, bending, welding-tig, polishing]
 uses: [fixture, wall, object, signage, outdoor]
 finishes: [FIN-HAIRLINE, FIN-NO4, FIN-MIRROR, FIN-PVD]
-cases: []
+cases: [CASE-FADIOR-HOME-FOSHAN]
 cost_tier: 3
 confidence: B
 status: verified

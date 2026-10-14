@@ -11,7 +11,7 @@ look: [transparent, cool]
 processes: []
 uses: [facade, indoor]
 finishes: []
-cases: []
+cases: [CASE-USA-PAVILION-WORLDS-FAIR]
 novelty: emerging
 maturity: commercial
 why_space: "쇼윈도 투과율을 단계적으로 조절해 낮/밤 연출과 직사광 대응에 후보 (추정)."

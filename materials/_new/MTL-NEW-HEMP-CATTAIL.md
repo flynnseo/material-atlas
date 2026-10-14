@@ -22,6 +22,9 @@ sources:
   - https://designwanted.com/sustainable-retail-design-8-stores-give-glimpse-green-future/
 apply_links:
   - {title: "케임브리지 Aesop 매장 골풀·대마 선반 (JamesPlumb)", url: "https://www.dezeen.com/?p=1878572", page_title: "Just a moment..."}
+image: "http://designwanted.com/wp-content/uploads/2023/06/Nagami-for-Ecoalf-_-sustainable-retail-design-cover.jpg"
+image_credit: "출처 페이지 대표 이미지 · designwanted.com (원본 링크)"
+image_source: "https://designwanted.com/sustainable-retail-design-8-stores-give-glimpse-green-future/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

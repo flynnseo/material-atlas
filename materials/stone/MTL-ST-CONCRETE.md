@@ -11,7 +11,7 @@ look: [matte, textured]
 processes: [casting, molding]
 uses: [wall, floor, facade, fixture, object]
 finishes: [FIN-POLISHED-CONCRETE, FIN-CLEAR-LACQUER, FIN-SANDBLAST]
-cases: [CASE-GM-HAUS-DOSAN]
+cases: [CASE-GM-HAUS-DOSAN, CASE-UNIQLO-TOKYO-HERZOG]
 novelty: standard
 kinetic_fit: "정적 소재로 키네틱에는 하중 지지 구조체로 활용(추정)."
 confidence: C

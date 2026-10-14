@@ -11,7 +11,7 @@ look: [matte, textured]
 processes: [bonding]
 uses: [wall, fixture, indoor]
 finishes: []
-cases: []
+cases: [CASE-HILTON-BANKSIDE-AGORA-LONDON]
 novelty: emerging
 maturity: commercial
 why_space: "부직포 특유의 결로 벽 패브릭·집기 커버·쇼핑백 연출에 쓸 수 있음(추정)"

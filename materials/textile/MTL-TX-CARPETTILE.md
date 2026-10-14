@@ -11,7 +11,7 @@ look: [matte, textured]
 processes: [bonding, cnc]
 uses: [floor]
 finishes: []
-cases: []
+cases: [CASE-DALE-OFFICE-INTERIORS-OFFICE]
 novelty: standard
 kinetic_fit: "바닥 패턴 변경으로 공간 리모델링 쉬움(추정)"
 confidence: C

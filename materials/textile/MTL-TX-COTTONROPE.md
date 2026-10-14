@@ -11,7 +11,7 @@ look: [matte, textured, warm]
 processes: [bonding]
 uses: [object, installation, ceiling, wall]
 finishes: []
-cases: []
+cases: [CASE-STAR-PROVISIONS-ATLANTA]
 novelty: standard
 kinetic_fit: "장식 줄·진자 와이어 대체(추정)"
 confidence: C

@@ -13,7 +13,7 @@ look: [metallic, textured, matte]
 processes: [bending, welding, painting, cnc]
 uses: [wall, ceiling, facade, fixture, indoor, outdoor]
 finishes: [FIN-POWDER-COAT, FIN-HDG, FIN-ANODIZE, FIN-BLACK-OXIDE, FIN-PVDF]
-cases: []
+cases: [CASE-2175-PARK-PLACE-EL-SEGUNDO]
 novelty: standard
 kinetic_fit: "여러 겹 겹쳐 모아레를 만드는 키네틱 레이어에 활용 가능."
 confidence: C

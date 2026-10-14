@@ -11,7 +11,7 @@ look: [matte, glossy, textured]
 processes: [bonding]
 uses: [floor, wall, facade, indoor]
 finishes: [FIN-STONE-POLISHED, FIN-STONE-HONED]
-cases: []
+cases: [CASE-RIVER-ISLAND-NEWCASTLE, CASE-PORCELANOSA-NEW-YORK]
 novelty: standard
 kinetic_fit: "정적 마감재(추정)."
 confidence: C

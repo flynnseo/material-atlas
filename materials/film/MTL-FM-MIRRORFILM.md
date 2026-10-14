@@ -11,7 +11,7 @@ look: [mirror, metallic, glossy]
 processes: [bonding]
 uses: [wall, facade, indoor, object]
 finishes: [FIN-MIRROR]
-cases: []
+cases: [CASE-MIRROR-GARDEN-BEIJING, CASE-MIRRORED-SHOP-TOKYO]
 novelty: standard
 kinetic_fit: "비틀리는 반사 필름 패널(추정)"
 confidence: B
