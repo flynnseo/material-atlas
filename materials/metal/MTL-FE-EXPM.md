@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-FE-EXPM.jpg"
+image_credit: "Ildar Sagdejev (Specious) · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3A2008-08-28%20Metal%20mesh.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

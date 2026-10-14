@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Kevlar
+image: "assets/img/MTL-CP-ARAMID.jpg"
+image_credit: "Industriemuseum Gent · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AStaal%20van%20aramidevezel%20van%20het%20merk%20Kevlar.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

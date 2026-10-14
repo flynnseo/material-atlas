@@ -21,6 +21,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-MIRROR.jpg"
+image_credit: "작자 미상 · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ASilver%20mirror%20MET%20DP145605.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

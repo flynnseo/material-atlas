@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://www.mdpi.com/1999-4907/12/9/1262/htm
   - https://www.livingetc.com/features/what-is-shou-sugi-ban
+image: "assets/img/FIN-YAKISUGI.jpg"
+image_credit: "Xicodaponte · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AShou-Sugi-Ban--Yakisugi.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

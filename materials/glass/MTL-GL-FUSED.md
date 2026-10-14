@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-FUSED.jpg"
+image_credit: "Balon Greyjoy · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3A20190202%20Nagsaki%20fused%20glass.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

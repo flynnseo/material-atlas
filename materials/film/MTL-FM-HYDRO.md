@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-FM-HYDRO.jpg"
+image_credit: "Ikonicswiki · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ACradling%20Hydrographic%20Film.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-BZ-PBRONZE.jpg"
+image_credit: "Badagnani · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3APhosphorbronzeguitarstring.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Shape-memory_polymer
+image: "assets/img/MTL-NEW-SMP.jpg"
+image_credit: "Science Museum London / Science and Society Picture Library · CC BY-SA 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AOne%20sample%20of%20shape-memory%20polymer%20foam%2C%20as%20researched%20for%20use%20in%20shape-changing%20aeroplanes.%20%289672239254%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

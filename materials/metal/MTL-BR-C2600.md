@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-BR-C2600.jpg"
+image_credit: "Splarka · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ABrass.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

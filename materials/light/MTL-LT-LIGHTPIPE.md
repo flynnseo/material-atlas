@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-LT-LIGHTPIPE.jpg"
+image_credit: "KVDP · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ALight%20tube%20daylighting%20system.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

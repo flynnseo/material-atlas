@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://www.finewoodworking.com/project-guides/finishing/texture-wood-to-highlight-the-grain
   - https://indbrush.com/wood-finishing/
+image: "https://s3.amazonaws.com/finewoodworking.s3.tauntoncloud.com/app/uploads/2013/04/24181841/011233084-main-thumb-16x9.jpg"
+image_credit: "출처 페이지 대표 이미지 · finewoodworking.com (원본 링크)"
+image_source: "https://www.finewoodworking.com/project-guides/finishing/texture-wood-to-highlight-the-grain"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

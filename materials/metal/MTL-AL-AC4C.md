@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-AL-AC4C.jpg"
+image_credit: "Alchemist-hp (talk) (www.pse-mendelejew.de) · FAL · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AAluminium%20bar%20surface%20etched.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

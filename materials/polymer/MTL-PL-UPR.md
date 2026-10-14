@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyester_resin
+image: "assets/img/MTL-PL-UPR.jpg"
+image_credit: "DeStrickland · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AUnsaturated%20polyester.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

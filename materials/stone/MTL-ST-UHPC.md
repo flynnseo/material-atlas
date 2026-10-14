@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-ST-UHPC.jpg"
+image_credit: "Bianca Paola Maffezzoli · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AUHPFRC%20-%20Ultra-High%20Performance%20Fiber%20Reinforced%20Concrete.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

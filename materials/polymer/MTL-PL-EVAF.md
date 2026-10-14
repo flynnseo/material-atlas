@@ -22,6 +22,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Ethylene-vinyl_acetate
+image: "assets/img/MTL-PL-EVAF.jpg"
+image_credit: "Best For My Feet · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AEVA%20%28Ethylene-Vinyl%20Acetate%29%20sole%20work%20boots.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

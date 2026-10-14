@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://www.worldstainless.org/about-stainless/process-and-production/surface-treatment/
   - https://assda.asn.au/blog/133-no-4-the-workhorse-finish
+image: "https://assda.asn.au/components/com_rsblog/assets/images/blog/133.jpg"
+image_credit: "출처 페이지 대표 이미지 · assda.asn.au (원본 링크)"
+image_source: "https://assda.asn.au/blog/133-no-4-the-workhorse-finish"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

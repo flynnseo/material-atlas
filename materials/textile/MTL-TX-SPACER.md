@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-TX-SPACER.jpg"
+image_credit: "Elkagye · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ASpacer%20fabric%202.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

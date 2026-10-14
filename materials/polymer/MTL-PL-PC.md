@@ -27,6 +27,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polycarbonate
   - https://solutions.covestro.com/en/products/makrolon/makrolon-et3113_00892839-05121861
+image: "assets/img/MTL-PL-PC.jpg"
+image_credit: "Yerachmiel C · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ABottom%20of%2018.9%20Liter%20%285%20Gallon%29%20jug%20made%20by%20GREIF%2C%20plastic%20type%20PC%20%28polycarbonate%29.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

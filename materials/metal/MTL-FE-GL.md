@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-FE-GL.jpg"
+image_credit: "Pinqui · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AGalvalume%20sheetmetal%20surface.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

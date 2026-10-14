@@ -28,6 +28,9 @@ sources:
   - https://stratco.com.au/siteassets/pdfs/laserlite-multiwall-data-sheet.pdf
   - https://www.roofgiant.com/resources/files/pds-017-pc10-10mm-twinwall-polycarbonate.pdf
   - https://en.wikipedia.org/wiki/Polycarbonate
+image: "assets/img/MTL-PL-PC-TWINWALL.jpg"
+image_credit: "MaterialScience100 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ATwinwall%20Polycarbonate%20Sheet.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

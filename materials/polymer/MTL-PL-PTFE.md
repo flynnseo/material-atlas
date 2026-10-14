@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polytetrafluoroethylene
+image: "assets/img/MTL-PL-PTFE.jpg"
+image_credit: "Atlas of Medical Foreign Bodies · CC BY-SA 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3APTFE%20%28polytetrafluoroethylene%29%20-%20Teflon%20%2849615920942%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

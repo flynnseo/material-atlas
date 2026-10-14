@@ -21,6 +21,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-AR.jpg"
+image_credit: "Maximilian Schönherr · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AReflective%20and%20anti-reflective%20lens.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

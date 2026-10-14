@@ -23,6 +23,9 @@ sources:
   - https://incurelab.com/wp/uv-curing-for-inkjet-and-digital-printing-on-non-porous-substrates
   - https://signshop.com/?p=19795
   - https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/6755518
+image: "assets/img/FIN-UV-PRINT.jpg"
+image_credit: "Smokeonthewater · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AAtlantic%20Zeiser%20Delta%20105i%20UV%20inkjet%20imprinters%20at%20a%20Rapida%20offset%20press.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

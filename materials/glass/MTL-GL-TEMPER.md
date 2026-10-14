@@ -21,6 +21,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-TEMPER.jpg"
+image_credit: "Ox1997cow · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ATempered%20Glass%20broken%20by%20itself.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

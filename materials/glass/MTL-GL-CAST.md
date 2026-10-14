@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-CAST.jpg"
+image_credit: "Kaiwhakahaere · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AKiln%20cast%20glass%20sculpture.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

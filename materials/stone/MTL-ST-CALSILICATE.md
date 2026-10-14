@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Calcium_silicate
+image: "assets/img/MTL-ST-CALSILICATE.jpg"
+image_credit: "Achim Hering · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ACalcium%20silicate%20cladding%201of2.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

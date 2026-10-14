@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Ceramic
+image: "assets/img/MTL-ST-CERAMICCLAY.jpg"
+image_credit: "Pauloleong2002 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ACeramic%20art%20in%20Macau.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

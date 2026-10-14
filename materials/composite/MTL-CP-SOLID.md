@@ -22,6 +22,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Corian
+image: "assets/img/MTL-CP-SOLID.jpg"
+image_credit: "Ggrrdll · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ASolid%20Surface%20Top%20Seamless%20Integral%20Kitchen%20Sink.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

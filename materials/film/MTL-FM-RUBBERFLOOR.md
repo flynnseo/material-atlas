@@ -18,6 +18,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-FM-RUBBERFLOOR.jpg"
+image_credit: "Shree Adinath Enterprises · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ARubber%20tiles.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

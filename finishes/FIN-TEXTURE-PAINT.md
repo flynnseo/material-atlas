@@ -10,6 +10,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/FIN-TEXTURE-PAINT.jpg"
+image_credit: "Nikodem Nijaki · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ATexture%20old%20wall.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

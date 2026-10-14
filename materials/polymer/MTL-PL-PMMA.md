@@ -26,6 +26,9 @@ sources:
   - https://www.zenit.cz/public/media/Plasty/Zenit_Bezpecnostni_List_Plasty_Plexiglas_EPD.pdf
   - https://eshop.t-online.de/WebRoot/Store7/Shops/Shop34800/MediaGallery/Datenblaetter/Plexiglas/211-12-PLEXIGLAS-Rohre-und-Staebe.pdf
   - https://www.acrylite.co/files/content/acrylite.co/documents/fabrication-briefs/Extruded-Fabrication-Cutting-Technical-Information.pdf
+image: "assets/img/MTL-PL-PMMA.jpg"
+image_credit: "Alchemist-hp (pse-mendelejew.de) · CC BY-SA 3.0 de · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ABromine%20vial%20in%20acrylic%20cube.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

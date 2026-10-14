@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fiberglass
+image: "assets/img/MTL-CP-FRP.jpg"
+image_credit: "Retired electrician · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AMoscow%2C%20fiberglass%20half-shell%20of%20a%20lamppost%2C%20Sept%202026%2001.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

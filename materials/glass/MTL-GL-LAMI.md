@@ -21,6 +21,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "assets/img/MTL-GL-LAMI.jpg"
+image_credit: "Goshaproject · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ALaminated%20glass%20structure.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의
