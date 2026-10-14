@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Paulownia
+image: "assets/img/MTL-WD-PAULOWNIA.jpg"
+image_credit: "Daderot · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AJapanese%20shoe%20for%20Shinto%20priest%20%28asagutsu%29%2C%20Tokyo%2C%201984%2C%20paulownia%20wood%20with%20padding%20-%20Bata%20Shoe%20Museum%20-%20DSC00173.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

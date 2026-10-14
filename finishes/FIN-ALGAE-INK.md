@@ -15,6 +15,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.livingink.co/
+image: "http://static1.squarespace.com/static/65662abc8bc75834d74f34c2/t/673cd312b414ac2a24a82a3b/1790879517663/P%2BC-Living+Ink-316.jpg?format=1500w"
+image_credit: "출처 페이지 대표 이미지 · livingink.co (원본 링크)"
+image_source: "https://www.livingink.co/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

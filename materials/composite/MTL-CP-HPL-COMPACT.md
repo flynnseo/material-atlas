@@ -32,6 +32,9 @@ sources:
   - https://en.wikipedia.org/wiki/Decorative_laminate
   - https://din.de/en/wdc-beuth:din21:238898758
   - https://www.nationalbimlibrary.com/kronospan-ltd/kronodesign-compact-interior-laminates?lo=en
+image: "assets/img/MTL-CP-HPL-COMPACT.jpg"
+image_credit: "Андрей Перцев 1967 · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Decorative_laminate_07827.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

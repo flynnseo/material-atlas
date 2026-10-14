@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/ecoben/
+image: "https://media.materialdistrict.com/wp-content/uploads/2011/12/PLA659-1.jpg?v=20130830124950"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/ecoben/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

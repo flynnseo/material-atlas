@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Light-emitting_diode
+image: "assets/img/MTL-LT-LEDBAR.jpg"
+image_credit: "PiccoloNamek · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:RBG-LED.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

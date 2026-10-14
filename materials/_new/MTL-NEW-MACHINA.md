@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://machinalabs.ai
+image: "https://machinalabs.ai/hubfs/Machina%20Labs%20RoboCraftsman%20AI-1.jpeg"
+image_credit: "출처 페이지 대표 이미지 · machinalabs.ai (원본 링크)"
+image_source: "https://machinalabs.ai"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

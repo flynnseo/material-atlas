@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.forust.com
+image: "https://prod.forust.com/uploads/_seoThumbnail310x310/Forust_About_01.png"
+image_credit: "출처 페이지 대표 이미지 · forust.com (원본 링크)"
+image_source: "https://www.forust.com"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

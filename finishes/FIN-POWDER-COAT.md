@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Powder_coating
+image: "assets/img/FIN-POWDER-COAT.jpg"
+image_credit: "Speedoflight1 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:UV_Cured_Powder_Coating_on_Carbon_Fiber_.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

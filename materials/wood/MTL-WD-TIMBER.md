@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood_flooring
+image: "assets/img/MTL-WD-TIMBER.jpg"
+image_credit: "Konrad A. Kociszewski www.elmwoodflooring.com · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Flooring.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

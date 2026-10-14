@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Anodizing
   - https://www.nipponsteel.com/en/product/trantixxii/
+image: "assets/img/FIN-TI-ANODIZE-IRIS.jpg"
+image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

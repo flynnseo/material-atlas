@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Mirror
+image: "assets/img/MTL-PL-ACRYLIC-MIRROR.jpg"
+image_credit: "Cgs · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Mirror.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

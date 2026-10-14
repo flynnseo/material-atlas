@@ -27,6 +27,9 @@ sources:
   - https://en.wikipedia.org/wiki/6061_aluminium_alloy
   - https://trc.nist.gov/cryogenics/materials/6061%20Aluminum/6061_T6Aluminum_rev.htm
   - https://www.hobartbrothers.com/resources/technical-guides/aluminum-welding-guide/base-metal-heat-treatable-and-non-heat-treatable-alloys/
+image: "assets/img/MTL-AL-6061.jpg"
+image_credit: "Nexus65 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Machining_Process_of_a_fly_reel_spool.png"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

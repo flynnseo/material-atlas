@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Flocking_(texture)
+image: "assets/img/FIN-FLOCKING.jpg"
+image_credit: "Mik81 · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Beflockung.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Hardboard
+image: "assets/img/MTL-WD-HDF.jpg"
+image_credit: "Dave Pape · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Hardboard.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

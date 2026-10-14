@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Black_oxide
   - https://finishingandcoating.com/index.php/conversion/503-a-review-of-functional-and-decorative-black-oxide-coatings
   - https://engineersedge.com/black_oxide.htm
+image: "assets/img/FIN-BLACK-OXIDE.jpg"
+image_credit: "Andrew Pertsev · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Screw_Head_-_Slotted-Phillips_%28pan_head%2C_black_oxide%29.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

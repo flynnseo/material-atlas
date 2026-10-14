@@ -15,6 +15,9 @@ confidence: C
 status: draft
 sources:
   - https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/
+image: "https://www.designboom.com/twitterimages/uploads/2023/05/seaweedworks-tanguy-melinand-the-reykjavik-EDITION-designboom-fb.jpg"
+image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/design/streetwear-dried-seaweed-algae-fashion-seaweedworks-reykjavik-edition-hotel-05-28-2023/"
 updated: 2026-10-14
 ---
 ## 공간 한 줄

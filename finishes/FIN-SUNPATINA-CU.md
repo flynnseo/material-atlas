@@ -15,6 +15,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.aurubis.com/en/nordic-copper/
+image: "https://www.aurubis.com/en/nordic-copper/ogimage"
+image_credit: "출처 페이지 대표 이미지 · aurubis.com (원본 링크)"
+image_source: "https://www.aurubis.com/en/nordic-copper/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

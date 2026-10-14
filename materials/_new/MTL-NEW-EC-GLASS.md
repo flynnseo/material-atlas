@@ -23,6 +23,9 @@ sources:
   - https://www.sageglass.com/en
   - https://en.wikipedia.org/wiki/Electrochromism
   - https://en.wikipedia.org/wiki/Smart_glass
+image: "assets/img/MTL-NEW-EC-GLASS.jpg"
+image_credit: "Smokefoot · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:MVredox.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

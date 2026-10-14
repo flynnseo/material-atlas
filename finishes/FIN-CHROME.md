@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Chrome_plating
   - https://technav.ieee.org/topic/chrome-plating/
+image: "assets/img/FIN-CHROME.jpg"
+image_credit: "Atoma · CC BY 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Motorcycle_Reflections_bw_edit.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

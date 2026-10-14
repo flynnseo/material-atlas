@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Denim
+image: "assets/img/MTL-TX-DENIM.jpg"
+image_credit: "Nikodem Nijaki · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Denim_texture_03.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

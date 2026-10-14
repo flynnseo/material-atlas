@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Kraft_paper
+image: "assets/img/MTL-TX-KRAFT.jpg"
+image_credit: "Marian Gutierrez · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Papelparamolde.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

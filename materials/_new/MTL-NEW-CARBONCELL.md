@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/carbon-cell-foam/
+image: "https://media.materialdistrict.com/wp-content/uploads/2026/02/carbon-cell-images-33-scaled.jpg?v=20260214102845"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/carbon-cell-foam/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

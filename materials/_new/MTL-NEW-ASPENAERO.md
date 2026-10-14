@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://www.aerogel.com/
   - https://en.wikipedia.org/wiki/Aerogel
+image: "assets/img/MTL-NEW-ASPENAERO.jpg"
+image_credit: "Courtesy NASA/JPL-Caltech · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Aerogel_hand.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

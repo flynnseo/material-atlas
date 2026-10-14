@@ -24,6 +24,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Incandescent_light_bulb
   - https://en.wikipedia.org/wiki/Halogen_lamp
+image: "assets/img/MTL-LT-HALOGEN.jpg"
+image_credit: "KMJ, alpha masking by Edokter · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Gluehlampe_01_KMJ.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

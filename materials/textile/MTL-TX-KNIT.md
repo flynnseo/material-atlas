@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Knitting
+image: "assets/img/MTL-TX-KNIT.jpg"
+image_credit: "Sadarama · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Oma_strickt_Str%C3%BCmpfe.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

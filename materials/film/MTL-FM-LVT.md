@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Vinyl_composition_tile
+image: "assets/img/MTL-FM-LVT.jpg"
+image_credit: "Phillip Pessar · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Vintage_Vinyl_Tile_Flooring_South_Beach_%2845568707481%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

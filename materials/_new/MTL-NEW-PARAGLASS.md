@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/paraglass/
+image: "https://media.materialdistrict.com/wp-content/uploads/2004/04/GLA043-1.jpg?v=20130830130945"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/paraglass/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

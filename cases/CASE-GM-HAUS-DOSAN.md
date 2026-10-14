@@ -17,6 +17,9 @@ sources:
   - https://www.designboom.com/design/gentle-monster-haus-dosan-seoul-02-26-2021/
   - https://retaildesignblog.net/2021/03/01/haus-dosan-gentle-monster-store/
   - https://www.gentlemonster.com/us/stories/haus-dosan
+image: "https://www.designboom.com/twitterimages/uploads/2021/02/gentle-monster-haus-dosan-designboom-fb.jpg"
+image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/design/gentle-monster-haus-dosan-seoul-02-26-2021/"
 updated: 2026-10-13
 ---
 ## 공간 한 줄

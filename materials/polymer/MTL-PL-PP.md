@@ -27,6 +27,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polypropylene
+image: "assets/img/MTL-PL-PP.jpg"
+image_credit: "PakpongICCH444 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Polypropylene_isotactic_mini_trp.png"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

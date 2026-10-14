@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/i-mesh/
+image: "https://media.materialdistrict.com/wp-content/uploads/2017/04/i-mesh-pla1051-10.jpg?v=20191126122831"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/i-mesh/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

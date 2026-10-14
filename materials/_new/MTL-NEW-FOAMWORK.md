@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/foamwork/
+image: "https://dbt.arch.ethz.ch/wp-content/uploads/2021/12/Img_slab03_b.jpg"
+image_credit: "출처 페이지 대표 이미지 · dbt.arch.ethz.ch (원본 링크)"
+image_source: "https://dbt.arch.ethz.ch/project/foamwork/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

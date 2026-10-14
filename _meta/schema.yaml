@@ -10,19 +10,22 @@ types:
     optional: [name_en, aliases, subfamily, form, properties, look, processes, uses,
                finishes, cases, combos, novelty, cost_tier, lead_time, suppliers_kr,
                hands_on, sources, sample,
-               maturity, availability_kr, why_space, kinetic_fit, discovered_via]
+               maturity, availability_kr, why_space, kinetic_fit, discovered_via,
+               image, image_credit, image_source]
   finish:
     folder: finishes
     id_prefix: FIN-
     required: [id, name_ko, confidence, status, updated]
     optional: [name_en, aliases, applies_to, look, processes, variant_of, cost_tier,
                lead_time, suppliers_kr, hands_on, sources, sample,
-               novelty, maturity, availability_kr, why_space, kinetic_fit, discovered_via]
+               novelty, maturity, availability_kr, why_space, kinetic_fit, discovered_via,
+               image, image_credit, image_source]
   case:
     folder: cases
     id_prefix: CASE-
     required: [id, name_ko, brand, materials, confidence, status, updated]
-    optional: [name_en, aliases, location, year, designer, finishes, uses, look, sources]
+    optional: [name_en, aliases, location, year, designer, finishes, uses, look, sources,
+               image, image_credit, image_source]
   lab:
     folder: lab
     id_prefix: LAB-

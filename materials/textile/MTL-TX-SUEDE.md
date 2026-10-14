@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Suede
+image: "assets/img/MTL-TX-SUEDE.jpg"
+image_credit: "Darksteel (talk) · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Blue_suede_samba.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

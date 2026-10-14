@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Vitreous_enamel
+image: "assets/img/FIN-ENAMEL.jpg"
+image_credit: "Jean-Pol GRANDMONT · CC BY 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:0_Reliquaire_grandmontain_-_MR_2648_-_Louvre_%281%29.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

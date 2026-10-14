@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Glued_laminated_timber
+image: "assets/img/MTL-WD-GLULAM.jpg"
+image_credit: "Nicolerose25 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Glulam.brace.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

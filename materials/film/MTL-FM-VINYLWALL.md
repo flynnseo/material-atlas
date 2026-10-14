@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wallpaper
+image: "assets/img/MTL-FM-VINYLWALL.jpg"
+image_credit: "Rawpixel · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Original_William_Morris%27s_patterns%2C_digitally_enhanced_by_rawpixel_00015.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -15,6 +15,9 @@ confidence: C
 status: draft
 sources:
   - https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/
+image: "https://www.designboom.com/twitterimages/uploads/2024/01/la-manso-external-reference-designboom-1200.jpg"
+image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/architecture/3d-printed-organic-formations-external-reference-engulf-la-manso-store-barcelona-01-05-2024/"
 updated: 2026-10-14
 ---
 ## 공간 한 줄

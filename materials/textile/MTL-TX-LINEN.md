@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Linen
+image: "assets/img/MTL-TX-LINEN.jpg"
+image_credit: "No machine-readable author provided. PKM assumed (based on copyright claims). · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Handkerchief.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

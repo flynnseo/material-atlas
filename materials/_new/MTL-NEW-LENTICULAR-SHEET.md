@@ -22,6 +22,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Lenticular_printing
+image: "assets/img/MTL-NEW-LENTICULAR-SHEET.jpg"
+image_credit: "World Imaging · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Close_up_of_the_surface_of_a_lenticular_print.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

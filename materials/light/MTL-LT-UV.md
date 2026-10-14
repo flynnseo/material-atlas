@@ -22,6 +22,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Black_light
+image: "assets/img/MTL-LT-UV.jpg"
+image_credit: "FASTILY (TALK) · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:BlackLightBulb4300ppx2.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

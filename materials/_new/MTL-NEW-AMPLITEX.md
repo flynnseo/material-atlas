@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.bcomp.com/
+image: "https://www.bcomp.com/wp-content/uploads/2023/12/be208642271eeee00f98890924466c06.jpg"
+image_credit: "출처 페이지 대표 이미지 · bcomp.com (원본 링크)"
+image_source: "https://www.bcomp.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

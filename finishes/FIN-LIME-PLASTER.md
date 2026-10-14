@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Lime_plaster
   - https://en.wikipedia.org/wiki/Tadelakt
   - https://homebuilding.co.uk/advice/tadelakt
+image: "assets/img/FIN-LIME-PLASTER.jpg"
+image_credit: "Heinz-Josef Lücking · CC BY-SA 3.0 de · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Plaster_-_Putz_in_Pompeji.JPG"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

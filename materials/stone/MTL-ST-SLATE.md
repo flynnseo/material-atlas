@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Slate
+image: "assets/img/MTL-ST-SLATE.jpg"
+image_credit: "James St. John · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Slate_%28Knife_Lake_Formation%2C_metamorphism_at_2.7_Ga%2C_Neoarchean%3B_Rt._135_roadcut%2C_Gilbert%2C_Minnesota%2C_USA%29_3_%2823140002749%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

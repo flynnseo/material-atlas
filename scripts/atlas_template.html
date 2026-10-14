@@ -79,6 +79,13 @@ main{max-width:1280px;margin:0 auto;padding:6px 20px 40px;display:grid;grid-temp
 .body code{font:12px var(--mono);background:var(--soft);padding:1px 5px;border-radius:4px}
 .foot{font:11px var(--mono);color:var(--mute);margin-top:18px;word-break:break-all}
 .back{display:none}
+.hero{margin:10px 0 14px;border-radius:10px;overflow:hidden;background:var(--soft)}
+.hero img{display:block;width:100%;max-height:360px;object-fit:cover}
+.hero .cr{font:11px var(--mono);color:var(--mute);padding:6px 10px}
+.hero .cr a{color:var(--mute)}
+.th{width:44px;height:44px;border-radius:7px;object-fit:cover;background:var(--soft);flex:none}
+.grid .th{width:100%;height:96px;margin-bottom:6px}
+.grid .item.hasimg{padding-top:8px}
 .chips .lbl{font:11px var(--mono);color:var(--mute);align-self:center;margin-right:2px}
 .chip.radar{font:600 12px var(--mono);letter-spacing:.12em}
 .radar-wrap{overflow-x:auto}
@@ -171,8 +178,9 @@ $('fams').onclick=function(e){var b=e.target.closest('[data-f]');if(!b)return;st
 function itemHTML(id,score,why,i){
   var d=doc(id);if(!d)return'';
   var sub=[d.name_en,(d.aliases||[]).slice(0,3).join(', ')].filter(Boolean).join(' · ');
-  return '<button class="item'+(state.sel===id?' sel':'')+'" data-id="'+id+'" data-i="'+(i==null?'':i)+'">'+
-    '<span class="tbadge t-'+d.type+'">'+TB[d.type]+'</span>'+
+  var th=d.image?'<img class="th" loading="lazy" referrerpolicy="no-referrer" src="'+esc(d.image)+'" alt="" onerror="this.remove()">':'';
+  return '<button class="item'+(state.sel===id?' sel':'')+(th?' hasimg':'')+'" data-id="'+id+'" data-i="'+(i==null?'':i)+'">'+
+    (th||'<span class="tbadge t-'+d.type+'">'+TB[d.type]+'</span>')+
     '<span style="min-width:0"><div class="nm">'+esc(d.name_ko)+'</div><div class="sub">'+esc(sub)+'</div>'+
     (why?'<div class="why">'+esc(why)+'</div>':'')+'</span>'+
     (score!=null?'<span class="bar"><i style="width:'+Math.min(100,Math.round(score*100))+'%"></i></span>':'<span></span>')+
@@ -261,6 +269,7 @@ function show(id){
     '<h3>'+esc(d.name_ko)+'</h3><div class="en">'+esc(d.name_en)+(d.aliases.length?' · '+esc(d.aliases.join(', ')):'')+'</div>'+
     '<div class="badges">'+(d.confidence?'<span class="b '+d.confidence+'">신뢰 '+d.confidence+'</span>':'')+(d.status?'<span class="b">'+esc(d.status)+'</span>':'')+
       (d.hands_on?'<span class="b hand">직접 해봄</span>':'')+(d.sample?'<span class="b">예시카드</span>':'')+(d.novelty==='emerging'?'<span class="b hand">신소재</span>':'')+'</div>'+
+    (d.image?'<figure class="hero"><img loading="lazy" referrerpolicy="no-referrer" src="'+esc(d.image)+'" alt="'+esc(d.name_ko)+'" onerror="this.parentNode.remove()"><figcaption class="cr">'+esc(d.image_credit)+(d.image_source?' · <a href="'+esc(d.image_source)+'" target="_blank" rel="noopener">원본</a>':'')+'</figcaption></figure>':'')+
     (d.why_space?'<div class="why-space">'+esc(d.why_space)+'</div>':'')+
     (kv?'<dl class="kv">'+kv+'</dl>':'')+
     (tags?'<div class="tagrow">'+tags+'</div>':'')+

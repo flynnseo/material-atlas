@@ -31,6 +31,9 @@ sources:
   - https://www.scribd.com/document/699702358/ColorCore-ENG
   - https://www.archdaily.com/catalog/us/products/39078/solid-core-hpl-compact-polilam
   - https://www.amerhart.com/catalog/decorative-surfaces-and-edge-solutions/specialty-surfaces/color-through-laminate/formica-blackened-steel-8918-colorcore2-laminate
+image: "assets/img/MTL-CP-HPL-COLORCORE.jpg"
+image_credit: "Андрей Перцев 1967 · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Decorative_laminate_07827.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

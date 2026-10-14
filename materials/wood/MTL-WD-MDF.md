@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Medium-density_fibreboard
+image: "assets/img/MTL-WD-MDF.jpg"
+image_credit: "Vaderluck at English Wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:MDF_Sample.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

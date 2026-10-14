@@ -13,6 +13,9 @@ hands_on: false
 sources:
   - https://www.anodizing.org/page/military-spec-anodic-coatings
   - https://en.wikipedia.org/wiki/Anodizing
+image: "assets/img/FIN-ANODIZE.jpg"
+image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

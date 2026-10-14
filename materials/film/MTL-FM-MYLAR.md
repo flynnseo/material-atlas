@@ -20,6 +20,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/BoPET
   - https://en.wikipedia.org/wiki/Polyethylene_terephthalate
+image: "assets/img/MTL-FM-MYLAR.jpg"
+image_credit: "Anton · CC BY-SA 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Myla32rp.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

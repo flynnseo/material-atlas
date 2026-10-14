@@ -12,6 +12,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Anodizing
+image: "assets/img/FIN-ANODIZE-HARD.jpg"
+image_credit: "User:Polyparadigm · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Cheap_carabiners.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

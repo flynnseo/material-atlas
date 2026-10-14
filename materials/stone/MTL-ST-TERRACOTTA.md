@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Terracotta
+image: "assets/img/MTL-ST-TERRACOTTA.jpg"
+image_credit: "anonymous · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Bust_of_the_Virgin_MET_DP124049_%28cropped%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ confidence: C
 status: draft
 hands_on: false
 sources: []
+image: "http://static1.squarespace.com/static/697882518c68b341a7fa7f6b/t/6a05eecd3061f67e1db7b84a/1778773709298/Asset+1-100.jpg?format=1500w"
+image_credit: "출처 페이지 대표 이미지 · thenewraw.org (원본 링크)"
+image_source: "https://thenewraw.org"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

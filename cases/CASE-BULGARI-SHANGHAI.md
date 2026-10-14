@@ -15,6 +15,9 @@ confidence: C
 status: draft
 sources:
   - https://www.designboom.com/architecture/mvrdv-bulgari-shanghai-facade-china-recycled-green-glass-champagne-bottles-12-12-2021/
+image: "https://www.designboom.com/twitterimages/uploads/2021/12/MVRDV-bulgari-shanghai-china-facade-reused-recycled-champagne-bottles-designboom-FB.jpg"
+image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/architecture/mvrdv-bulgari-shanghai-facade-china-recycled-green-glass-champagne-bottles-12-12-2021/"
 updated: 2026-10-14
 ---
 ## 공간 한 줄

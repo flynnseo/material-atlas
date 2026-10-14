@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Onyx
+image: "assets/img/MTL-ST-ONYX.jpg"
+image_credit: "Robert M. Lavinsky · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Agate-Quartz-49959.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

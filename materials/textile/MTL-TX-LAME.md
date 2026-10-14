@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Lam%C3%A9_(fabric)
+image: "assets/img/MTL-TX-LAME.jpg"
+image_credit: "pop culture geek from Los Angeles, CA, USA · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Debbie_Reynolds_Auction_-_Claudette_Colbert_gold-lame_and_emerald_royal_boudoir_gown_from_%22Cleopatra%22_%281934%29_%285851926969%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

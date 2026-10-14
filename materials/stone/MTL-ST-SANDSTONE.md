@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sandstone
+image: "assets/img/MTL-ST-SANDSTONE.jpg"
+image_credit: "작자 미상 · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:USDA_Mineral_Sandstone_93c3955.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Basalt
+image: "assets/img/MTL-ST-BASALT.jpg"
+image_credit: "James St. John · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Basalt_12_%2848674276333%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/
+image: "https://i0.wp.com/dbt.arch.ethz.ch/wp-content/uploads/2018/09/digitalMetal_0100.jpg?fit=2000%2C1125&ssl=1"
+image_credit: "출처 페이지 대표 이미지 · dbt.arch.ethz.ch (원본 링크)"
+image_source: "https://dbt.arch.ethz.ch/project/digital-metal-deep-facade/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

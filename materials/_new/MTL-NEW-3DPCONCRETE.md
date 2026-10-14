@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.xtreee.com/
+image: "https://www.xtreee.com/assets/hero_system.webp"
+image_credit: "출처 페이지 대표 이미지 · xtreee.com (원본 링크)"
+image_source: "https://www.xtreee.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

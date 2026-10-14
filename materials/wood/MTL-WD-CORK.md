@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Cork_(material)
+image: "assets/img/MTL-WD-CORK.jpg"
+image_credit: "작자 미상 · CC BY-SA 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Cork.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

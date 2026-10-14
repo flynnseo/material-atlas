@@ -217,6 +217,9 @@ def build_index(cards, schema, vocab):
             "why_space": c.get("why_space", "") or "",
             "kinetic_fit": c.get("kinetic_fit", "") or "",
             "discovered_via": c.get("discovered_via", "") or "",
+            "image": c.get("image", "") or "",
+            "image_credit": c.get("image_credit", "") or "",
+            "image_source": c.get("image_source", "") or "",
             "cost_tier": c.get("cost_tier"),
             "lead_time": c.get("lead_time", ""),
             "props": props if isinstance(props, dict) else {},
@@ -267,6 +270,14 @@ def write_site(index):
     data = json.dumps(index, ensure_ascii=False).replace("</", "<\\/")
     out = tpl.replace("/*__SEARCH_JS__*/", engine).replace("/*__DATA__*/null", data)
     (SITE / "index.html").write_text(out, encoding="utf-8")
+    # 저장 이미지 복사 (assets/img → site/assets/img)
+    import shutil
+    src = ROOT / "assets" / "img"
+    if src.exists():
+        dst = SITE / "assets" / "img"
+        if dst.exists():
+            shutil.rmtree(dst)
+        shutil.copytree(src, dst)
 
 
 def main():

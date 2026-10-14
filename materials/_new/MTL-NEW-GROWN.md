@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.grown.bio
+image: "https://www.grown.bio/wp-content/uploads/2023/09/mushroom-packaging-flat-top.jpg"
+image_credit: "출처 페이지 대표 이미지 · grown.bio (원본 링크)"
+image_source: "https://www.grown.bio"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

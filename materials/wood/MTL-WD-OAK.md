@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Oak
+image: "assets/img/MTL-WD-OAK.jpg"
+image_credit: "Anonimski · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3A16%20wood%20samples.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

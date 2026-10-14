@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Concrete
+image: "assets/img/MTL-ST-EXPOSEDAGG.jpg"
+image_credit: "Ablazejo · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Bloczek_betonowy.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

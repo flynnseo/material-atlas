@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Nickel_electroplating
   - https://pfonline.com/articles/electrolytic-and-electroless-nickel
+image: "assets/img/FIN-NICKEL-PLATE.jpg"
+image_credit: "Paul from Enschede, The Netherlands · CC BY-SA 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Nickel_Nodule_obtained_by_Electroplating.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Sandwich-structured_composite
+image: "assets/img/MTL-CP-SPNL.jpg"
+image_credit: "Acheolg · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Composites_sandwich_panel.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

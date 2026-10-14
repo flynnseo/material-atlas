@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_strip_light
+image: "assets/img/MTL-LT-IP67.jpg"
+image_credit: "Matti Blume · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Passenger_Experience_Week_2018%2C_Hamburg_%281X7A3748%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

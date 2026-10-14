@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fused_filament_fabrication
+image: "assets/img/MTL-CP-FIBERFIL.jpg"
+image_credit: "John Abella · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Prusa_i3_3D_Printer_-_Reprap_-_Completed.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Porcelain_tile
+image: "assets/img/MTL-ST-PORCELAIN.jpg"
+image_credit: "jeem from Saint Louis, United States · CC BY-SA 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Chinese_porcelain_tiles%2C_Cochin_synagogue.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

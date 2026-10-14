@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.plascore.com/
+image: "http://plascore.com/wp-content/uploads/2025/09/Aluminum-MIL-Honeycomb_0014_header-scaled.jpg"
+image_credit: "출처 페이지 대표 이미지 · plascore.com (원본 링크)"
+image_source: "https://www.plascore.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

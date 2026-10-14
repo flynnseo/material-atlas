@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.prettyplastic.nl/
+image: "http://static1.squarespace.com/static/632c323fac03bd68c2ed4707/t/633ae683a999d17648361c9a/1664804483818/Kopie_van_Kopie_van_Zonder_titel-removebg-preview.png?format=1500w"
+image_credit: "출처 페이지 대표 이미지 · prettyplastic.nl (원본 링크)"
+image_source: "https://www.prettyplastic.nl/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

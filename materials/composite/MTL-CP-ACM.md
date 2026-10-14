@@ -33,6 +33,9 @@ sources:
   - https://alucobond.com.sg/products/alucobond-plus-composite-panels/processing-plus/routing-folding-plus/
   - https://theconversation.com/fact-check-is-the-type-of-cladding-used-on-grenfell-tower-actually-banned-in-britain-79803
   - https://www.designingbuildings.co.uk/wiki/Aluminium_composite_panels
+image: "assets/img/MTL-CP-ACM.jpg"
+image_credit: "Phoenix7777 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Aluminium_composite_material.png"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

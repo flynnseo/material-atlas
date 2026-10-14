@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyurethane
+image: "assets/img/FIN-PU-PAINT.jpg"
+image_credit: "Pieria(Uploader and Photographer) · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Urethane_sponge1.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

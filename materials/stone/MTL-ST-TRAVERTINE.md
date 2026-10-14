@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Travertine
+image: "assets/img/MTL-ST-TRAVERTINE.jpg"
+image_credit: "Frank Schulenburg · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Mammoth_Terraces.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

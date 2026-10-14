@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Drywall
+image: "assets/img/MTL-ST-GYPSUMBOARD.jpg"
+image_credit: "Timothyjosephwood · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Drywall_and_tools.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

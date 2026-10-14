@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Gold_plating
   - https://pfonline.com/articles/thin-gold
+image: "assets/img/FIN-GOLD-PLATE.jpg"
+image_credit: "NASA/JPL · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_Record_Cover_-_GPN-2000-001978.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

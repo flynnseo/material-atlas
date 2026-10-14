@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Cold_spraying
   - https://www.spee3d.com/
+image: "assets/img/FIN-COLDSPRAY.jpg"
+image_credit: "S. Kuroda et al. · CC BY 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Comparison_of_thermal_spray_processes.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Terrazzo
+image: "assets/img/MTL-ST-TERRAZZO.jpg"
+image_credit: "Ned Hartley · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Terrazzo_entryway.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

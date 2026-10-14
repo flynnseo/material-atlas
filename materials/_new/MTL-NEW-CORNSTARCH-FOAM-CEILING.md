@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://thespaces.com/londons-monc-champions-sustainable-design-with-its-mountain-inspired-interiors/
+image: "https://cdn.thespaces.com/wp-content/uploads/2022/05/Monc_store-interior_LR-01-hero.jpg"
+image_credit: "출처 페이지 대표 이미지 · thespaces.com (원본 링크)"
+image_source: "https://thespaces.com/londons-monc-champions-sustainable-design-with-its-mountain-inspired-interiors/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

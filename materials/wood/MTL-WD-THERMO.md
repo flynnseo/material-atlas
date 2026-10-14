@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Thermally_modified_wood
+image: "assets/img/MTL-WD-THERMO.jpg"
+image_credit: "Michel Weidner · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Thermoholz.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

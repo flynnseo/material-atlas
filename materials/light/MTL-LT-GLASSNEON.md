@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Neon_lighting
+image: "assets/img/MTL-LT-GLASSNEON.jpg"
+image_credit: "Amin · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Neon_lights_art_installation.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

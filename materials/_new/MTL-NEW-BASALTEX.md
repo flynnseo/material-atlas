@@ -23,6 +23,9 @@ sources:
   - https://www.basaltex.com/
   - https://materialdistrict.com/material/basalt-woven-textile/
   - https://en.wikipedia.org/wiki/Basalt_fiber
+image: "assets/img/MTL-NEW-BASALTEX.jpg"
+image_credit: "Nils Austa · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Basalt_fibre_and_glass_fibre.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

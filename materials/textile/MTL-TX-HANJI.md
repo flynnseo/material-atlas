@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Korean_paper
+image: "assets/img/MTL-TX-HANJI.jpg"
+image_credit: "대한민국 정부 문화체육관광부 문화재청 · CC BY-SA 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EC%A7%80%EC%9E%A5.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

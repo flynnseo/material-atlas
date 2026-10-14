@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Ferrocement
+image: "assets/img/MTL-CP-FERRO.jpg"
+image_credit: "Myrabella · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Arromanches-les-Bains_port_artificiel_Mulberry.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

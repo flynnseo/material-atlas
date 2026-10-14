@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.weezandmerl.com/
+image: "https://static.wixstatic.com/media/e255f8_d00f14cf392e4acead8ca65a014a5e54~mv2.jpg/v1/fill/w_2500,h_1250,al_c/e255f8_d00f14cf392e4acead8ca65a014a5e54~mv2.jpg"
+image_credit: "출처 페이지 대표 이미지 · weezandmerl.com (원본 링크)"
+image_source: "https://www.weezandmerl.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.madeofair.com
+image: "http://static1.squarespace.com/static/61488a227e99c5752872f551/t/69383bb53df7ad1e137cb41a/1634211037972/Made-of-air_social_sharing.png?format=1500w"
+image_credit: "출처 페이지 대표 이미지 · madeofair.com (원본 링크)"
+image_source: "https://www.madeofair.com"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

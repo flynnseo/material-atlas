@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/recycled-terrazzo/
+image: "https://media.materialdistrict.com/wp-content/uploads/2024/05/the-good-floor-recycled-terrazzo-pla1455-8.jpeg?v=20240531082408"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/recycled-terrazzo/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

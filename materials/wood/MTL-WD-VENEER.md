@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood_veneer
+image: "assets/img/MTL-WD-VENEER.jpg"
+image_credit: "MatthiasKabel at German Wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Furnierdecke.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

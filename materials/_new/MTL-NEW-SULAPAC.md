@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.sulapac.com
+image: "https://www.sulapac.com/app/uploads/2023/11/Sulapac_Styled_spring_2022-2750-Edit-Edit_jennijoanna_original-e1715599683852.jpg"
+image_credit: "출처 페이지 대표 이미지 · sulapac.com (원본 링크)"
+image_source: "https://www.sulapac.com"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

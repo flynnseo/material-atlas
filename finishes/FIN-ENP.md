@@ -14,6 +14,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electroless_nickel_plating
+image: "assets/img/FIN-ENP.jpg"
+image_credit: "AliceLr · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:15.electroless.nickel.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

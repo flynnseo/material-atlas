@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electropolishing
+image: "assets/img/FIN-ELECTROPOLISH.jpg"
+image_credit: "LaurensvanLieshout · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Electropolishing_principle.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

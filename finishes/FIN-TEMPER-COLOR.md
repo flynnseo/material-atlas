@@ -14,6 +14,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Tempering_(metallurgy)
+image: "assets/img/FIN-TEMPER-COLOR.jpg"
+image_credit: "Zaereth · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Tempering_colors_in_steel.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

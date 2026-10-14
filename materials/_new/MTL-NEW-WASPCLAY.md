@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.3dwasp.com/en/
+image: "https://www.3dwasp.com/wp-content/uploads/2020/03/WASP-stampanti-3d.jpg"
+image_credit: "출처 페이지 대표 이미지 · 3dwasp.com (원본 링크)"
+image_source: "https://www.3dwasp.com/en/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

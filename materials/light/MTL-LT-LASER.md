@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Laser_lighting_display
+image: "assets/img/MTL-LT-LASER.jpg"
+image_credit: "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Tamron 28-75mm f/2.8 · GFDL 1.2 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Classical_spectacular_laser_effects.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

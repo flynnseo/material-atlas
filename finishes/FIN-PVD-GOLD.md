@@ -12,6 +12,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
+image: "assets/img/FIN-PVD-GOLD.jpg"
+image_credit: "NASA/Marvin G. Smith (Wyle Information Systems LLC) · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Plasma_Spray-Physical_Vapor_Deposition.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

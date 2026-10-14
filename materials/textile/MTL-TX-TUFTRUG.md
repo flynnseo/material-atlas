@@ -20,6 +20,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Tufting
   - https://en.wikipedia.org/wiki/Carpet
+image: "assets/img/MTL-TX-TUFTRUG.jpg"
+image_credit: "KnowledgeBySean · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Tufting_gun_%28TD-01%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

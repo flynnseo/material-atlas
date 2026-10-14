@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Felt
+image: "assets/img/MTL-TX-WOOLFELT.jpg"
+image_credit: "Bastet78 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Colored_felt_cloth.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

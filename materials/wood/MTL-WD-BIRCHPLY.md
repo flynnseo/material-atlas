@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Plywood
+image: "assets/img/MTL-WD-BIRCHPLY.jpg"
+image_credit: "Bystander · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Spruce_plywood.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

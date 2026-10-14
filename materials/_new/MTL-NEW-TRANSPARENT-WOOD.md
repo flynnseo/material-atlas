@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Transparent_wood_composite
+image: "assets/img/MTL-NEW-TRANSPARENT-WOOD.jpg"
+image_credit: "Digital Naturalism Laboratories · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Example_of_Transparent_Wood_and_Light_diffusion.webm"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

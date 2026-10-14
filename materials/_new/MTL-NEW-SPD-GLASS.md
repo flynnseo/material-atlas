@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://www.smartglass.com/
   - https://en.wikipedia.org/wiki/Smart_glass
+image: "assets/img/MTL-NEW-SPD-GLASS.jpg"
+image_credit: "Shtiever · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Shtiever_1.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Wood_finishing
   - https://www.canadianwoodworking.com/tipstechniques/hardwax-oil
   - https://greenbuildingnews.com/2012/03/21/natural-hard-wax-oil-finish/
+image: "assets/img/FIN-WOOD-OIL.jpg"
+image_credit: "Vermont Timber Works Inc. · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Worker_Applying_a_Wood_Finish.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

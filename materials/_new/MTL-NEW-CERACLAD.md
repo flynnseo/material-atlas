@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/article/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes
+image: "https://media.materialdistrict.com/wp-content/uploads/2026/01/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes-materialdistrict-11.jpeg?v=20260127155132"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/article/3d-ceraclad-a-3d-printed-ceramic-facade-system-for-sustainable-building-envelopes"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

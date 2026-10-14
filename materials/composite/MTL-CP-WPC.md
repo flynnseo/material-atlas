@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wood-plastic_composite
+image: "assets/img/MTL-CP-WPC.jpg"
+image_credit: "VarunRajendran at English Wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Wood_plastic_composite.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

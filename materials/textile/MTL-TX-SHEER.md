@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Organza
+image: "assets/img/MTL-TX-SHEER.jpg"
+image_credit: "Own work / rmkoske · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Organza_skirt_2.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Screen_printing
   - https://www.wiki.pathfindersonline.org/w/AY_Honors/Silk_Screen_Printing/Answer_Key
+image: "assets/img/FIN-SILKSCREEN.jpg"
+image_credit: "Meul (Meul) · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:TeeshirtCopyleft_cadre.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

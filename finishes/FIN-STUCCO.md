@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Polished_plaster
   - https://en.wikipedia.org/wiki/Lime_plaster
   - https://www.dulux.com.au/specifier/products/venetian-plaster/venetian-plaster-marmorino-naturale/
+image: "assets/img/FIN-STUCCO.jpg"
+image_credit: "Heinz-Josef Lücking · CC BY-SA 3.0 de · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Plaster_-_Putz_in_Pompeji.JPG"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

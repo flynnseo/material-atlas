@@ -24,6 +24,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/EPDM_rubber
+image: "assets/img/MTL-PL-EPDM.jpg"
+image_credit: "Smokefoot · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:EPDMcolorcoded.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

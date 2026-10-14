@@ -24,6 +24,9 @@ sources:
   - https://buildingconservation.com/articles/gilding/gilding.htm
   - https://rct.uk/collection/conservation/gilding
   - https://www.mfa.org/collections/conservation/conservation-in-action/benjamin-west-frame/march-2015
+image: "assets/img/FIN-GILDING.jpg"
+image_credit: "Juangonzalez64 at English Wikipedia · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Gilded_frame_being_burnished_with_agate_tool.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

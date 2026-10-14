@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Hydrographics_(printing)
   - https://hydrokon.com/blog/what-is-immersion-printing-a-complete-guide-to-hydrographics/
+image: "assets/img/FIN-HYDRODIP.jpg"
+image_credit: "Deeppaint · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Hydrographics_%28printing%29.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

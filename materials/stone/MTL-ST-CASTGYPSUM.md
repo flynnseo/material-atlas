@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Plaster_of_Paris
+image: "assets/img/MTL-ST-CASTGYPSUM.jpg"
+image_credit: "No machine-readable author provided. Urban~commonswiki assumed (based on copyrig · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Fontainebleau_escalier_roi5.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

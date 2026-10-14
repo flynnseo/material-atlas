@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/SAE_304_stainless_steel
   - https://www.nickelinstitute.org/media/zb3dx2co/11015_stainlesssteelinabc_guidelinesforbuildingexteriors.pdf
   - https://assda.asn.au/blog/133-no-4-the-workhorse-finish
+image: "assets/img/MTL-SS-304.jpg"
+image_credit: "Libowei111 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:304_STAINLESS_STEEL_PIPE.png"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

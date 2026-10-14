@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Rope
+image: "assets/img/MTL-TX-COTTONROPE.jpg"
+image_credit: "Ji-Elle · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Cordage_en_chanvre.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

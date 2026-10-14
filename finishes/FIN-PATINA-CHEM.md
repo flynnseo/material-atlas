@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://www.sculptnouveau.com/
   - https://en.wikipedia.org/wiki/Patina
+image: "assets/img/FIN-PATINA-CHEM.jpg"
+image_credit: "w:User:Micahmn · CC BY 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Minneapolis_City_Hall.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://www.keronite.com/
   - https://en.wikipedia.org/wiki/Plasma_electrolytic_oxidation
+image: "assets/img/FIN-PEO.jpg"
+image_credit: "No machine-readable author provided. Jac64 assumed (based on copyright claims). · CC BY-SA 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:PEO_surface.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

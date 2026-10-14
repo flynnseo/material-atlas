@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Brick
+image: "assets/img/MTL-ST-BRICK.jpg"
+image_credit: "Andrewlister · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Brick.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

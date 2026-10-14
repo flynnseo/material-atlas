@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Retroreflector
+image: "assets/img/MTL-FM-RETROSIGN.jpg"
+image_credit: "Kkmurray · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Corner-Cube.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

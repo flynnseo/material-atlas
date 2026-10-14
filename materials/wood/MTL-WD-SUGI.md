@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Cryptomeria
+image: "assets/img/MTL-WD-SUGI.jpg"
+image_credit: "Ki7sun3 · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3AHandmade%20Sugi%20wood%20chopsticks%2C%20Yakushima.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

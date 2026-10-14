@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/bio-glass/
+image: "https://media.materialdistrict.com/wp-content/uploads/2010/02/GLA168-1.jpg?v=20130830120313"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/bio-glass/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

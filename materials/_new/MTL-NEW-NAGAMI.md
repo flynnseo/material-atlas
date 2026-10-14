@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.nagami.design
+image: "http://nagami.design/cdn/shop/files/nagami-instalaciones-03.jpg?v=1746238893"
+image_credit: "출처 페이지 대표 이미지 · nagami.design (원본 링크)"
+image_source: "https://www.nagami.design"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_filament
+image: "assets/img/MTL-LT-LEDFIL.jpg"
+image_credit: "Henk.muller at English Wikipedia · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:LED_filament_lamp.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

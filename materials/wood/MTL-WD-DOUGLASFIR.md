@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Douglas_fir
+image: "assets/img/MTL-WD-DOUGLASFIR.jpg"
+image_credit: "U.S. Forest Service- Pacific Northwest Region · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3A7461%20Douglas-fir%20Lumber%20for%20WWI%20Ships%20at%20Portland%20%2822014186726%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

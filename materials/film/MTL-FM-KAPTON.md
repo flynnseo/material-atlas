@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Kapton
+image: "assets/img/MTL-FM-KAPTON.jpg"
+image_credit: "Ulfbastel · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Kaptonpads.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

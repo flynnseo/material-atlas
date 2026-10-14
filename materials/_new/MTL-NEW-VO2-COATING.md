@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Thermochromism
+image: "assets/img/MTL-NEW-VO2-COATING.jpg"
+image_credit: "Bilovitskiy · CC BY 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Liquid_crystals.webm"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

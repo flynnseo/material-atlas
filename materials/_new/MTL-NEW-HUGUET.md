@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/huguet-recycled-terrazzo/
+image: "https://media.materialdistrict.com/wp-content/uploads/2022/03/Huguet-x-MVRDV-Recycled-Terrazzo-with-red-glass-1.jpg?v=20220329103554"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/huguet-recycled-terrazzo/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

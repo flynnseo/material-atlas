@@ -23,6 +23,9 @@ hands_on: false
 sources:
   - https://ferrofluid.ferrotec.com/
   - https://en.wikipedia.org/wiki/Ferrofluid
+image: "assets/img/MTL-NEW-FERROFLUID.jpg"
+image_credit: "Gregory F. Maxwell <gmaxwell@gmail.com> PGP:0xB0413BFA · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Ferrofluid_Magnet_under_glass_edit.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

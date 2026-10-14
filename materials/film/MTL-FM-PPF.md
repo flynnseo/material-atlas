@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Paint_protection_film
+image: "assets/img/MTL-FM-PPF.jpg"
+image_credit: "Dmitry757 · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D0%BD%D0%BE%D0%B9_%D0%BF%D0%BB%D0%B5%D0%BD%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BF%D0%BE%D1%82.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

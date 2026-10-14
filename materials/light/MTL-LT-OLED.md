@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/OLED
+image: "assets/img/MTL-LT-OLED.jpg"
+image_credit: "Samsung Belgium · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Samsung_OLED_TV.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

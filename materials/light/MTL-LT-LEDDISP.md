@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/LED_display
+image: "assets/img/MTL-LT-LEDDISP.jpg"
+image_credit: "Martin Kraft · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:MK38527_LED_Display.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Lacquer
+image: "assets/img/FIN-CLEAR-LACQUER.jpg"
+image_credit: "작자 미상 · CC0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:%E6%98%8E%E5%98%89%E9%9D%96_%E5%89%94%E7%B4%85%E5%A3%BD%E5%AD%97%E7%B4%8B%E5%85%AB%E8%A7%92%E6%BC%86%E7%9B%A4-Dish_with_character_for_longevity_%28shou%29_MET_DP704215.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

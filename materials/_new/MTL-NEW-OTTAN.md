@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.ottan.co.uk/
+image: "https://static.wixstatic.com/media/7c1251_9461e13113f44ff4a2b4e0675cfa08b8%7Emv2.jpeg/v1/fit/w_2500,h_1330,al_c/7c1251_9461e13113f44ff4a2b4e0675cfa08b8%7Emv2.jpeg"
+image_credit: "출처 페이지 대표 이미지 · ottan.co.uk (원본 링크)"
+image_source: "https://www.ottan.co.uk/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

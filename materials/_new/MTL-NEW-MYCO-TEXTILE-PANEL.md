@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://archup.net/ninaco-uses-salvaged-materials-and-biotextiles-for-big-beautys-first-store/
+image: "https://archup.net/wp-content/uploads/2023/06/64761-big-beauty-hackney-retail-interiors-nina-co-woodcroft-dezeen-anna-batchelor_dezeen_2364_SQ.jpg"
+image_credit: "출처 페이지 대표 이미지 · archup.net (원본 링크)"
+image_source: "https://archup.net/ninaco-uses-salvaged-materials-and-biotextiles-for-big-beautys-first-store/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

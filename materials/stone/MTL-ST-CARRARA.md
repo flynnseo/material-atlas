@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Carrara_marble
+image: "assets/img/MTL-ST-CARRARA.jpg"
+image_credit: "L'autore sono io Utente:Carrarino · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Carrara.PNG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

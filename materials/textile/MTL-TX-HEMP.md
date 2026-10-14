@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Hemp
+image: "assets/img/MTL-TX-HEMP.jpg"
+image_credit: "Barbetorte · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:La_Roche_Jagu_chanvre_1.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -15,6 +15,9 @@ confidence: C
 status: draft
 sources:
   - https://archup.net/nagami-3d-prints-plastic-to-mimic-melting-glaciers-in-spanish-boutique
+image: "https://archup.net/wp-content/uploads/2023/03/50557-nagami-ecoalf-spain-shop_dezeen_2364_col_7-600x600.jpg"
+image_credit: "출처 페이지 대표 이미지 · archup.net (원본 링크)"
+image_source: "https://archup.net/nagami-3d-prints-plastic-to-mimic-melting-glaciers-in-spanish-boutique"
 updated: 2026-10-14
 ---
 ## 공간 한 줄

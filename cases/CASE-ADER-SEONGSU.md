@@ -16,6 +16,9 @@ status: draft
 sources:
   - https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information
   - https://heypop.kr/n/117340
+image: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2024%2F12%2F23%2Fadererror-seongsu-space-opening-south-korea-information-tw.jpg?w=1080&cbr=1&q=90&fit=max"
+image_credit: "출처 페이지 대표 이미지 · hypebeast.com (원본 링크)"
+image_source: "https://hypebeast.com/2024/12/adererror-seongsu-space-opening-south-korea-information"
 updated: 2026-10-13
 ---
 ## 공간 한 줄

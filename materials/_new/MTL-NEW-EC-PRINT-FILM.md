@@ -22,6 +22,9 @@ hands_on: false
 sources:
   - https://www.osti.gov/biblio/1046707
   - https://en.wikipedia.org/wiki/Electrochromism
+image: "assets/img/MTL-NEW-EC-PRINT-FILM.jpg"
+image_credit: "Smokefoot · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:MVredox.png"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

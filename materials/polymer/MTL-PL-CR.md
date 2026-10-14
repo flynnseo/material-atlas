@@ -24,6 +24,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Neoprene
+image: "assets/img/MTL-PL-CR.jpg"
+image_credit: "Mark.murphy · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Diving_suit_neoprene.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

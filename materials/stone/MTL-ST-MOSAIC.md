@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Mosaic
+image: "assets/img/MTL-ST-MOSAIC.jpg"
+image_credit: "AnonymousUnknown author · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:MosaicEpiphany-of-Dionysus.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

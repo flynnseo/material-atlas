@@ -23,6 +23,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polyvinyl_chloride
+image: "assets/img/MTL-PL-PVC-FOAM.jpg"
+image_credit: "LHcheM · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Pure_Polyvinyl_Chloride_powder.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

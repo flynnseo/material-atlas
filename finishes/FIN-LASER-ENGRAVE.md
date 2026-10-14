@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Laser_engraving
   - https://www.keyence.com/products/marker/laser-marker/resources/laser-marking-resources/3-most-common-types-of-laser-marking.jsp
   - https://www.troteclaser.com/fileadmin/content/pdf/News/us/Fiber-CO2-Guide.pdf
+image: "assets/img/FIN-LASER-ENGRAVE.jpg"
+image_credit: "Ich · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Wine_glass_fill_line.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

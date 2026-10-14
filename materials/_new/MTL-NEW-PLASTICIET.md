@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://plasticiet.com/
+image: "http://static1.squarespace.com/static/68c4009502c091522cfba509/t/68cfd0ad0f573d445008e04b/1758449837220/plasticiet.png?format=1500w"
+image_credit: "출처 페이지 대표 이미지 · plasticiet.com (원본 링크)"
+image_source: "https://plasticiet.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

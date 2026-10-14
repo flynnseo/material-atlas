@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fake_fur
+image: "assets/img/MTL-TX-FAKEFUR.jpg"
+image_credit: "Twentieth Century Fox · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Anne_Baxter-YOU%27RE_MY_EVERYTHING-Promo.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

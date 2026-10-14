@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/Wood_stain
   - https://en.wikipedia.org/wiki/Wood_finishing
   - https://canadianwoodworking.com/techniques_and_tips/stains/
+image: "assets/img/FIN-STAIN.jpg"
+image_credit: "Vermont Timber Works Inc. · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Worker_Applying_a_Wood_Finish.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

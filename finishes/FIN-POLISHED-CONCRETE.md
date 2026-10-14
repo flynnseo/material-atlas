@@ -11,6 +11,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Polished_concrete
+image: "assets/img/FIN-POLISHED-CONCRETE.jpg"
+image_credit: "Intellicents · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Polished_Concrete_Floor.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -23,6 +23,9 @@ sources:
   - https://en.wikipedia.org/wiki/SAE_316L_stainless_steel
   - https://www.nickelinstitute.org/media/zb3dx2co/11015_stainlesssteelinabc_guidelinesforbuildingexteriors.pdf
   - https://en.wikipedia.org/wiki/SAE_304_stainless_steel
+image: "assets/img/MTL-SS-316.jpg"
+image_credit: "Webcorr · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Crevice_corrosion_of_316_stainless_steel_in_desalination.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

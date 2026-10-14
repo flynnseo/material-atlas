@@ -15,6 +15,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.steelcolor.com/
+image: "https://www.steelcolor.com/wp-content/uploads/2018/01/Architecture.jpg"
+image_credit: "출처 페이지 대표 이미지 · steelcolor.com (원본 링크)"
+image_source: "https://www.steelcolor.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

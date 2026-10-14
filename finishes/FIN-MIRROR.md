@@ -16,6 +16,9 @@ hands_on: false
 sources:
   - https://www.worldstainless.org/about-stainless/process-and-production/surface-treatment/
   - https://en.wikipedia.org/wiki/Polishing_(metalworking)
+image: "assets/img/FIN-MIRROR.jpg"
+image_credit: "Mgeurts · CC BY 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Unpolished_and_polished_silver_artwork_pieces.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

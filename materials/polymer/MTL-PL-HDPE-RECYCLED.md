@@ -25,6 +25,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Plastic_lumber
   - https://en.wikipedia.org/wiki/High-density_polyethylene
+image: "assets/img/MTL-PL-HDPE-RECYCLED.jpg"
+image_credit: "US Fish and Wildlife Service - Recovery Act Team · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Rachel_Carson_National_Wildlife_Refuge_%285514980099%29.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

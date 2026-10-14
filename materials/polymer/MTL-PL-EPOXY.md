@@ -24,6 +24,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Epoxy
+image: "assets/img/MTL-PL-EPOXY.jpg"
+image_credit: "Acheolg · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Aerospace_epoxy_resin.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

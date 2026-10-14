@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://materialdistrict.com/material/oesterplat/
+image: "https://media.materialdistrict.com/wp-content/uploads/2018/10/d-werkplaats-oesterplat-nst109-9.jpg?v=20181015101219"
+image_credit: "출처 페이지 대표 이미지 · materialdistrict.com (원본 링크)"
+image_source: "https://materialdistrict.com/material/oesterplat/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://www.designboom.com/architecture/robotically-3d-printed-earth-bricks-multispecies-habitat-olive-tree-mtrl-technion/
+image: "https://www.designboom.com/twitterimages/uploads/2026/10/bustan-earthen-pavilion-mtrl-designboom-1200-1.jpg"
+image_credit: "출처 페이지 대표 이미지 · designboom.com (원본 링크)"
+image_source: "https://www.designboom.com/architecture/robotically-3d-printed-earth-bricks-multispecies-habitat-olive-tree-mtrl-technion/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

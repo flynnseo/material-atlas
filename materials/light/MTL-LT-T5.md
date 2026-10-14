@@ -22,6 +22,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Fluorescent_lamp
+image: "assets/img/MTL-LT-T5.jpg"
+image_credit: "Flickr user Oimax \n\n\n\n\n\n\nThis image was originally posted to Flickr by OiMax at  · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Fluorescent_lamps_artistic.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

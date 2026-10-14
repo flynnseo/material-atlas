@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Teak
+image: "assets/img/MTL-WD-TEAK.jpg"
+image_credit: "Ganesh Mohan T · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ATeak%20wood%20inside%20Nilambur%20teak%20museum.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://smile-materials.com/
+image: "https://smile-materials.com/wp-content/uploads/2025/09/Smile-Plastics-Material-Shoot-4-Web-2-of-53.jpg"
+image_credit: "출처 페이지 대표 이미지 · smile-materials.com (원본 링크)"
+image_source: "https://smile-materials.com/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Electroluminescence
+image: "assets/img/MTL-LT-ELPANEL.jpg"
+image_credit: "User:Grimlock · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Backlit_LCD_display.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

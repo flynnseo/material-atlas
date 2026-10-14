@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Pinus_radiata
+image: "assets/img/MTL-WD-RADIATA.jpg"
+image_credit: "Photographer: Unknown · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File%3ASawn%20Timber%20Exported%20to%20Japan%2C%201967%20%284%29.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

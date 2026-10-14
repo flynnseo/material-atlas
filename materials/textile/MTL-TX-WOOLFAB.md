@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Wool
+image: "assets/img/MTL-TX-WOOLFAB.jpg"
+image_credit: "Rob · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Royal_Winter_Fair_Wool_2.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Strontium_aluminate
+image: "assets/img/MTL-NEW-SRAL-GLOW.jpg"
+image_credit: "Splarka at English Wikipedia · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Phosphorescent.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

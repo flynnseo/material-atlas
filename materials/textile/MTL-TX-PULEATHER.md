@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Synthetic_leather
+image: "assets/img/MTL-TX-PULEATHER.jpg"
+image_credit: "puuikibeach · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Reproduction_Mk_VII_Gas_Mask_Bag_-11.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

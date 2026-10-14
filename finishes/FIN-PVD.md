@@ -14,6 +14,9 @@ sources:
   - https://en.wikipedia.org/wiki/Physical_vapor_deposition
   - https://upcommons.upc.edu/server/api/core/bitstreams/aa0ff051-d09e-4335-9ee3-ce21207efbc8/content
   - https://polen.itu.edu.tr/items/392330ec-feb5-493d-bad4-9595d0173d70
+image: "assets/img/FIN-PVD.jpg"
+image_credit: "NASA/Marvin G. Smith (Wyle Information Systems LLC) · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Plasma_Spray-Physical_Vapor_Deposition.jpg"
 updated: 2026-10-13
 ---
 ## 한 줄 정의

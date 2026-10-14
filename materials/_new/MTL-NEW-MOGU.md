@@ -21,6 +21,9 @@ status: draft
 hands_on: false
 sources:
   - https://mogu.bio
+image: "https://mogu.bio/wp-content/uploads/2026/05/mogu-anteprima-open-graph.webp"
+image_credit: "출처 페이지 대표 이미지 · mogu.bio (원본 링크)"
+image_source: "https://mogu.bio"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

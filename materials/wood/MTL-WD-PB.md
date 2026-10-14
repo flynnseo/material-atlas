@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Particle_board
+image: "assets/img/MTL-WD-PB.jpg"
+image_credit: "en:User:Rotor DB · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Particleboard.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

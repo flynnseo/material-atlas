@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Tanning_(leather)
+image: "assets/img/MTL-TX-CHROMELEATHER.jpg"
+image_credit: "Alexarosatti · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:JBS_Tannery.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Rammed_earth
+image: "assets/img/MTL-ST-RAMMEDEARTH.jpg"
+image_credit: "The Real Bear · CC BY 2.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Summer_Vacation_2007%2C_263%2C_Watchtower_In_The_Morning_Light%2C_Dunhuang%2C_Gansu_Province.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

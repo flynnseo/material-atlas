@@ -19,6 +19,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Marble
+image: "assets/img/MTL-ST-CALACATTA.jpg"
+image_credit: "Zyance · CC BY-SA 2.5 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Marmo_z17.JPG"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Window_film
+image: "assets/img/MTL-FM-SAFETYFILM.jpg"
+image_credit: "W.carter · CC BY-SA 4.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Gull_on_glass_ceiling%2C_Kampenhof_bus_terminal%2C_Uddevalla.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://dbt.arch.ethz.ch/project/digital-grotesque-at-centre-pompidou/
+image: "https://i2.wp.com/dbt.arch.ethz.ch/wp-content/uploads/2017/03/imprimer-le-monde-center-pompidou.jpg?fit=1440%2C690&ssl=1"
+image_credit: "출처 페이지 대표 이미지 · dbt.arch.ethz.ch (원본 링크)"
+image_source: "https://dbt.arch.ethz.ch/project/digital-grotesque-at-centre-pompidou/"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -12,6 +12,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Abrasive_blasting
+image: "assets/img/FIN-BEADBLAST.jpg"
+image_credit: "Stan Zurek · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Sandblasting1.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

@@ -20,6 +20,9 @@ status: draft
 hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Silk
+image: "assets/img/MTL-TX-SILK.jpg"
+image_credit: "Kuebi = Armin Kübelbeck · CC BY-SA 3.0 · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Silk_raw_01a.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

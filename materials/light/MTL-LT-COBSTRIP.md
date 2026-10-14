@@ -21,6 +21,9 @@ hands_on: false
 sources:
   - https://en.wikipedia.org/wiki/Chip_on_board
   - https://en.wikipedia.org/wiki/LED_strip_light
+image: "assets/img/MTL-LT-COBSTRIP.jpg"
+image_credit: "Serych at Czech Wikipedia · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Integrovan%C3%BD-obvod-asfalt-.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의

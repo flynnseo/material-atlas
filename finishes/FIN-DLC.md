@@ -17,6 +17,9 @@ sources:
   - https://www.ionbond.com/
   - https://www.oerlikon.com/balzers/
   - https://en.wikipedia.org/wiki/Diamond-like_carbon
+image: "assets/img/FIN-DLC.jpg"
+image_credit: "Jkeck-wiki · Public domain · Wikimedia Commons"
+image_source: "https://commons.wikimedia.org/wiki/File:Mpnvs-for-wikipedia.jpg"
 updated: 2026-10-14
 ---
 ## 한 줄 정의
