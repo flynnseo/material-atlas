@@ -2,7 +2,7 @@
 id: MTL-PL-PMMA
 name_ko: 아크릴 (PMMA)
 name_en: Acrylic / PMMA
-aliases: [아크릴판, 캐스트 아크릴, 압출 아크릴, 플렉시글라스, Plexiglas, 플렉시글래스, plexiglass, 퍼스펙스, Perspex, 폴리메틸메타크릴레이트, 메타크릴, 캐스팅 아크릴, 압출판, GS, XT, acrylic sheet, 아크릴릭, 아크릭]
+aliases: [아크릴판, 투명 판재, 투명판, 투명 아크릴판, 캐스트 아크릴, 압출 아크릴, 플렉시글라스, Plexiglas, 플렉시글래스, plexiglass, 퍼스펙스, Perspex, 폴리메틸메타크릴레이트, 메타크릴, 캐스팅 아크릴, 압출판, GS, XT, acrylic sheet, 아크릴릭, 아크릭]
 family: polymer
 subfamily: acrylic
 form: [sheet, bar, tube, block]

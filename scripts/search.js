@@ -107,6 +107,7 @@
       // 카드 자신의 소재군/하위군이면 더 강하게 (마감 카드의 applies_to 보다 소재 카드가 위로)
       [d.family, d.subfamily].forEach(function (t) { if (t) d._tags[t] = 0.9; });
       d._cho = choseong(d.name_ko || '') + ' ' + (d.aliases || []).map(choseong).join(' ');
+      d._choName = choseong(d.name_ko || '');
       d._text = norm(d.text || '');
     });
 
@@ -151,7 +152,9 @@
       }
     }
     // 3) 초성
-    if (tok.cho && d._cho.indexOf(tok.raw) >= 0) {
+    if (tok.cho && d._choName === tok.raw) {               // 이름 초성과 정확히 같으면 우선
+      if (0.9 > best) { best = 0.9; why = '초성'; }
+    } else if (tok.cho && d._cho.indexOf(tok.raw) >= 0) {
       if (0.85 > best) { best = 0.85; why = '초성'; }
     }
     // 4) 본문
@@ -192,20 +195,23 @@
     hits = hits.slice(0, limit);
 
     // 그래프 확장: 링크(0.5) · 백링크(0.5) · 유사(0.3)
+    // 상위 10개만 '직접 결과'로 고정. 그 아래 결과도 여러 상위 카드가 가리키면 연결된 자료로 올라온다.
     var direct = {};
-    hits.forEach(function (h) { direct[h.id] = 1; });
+    hits.slice(0, 10).forEach(function (h) { direct[h.id] = 1; });
     var rel = {};
     hits.slice(0, 8).forEach(function (h) {
       var d = idx.byId[h.id];
       function push(id, w, via) {
         if (direct[id] || !idx.byId[id]) return;
         var s = h.score * w;
-        if (!rel[id] || rel[id].score < s) rel[id] = { id: id, score: s, via: via + ' ' + d.id };
+        if (!rel[id]) rel[id] = { id: id, score: s, via: via + ' ' + d.id, n: 1 };
+        else { rel[id].n++; if (rel[id].score < s) { rel[id].score = s; rel[id].via = via + ' ' + d.id; } }
       }
       (d.links || []).forEach(function (id) { push(id, 0.5, '←'); });
       (d.backlinks || []).forEach(function (id) { push(id, 0.5, '→'); });
       (d.related || []).forEach(function (id) { push(id, 0.3, '≈'); });
     });
+    Object.keys(rel).forEach(function (k) { rel[k].score += 0.05 * (rel[k].n - 1); });
     var related = Object.keys(rel).map(function (k) { return rel[k]; })
       .sort(function (a, b) { return b.score - a.score; }).slice(0, 12);
 
@@ -222,6 +228,9 @@
       if (best < 0.25) suggest = null;
     }
 
+    var inRel = {};
+    related.forEach(function (r) { inRel[r.id] = 1; });
+    hits = hits.filter(function (h, i) { return i < 10 || !inRel[h.id]; });
     return { hits: hits, related: related, tokens: tokens.map(function (t) { return { raw: t.raw, exp: Object.keys(t.exp) }; }), suggest: suggest };
   }
 

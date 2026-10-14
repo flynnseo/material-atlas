@@ -1,0 +1,51 @@
+---
+id: MTL-GL-BLOCK
+name_ko: 유리 블록
+name_en: Glass block (glass brick)
+aliases: [유리블록, 유리 블록, 글라스 블록, 글라스블럭, 유리 벽돌, glass block, glass brick, 유리벽돌, 유리블럭, 블록 유리, glass blocks, prism glass, 프리즘 유리, Pittsburgh Corning, SEVES, Seves glass block, Vitrablok, 글래스 블록, 유리조적]
+family: glass
+subfamily: glass-block
+form: [block]
+properties:
+  구조: "유리 2개를 접합한 중공 블록"
+  크기 예: "190x190 / 190x80 등 규격(제조사별)"
+  특징: "채광·단열·차음"
+look: [translucent, glossy, textured]
+processes: [molding, bonding]
+uses: [wall, facade, indoor]
+finishes: []
+cases: []
+novelty: standard
+kinetic_fit: "백라이트와 결합한 벽."
+confidence: C
+status: draft
+hands_on: false
+sources: []
+updated: 2026-10-14
+---
+## 한 줄 정의
+중공 유리 2피스를 융착해 만든 블록. 쌓아 올려 빛이 통과하는 벽을 만든다.
+
+## 특성
+- 빛은 통과하되 시선은 흐려져 프라이버시 확보
+- 쌓기 방식 시공이라 곡선·코너 구성 가능
+- 단열·차음 성능이 있다
+
+## 가공·마감 메모
+- 모르타르 또는 전용 접착/스페이서 시공
+- 내부 보강근 필요한 높이 규정
+
+## 공간/오브제 사용 사례
+- 샤워 부스·욕실 벽
+- 리테일 파티션·감성 벽
+- 조명 매입 전시 벽
+
+## 주의점
+- 하중 지지 벽 사용은 규정 확인
+- 줄눈 오염
+
+## 업체·단가 메모
+-
+
+## 직접 해본 것
+-

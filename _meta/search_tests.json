@@ -170,5 +170,2935 @@
     "q": "젠몬 도산",
     "expect": "CASE-GM-HAUS-DOSAN",
     "note": "브랜드 은어 + 지역"
+  },
+  {
+    "q": "분채도장",
+    "expect": "FIN-POWDER-COAT",
+    "note": "오타"
+  },
+  {
+    "q": "파우더 코팅 철판",
+    "expect": "FIN-POWDER-COAT",
+    "note": "은어"
+  },
+  {
+    "q": "우레탄 이액형 도장",
+    "expect": "FIN-PU-PAINT",
+    "note": "순서 바꾼 질의"
+  },
+  {
+    "q": "PU 락카",
+    "expect": "FIN-PU-PAINT",
+    "note": "은어"
+  },
+  {
+    "q": "불소 도장 알미늄",
+    "expect": "FIN-PVDF",
+    "note": "은어"
+  },
+  {
+    "q": "케이나 500",
+    "expect": "FIN-PVDF",
+    "note": "오타"
+  },
+  {
+    "q": "피아노 도창",
+    "expect": "FIN-HIGH-GLOSS",
+    "note": "오타"
+  },
+  {
+    "q": "하이그로시 mdf",
+    "expect": "FIN-HIGH-GLOSS",
+    "note": "은어"
+  },
+  {
+    "q": "호로 강판",
+    "expect": "FIN-ENAMEL",
+    "note": "은어"
+  },
+  {
+    "q": "포셀린 에나멜",
+    "expect": "FIN-ENAMEL",
+    "note": "오타"
+  },
+  {
+    "q": "샌드브라스트",
+    "expect": "FIN-SANDBLAST",
+    "note": "오타"
+  },
+  {
+    "q": "샌블 처리",
+    "expect": "FIN-SANDBLAST",
+    "note": "은어"
+  },
+  {
+    "q": "비드브라스팅",
+    "expect": "FIN-BEADBLAST",
+    "note": "오타"
+  },
+  {
+    "q": "유리구슬 블라스트",
+    "expect": "FIN-BEADBLAST",
+    "note": "풀어쓴 말"
+  },
+  {
+    "q": "바랠 연마",
+    "expect": "FIN-VIBRATORY",
+    "note": "오타"
+  },
+  {
+    "q": "진동 바렐",
+    "expect": "FIN-VIBRATORY",
+    "note": "은어"
+  },
+  {
+    "q": "에칭 SUS판",
+    "expect": "FIN-ETCH",
+    "note": "은어"
+  },
+  {
+    "q": "스텐 애칭",
+    "expect": "FIN-ETCH",
+    "note": "오타"
+  },
+  {
+    "q": "엠뽀 판재",
+    "expect": "FIN-EMBOSS",
+    "note": "오타"
+  },
+  {
+    "q": "양각 스텐판",
+    "expect": "FIN-EMBOSS",
+    "note": "은어"
+  },
+  {
+    "q": "전해연마 스텐",
+    "expect": "FIN-ELECTROPOLISH",
+    "note": "표기"
+  },
+  {
+    "q": "전해 폴리싱",
+    "expect": "FIN-ELECTROPOLISH",
+    "note": "외래어"
+  },
+  {
+    "q": "패시베이숀",
+    "expect": "FIN-PASSIVATION",
+    "note": "오타"
+  },
+  {
+    "q": "스텐 산세",
+    "expect": "FIN-PASSIVATION",
+    "note": "은어"
+  },
+  {
+    "q": "하드 알마이트",
+    "expect": "FIN-ANODIZE-HARD",
+    "note": "은어"
+  },
+  {
+    "q": "경질 아노다이징",
+    "expect": "FIN-ANODIZE-HARD",
+    "note": "한자어"
+  },
+  {
+    "q": "컬러 알마이트",
+    "expect": "FIN-ANODIZE-DYED",
+    "note": "은어"
+  },
+  {
+    "q": "염색 아노다이징 알루미늄",
+    "expect": "FIN-ANODIZE-DYED",
+    "note": "풀어쓴 말"
+  },
+  {
+    "q": "PVD 골든",
+    "expect": "FIN-PVD-GOLD",
+    "note": "오타"
+  },
+  {
+    "q": "티타늄 코팅 금색",
+    "expect": "FIN-PVD-GOLD",
+    "note": "은어"
+  },
+  {
+    "q": "PVD 블랙 스텐",
+    "expect": "FIN-PVD-BLACK",
+    "note": "은어"
+  },
+  {
+    "q": "블렉 PVD",
+    "expect": "FIN-PVD-BLACK",
+    "note": "오타"
+  },
+  {
+    "q": "버너구이 화강석",
+    "expect": "FIN-STONE-FLAMED",
+    "note": "은어"
+  },
+  {
+    "q": "바너 마감",
+    "expect": "FIN-STONE-FLAMED",
+    "note": "오타"
+  },
+  {
+    "q": "혼드 마블",
+    "expect": "FIN-STONE-HONED",
+    "note": "은어"
+  },
+  {
+    "q": "호든 마감",
+    "expect": "FIN-STONE-HONED",
+    "note": "오타"
+  },
+  {
+    "q": "물같이 석재",
+    "expect": "FIN-STONE-POLISHED",
+    "note": "오타"
+  },
+  {
+    "q": "폴리싱 대리석 바닥",
+    "expect": "FIN-STONE-POLISHED",
+    "note": "은어"
+  },
+  {
+    "q": "비샤망 마감",
+    "expect": "FIN-STONE-BUSH",
+    "note": "현장 일본어식 은어"
+  },
+  {
+    "q": "도드락 다듬",
+    "expect": "FIN-STONE-BUSH",
+    "note": "표기 변형"
+  },
+  {
+    "q": "연마 콩크리트",
+    "expect": "FIN-POLISHED-CONCRETE",
+    "note": "오타"
+  },
+  {
+    "q": "폴리싱 콘크리트 바닥",
+    "expect": "FIN-POLISHED-CONCRETE",
+    "note": "은어"
+  },
+  {
+    "q": "에폭씨 바닥",
+    "expect": "FIN-EPOXY-FLOOR",
+    "note": "오타"
+  },
+  {
+    "q": "에폭시 라이닝",
+    "expect": "FIN-EPOXY-FLOOR",
+    "note": "은어"
+  },
+  {
+    "q": "발쑤 코팅",
+    "expect": "FIN-WATER-REPELLENT",
+    "note": "오타"
+  },
+  {
+    "q": "콘크리트 실러",
+    "expect": "FIN-WATER-REPELLENT",
+    "note": "은어"
+  },
+  {
+    "q": "크리어 래커",
+    "expect": "FIN-CLEAR-LACQUER",
+    "note": "오타"
+  },
+  {
+    "q": "락카 투명",
+    "expect": "FIN-CLEAR-LACQUER",
+    "note": "은어"
+  },
+  {
+    "q": "텍스쳐 스프레이",
+    "expect": "FIN-TEXTURE-PAINT",
+    "note": "표기"
+  },
+  {
+    "q": "스톤 텍스처 도장",
+    "expect": "FIN-TEXTURE-PAINT",
+    "note": "은어"
+  },
+  {
+    "q": "후로킹",
+    "expect": "FIN-FLOCKING",
+    "note": "오타"
+  },
+  {
+    "q": "벨벳 식모",
+    "expect": "FIN-FLOCKING",
+    "note": "은어"
+  },
+  {
+    "q": "신주판",
+    "expect": "MTL-BR-C2600",
+    "note": "현장어 놋쇠"
+  },
+  {
+    "q": "신쭈",
+    "expect": "MTL-BR-C2600",
+    "note": "일본식 은어"
+  },
+  {
+    "q": "황동 씨2600",
+    "expect": "MTL-BR-C2600",
+    "note": "오타"
+  },
+  {
+    "q": "동판",
+    "expect": "MTL-CU-C1100",
+    "note": "현장어"
+  },
+  {
+    "q": "커퍼",
+    "expect": "MTL-CU-C1100",
+    "note": "발음 표기"
+  },
+  {
+    "q": "c1100동",
+    "expect": "MTL-CU-C1100",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "타이타늄",
+    "expect": "MTL-TI-GR2",
+    "note": "표기 차이"
+  },
+  {
+    "q": "티탄판",
+    "expect": "MTL-TI-GR2",
+    "note": "일본식"
+  },
+  {
+    "q": "gr2 티타늄",
+    "expect": "MTL-TI-GR2",
+    "note": "규격 약식"
+  },
+  {
+    "q": "에쓰에쓰400",
+    "expect": "MTL-FE-SS400",
+    "note": "발음"
+  },
+  {
+    "q": "철판 흑피",
+    "expect": "MTL-FE-SS400",
+    "note": "현장어"
+  },
+  {
+    "q": "ss 400",
+    "expect": "MTL-FE-SS400",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "코텐강",
+    "expect": "MTL-FE-CORTEN",
+    "note": "축약"
+  },
+  {
+    "q": "콜텐",
+    "expect": "MTL-FE-CORTEN",
+    "note": "오타"
+  },
+  {
+    "q": "내후성강판 녹",
+    "expect": "MTL-FE-CORTEN",
+    "note": "설명형"
+  },
+  {
+    "q": "펀칭메탈",
+    "expect": "MTL-PM-PERF",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "퍼포레이티드 메탈",
+    "expect": "MTL-PM-PERF",
+    "note": "영문 발음"
+  },
+  {
+    "q": "타공 판넬",
+    "expect": "MTL-PM-PERF",
+    "note": "현장 표기"
+  },
+  {
+    "q": "순알미늄",
+    "expect": "MTL-AL-1050",
+    "note": "현장어"
+  },
+  {
+    "q": "알루미늄 1050판",
+    "expect": "MTL-AL-1050",
+    "note": "표기 변형"
+  },
+  {
+    "q": "a1050",
+    "expect": "MTL-AL-1050",
+    "note": "약식"
+  },
+  {
+    "q": "알미늄 3003",
+    "expect": "MTL-AL-3003",
+    "note": "표기"
+  },
+  {
+    "q": "삼공공삼 알루미늄",
+    "expect": "MTL-AL-3003",
+    "note": "한글 읽기"
+  },
+  {
+    "q": "3003h14",
+    "expect": "MTL-AL-3003",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "알루미늄 샤시",
+    "expect": "MTL-AL-6063",
+    "note": "현장어"
+  },
+  {
+    "q": "알미늄 프로파일",
+    "expect": "MTL-AL-6063",
+    "note": "표기"
+  },
+  {
+    "q": "6063 티파이브",
+    "expect": "MTL-AL-6063",
+    "note": "읽기"
+  },
+  {
+    "q": "초두랄루민",
+    "expect": "MTL-AL-7075",
+    "note": "일본식 별칭"
+  },
+  {
+    "q": "7075 t6",
+    "expect": "MTL-AL-7075",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "알미늄 칠공칠오",
+    "expect": "MTL-AL-7075",
+    "note": "한글 읽기"
+  },
+  {
+    "q": "알미늄 주물",
+    "expect": "MTL-AL-AC4C",
+    "note": "표기"
+  },
+  {
+    "q": "아루미 주물",
+    "expect": "MTL-AL-AC4C",
+    "note": "은어"
+  },
+  {
+    "q": "ac4c알루미늄",
+    "expect": "MTL-AL-AC4C",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "스텐430",
+    "expect": "MTL-SS-430",
+    "note": "현장어"
+  },
+  {
+    "q": "sus 430",
+    "expect": "MTL-SS-430",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "스테인레스430",
+    "expect": "MTL-SS-430",
+    "note": "표기"
+  },
+  {
+    "q": "스텐201",
+    "expect": "MTL-SS-201",
+    "note": "현장어"
+  },
+  {
+    "q": "sus201",
+    "expect": "MTL-SS-201",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "이공일 스텐",
+    "expect": "MTL-SS-201",
+    "note": "읽기"
+  },
+  {
+    "q": "익스펜디드",
+    "expect": "MTL-FE-EXPM",
+    "note": "오타"
+  },
+  {
+    "q": "메탈라스",
+    "expect": "MTL-FE-EXPM",
+    "note": "일본식 별칭"
+  },
+  {
+    "q": "엑스펜디드메탈",
+    "expect": "MTL-FE-EXPM",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "에스피씨씨",
+    "expect": "MTL-FE-SPCC",
+    "note": "한글 읽기"
+  },
+  {
+    "q": "냉연 철판",
+    "expect": "MTL-FE-SPCC",
+    "note": "현장어"
+  },
+  {
+    "q": "spcc 철판",
+    "expect": "MTL-FE-SPCC",
+    "note": "혼용"
+  },
+  {
+    "q": "열연 철판",
+    "expect": "MTL-FE-SPHC",
+    "note": "현장어"
+  },
+  {
+    "q": "에이치알판",
+    "expect": "MTL-FE-SPHC",
+    "note": "읽기"
+  },
+  {
+    "q": "sphc 산세",
+    "expect": "MTL-FE-SPHC",
+    "note": "혼용"
+  },
+  {
+    "q": "함석",
+    "expect": "MTL-FE-GI",
+    "note": "현장어"
+  },
+  {
+    "q": "갈바",
+    "expect": "MTL-FE-GI",
+    "note": "은어, 갈바륨과 혼동 주의"
+  },
+  {
+    "q": "sgcc 도금판",
+    "expect": "MTL-FE-GI",
+    "note": "혼용"
+  },
+  {
+    "q": "갈바",
+    "expect": "MTL-FE-GL",
+    "note": "혼동 주의 은어"
+  },
+  {
+    "q": "알루징크",
+    "expect": "MTL-FE-GL",
+    "note": "상표"
+  },
+  {
+    "q": "gl 강판",
+    "expect": "MTL-FE-GL",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "브론즈",
+    "expect": "MTL-BZ-BRONZE",
+    "note": "외래어"
+  },
+  {
+    "q": "동주물",
+    "expect": "MTL-BZ-BRONZE",
+    "note": "현장어"
+  },
+  {
+    "q": "청똥",
+    "expect": "MTL-BZ-BRONZE",
+    "note": "오타"
+  },
+  {
+    "q": "인청",
+    "expect": "MTL-BZ-PBRONZE",
+    "note": "약칭"
+  },
+  {
+    "q": "포스포브론즈",
+    "expect": "MTL-BZ-PBRONZE",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "인청동 판스프링",
+    "expect": "MTL-BZ-PBRONZE",
+    "note": "용도 혼합"
+  },
+  {
+    "q": "양은",
+    "expect": "MTL-BR-NSILVER",
+    "note": "혼용 은어"
+  },
+  {
+    "q": "저먼실버",
+    "expect": "MTL-BR-NSILVER",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "니켈 실버",
+    "expect": "MTL-BR-NSILVER",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "징크판",
+    "expect": "MTL-ZN-ZINC",
+    "note": "약칭"
+  },
+  {
+    "q": "티탄징크",
+    "expect": "MTL-ZN-ZINC",
+    "note": "혼용"
+  },
+  {
+    "q": "라인징크",
+    "expect": "MTL-ZN-ZINC",
+    "note": "브랜드 계열"
+  },
+  {
+    "q": "마그",
+    "expect": "MTL-MG-AZ31",
+    "note": "약칭"
+  },
+  {
+    "q": "에이지31",
+    "expect": "MTL-MG-AZ31",
+    "note": "읽기"
+  },
+  {
+    "q": "마그네슘합금",
+    "expect": "MTL-MG-AZ31",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "철망",
+    "expect": "MTL-WM-WIRE",
+    "note": "현장어"
+  },
+  {
+    "q": "와이어메시",
+    "expect": "MTL-WM-WIRE",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "직조망",
+    "expect": "MTL-WM-WIRE",
+    "note": "설명형"
+  },
+  {
+    "q": "체인 메일",
+    "expect": "MTL-WM-RING",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "메탈 커튼",
+    "expect": "MTL-WM-RING",
+    "note": "용도명"
+  },
+  {
+    "q": "링메쉬 커튼",
+    "expect": "MTL-WM-RING",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "각 파이프",
+    "expect": "MTL-FE-STKR",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "각철",
+    "expect": "MTL-FE-STKR",
+    "note": "현장어"
+  },
+  {
+    "q": "스트커",
+    "expect": "MTL-FE-STKR",
+    "note": "읽기"
+  },
+  {
+    "q": "백관",
+    "expect": "MTL-FE-PIPE",
+    "note": "현장어"
+  },
+  {
+    "q": "흑관",
+    "expect": "MTL-FE-PIPE",
+    "note": "현장어"
+  },
+  {
+    "q": "에스지피",
+    "expect": "MTL-FE-PIPE",
+    "note": "읽기"
+  },
+  {
+    "q": "쇠물",
+    "expect": "MTL-CI-CAST",
+    "note": "오타"
+  },
+  {
+    "q": "회주철",
+    "expect": "MTL-CI-CAST",
+    "note": "종류명"
+  },
+  {
+    "q": "fc200 주물",
+    "expect": "MTL-CI-CAST",
+    "note": "규격 혼용"
+  },
+  {
+    "q": "체크 플레이트",
+    "expect": "MTL-FE-CHECKER",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "줄판",
+    "expect": "MTL-FE-CHECKER",
+    "note": "약칭"
+  },
+  {
+    "q": "체커판",
+    "expect": "MTL-FE-CHECKER",
+    "note": "읽기"
+  },
+  {
+    "q": "와이야로프",
+    "expect": "MTL-SS-WIREROPE",
+    "note": "현장어 변형"
+  },
+  {
+    "q": "스텐 와이어",
+    "expect": "MTL-SS-WIREROPE",
+    "note": "현장어"
+  },
+  {
+    "q": "와이어 로푸",
+    "expect": "MTL-SS-WIREROPE",
+    "note": "오타"
+  },
+  {
+    "q": "후로트 유리",
+    "expect": "MTL-GL-GLASS",
+    "note": "옛 표기"
+  },
+  {
+    "q": "판유리",
+    "expect": "MTL-GL-GLASS",
+    "note": "일반명"
+  },
+  {
+    "q": "소다라임",
+    "expect": "MTL-GL-GLASS",
+    "note": "영문 약칭"
+  },
+  {
+    "q": "저철분",
+    "expect": "MTL-GL-LOWIRON",
+    "note": "약칭"
+  },
+  {
+    "q": "울트라 클리어 유리",
+    "expect": "MTL-GL-LOWIRON",
+    "note": "별칭"
+  },
+  {
+    "q": "로 아이언",
+    "expect": "MTL-GL-LOWIRON",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "다이크로익",
+    "expect": "MTL-GL-DICHRO",
+    "note": "표기"
+  },
+  {
+    "q": "무지개 필름",
+    "expect": "MTL-GL-DICHRO",
+    "note": "현장어"
+  },
+  {
+    "q": "디크로익 글래스",
+    "expect": "MTL-GL-DICHRO",
+    "note": "표기"
+  },
+  {
+    "q": "템퍼",
+    "expect": "MTL-GL-TEMPER",
+    "note": "약칭"
+  },
+  {
+    "q": "강화 글라스",
+    "expect": "MTL-GL-TEMPER",
+    "note": "표기"
+  },
+  {
+    "q": "강화 유리 테이블",
+    "expect": "MTL-GL-TEMPER",
+    "note": "용도 혼합"
+  },
+  {
+    "q": "반강",
+    "expect": "MTL-GL-HEATSTR",
+    "note": "약칭"
+  },
+  {
+    "q": "반강화 글라스",
+    "expect": "MTL-GL-HEATSTR",
+    "note": "표기"
+  },
+  {
+    "q": "hs 유리",
+    "expect": "MTL-GL-HEATSTR",
+    "note": "약칭"
+  },
+  {
+    "q": "고릴라 유리",
+    "expect": "MTL-GL-CHEMSTR",
+    "note": "상표"
+  },
+  {
+    "q": "화학 강화 유리",
+    "expect": "MTL-GL-CHEMSTR",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "이온교환",
+    "expect": "MTL-GL-CHEMSTR",
+    "note": "원리명"
+  },
+  {
+    "q": "합유리",
+    "expect": "MTL-GL-LAMI",
+    "note": "현장어"
+  },
+  {
+    "q": "라미 유리",
+    "expect": "MTL-GL-LAMI",
+    "note": "은어"
+  },
+  {
+    "q": "접합 글라스",
+    "expect": "MTL-GL-LAMI",
+    "note": "표기"
+  },
+  {
+    "q": "컬러피비비",
+    "expect": "MTL-GL-COLORPVB",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "색유리 합유리",
+    "expect": "MTL-GL-COLORPVB",
+    "note": "현장어"
+  },
+  {
+    "q": "컬러 라미네이트",
+    "expect": "MTL-GL-COLORPVB",
+    "note": "표기"
+  },
+  {
+    "q": "원웨이미러",
+    "expect": "MTL-GL-HALFMIRROR",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "매직미러",
+    "expect": "MTL-GL-HALFMIRROR",
+    "note": "별칭"
+  },
+  {
+    "q": "하프 미러",
+    "expect": "MTL-GL-HALFMIRROR",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "젖빛유리",
+    "expect": "MTL-GL-ETCHED",
+    "note": "현장어"
+  },
+  {
+    "q": "샌딩유리",
+    "expect": "MTL-GL-ETCHED",
+    "note": "은어"
+  },
+  {
+    "q": "에칭글라스",
+    "expect": "MTL-GL-ETCHED",
+    "note": "표기"
+  },
+  {
+    "q": "유리벽돌",
+    "expect": "MTL-GL-BLOCK",
+    "note": "현장어"
+  },
+  {
+    "q": "글라스블럭",
+    "expect": "MTL-GL-BLOCK",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "유리 블럭",
+    "expect": "MTL-GL-BLOCK",
+    "note": "표기"
+  },
+  {
+    "q": "유글라스",
+    "expect": "MTL-GL-UGLASS",
+    "note": "현장어"
+  },
+  {
+    "q": "채널글라스",
+    "expect": "MTL-GL-UGLASS",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "u 글래스",
+    "expect": "MTL-GL-UGLASS",
+    "note": "표기"
+  },
+  {
+    "q": "벤딩유리",
+    "expect": "MTL-GL-BENT",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "곡 유리",
+    "expect": "MTL-GL-BENT",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "라운드 글라스",
+    "expect": "MTL-GL-BENT",
+    "note": "표기"
+  },
+  {
+    "q": "라코벨",
+    "expect": "MTL-GL-LACOBEL",
+    "note": "상표"
+  },
+  {
+    "q": "백 페인트 유리",
+    "expect": "MTL-GL-LACOBEL",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "컬러 도장유리",
+    "expect": "MTL-GL-LACOBEL",
+    "note": "설명형"
+  },
+  {
+    "q": "철망 유리",
+    "expect": "MTL-GL-WIRED",
+    "note": "현장어"
+  },
+  {
+    "q": "망입 유리",
+    "expect": "MTL-GL-WIRED",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "와이어드 글래스",
+    "expect": "MTL-GL-WIRED",
+    "note": "영문"
+  },
+  {
+    "q": "모루",
+    "expect": "MTL-GL-FIGURED",
+    "note": "약칭"
+  },
+  {
+    "q": "나시지",
+    "expect": "MTL-GL-FIGURED",
+    "note": "현장어"
+  },
+  {
+    "q": "모로유리",
+    "expect": "MTL-GL-FIGURED",
+    "note": "오타"
+  },
+  {
+    "q": "리브드",
+    "expect": "MTL-GL-FLUTED",
+    "note": "약칭"
+  },
+  {
+    "q": "플루트 유리",
+    "expect": "MTL-GL-FLUTED",
+    "note": "표기"
+  },
+  {
+    "q": "플루티드글라스",
+    "expect": "MTL-GL-FLUTED",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "킬른",
+    "expect": "MTL-GL-FUSED",
+    "note": "약칭"
+  },
+  {
+    "q": "퓨징글라스",
+    "expect": "MTL-GL-FUSED",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "fusing glass",
+    "expect": "MTL-GL-FUSED",
+    "note": "영문"
+  },
+  {
+    "q": "파이렉스",
+    "expect": "MTL-GL-BOROSIL",
+    "note": "상표 혼용"
+  },
+  {
+    "q": "내열유리",
+    "expect": "MTL-GL-BOROSIL",
+    "note": "일반명"
+  },
+  {
+    "q": "보로실리케이트",
+    "expect": "MTL-GL-BOROSIL",
+    "note": "영문"
+  },
+  {
+    "q": "은경",
+    "expect": "MTL-GL-MIRROR",
+    "note": "옛 표기"
+  },
+  {
+    "q": "미러글라스",
+    "expect": "MTL-GL-MIRROR",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "동프리 미러",
+    "expect": "MTL-GL-MIRROR",
+    "note": "특수 사양"
+  },
+  {
+    "q": "무반사유리",
+    "expect": "MTL-GL-AR",
+    "note": "현장어"
+  },
+  {
+    "q": "논글레어",
+    "expect": "MTL-GL-AR",
+    "note": "혼용"
+  },
+  {
+    "q": "에이알유리",
+    "expect": "MTL-GL-AR",
+    "note": "읽기"
+  },
+  {
+    "q": "페어유리",
+    "expect": "MTL-GL-IGU",
+    "note": "현장어"
+  },
+  {
+    "q": "복층 로이",
+    "expect": "MTL-GL-IGU",
+    "note": "혼용"
+  },
+  {
+    "q": "이중창 유리",
+    "expect": "MTL-GL-IGU",
+    "note": "설명형"
+  },
+  {
+    "q": "크리스털",
+    "expect": "MTL-GL-CRYSTAL",
+    "note": "표기"
+  },
+  {
+    "q": "납유리",
+    "expect": "MTL-GL-CRYSTAL",
+    "note": "설명형"
+  },
+  {
+    "q": "k9크리스탈",
+    "expect": "MTL-GL-CRYSTAL",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "글라스 모자이크",
+    "expect": "MTL-GL-MOSAIC",
+    "note": "표기"
+  },
+  {
+    "q": "베네시안 모자이크",
+    "expect": "MTL-GL-MOSAIC",
+    "note": "종류명"
+  },
+  {
+    "q": "유리 타일",
+    "expect": "MTL-GL-MOSAIC",
+    "note": "설명형"
+  },
+  {
+    "q": "주조유리",
+    "expect": "MTL-GL-CAST",
+    "note": "현장어"
+  },
+  {
+    "q": "캐스팅 글라스",
+    "expect": "MTL-GL-CAST",
+    "note": "표기"
+  },
+  {
+    "q": "로스트 왁스",
+    "expect": "MTL-GL-CAST",
+    "note": "기법명"
+  },
+  {
+    "q": "아세탈 기어 델린",
+    "expect": "MTL-PL-POM",
+    "note": "현장어/상표"
+  },
+  {
+    "q": "폴리옥시메틸렌 봉",
+    "expect": "MTL-PL-POM",
+    "note": "정식명"
+  },
+  {
+    "q": "나이론 기어 MC",
+    "expect": "MTL-PL-PA6",
+    "note": "표기 변형"
+  },
+  {
+    "q": "PA6 봉",
+    "expect": "MTL-PL-PA6",
+    "note": "규격어"
+  },
+  {
+    "q": "테프론 시트 비접착",
+    "expect": "MTL-PL-PTFE",
+    "note": "은어"
+  },
+  {
+    "q": "불소수지 봉",
+    "expect": "MTL-PL-PTFE",
+    "note": "동의어"
+  },
+  {
+    "q": "엘씨디 레진 프린터",
+    "expect": "MTL-PL-SLA-RESIN",
+    "note": "은어"
+  },
+  {
+    "q": "에스엘에이 레진",
+    "expect": "MTL-PL-SLA-RESIN",
+    "note": "한글 표기"
+  },
+  {
+    "q": "폴리락틱애시드 필라멘트",
+    "expect": "MTL-PL-PLA",
+    "note": "풀네임 오타"
+  },
+  {
+    "q": "피엘에이 출력",
+    "expect": "MTL-PL-PLA",
+    "note": "한글"
+  },
+  {
+    "q": "우레탄 캐스팅 진공 주형",
+    "expect": "MTL-PL-UCAST",
+    "note": "현장어"
+  },
+  {
+    "q": "2액형 우레탄수지",
+    "expect": "MTL-PL-UCAST",
+    "note": "동의어"
+  },
+  {
+    "q": "폴리에스테르 레진 FRP용",
+    "expect": "MTL-PL-UPR",
+    "note": "표기 변형"
+  },
+  {
+    "q": "겔코트 수지",
+    "expect": "MTL-PL-UPR",
+    "note": "현장어"
+  },
+  {
+    "q": "하입스 판",
+    "expect": "MTL-PL-HIPS",
+    "note": "한글 표기"
+  },
+  {
+    "q": "내충격 PS 시트",
+    "expect": "MTL-PL-HIPS",
+    "note": "동의어"
+  },
+  {
+    "q": "이피디엠 가스켓",
+    "expect": "MTL-PL-EPDM",
+    "note": "한글"
+  },
+  {
+    "q": "EPDM 패킹 고무",
+    "expect": "MTL-PL-EPDM",
+    "note": "현장어"
+  },
+  {
+    "q": "네오푸렌 시트",
+    "expect": "MTL-PL-CR",
+    "note": "오타"
+  },
+  {
+    "q": "웻슈트 고무",
+    "expect": "MTL-PL-CR",
+    "note": "동의어"
+  },
+  {
+    "q": "우레탄 롤라",
+    "expect": "MTL-PL-URUB",
+    "note": "은어"
+  },
+  {
+    "q": "PU 고무판",
+    "expect": "MTL-PL-URUB",
+    "note": "표기"
+  },
+  {
+    "q": "투명 비닐 시트 0.5T",
+    "expect": "MTL-PL-SPVC",
+    "note": "현장어"
+  },
+  {
+    "q": "연질 PVC 시트",
+    "expect": "MTL-PL-SPVC",
+    "note": "정식"
+  },
+  {
+    "q": "스치로폴 커팅",
+    "expect": "MTL-PL-EPS",
+    "note": "오타"
+  },
+  {
+    "q": "스티로폼 열선",
+    "expect": "MTL-PL-EPS",
+    "note": "현장어"
+  },
+  {
+    "q": "아이소 핑크 보드",
+    "expect": "MTL-PL-XPS",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "압출법 단열재",
+    "expect": "MTL-PL-XPS",
+    "note": "건축어"
+  },
+  {
+    "q": "우레탄폼 블록",
+    "expect": "MTL-PL-RPUF",
+    "note": "현장어"
+  },
+  {
+    "q": "PIR 단열재",
+    "expect": "MTL-PL-RPUF",
+    "note": "규격어"
+  },
+  {
+    "q": "에바폼 시트",
+    "expect": "MTL-PL-EVAF",
+    "note": "한글"
+  },
+  {
+    "q": "EVA 스펀지 매트",
+    "expect": "MTL-PL-EVAF",
+    "note": "현장어"
+  },
+  {
+    "q": "티피유 필라멘트",
+    "expect": "MTL-PL-TPU",
+    "note": "한글"
+  },
+  {
+    "q": "TPU 95A 소재",
+    "expect": "MTL-PL-TPU",
+    "note": "경도 표기"
+  },
+  {
+    "q": "피이폼 포장",
+    "expect": "MTL-PL-PEF",
+    "note": "은어"
+  },
+  {
+    "q": "발포폴리에틸렌 롤",
+    "expect": "MTL-PL-PEF",
+    "note": "동의어"
+  },
+  {
+    "q": "에프알피 핸드레이업",
+    "expect": "MTL-CP-FRP",
+    "note": "한글"
+  },
+  {
+    "q": "파이바글라스",
+    "expect": "MTL-CP-FRP",
+    "note": "오타"
+  },
+  {
+    "q": "지알씨 몰딩",
+    "expect": "MTL-CP-GRC",
+    "note": "한글"
+  },
+  {
+    "q": "글라스화이버콘크리트",
+    "expect": "MTL-CP-GRC",
+    "note": "풀네임 변형"
+  },
+  {
+    "q": "지알지 천장 곡면",
+    "expect": "MTL-CP-GRG",
+    "note": "한글"
+  },
+  {
+    "q": "글라스 석고 몰딩",
+    "expect": "MTL-CP-GRG",
+    "note": "동의어"
+  },
+  {
+    "q": "목모보드 천장",
+    "expect": "MTL-CP-WWCB",
+    "note": "현장어"
+  },
+  {
+    "q": "우드울 시멘트 판",
+    "expect": "MTL-CP-WWCB",
+    "note": "영어식"
+  },
+  {
+    "q": "합성 목재 데크",
+    "expect": "MTL-CP-WPC",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "더블유피씨",
+    "expect": "MTL-CP-WPC",
+    "note": "한글"
+  },
+  {
+    "q": "필름합판 12T",
+    "expect": "MTL-CP-FFPLY",
+    "note": "현장어"
+  },
+  {
+    "q": "유로폼 합판",
+    "expect": "MTL-CP-FFPLY",
+    "note": "현장어"
+  },
+  {
+    "q": "샌드위치 판넬 50T",
+    "expect": "MTL-CP-SPNL",
+    "note": "현장어"
+  },
+  {
+    "q": "스티로폼 판넬",
+    "expect": "MTL-CP-SPNL",
+    "note": "은어"
+  },
+  {
+    "q": "에스엠씨 성형품",
+    "expect": "MTL-CP-SMC",
+    "note": "한글"
+  },
+  {
+    "q": "시트 몰딩 콤파운드",
+    "expect": "MTL-CP-SMC",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "케블라 방탄",
+    "expect": "MTL-CP-ARAMID",
+    "note": "현장어"
+  },
+  {
+    "q": "아라미드 천",
+    "expect": "MTL-CP-ARAMID",
+    "note": "동의어"
+  },
+  {
+    "q": "리치라잇 상판",
+    "expect": "MTL-CP-PAPERRES",
+    "note": "오타"
+  },
+  {
+    "q": "페이퍼스톤 카운터",
+    "expect": "MTL-CP-PAPERRES",
+    "note": "대체 상표"
+  },
+  {
+    "q": "우드 울 흡음",
+    "expect": "MTL-CP-WWAC",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "목모 흡음",
+    "expect": "MTL-CP-WWAC",
+    "note": "동의어"
+  },
+  {
+    "q": "패브릭 흡음판",
+    "expect": "MTL-CP-FABAC",
+    "note": "동의어"
+  },
+  {
+    "q": "흡음 패널 천 래핑",
+    "expect": "MTL-CP-FABAC",
+    "note": "현장어"
+  },
+  {
+    "q": "3폼 레진판",
+    "expect": "MTL-CP-RESINPNL",
+    "note": "상표 은어"
+  },
+  {
+    "q": "페트지 패널",
+    "expect": "MTL-CP-RESINPNL",
+    "note": "한글 표기"
+  },
+  {
+    "q": "코리안 상판",
+    "expect": "MTL-CP-SOLID",
+    "note": "현장어"
+  },
+  {
+    "q": "인조 대리석 하이막스",
+    "expect": "MTL-CP-SOLID",
+    "note": "상표 혼용"
+  },
+  {
+    "q": "케미칼우드 블록",
+    "expect": "MTL-CP-MODBOARD",
+    "note": "현장어"
+  },
+  {
+    "q": "툴링보드 CNC",
+    "expect": "MTL-CP-MODBOARD",
+    "note": "영어 혼합"
+  },
+  {
+    "q": "페로 시멘트 쉘",
+    "expect": "MTL-CP-FERRO",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "철망 모르타르 조형",
+    "expect": "MTL-CP-FERRO",
+    "note": "현장어"
+  },
+  {
+    "q": "글라스 메쉬 AR",
+    "expect": "MTL-CP-GFMESH",
+    "note": "규격어"
+  },
+  {
+    "q": "유리섬유망 미장",
+    "expect": "MTL-CP-GFMESH",
+    "note": "현장어"
+  },
+  {
+    "q": "에폭시 그라나이트 베이스",
+    "expect": "MTL-CP-POLYCON",
+    "note": "상표어"
+  },
+  {
+    "q": "수지콘크리트 상판",
+    "expect": "MTL-CP-POLYCON",
+    "note": "현장어"
+  },
+  {
+    "q": "리컨 무늬목",
+    "expect": "MTL-CP-ENGVEN",
+    "note": "은어"
+  },
+  {
+    "q": "엔지니어드 베니어 시트",
+    "expect": "MTL-CP-ENGVEN",
+    "note": "영문 혼용"
+  },
+  {
+    "q": "카본 필라멘트 PA",
+    "expect": "MTL-CP-FIBERFIL",
+    "note": "현장어"
+  },
+  {
+    "q": "탄소섬유 필라맨트",
+    "expect": "MTL-CP-FIBERFIL",
+    "note": "오타"
+  },
+  {
+    "q": "엘이디 테이프라이트",
+    "expect": "MTL-LT-LEDSTRIP",
+    "note": "한글"
+  },
+  {
+    "q": "스트립 LED 24볼트",
+    "expect": "MTL-LT-LEDSTRIP",
+    "note": "현장어"
+  },
+  {
+    "q": "씨오비 테이프",
+    "expect": "MTL-LT-COBSTRIP",
+    "note": "한글"
+  },
+  {
+    "q": "COB LED바 스트립",
+    "expect": "MTL-LT-COBSTRIP",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "실리콘네온 간판",
+    "expect": "MTL-LT-NEONFLEX",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "엘이디 네온",
+    "expect": "MTL-LT-NEONFLEX",
+    "note": "한글"
+  },
+  {
+    "q": "네온사인 유리관",
+    "expect": "MTL-LT-GLASSNEON",
+    "note": "동의어"
+  },
+  {
+    "q": "네온 벤딩",
+    "expect": "MTL-LT-GLASSNEON",
+    "note": "현장어"
+  },
+  {
+    "q": "엘이디 리니어바 조명",
+    "expect": "MTL-LT-LEDBAR",
+    "note": "한글"
+  },
+  {
+    "q": "라인라이트 바",
+    "expect": "MTL-LT-LEDBAR",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "엘이디 몰딩 채널",
+    "expect": "MTL-LT-LEDPROF",
+    "note": "한글"
+  },
+  {
+    "q": "프로파일 디퓨저 오팔",
+    "expect": "MTL-LT-LEDPROF",
+    "note": "현장어"
+  },
+  {
+    "q": "네오 픽셀 링",
+    "expect": "MTL-LT-PIXLED",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "WS2812B 스트립",
+    "expect": "MTL-LT-PIXLED",
+    "note": "정식"
+  },
+  {
+    "q": "피치 3 전광판 모듈",
+    "expect": "MTL-LT-LEDDISP",
+    "note": "현장어"
+  },
+  {
+    "q": "엘이디 스크린",
+    "expect": "MTL-LT-LEDDISP",
+    "note": "한글"
+  },
+  {
+    "q": "올레드 라이트 패널",
+    "expect": "MTL-LT-OLED",
+    "note": "한글"
+  },
+  {
+    "q": "유기EL 조명",
+    "expect": "MTL-LT-OLED",
+    "note": "동의어"
+  },
+  {
+    "q": "이엘와이어 인버터",
+    "expect": "MTL-LT-ELWIRE",
+    "note": "한글"
+  },
+  {
+    "q": "냉광선",
+    "expect": "MTL-LT-ELWIRE",
+    "note": "현장어"
+  },
+  {
+    "q": "EL 시트 백라이트",
+    "expect": "MTL-LT-ELPANEL",
+    "note": "표기"
+  },
+  {
+    "q": "엘패널 인버터",
+    "expect": "MTL-LT-ELPANEL",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "사이드 글로우 파이버",
+    "expect": "MTL-LT-SIDEGLOW",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "측광 광섬유",
+    "expect": "MTL-LT-SIDEGLOW",
+    "note": "동의어"
+  },
+  {
+    "q": "스타라이트 파이버",
+    "expect": "MTL-LT-ENDGLOW",
+    "note": "현장어"
+  },
+  {
+    "q": "엔드 글로우 광섬유",
+    "expect": "MTL-LT-ENDGLOW",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "티파이브 28와트",
+    "expect": "MTL-LT-T5",
+    "note": "한글"
+  },
+  {
+    "q": "삼파장 T5",
+    "expect": "MTL-LT-T5",
+    "note": "현장어"
+  },
+  {
+    "q": "씨씨에프엘 인버터",
+    "expect": "MTL-LT-CCFL",
+    "note": "한글"
+  },
+  {
+    "q": "냉음극관 사인",
+    "expect": "MTL-LT-CCFL",
+    "note": "동의어"
+  },
+  {
+    "q": "할로겐 에미알16",
+    "expect": "MTL-LT-HALOGEN",
+    "note": "한글/오타"
+  },
+  {
+    "q": "에디슨 전구 텅스텐",
+    "expect": "MTL-LT-HALOGEN",
+    "note": "동의어"
+  },
+  {
+    "q": "에디슨 LED 램프",
+    "expect": "MTL-LT-LEDFIL",
+    "note": "동의어"
+  },
+  {
+    "q": "필라멘트 LED 전구",
+    "expect": "MTL-LT-LEDFIL",
+    "note": "표기"
+  },
+  {
+    "q": "씨오비 트랙 스포트",
+    "expect": "MTL-LT-COBSPOT",
+    "note": "한글"
+  },
+  {
+    "q": "레일 COB",
+    "expect": "MTL-LT-COBSPOT",
+    "note": "현장어"
+  },
+  {
+    "q": "레이져 쇼",
+    "expect": "MTL-LT-LASER",
+    "note": "표기 변형"
+  },
+  {
+    "q": "갈보 스캐너",
+    "expect": "MTL-LT-LASER",
+    "note": "은어"
+  },
+  {
+    "q": "우드램프 365",
+    "expect": "MTL-LT-UV",
+    "note": "상표 혼용"
+  },
+  {
+    "q": "UV 블랙 라이트",
+    "expect": "MTL-LT-UV",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "패브릭 라이트 박스",
+    "expect": "MTL-LT-TENSION",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "SEG 사인",
+    "expect": "MTL-LT-TENSION",
+    "note": "영문 약어"
+  },
+  {
+    "q": "오팔 PC 판",
+    "expect": "MTL-LT-DIFFPC",
+    "note": "현장어"
+  },
+  {
+    "q": "광확산 폴리카",
+    "expect": "MTL-LT-DIFFPC",
+    "note": "은어"
+  },
+  {
+    "q": "도광판 아크릴 엣지",
+    "expect": "MTL-LT-LIGHTPIPE",
+    "note": "현장어"
+  },
+  {
+    "q": "라이트파이프",
+    "expect": "MTL-LT-LIGHTPIPE",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "리플렉터 쉐이드",
+    "expect": "MTL-LT-REFL",
+    "note": "표기"
+  },
+  {
+    "q": "반사갓 알루미늄",
+    "expect": "MTL-LT-REFL",
+    "note": "동의어"
+  },
+  {
+    "q": "아이피육칠 LED",
+    "expect": "MTL-LT-IP67",
+    "note": "한글"
+  },
+  {
+    "q": "방수 실리콘 스트립",
+    "expect": "MTL-LT-IP67",
+    "note": "현장어"
+  },
+  {
+    "q": "에비에스 판",
+    "expect": "MTL-PL-ABS",
+    "note": "모음 틀림"
+  },
+  {
+    "q": "레고 플라스틱",
+    "expect": "MTL-PL-ABS",
+    "note": "일상어"
+  },
+  {
+    "q": "미라 아크릴",
+    "expect": "MTL-PL-ACRYLIC-MIRROR",
+    "note": "현장 은어(미러→미라)"
+  },
+  {
+    "q": "안깨지는 거울",
+    "expect": "MTL-PL-ACRYLIC-MIRROR",
+    "note": "일상어"
+  },
+  {
+    "q": "애폭시",
+    "expect": "MTL-PL-EPOXY",
+    "note": "오타"
+  },
+  {
+    "q": "리버테이블",
+    "expect": "MTL-PL-EPOXY",
+    "note": "용도어"
+  },
+  {
+    "q": "프레셔스 플라스틱",
+    "expect": "MTL-PL-HDPE-RECYCLED",
+    "note": "운동/계열명"
+  },
+  {
+    "q": "병뚜껑 판재",
+    "expect": "MTL-PL-HDPE-RECYCLED",
+    "note": "일상어"
+  },
+  {
+    "q": "폴리에치렌",
+    "expect": "MTL-PL-HDPE",
+    "note": "오타"
+  },
+  {
+    "q": "PE300",
+    "expect": "MTL-PL-HDPE",
+    "note": "규격/등급명"
+  },
+  {
+    "q": "하모니카판",
+    "expect": "MTL-PL-PC-TWINWALL",
+    "note": "현장 은어"
+  },
+  {
+    "q": "트윈 월",
+    "expect": "MTL-PL-PC-TWINWALL",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "폴리카보네이드",
+    "expect": "MTL-PL-PC",
+    "note": "오타"
+  },
+  {
+    "q": "렉산판",
+    "expect": "MTL-PL-PC",
+    "note": "상표 계열명"
+  },
+  {
+    "q": "에이펫",
+    "expect": "MTL-PL-PET",
+    "note": "A-PET 한글 표기"
+  },
+  {
+    "q": "피이티 시트",
+    "expect": "MTL-PL-PET",
+    "note": "한글 음차"
+  },
+  {
+    "q": "펫지",
+    "expect": "MTL-PL-PETG",
+    "note": "한글 음차"
+  },
+  {
+    "q": "글리콜변성 PET",
+    "expect": "MTL-PL-PETG",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "단프라",
+    "expect": "MTL-PL-PP",
+    "note": "현장 은어"
+  },
+  {
+    "q": "폴리프로필랜",
+    "expect": "MTL-PL-PP",
+    "note": "오타"
+  },
+  {
+    "q": "포멕스",
+    "expect": "MTL-PL-PVC-FOAM",
+    "note": "모음 틀림"
+  },
+  {
+    "q": "포렉스 판",
+    "expect": "MTL-PL-PVC-FOAM",
+    "note": "상표 계열명"
+  },
+  {
+    "q": "실리꼰",
+    "expect": "MTL-PL-SILICONE-RTV",
+    "note": "된소리 오타"
+  },
+  {
+    "q": "몰드실리콘",
+    "expect": "MTL-PL-SILICONE-RTV",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "울 웰트",
+    "expect": "MTL-TX-WOOLFELT",
+    "note": "오타"
+  },
+  {
+    "q": "펠트지 원단",
+    "expect": "MTL-TX-WOOLFELT",
+    "note": "현장어"
+  },
+  {
+    "q": "펫 흡음판",
+    "expect": "MTL-TX-PETFELT",
+    "note": "현장어"
+  },
+  {
+    "q": "폴리 펠트 보드",
+    "expect": "MTL-TX-PETFELT",
+    "note": "별칭 변형"
+  },
+  {
+    "q": "캔바스 원단",
+    "expect": "MTL-TX-CANVAS",
+    "note": "오타"
+  },
+  {
+    "q": "범포 두꺼운거",
+    "expect": "MTL-TX-CANVAS",
+    "note": "현장어"
+  },
+  {
+    "q": "린네르 원단",
+    "expect": "MTL-TX-LINEN",
+    "note": "현장어"
+  },
+  {
+    "q": "리넨 천",
+    "expect": "MTL-TX-LINEN",
+    "note": "표기변형"
+  },
+  {
+    "q": "빌로도",
+    "expect": "MTL-TX-VELVET",
+    "note": "현장어"
+  },
+  {
+    "q": "비로드 원단",
+    "expect": "MTL-TX-VELVET",
+    "note": "현장어"
+  },
+  {
+    "q": "모직 원단",
+    "expect": "MTL-TX-WOOLFAB",
+    "note": "한글"
+  },
+  {
+    "q": "메리노 울",
+    "expect": "MTL-TX-WOOLFAB",
+    "note": "혼용"
+  },
+  {
+    "q": "매쉬 원단",
+    "expect": "MTL-TX-TECHMESH",
+    "note": "오타"
+  },
+  {
+    "q": "메시 천",
+    "expect": "MTL-TX-TECHMESH",
+    "note": "표기변형"
+  },
+  {
+    "q": "스페이저 패브릭",
+    "expect": "MTL-TX-SPACER",
+    "note": "오타"
+  },
+  {
+    "q": "3D 에어 메쉬",
+    "expect": "MTL-TX-SPACER",
+    "note": "현장어"
+  },
+  {
+    "q": "암막 커턴",
+    "expect": "MTL-TX-BLACKOUT",
+    "note": "오타"
+  },
+  {
+    "q": "차광천",
+    "expect": "MTL-TX-BLACKOUT",
+    "note": "현장어"
+  },
+  {
+    "q": "오간쟈",
+    "expect": "MTL-TX-SHEER",
+    "note": "오타"
+  },
+  {
+    "q": "보일 커텐",
+    "expect": "MTL-TX-SHEER",
+    "note": "현장어"
+  },
+  {
+    "q": "타이백",
+    "expect": "MTL-TX-TYVEK",
+    "note": "오타"
+  },
+  {
+    "q": "타이벡 종이",
+    "expect": "MTL-TX-TYVEK",
+    "note": "현장어"
+  },
+  {
+    "q": "베지탄 가죽",
+    "expect": "MTL-TX-VEGLEATHER",
+    "note": "오타"
+  },
+  {
+    "q": "베지터블레더",
+    "expect": "MTL-TX-VEGLEATHER",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "크롬 레더",
+    "expect": "MTL-TX-CHROMELEATHER",
+    "note": "혼용"
+  },
+  {
+    "q": "웻 블루",
+    "expect": "MTL-TX-CHROMELEATHER",
+    "note": "띄어쓰기"
+  },
+  {
+    "q": "스웨드",
+    "expect": "MTL-TX-SUEDE",
+    "note": "오타"
+  },
+  {
+    "q": "알칸타라 천",
+    "expect": "MTL-TX-SUEDE",
+    "note": "상표"
+  },
+  {
+    "q": "합피 원단",
+    "expect": "MTL-TX-PULEATHER",
+    "note": "현장어"
+  },
+  {
+    "q": "레자",
+    "expect": "MTL-TX-PULEATHER",
+    "note": "현장어"
+  },
+  {
+    "q": "부클래",
+    "expect": "MTL-TX-BOUCLE",
+    "note": "오타"
+  },
+  {
+    "q": "부클레 천",
+    "expect": "MTL-TX-BOUCLE",
+    "note": "별칭"
+  },
+  {
+    "q": "골덴천",
+    "expect": "MTL-TX-CORDUROY",
+    "note": "현장어"
+  },
+  {
+    "q": "꼬르덴",
+    "expect": "MTL-TX-CORDUROY",
+    "note": "현장어"
+  },
+  {
+    "q": "뎀님",
+    "expect": "MTL-TX-DENIM",
+    "note": "오타"
+  },
+  {
+    "q": "청천",
+    "expect": "MTL-TX-DENIM",
+    "note": "현장어"
+  },
+  {
+    "q": "카페트 타일",
+    "expect": "MTL-TX-CARPETTILE",
+    "note": "표기변형"
+  },
+  {
+    "q": "타일카페트",
+    "expect": "MTL-TX-CARPETTILE",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "터프팅 러그",
+    "expect": "MTL-TX-TUFTRUG",
+    "note": "정상"
+  },
+  {
+    "q": "터핑 러그",
+    "expect": "MTL-TX-TUFTRUG",
+    "note": "오타"
+  },
+  {
+    "q": "견 원단",
+    "expect": "MTL-TX-SILK",
+    "note": "한글"
+  },
+  {
+    "q": "실크 새틴",
+    "expect": "MTL-TX-SILK",
+    "note": "혼용"
+  },
+  {
+    "q": "삼배",
+    "expect": "MTL-TX-HEMP",
+    "note": "오타"
+  },
+  {
+    "q": "마포",
+    "expect": "MTL-TX-HEMP",
+    "note": "한자어"
+  },
+  {
+    "q": "한찌",
+    "expect": "MTL-TX-HANJI",
+    "note": "오타"
+  },
+  {
+    "q": "창호지",
+    "expect": "MTL-TX-HANJI",
+    "note": "별칭"
+  },
+  {
+    "q": "크라푸트지",
+    "expect": "MTL-TX-KRAFT",
+    "note": "오타"
+  },
+  {
+    "q": "골판지 판",
+    "expect": "MTL-TX-KRAFT",
+    "note": "별칭"
+  },
+  {
+    "q": "방염천",
+    "expect": "MTL-TX-FR",
+    "note": "현장어"
+  },
+  {
+    "q": "난연원단",
+    "expect": "MTL-TX-FR",
+    "note": "표기변형"
+  },
+  {
+    "q": "재귀반사 천",
+    "expect": "MTL-TX-RETROFAB",
+    "note": "혼용"
+  },
+  {
+    "q": "리플렉티브 원단",
+    "expect": "MTL-TX-RETROFAB",
+    "note": "영어"
+  },
+  {
+    "q": "라매",
+    "expect": "MTL-TX-LAME",
+    "note": "오타"
+  },
+  {
+    "q": "금박 직물",
+    "expect": "MTL-TX-LAME",
+    "note": "혼용"
+  },
+  {
+    "q": "메리야스 천",
+    "expect": "MTL-TX-KNIT",
+    "note": "현장어"
+  },
+  {
+    "q": "니트천",
+    "expect": "MTL-TX-KNIT",
+    "note": "표기변형"
+  },
+  {
+    "q": "마끈 로프",
+    "expect": "MTL-TX-COTTONROPE",
+    "note": "혼용"
+  },
+  {
+    "q": "노끈 굵은거",
+    "expect": "MTL-TX-COTTONROPE",
+    "note": "현장어"
+  },
+  {
+    "q": "페이크퍼",
+    "expect": "MTL-TX-FAKEFUR",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "에코 퍼",
+    "expect": "MTL-TX-FAKEFUR",
+    "note": "현장어"
+  },
+  {
+    "q": "다이노크 시트",
+    "expect": "MTL-FM-INTFILM",
+    "note": "현장어"
+  },
+  {
+    "q": "인테리어 필림",
+    "expect": "MTL-FM-INTFILM",
+    "note": "오타"
+  },
+  {
+    "q": "컷팅시이트",
+    "expect": "MTL-FM-CUTSHEET",
+    "note": "오타"
+  },
+  {
+    "q": "레터링 시트",
+    "expect": "MTL-FM-CUTSHEET",
+    "note": "현장어"
+  },
+  {
+    "q": "실사 출력 필림",
+    "expect": "MTL-FM-PRINTFILM",
+    "note": "오타"
+  },
+  {
+    "q": "광폭 출력지",
+    "expect": "MTL-FM-PRINTFILM",
+    "note": "현장어"
+  },
+  {
+    "q": "백릿 필림",
+    "expect": "MTL-FM-BACKLIT",
+    "note": "오타"
+  },
+  {
+    "q": "라이트박스 필름",
+    "expect": "MTL-FM-BACKLIT",
+    "note": "별칭"
+  },
+  {
+    "q": "선팅필름",
+    "expect": "MTL-FM-WINDOWTINT",
+    "note": "표기변형"
+  },
+  {
+    "q": "썬팅지",
+    "expect": "MTL-FM-WINDOWTINT",
+    "note": "현장어"
+  },
+  {
+    "q": "미러 필림",
+    "expect": "MTL-FM-MIRRORFILM",
+    "note": "오타"
+  },
+  {
+    "q": "원웨이 필름",
+    "expect": "MTL-FM-MIRRORFILM",
+    "note": "별칭"
+  },
+  {
+    "q": "프로스트필름",
+    "expect": "MTL-FM-FROST",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "안개 시트지",
+    "expect": "MTL-FM-FROST",
+    "note": "현장어"
+  },
+  {
+    "q": "홀로그람 필름",
+    "expect": "MTL-FM-HOLOGRAM",
+    "note": "오타"
+  },
+  {
+    "q": "오로라 시트",
+    "expect": "MTL-FM-HOLOGRAM",
+    "note": "현장어"
+  },
+  {
+    "q": "펫필름",
+    "expect": "MTL-FM-PET",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "폴리에스터 시트",
+    "expect": "MTL-FM-PET",
+    "note": "별칭"
+  },
+  {
+    "q": "마일러",
+    "expect": "MTL-FM-MYLAR",
+    "note": "표기변형"
+  },
+  {
+    "q": "은박 필림",
+    "expect": "MTL-FM-MYLAR",
+    "note": "오타"
+  },
+  {
+    "q": "캡턴",
+    "expect": "MTL-FM-KAPTON",
+    "note": "표기변형"
+  },
+  {
+    "q": "폴리이미드 테이프",
+    "expect": "MTL-FM-KAPTON",
+    "note": "별칭"
+  },
+  {
+    "q": "바리솔 천장",
+    "expect": "MTL-FM-STRETCHCEIL",
+    "note": "별칭"
+  },
+  {
+    "q": "스트레치 씰링",
+    "expect": "MTL-FM-STRETCHCEIL",
+    "note": "현장어"
+  },
+  {
+    "q": "실크벽지",
+    "expect": "MTL-FM-VINYLWALL",
+    "note": "현장어"
+  },
+  {
+    "q": "비닐 벽지지",
+    "expect": "MTL-FM-VINYLWALL",
+    "note": "오타"
+  },
+  {
+    "q": "데코타일 바닥",
+    "expect": "MTL-FM-LVT",
+    "note": "현장어"
+  },
+  {
+    "q": "LVT 타일",
+    "expect": "MTL-FM-LVT",
+    "note": "별칭"
+  },
+  {
+    "q": "리놀리움",
+    "expect": "MTL-FM-LINOLEUM",
+    "note": "오타"
+  },
+  {
+    "q": "리노륨",
+    "expect": "MTL-FM-LINOLEUM",
+    "note": "표기변형"
+  },
+  {
+    "q": "고무판 바닥",
+    "expect": "MTL-FM-RUBBERFLOOR",
+    "note": "별칭"
+  },
+  {
+    "q": "러버 플로어",
+    "expect": "MTL-FM-RUBBERFLOOR",
+    "note": "현장어"
+  },
+  {
+    "q": "마그넷시트",
+    "expect": "MTL-FM-MAGNETSHEET",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "고무자석",
+    "expect": "MTL-FM-MAGNETSHEET",
+    "note": "현장어"
+  },
+  {
+    "q": "수전사지",
+    "expect": "MTL-FM-HYDRO",
+    "note": "현장어"
+  },
+  {
+    "q": "워터 트랜스퍼 필름",
+    "expect": "MTL-FM-HYDRO",
+    "note": "영어"
+  },
+  {
+    "q": "핫 스탬핑 박",
+    "expect": "MTL-FM-METALFOIL",
+    "note": "현장어"
+  },
+  {
+    "q": "금박 호일",
+    "expect": "MTL-FM-METALFOIL",
+    "note": "별칭"
+  },
+  {
+    "q": "PPF 필림",
+    "expect": "MTL-FM-PPF",
+    "note": "오타"
+  },
+  {
+    "q": "페인트 보호필름",
+    "expect": "MTL-FM-PPF",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "반사 시트지",
+    "expect": "MTL-FM-RETROSIGN",
+    "note": "현장어"
+  },
+  {
+    "q": "재귀반사 시이트",
+    "expect": "MTL-FM-RETROSIGN",
+    "note": "오타"
+  },
+  {
+    "q": "비산방지필름",
+    "expect": "MTL-FM-SAFETYFILM",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "시큐리티 필림",
+    "expect": "MTL-FM-SAFETYFILM",
+    "note": "오타"
+  },
+  {
+    "q": "오피피 필름",
+    "expect": "MTL-FM-OPP",
+    "note": "한글"
+  },
+  {
+    "q": "OPP 필림",
+    "expect": "MTL-FM-OPP",
+    "note": "오타"
+  },
+  {
+    "q": "테프론 막재",
+    "expect": "MTL-FM-PTFE",
+    "note": "별칭"
+  },
+  {
+    "q": "PTFE막",
+    "expect": "MTL-FM-PTFE",
+    "note": "붙여쓰기"
+  },
+  {
+    "q": "이티에프이",
+    "expect": "MTL-FM-ETFE",
+    "note": "한글"
+  },
+  {
+    "q": "ETFE 필림",
+    "expect": "MTL-FM-ETFE",
+    "note": "오타"
+  },
+  {
+    "q": "자작나무합판",
+    "expect": "MTL-WD-BIRCHPLY",
+    "note": "표기 오타 변형"
+  },
+  {
+    "q": "발틱 버치 플라이",
+    "expect": "MTL-WD-BIRCHPLY",
+    "note": "영문 속칭"
+  },
+  {
+    "q": "코르크 보드",
+    "expect": "MTL-WD-CORK",
+    "note": "게시판 속칭"
+  },
+  {
+    "q": "코크판",
+    "expect": "MTL-WD-CORK",
+    "note": "오타"
+  },
+  {
+    "q": "원목마루",
+    "expect": "MTL-WD-TIMBER",
+    "note": "원목 바닥"
+  },
+  {
+    "q": "강마루",
+    "expect": "MTL-WD-TIMBER",
+    "note": "합판 베이스 마루 속칭"
+  },
+  {
+    "q": "오크",
+    "expect": "MTL-WD-OAK",
+    "note": "오끄 오타"
+  },
+  {
+    "q": "참나무 원목",
+    "expect": "MTL-WD-OAK",
+    "note": "한글 별칭"
+  },
+  {
+    "q": "월낫",
+    "expect": "MTL-WD-WALNUT",
+    "note": "오타"
+  },
+  {
+    "q": "블랙 월넛",
+    "expect": "MTL-WD-WALNUT",
+    "note": "미국산 원어"
+  },
+  {
+    "q": "애시",
+    "expect": "MTL-WD-ASH",
+    "note": "표기 혼용"
+  },
+  {
+    "q": "물푸레",
+    "expect": "MTL-WD-ASH",
+    "note": "국명"
+  },
+  {
+    "q": "매이플",
+    "expect": "MTL-WD-MAPLE",
+    "note": "오타"
+  },
+  {
+    "q": "단풍나무",
+    "expect": "MTL-WD-MAPLE",
+    "note": "국명"
+  },
+  {
+    "q": "쳬리",
+    "expect": "MTL-WD-CHERRY",
+    "note": "오타"
+  },
+  {
+    "q": "체리목",
+    "expect": "MTL-WD-CHERRY",
+    "note": "속칭"
+  },
+  {
+    "q": "티이크",
+    "expect": "MTL-WD-TEAK",
+    "note": "오타"
+  },
+  {
+    "q": "티크목",
+    "expect": "MTL-WD-TEAK",
+    "note": "속칭"
+  },
+  {
+    "q": "히노끼",
+    "expect": "MTL-WD-HINOKI",
+    "note": "일본어 표기"
+  },
+  {
+    "q": "편벽",
+    "expect": "MTL-WD-HINOKI",
+    "note": "오타"
+  },
+  {
+    "q": "스기",
+    "expect": "MTL-WD-SUGI",
+    "note": "일본명"
+  },
+  {
+    "q": "삼나무 데크",
+    "expect": "MTL-WD-SUGI",
+    "note": "용도 검색"
+  },
+  {
+    "q": "뉴송",
+    "expect": "MTL-WD-RADIATA",
+    "note": "국내 통칭"
+  },
+  {
+    "q": "라디아타",
+    "expect": "MTL-WD-RADIATA",
+    "note": "표기 변형"
+  },
+  {
+    "q": "미송",
+    "expect": "MTL-WD-DOUGLASFIR",
+    "note": "국내 통칭"
+  },
+  {
+    "q": "오레곤 파인",
+    "expect": "MTL-WD-DOUGLASFIR",
+    "note": "무역명"
+  },
+  {
+    "q": "발싸",
+    "expect": "MTL-WD-BALSA",
+    "note": "오타"
+  },
+  {
+    "q": "발사목",
+    "expect": "MTL-WD-BALSA",
+    "note": "속칭"
+  },
+  {
+    "q": "대나무 집성판",
+    "expect": "MTL-WD-BAMBOOPLY",
+    "note": "속칭"
+  },
+  {
+    "q": "뱀부 합판",
+    "expect": "MTL-WD-BAMBOOPLY",
+    "note": "영문 음차"
+  },
+  {
+    "q": "나왕",
+    "expect": "MTL-WD-LAUAN",
+    "note": "옛 표기"
+  },
+  {
+    "q": "라왕",
+    "expect": "MTL-WD-LAUAN",
+    "note": "은어 통칭"
+  },
+  {
+    "q": "오징어합판",
+    "expect": "MTL-WD-BENDPLY",
+    "note": "현장 은어(추정)"
+  },
+  {
+    "q": "벤딩합판",
+    "expect": "MTL-WD-BENDPLY",
+    "note": "정식 호칭"
+  },
+  {
+    "q": "엠디에프",
+    "expect": "MTL-WD-MDF",
+    "note": "한글 표기"
+  },
+  {
+    "q": "방수 MDF",
+    "expect": "MTL-WD-MDF",
+    "note": "녹색 코어 속칭(추정)"
+  },
+  {
+    "q": "하드보드",
+    "expect": "MTL-WD-HDF",
+    "note": "속칭"
+  },
+  {
+    "q": "마스나이트",
+    "expect": "MTL-WD-HDF",
+    "note": "상표 계열명"
+  },
+  {
+    "q": "피비",
+    "expect": "MTL-WD-PB",
+    "note": "한글 표기"
+  },
+  {
+    "q": "칩보드",
+    "expect": "MTL-WD-PB",
+    "note": "영국식 호칭"
+  },
+  {
+    "q": "오에스비",
+    "expect": "MTL-WD-OSB",
+    "note": "한글 표기"
+  },
+  {
+    "q": "스트랜드보드",
+    "expect": "MTL-WD-OSB",
+    "note": "직역"
+  },
+  {
+    "q": "집성재",
+    "expect": "MTL-WD-GLULAM",
+    "note": "구조용 호칭"
+  },
+  {
+    "q": "글루램",
+    "expect": "MTL-WD-GLULAM",
+    "note": "외래어"
+  },
+  {
+    "q": "씨엘티",
+    "expect": "MTL-WD-CLT",
+    "note": "한글 표기"
+  },
+  {
+    "q": "매스팀버",
+    "expect": "MTL-WD-CLT",
+    "note": "상위 개념"
+  },
+  {
+    "q": "무니목",
+    "expect": "MTL-WD-VENEER",
+    "note": "오타"
+  },
+  {
+    "q": "베니어",
+    "expect": "MTL-WD-VENEER",
+    "note": "외래 호칭"
+  },
+  {
+    "q": "뎀바보드",
+    "expect": "MTL-WD-TEMBOO",
+    "note": "오타"
+  },
+  {
+    "q": "템바",
+    "expect": "MTL-WD-TEMBOO",
+    "note": "현장 은어(어원 불명, 추정)"
+  },
+  {
+    "q": "엘피엠",
+    "expect": "MTL-WD-LPM",
+    "note": "한글 표기"
+  },
+  {
+    "q": "멜라민 보드",
+    "expect": "MTL-WD-LPM",
+    "note": "통칭"
+  },
+  {
+    "q": "써모우드",
+    "expect": "MTL-WD-THERMO",
+    "note": "핀란드 상표 계열명"
+  },
+  {
+    "q": "열변성",
+    "expect": "MTL-WD-THERMO",
+    "note": "학술 표기"
+  },
+  {
+    "q": "SPF",
+    "expect": "MTL-WD-SPRUCE",
+    "note": "스프루스·파인·퍼 혼합 유통 약칭"
+  },
+  {
+    "q": "가문비",
+    "expect": "MTL-WD-SPRUCE",
+    "note": "국명"
+  },
+  {
+    "q": "오동",
+    "expect": "MTL-WD-PAULOWNIA",
+    "note": "약칭"
+  },
+  {
+    "q": "오통나무",
+    "expect": "MTL-WD-PAULOWNIA",
+    "note": "오타"
+  },
+  {
+    "q": "아카시아",
+    "expect": "MTL-WD-ACACIAGL",
+    "note": "아카시아속 수종 통칭"
+  },
+  {
+    "q": "트레버틴",
+    "expect": "MTL-ST-TRAVERTINE",
+    "note": "오타"
+  },
+  {
+    "q": "트라버틴",
+    "expect": "MTL-ST-TRAVERTINE",
+    "note": "표기 변형"
+  },
+  {
+    "q": "테라죠",
+    "expect": "MTL-ST-TERRAZZO",
+    "note": "한글 표기 변형"
+  },
+  {
+    "q": "인조석",
+    "expect": "MTL-ST-TERRAZZO",
+    "note": "국내 유사 개념"
+  },
+  {
+    "q": "마이크로 시멘트",
+    "expect": "MTL-ST-MICROCEMENT",
+    "note": "띄어쓰기 변형"
+  },
+  {
+    "q": "마이크로토핑",
+    "expect": "MTL-ST-MICROCEMENT",
+    "note": "유사 제품"
+  },
+  {
+    "q": "노출콘",
+    "expect": "MTL-ST-CONCRETE",
+    "note": "현장 은어"
+  },
+  {
+    "q": "콘 크리트",
+    "expect": "MTL-ST-CONCRETE",
+    "note": "띄어쓰기 오타"
+  },
+  {
+    "q": "까라라",
+    "expect": "MTL-ST-CARRARA",
+    "note": "된소리 표기"
+  },
+  {
+    "q": "비앙코 카라라",
+    "expect": "MTL-ST-CARRARA",
+    "note": "이탈리아어 명칭"
+  },
+  {
+    "q": "깔라카타",
+    "expect": "MTL-ST-CALACATTA",
+    "note": "된소리 표기"
+  },
+  {
+    "q": "칼라카타 골드",
+    "expect": "MTL-ST-CALACATTA",
+    "note": "상품명 변형"
+  },
+  {
+    "q": "네로 마르퀴나",
+    "expect": "MTL-ST-NEROMARQUINA",
+    "note": "표기 변형"
+  },
+  {
+    "q": "버너구이",
+    "expect": "MTL-ST-GRANITE",
+    "note": "화염 가공 현장어"
+  },
+  {
+    "q": "도깨비",
+    "expect": "MTL-ST-GRANITE",
+    "note": "거친 면 가공 은어(추정)"
+  },
+  {
+    "q": "화산석",
+    "expect": "MTL-ST-BASALT",
+    "note": "통칭"
+  },
+  {
+    "q": "제주석",
+    "expect": "MTL-ST-BASALT",
+    "note": "산지명"
+  },
+  {
+    "q": "샌드스톤",
+    "expect": "MTL-ST-SANDSTONE",
+    "note": "영문 음차"
+  },
+  {
+    "q": "라이스톤",
+    "expect": "MTL-ST-LIMESTONE",
+    "note": "오타"
+  },
+  {
+    "q": "석회암",
+    "expect": "MTL-ST-LIMESTONE",
+    "note": "한글 학명"
+  },
+  {
+    "q": "슬레이트",
+    "expect": "MTL-ST-SLATE",
+    "note": "석면 지붕재와 혼동 주의"
+  },
+  {
+    "q": "스레이트",
+    "expect": "MTL-ST-SLATE",
+    "note": "오타"
+  },
+  {
+    "q": "오닉스",
+    "expect": "MTL-ST-ONYX",
+    "note": "시장 통용 명칭(광물학적 오닉스와 다를 수 있음)"
+  },
+  {
+    "q": "엔지니어드스톤",
+    "expect": "MTL-ST-QUARTZ",
+    "note": "띄어쓰기 변형"
+  },
+  {
+    "q": "칼스톤·실스톤",
+    "expect": "MTL-ST-QUARTZ",
+    "note": "상표"
+  },
+  {
+    "q": "데크톤·네오리스",
+    "expect": "MTL-ST-SINTERED",
+    "note": "상표 계열명"
+  },
+  {
+    "q": "포셀린",
+    "expect": "MTL-ST-PORCELAIN",
+    "note": "표기 변형"
+  },
+  {
+    "q": "자기질",
+    "expect": "MTL-ST-PORCELAIN",
+    "note": "한글"
+  },
+  {
+    "q": "테라코다",
+    "expect": "MTL-ST-TERRACOTTA",
+    "note": "오타"
+  },
+  {
+    "q": "파벽돌",
+    "expect": "MTL-ST-BRICK",
+    "note": "깨서 쓰는 벽돌 속칭"
+  },
+  {
+    "q": "적벽돌",
+    "expect": "MTL-ST-BRICK",
+    "note": "붉은 점토 벽돌"
+  },
+  {
+    "q": "유에이치피씨",
+    "expect": "MTL-ST-UHPC",
+    "note": "한글 표기"
+  },
+  {
+    "q": "UHPFRC",
+    "expect": "MTL-ST-UHPC",
+    "note": "섬유보강 명칭"
+  },
+  {
+    "q": "워시아웃",
+    "expect": "MTL-ST-EXPOSEDAGG",
+    "note": "영문 음차"
+  },
+  {
+    "q": "텍스",
+    "expect": "MTL-ST-GYPSUMBOARD",
+    "note": "천장 석고텍스 속칭"
+  },
+  {
+    "q": "드라이월",
+    "expect": "MTL-ST-GYPSUMBOARD",
+    "note": "영문 통칭"
+  },
+  {
+    "q": "플라스터",
+    "expect": "MTL-ST-CASTGYPSUM",
+    "note": "영어 통칭"
+  },
+  {
+    "q": "경석고·연석고",
+    "expect": "MTL-ST-CASTGYPSUM",
+    "note": "경도 구분 속칭"
+  },
+  {
+    "q": "섬유시멘트판",
+    "expect": "MTL-ST-CEMENTBOARD",
+    "note": "정식명"
+  },
+  {
+    "q": "시멘트보드",
+    "expect": "MTL-ST-CEMENTBOARD",
+    "note": "통칭"
+  },
+  {
+    "q": "규칼판",
+    "expect": "MTL-ST-CALSILICATE",
+    "note": "현장 은어(추정)"
+  },
+  {
+    "q": "모자익",
+    "expect": "MTL-ST-MOSAIC",
+    "note": "표기 변형"
+  },
+  {
+    "q": "젤리주",
+    "expect": "MTL-ST-GLAZEDTILE",
+    "note": "zellige 한글 표기 변형"
+  },
+  {
+    "q": "다짐흙",
+    "expect": "MTL-ST-RAMMEDEARTH",
+    "note": "한글"
+  },
+  {
+    "q": "램드 어스",
+    "expect": "MTL-ST-RAMMEDEARTH",
+    "note": "표기 변형"
+  },
+  {
+    "q": "도자기 점토",
+    "expect": "MTL-ST-CERAMICCLAY",
+    "note": "통칭"
+  },
+  {
+    "q": "백자토·분청토",
+    "expect": "MTL-ST-CERAMICCLAY",
+    "note": "종류"
+  },
+  {
+    "q": "스톤 시트",
+    "expect": "MTL-ST-STONEVENEER",
+    "note": "상품 통칭"
+  },
+  {
+    "q": "막자갈",
+    "expect": "MTL-ST-GRAVEL",
+    "note": "입도 구분 없는 속칭"
+  },
+  {
+    "q": "쇄석",
+    "expect": "MTL-ST-GRAVEL",
+    "note": "파쇄석 줄임말"
   }
 ]

@@ -2,36 +2,321 @@
 
 형식: `- [ ] 이름 | 소재군 | 메모(어디서 봤는지, 사진 경로)`
 Claude Code `/batch <소재군>` 이 위에서부터 가져가서 draft 카드로 만들고 체크한다.
+`id:` 가 적힌 항목은 다른 카드가 이미 그 id로 링크하고 있으니 그대로 쓸 것.
+신소재(emerging)는 여기 말고 Phase 2 레이더 흐름(material-scout → material-verifier)으로 들어온다.
 
 ## metal
-- [ ] 황동 | metal | 
-- [ ] 구리 | metal | 
-- [ ] 티타늄 | metal | 
-- [ ] 연강(SS400) | metal | 
-- [ ] 코르텐강(내후성강) | metal | 
-- [ ] 타공판 / 익스팬디드 메탈 | metal | 
-- [ ] 크롬 도금 (FIN-CHROME) | finish | CASE-ADER-SEONGSU "chrome"
-
-## polymer
-- [ ] 폴리카보네이트 | polymer | 
-- [ ] 에폭시 레진 | polymer | 
-- [ ] 실리콘(RTV) | polymer | 
-- [ ] 재생 플라스틱 판재(HDPE 리사이클) | polymer | 
-
-## stone
-- [ ] 트래버틴 | stone | 
-- [ ] 테라조 | stone | 
-- [ ] 마이크로시멘트 | stone | 
-- [ ] 콘크리트 / 노출콘크리트 (MTL-ST-CONCRETE) | stone | CASE-GM-HAUS-DOSAN
-
-## glass
-- [ ] 저철분 유리 | glass | 
-- [ ] 디크로익 필름/유리 | glass | 
-- [ ] 일반 판유리 (MTL-GL-GLASS) | glass | CASE-ADER-SEONGSU, CASE-GM-HAUS-DOSAN 격자 유리 지붕
+- [x] 황동 (C2600·C2801) | metal | 
+- [x] 구리 (C1100) | metal | 
+- [x] 티타늄 (Gr.2 순티타늄) | metal | 
+- [x] 연강 (SS400) | metal | 
+- [x] 코르텐강 (내후성강) | metal | 
+- [x] 타공판 (펀칭 메탈) | metal | 
+- [x] 익스팬디드 메탈 | metal | 
+- [x] 알루미늄 1050 (순알루미늄) | metal | 
+- [x] 알루미늄 3003 | metal | 
+- [x] 알루미늄 6063 압출 프로파일 | metal | 
+- [x] 알루미늄 7075 | metal | 
+- [x] 알루미늄 주물 (AC4C) | metal | 
+- [x] 스테인리스 430 | metal | 
+- [x] 스테인리스 201 | metal | 
+- [x] 냉연강판 (SPCC) | metal | 
+- [x] 열연강판 (SPHC) | metal | 
+- [x] 아연도금강판 (GI·SGCC) | metal | 
+- [x] 갈바륨 강판 (GL) | metal | 
+- [x] 청동 (브론즈) | metal | 
+- [x] 인청동 | metal | 
+- [x] 양백 (니켈실버) | metal | 
+- [x] 징크 판재 (티타늄 아연) | metal | 
+- [x] 마그네슘 합금 (AZ31) | metal | 
+- [x] 금속 와이어 메쉬 (직조 철망) | metal | 
+- [x] 금속 링 메쉬·체인메일 커튼 | metal | 
+- [x] 각파이프 (STKR) | metal | 
+- [x] 강관 (SGP·STK) | metal | 
+- [x] 주철 | metal | 
+- [x] 줄무늬 강판 (체크플레이트) | metal | 
+- [x] 스테인리스 와이어 로프 | metal | 
 
 ## wood
-- [ ] 자작합판 | wood | 
-- [ ] 코르크 | wood | 
-- [ ] 목재 마루 (MTL-WD-TIMBER) | wood | CASE-GM-HAUS-DOSAN 어두운 목재 바닥
+- [x] 자작합판 | wood | 
+- [x] 코르크 | wood | 
+- [x] 목재 마루 | wood | id: MTL-WD-TIMBER · CASE-GM-HAUS-DOSAN 어두운 목재 바닥
+- [x] 오크 (참나무) | wood | 
+- [x] 월넛 | wood | 
+- [x] 애쉬 (물푸레나무) | wood | 
+- [x] 메이플 (단풍나무) | wood | 
+- [x] 체리 | wood | 
+- [x] 티크 | wood | 
+- [x] 편백 (히노키) | wood | 
+- [x] 삼나무 (스기) | wood | 
+- [x] 라디에타 파인 | wood | 
+- [x] 더글라스 퍼 (미송) | wood | 
+- [x] 발사 | wood | 
+- [x] 대나무 합판·집성 | wood | 
+- [x] 라왕 합판 | wood | 
+- [x] 벤딩 합판 (오징어 합판) | wood | 
+- [x] MDF | wood | 
+- [x] HDF (하드보드) | wood | 
+- [x] 파티클보드 (PB) | wood | 
+- [x] OSB | wood | 
+- [x] 집성목 | wood | 
+- [x] CLT (교차적층목) | wood | 
+- [x] 무늬목 (베니어 쉬트) | wood | 
+- [x] 템바보드 (반원 루버 보드) | wood | 
+- [x] LPM 멜라민 치장 보드 | wood | 
+- [x] 열처리 목재 (써모우드) | wood | 
+- [x] 스프루스 | wood | 
+- [x] 오동나무 | wood | 
+- [x] 아카시아 집성 | wood | 
+
+## stone
+- [x] 트래버틴 | stone | 
+- [x] 테라조 | stone | 
+- [x] 마이크로시멘트 | stone | 
+- [x] 콘크리트 / 노출콘크리트 | stone | id: MTL-ST-CONCRETE · CASE-GM-HAUS-DOSAN
+- [x] 카라라 대리석 | stone | 
+- [x] 칼라카타 대리석 | stone | 
+- [x] 네로 마퀴나 대리석 | stone | 
+- [x] 화강석 (포천석·고흥석 등) | stone | 
+- [x] 현무암 | stone | 
+- [x] 사암 | stone | 
+- [x] 라임스톤 | stone | 
+- [x] 슬레이트 | stone | 
+- [x] 오닉스 | stone | 
+- [x] 엔지니어드 스톤 (쿼츠) | stone | 
+- [x] 소결석·세라믹 대형 슬랩 | stone | 
+- [x] 포세린 타일 | stone | 
+- [x] 테라코타 | stone | 
+- [x] 벽돌 | stone | 
+- [x] UHPC (초고성능 콘크리트) | stone | 
+- [x] 노출 골재 콘크리트 (워시아웃) | stone | 
+- [x] 석고보드 | stone | 
+- [x] 주조용 석고 | stone | 
+- [x] 시멘트보드 (섬유 시멘트판) | stone | 
+- [x] 규산칼슘보드 | stone | 
+- [x] 모자이크 타일 | stone | 
+- [x] 수제 유약 타일 (젤리주 등) | stone | 
+- [x] 래머드 어스 (다짐흙) | stone | 
+- [x] 도자 점토 (오브제용) | stone | 
+- [x] 석재 박판 (스톤 베니어) | stone | 
+- [x] 쇄석·자갈 | stone | 
+
+## polymer
+- [x] 폴리카보네이트 | polymer | 
+- [x] 폴리카보네이트 중공판 (트윈월) | polymer | 
+- [x] 에폭시 레진 | polymer | 
+- [x] 실리콘 (RTV) | polymer | 
+- [x] 재생 플라스틱 판재 (HDPE 리사이클) | polymer | 
+- [x] 아크릴 미러 | polymer | 
+- [x] PETG | polymer | 
+- [x] PVC 발포판 (포맥스) | polymer | 
+- [x] ABS | polymer | 
+- [x] HDPE | polymer | 
+- [x] PP (폴리프로필렌) | polymer | 
+- [x] PET | polymer | 
+- [x] POM (아세탈) | polymer | 
+- [x] 나일론 (PA6) | polymer | 
+- [x] PTFE (테프론) | polymer | 
+- [x] 광경화 레진 (SLA·DLP) | polymer | 
+- [x] PLA | polymer | 
+- [x] 우레탄 캐스팅 레진 | polymer | 
+- [x] 불포화 폴리에스터 레진 | polymer | 
+- [x] HIPS (내충격 폴리스티렌) | polymer | 
+- [x] EPDM 고무 | polymer | 
+- [x] 네오프렌 (CR 고무) | polymer | 
+- [x] 우레탄 고무 | polymer | 
+- [x] 연질 투명 PVC 시트 | polymer | 
+- [x] EPS (스티로폼) | polymer | 
+- [x] XPS (압출 발포 폴리스티렌) | polymer | 
+- [x] 경질 PU 폼 | polymer | 
+- [x] EVA 폼 | polymer | 
+- [x] TPU | polymer | 
+- [x] PE 폼 (발포 폴리에틸렌) | polymer | 
+
+## glass
+- [x] 일반 판유리 (플로트) | glass | id: MTL-GL-GLASS · CASE-ADER-SEONGSU, CASE-GM-HAUS-DOSAN
+- [x] 저철분 유리 | glass | 
+- [x] 디크로익 유리·필름 | glass | 
+- [x] 강화유리 | glass | 
+- [x] 반강화 유리 | glass | 
+- [x] 화학강화 박판 유리 | glass | 
+- [x] 접합유리 | glass | 
+- [x] 컬러 접합유리 (컬러 PVB) | glass | 
+- [x] 하프미러 (반사유리·원웨이) | glass | 
+- [x] 에칭·샌드 유리 (불투명) | glass | 
+- [x] 유리 블록 | glass | 
+- [x] U 글라스 (채널 유리) | glass | 
+- [x] 곡유리 | glass | 
+- [x] 백페인트 유리 (라코벨) | glass | 
+- [x] 망입유리 | glass | 
+- [x] 모루유리 (형판유리) | glass | 
+- [x] 플루티드 유리 (리브드) | glass | 
+- [x] 퓨징 유리 (킬른 포밍) | glass | 
+- [x] 붕규산 유리 | glass | 
+- [x] 거울 (은경) | glass | 
+- [x] 저반사 유리 (AR) | glass | 
+- [x] 복층유리 | glass | 
+- [x] 크리스탈 유리 | glass | 
+- [x] 유리 모자이크 | glass | 
+- [x] 캐스트 글라스 (주조 유리) | glass | 
+
+## textile
+- [x] 울 펠트 | textile | 
+- [x] PET 흡음 펠트 보드 | textile | 
+- [x] 캔버스 | textile | 
+- [x] 리넨 | textile | 
+- [x] 벨벳 | textile | 
+- [x] 울 원단 | textile | 
+- [x] 테크니컬 메쉬 원단 | textile | 
+- [x] 스페이서 패브릭 (3D 메쉬) | textile | 
+- [x] 암막 원단 | textile | 
+- [x] 쉬어 원단 (오간자·보일) | textile | 
+- [x] 타이벡 | textile | 
+- [x] 베지터블 태닝 가죽 | textile | 
+- [x] 크롬 태닝 가죽 | textile | 
+- [x] 스웨이드 | textile | 
+- [x] PU 인조가죽 | textile | 
+- [x] 부클레 | textile | 
+- [x] 코듀로이 | textile | 
+- [x] 데님 | textile | 
+- [x] 타일 카펫 | textile | 
+- [x] 터프팅 러그 | textile | 
+- [x] 실크 | textile | 
+- [x] 삼베·마 원단 | textile | 
+- [x] 한지 | textile | 
+- [x] 크라프트지·판지 | textile | 
+- [x] 방염 원단 | textile | 
+- [x] 재귀반사 원단 | textile | 
+- [x] 라메 (금속사 원단) | textile | 
+- [x] 니트 원단 | textile | 
+- [x] 면 로프·마끈 | textile | 
+- [x] 인조 모피 (페이크 퍼) | textile | 
+
+## film
+- [x] 인테리어 필름 (다이노크 계열) | film | 
+- [x] 컷팅 시트 (사인용 PVC) | film | 
+- [x] 실사 출력 필름 | film | 
+- [x] 백릿 필름 | film | 
+- [x] 유리 썬팅 필름 | film | 
+- [x] 미러 필름 | film | 
+- [x] 프로스트 필름 (안개 시트) | film | 
+- [x] 홀로그램 필름 | film | 
+- [x] PET 필름 | film | 
+- [x] 마일라 (금속증착 PET) | film | 
+- [x] 폴리이미드 필름 (캡톤) | film | 
+- [x] 스트레치 천장 필름 (바리솔 계열) | film | 
+- [x] 비닐 벽지 | film | 
+- [x] LVT (럭셔리 비닐 타일) | film | 
+- [x] 리놀륨 | film | 
+- [x] 고무 바닥재 | film | 
+- [x] 자석 시트 | film | 
+- [x] 수전사 필름 | film | 
+- [x] 금속 호일 (전사 호일) | film | 
+- [x] 페인트 보호 필름 (PPF) | film | 
+- [x] 재귀반사 시트 (사인용) | film | 
+- [x] 유리 비산방지 필름 | film | 
+- [x] OPP 필름 | film | 
+- [x] PTFE 막재 (막구조) | film | 
+- [x] ETFE 필름 | film | 
+
+## light
+- [x] LED 스트립 (플렉스) | light | 
+- [x] COB LED 스트립 | light | 
+- [x] 네온 플렉스 (실리콘 네온) | light | 
+- [x] 유리 네온관 | light | 
+- [x] LED 리니어 바 | light | 
+- [x] LED 알루미늄 프로파일 + 디퓨저 | light | 
+- [x] 주소지정 픽셀 LED (WS2812 계열) | light | 
+- [x] LED 디스플레이 모듈 (사이니지) | light | 
+- [x] OLED 조명 패널 | light | 
+- [x] EL 와이어 | light | 
+- [x] EL 패널 | light | 
+- [x] 사이드글로우 광섬유 | light | 
+- [x] 엔드글로우 광섬유 | light | 
+- [x] T5 형광등 | light | 
+- [x] 냉음극관 (CCFL) | light | 
+- [x] 할로겐·백열 필라멘트 전구 | light | 
+- [x] LED 필라멘트 전구 | light | 
+- [x] COB 스포트·다운라이트 | light | 
+- [x] 레이저 모듈 (연출용) | light | 
+- [x] UV 블랙라이트 | light | 
+- [x] 텐션 패브릭 라이트박스 | light | 
+- [x] 광확산 PC 시트 (오팔) | light | 
+- [x] 라이트 파이프 (광 파이프) | light | 
+- [x] 반사판·반사경 | light | 
+- [x] 방수 실리콘 몰딩 LED (IP67) | light | 
+
+## composite
+- [x] HPL (고압 라미네이트) | composite | 
+- [x] 컴팩트 HPL | composite | 
+- [x] 컬러코어 HPL | composite | 
+- [x] 알루미늄 복합 패널 (ACM) | composite | 
+- [x] FRP (유리섬유 강화 플라스틱) | composite | 
+- [x] GRC (유리섬유 보강 콘크리트) | composite | 
+- [x] GRG (유리섬유 보강 석고) | composite | 
+- [x] 목모 시멘트판 | composite | 
+- [x] WPC (합성목재) | composite | 
+- [x] 필름 코팅 합판 (페놀 수지 합판) | composite | 
+- [x] 샌드위치 패널 (EPS·우레탄 판넬) | composite | 
+- [x] SMC (시트 몰딩 컴파운드) | composite | 
+- [x] 아라미드 (케블라) | composite | 
+- [x] 종이 수지 압축판 (리치라이트 계열) | composite | 
+- [x] 메탈 라미네이트 (금속 HPL) | composite | 
+- [x] 우드울 흡음판 | composite | 
+- [x] 패브릭 래핑 흡음 패널 | composite | 
+- [x] 레진 패널 (원단·오브제 삽입 PETG 계열) | composite | 
+- [x] 솔리드 서피스 (아크릴계 인조대리석) | composite | 
+- [x] 모델링 보드 (경질 우레탄 툴링 보드) | composite | 
+- [x] 페로시멘트 (메쉬 보강 시멘트) | composite | 
+- [x] 유리섬유 메쉬 (보강 그리드) | composite | 
+- [x] 폴리머 콘크리트 | composite | 
+- [x] 엔지니어드 베니어 (재구성 무늬목) | composite | 
+- [x] 섬유 강화 3D 프린팅 필라멘트 소재 | composite | 
+
+## finish
+- [x] 크롬 도금 | finish | id: FIN-CHROME · CASE-ADER-SEONGSU "chrome"
+- [x] 니켈 도금 | finish | id: FIN-NICKEL-PLATE
+- [x] 금 도금 | finish | id: FIN-GOLD-PLATE
+- [x] 용융아연도금 | finish | id: FIN-HDG
+- [x] 전기아연도금 | finish | id: FIN-ZINC-PLATE
+- [x] 흑착색 (블랙 옥사이드) | finish | id: FIN-BLACK-OXIDE
+- [x] 분체도장 | finish | id: FIN-POWDER-COAT
+- [x] 2액형 우레탄 도장 | finish | id: FIN-PU-PAINT
+- [x] 불소수지 도장 (PVDF) | finish | id: FIN-PVDF
+- [x] 하이글로시 도장 (피아노 도장) | finish | id: FIN-HIGH-GLOSS · variant_of FIN-PU-PAINT
+- [x] 법랑 (포슬린 에나멜) | finish | id: FIN-ENAMEL
+- [x] 샌드블라스트 | finish | id: FIN-SANDBLAST
+- [x] 비드블라스트 | finish | id: FIN-BEADBLAST · variant_of FIN-SANDBLAST
+- [x] 진동 연마 (바렐·바이브레이션) | finish | id: FIN-VIBRATORY
+- [x] 스테인리스 에칭 | finish | id: FIN-ETCH
+- [x] 엠보 패턴 판재 | finish | id: FIN-EMBOSS
+- [x] 전해연마 | finish | id: FIN-ELECTROPOLISH
+- [x] 패시베이션·산세 | finish | id: FIN-PASSIVATION
+- [x] 하드 아노다이징 | finish | id: FIN-ANODIZE-HARD · variant_of FIN-ANODIZE
+- [x] 염색 아노다이징 | finish | id: FIN-ANODIZE-DYED · variant_of FIN-ANODIZE
+- [x] 골드 PVD | finish | id: FIN-PVD-GOLD · variant_of FIN-PVD
+- [x] 블랙 PVD | finish | id: FIN-PVD-BLACK · variant_of FIN-PVD
+- [x] 오일 스테인 | finish | id: FIN-STAIN
+- [x] 우드 오일·하드왁스 오일 | finish | id: FIN-WOOD-OIL
+- [x] 야키스기 (표면 탄화) | finish | id: FIN-YAKISUGI
+- [x] 우드 브러싱 (빗질 마감) | finish | id: FIN-WOOD-BRUSH
+- [x] 투명 에폭시 코팅 | finish | id: FIN-EPOXY-COAT
+- [x] 실크스크린 인쇄 | finish | id: FIN-SILKSCREEN
+- [x] UV 프린팅 | finish | id: FIN-UV-PRINT
+- [x] 레이저 각인 | finish | id: FIN-LASER-ENGRAVE
+- [x] 수전사 (하이드로 딥핑) | finish | id: FIN-HYDRODIP
+- [x] 금박 길딩 | finish | id: FIN-GILDING
+- [x] 석회 미장 (타데락트 등) | finish | id: FIN-LIME-PLASTER
+- [x] 베네치안 스투코 | finish | id: FIN-STUCCO
+- [x] 석재 버너 마감 | finish | id: FIN-STONE-FLAMED
+- [x] 석재 혼드 마감 | finish | id: FIN-STONE-HONED
+- [x] 석재 물갈기 (폴리싱) | finish | id: FIN-STONE-POLISHED
+- [x] 석재 잔다듬·정다듬 | finish | id: FIN-STONE-BUSH
+- [x] 연마 콘크리트 | finish | id: FIN-POLISHED-CONCRETE
+- [x] 에폭시 바닥 코팅 | finish | id: FIN-EPOXY-FLOOR
+- [x] 콘크리트 발수 코팅 | finish | id: FIN-WATER-REPELLENT
+- [x] 클리어 래커 (변색 방지) | finish | id: FIN-CLEAR-LACQUER
+- [x] 텍스처 도장 (스프레이 텍스처) | finish | id: FIN-TEXTURE-PAINT
+- [x] 정전 식모 (플로킹) | finish | id: FIN-FLOCKING
 
 ## (Obsidian 기술소재 위키 이관분 — 여기 붙여넣기)
